@@ -340,6 +340,106 @@
             font-weight: 600;
         }
         
+        /* NEWS SECTION */
+        .news-section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .news-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .news-card {
+            background: var(--bg-card);
+            border-radius: 16px;
+            padding: 24px;
+            border-left: 4px solid var(--text-secondary);
+            transition: transform 0.2s;
+        }
+        
+        .news-card:hover {
+            transform: translateX(5px);
+        }
+        
+        .news-card.bullish { border-left-color: var(--green); }
+        .news-card.bearish { border-left-color: var(--red); }
+        
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+        
+        .news-title {
+            font-size: 18px;
+            font-weight: 600;
+            flex: 1;
+        }
+        
+        .news-impact-badge {
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-left: 15px;
+        }
+        
+        .news-impact-badge.bullish {
+            background: rgba(34, 197, 94, 0.15);
+            color: var(--green);
+        }
+        
+        .news-impact-badge.bearish {
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--red);
+        }
+        
+        .news-impact-badge.neutre {
+            background: rgba(156, 163, 175, 0.15);
+            color: var(--text-secondary);
+        }
+        
+        .news-summary {
+            color: var(--text-secondary);
+            margin-bottom: 15px;
+            font-size: 15px;
+        }
+        
+        .news-price-effect {
+            background: var(--bg-secondary);
+            padding: 12px 16px;
+            border-radius: 10px;
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 12px;
+        }
+        
+        .news-price-effect strong {
+            color: var(--accent);
+        }
+        
+        .news-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+        
+        .news-link {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        
+        .news-link:hover {
+            text-decoration: underline;
+        }
+        
         /* METRICS GRID */
         .metrics-section {
             padding: 40px 20px;
@@ -522,27 +622,19 @@
         </div>
     </section>
     
-    <!-- STORY -->
+    <!-- STORY + NEWS NARRATIVE -->
     <section class="story-section">
         <h2 class="story-title">📖 Ce qui se passe vraiment</h2>
         <div class="story-content" id="story-content">
-            <p>
-                En ce moment, <strong>69% des hedge funds</strong> parient que Bitcoin va baisser. 
-                Ils ont placé des milliards en positions <span class="highlight-red">SHORT</span>.
-            </p>
-            <p>
-                Mais pendant ce temps, les <strong>grandes institutions</strong> comme BlackRock 
-                continuent d'acheter via les ETF. Hier encore, 
-                <span class="highlight-green">+$145 millions</span> sont entrés sur le marché.
-            </p>
-            <p>
-                <strong>Qu'est-ce que ça veut dire ?</strong> Les "smart money" ne sont pas d'accord. 
-                Les hedge funds parient sur la peur, mais les institutions parient sur le long terme.
-            </p>
-            <p>
-                Historiquement, quand le Fear & Greed tombe sous 20 et que les institutions accumulent, 
-                on est souvent proche d'un <strong>point bas</strong>.
-            </p>
+            <p>Chargement de l'analyse...</p>
+        </div>
+    </section>
+    
+    <!-- NEWS WITH IMPACT -->
+    <section class="news-section">
+        <div class="section-title" style="text-align:center; margin-bottom: 30px;">📰 Les News qui Comptent</div>
+        <div class="news-grid" id="news-grid">
+            <div style="text-align:center; color: var(--text-secondary);">Chargement...</div>
         </div>
     </section>
     
@@ -824,17 +916,57 @@
             }
         }
         
+        // Fetch and display news
+        async function fetchNews() {
+            try {
+                const res = await fetch('news.json?t=' + Date.now());
+                const data = await res.json();
+                
+                // Update narrative in story section
+                if (data.narrative) {
+                    document.getElementById('story-content').innerHTML = `<p>${data.narrative}</p>`;
+                }
+                
+                // Display news cards
+                const grid = document.getElementById('news-grid');
+                if (data.news && data.news.length > 0) {
+                    grid.innerHTML = data.news.map(n => {
+                        const impactIcon = n.impact === 'bullish' ? '📈' : n.impact === 'bearish' ? '📉' : '➖';
+                        const impactText = n.impact === 'bullish' ? 'Bullish' : n.impact === 'bearish' ? 'Bearish' : 'Neutre';
+                        
+                        return `
+                        <div class="news-card ${n.impact}">
+                            <div class="news-header">
+                                <div class="news-title">${n.title}</div>
+                                <span class="news-impact-badge ${n.impact}">${impactIcon} ${impactText}</span>
+                            </div>
+                            <div class="news-summary">${n.summary}</div>
+                            ${n.priceEffect ? `<div class="news-price-effect"><strong>💰 Impact prix:</strong> ${n.priceEffect}</div>` : ''}
+                            <div class="news-footer">
+                                <span>${n.source} • ${new Date(n.date).toLocaleDateString('fr-FR', {hour: '2-digit', minute: '2-digit'})}</span>
+                                <a href="${n.link}" target="_blank" class="news-link">Lire l'article →</a>
+                            </div>
+                        </div>
+                        `;
+                    }).join('');
+                }
+            } catch (e) {
+                console.error('News fetch error:', e);
+            }
+        }
+        
         function updateTime() {
             document.getElementById('update-time').textContent = new Date().toLocaleString('fr-FR');
         }
         
         async function init() {
             updateTime();
-            await Promise.all([fetchPrices(), fetchFearGreed(), fetchSmartMoney()]);
+            await Promise.all([fetchPrices(), fetchFearGreed(), fetchSmartMoney(), fetchNews()]);
             
             setInterval(fetchPrices, 60000);
             setInterval(fetchFearGreed, 300000);
             setInterval(fetchSmartMoney, 600000);
+            setInterval(fetchNews, 600000);
             setInterval(updateTime, 60000);
         }
         
