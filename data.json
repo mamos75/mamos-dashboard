@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T20:30:07.546Z",
+  "updatedAt": "2026-02-10T23:15:08.473Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,19 +19,25 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.7",
-      "short": "45.3",
+      "long": "54.6",
+      "short": "45.4",
       "ratio": "1.21"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "64.5",
+      "short": "35.5"
     },
-    "takerBuySellRatio": "1.25",
+    "takerBuySellRatio": "1.17",
     "trend": "more_short",
     "signal": "neutral"
   },
-  "openInterest": null,
+  "openInterest": {
+    "btc": "79,212",
+    "usd": "5.44B",
+    "change24h": 0.1,
+    "trend": "stable",
+    "signal": "normal"
+  },
   "funding": {
     "btc": {
       "current": "-0.0022",
@@ -143,5 +149,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont nerveux et ont peur de perdre de l'argent. Mais cela pourrait être une bonne nouvelle, car les institutions sont optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans le marché. Les hedge funds, eux, sont prêts à parier contre le marché, mais je pense qu'ils pourraient se tromper. C'est le moment idéal pour accumuler, car le marché est prêt à exploser !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont cependant optimistes, ils achètent même des cryptos. Les flux d'argent dans les ETF sont également positifs, ce qui signifie que les gens placent leur argent dans les cryptos. C'est le moment idéal pour accumuler, tout le monde est trop pessimiste, c'est l'occasion de faire des affaires !"
 }
