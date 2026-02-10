@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T16:50:29.296Z",
+  "updatedAt": "2026-02-10T17:00:15.971Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.18"
     },
     "accounts": {
-      "long": "64.7",
-      "short": "35.3"
+      "long": "64.8",
+      "short": "35.2"
     },
-    "takerBuySellRatio": "0.62",
+    "takerBuySellRatio": "0.83",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,082",
-    "usd": "5.56B",
-    "change24h": 0.2,
+    "btc": "80,060",
+    "usd": "5.57B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
