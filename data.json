@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:40:29.941Z",
+  "updatedAt": "2026-02-10T23:45:03.288Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "64.7",
       "short": "35.3"
     },
-    "takerBuySellRatio": "1.97",
+    "takerBuySellRatio": "0.97",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,267",
+    "btc": "79,278",
     "usd": "5.45B",
     "change24h": 0.1,
     "trend": "stable",
@@ -118,9 +118,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
+      "bull": 8,
       "bear": 3,
-      "net": 6
+      "net": 5
     },
     "signals": [
       {
@@ -150,5 +150,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec presque tout le monde qui pense que les choses vont empirer. Mais attention, les gros joueurs institutionnels sont plutôt optimistes et mettent même de l'argent sur la table, avec 145 millions de dollars investis récemment. Les signaux sont clairs : c'est le moment d'acheter, pas de vendre ! Le marché est en train de se rétablir en force, c'est le moment de profiter de cette vague."
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une opportunité pour les acheteurs. Les gros joueurs sont plutôt négatifs, mais les institutions sont optimistes, ce qui crée une tension intéressante. Les investisseurs placent même plus d'argent dans les cryptos, près de 145 millions de dollars cette semaine. C'est le moment idéal pour accumuler, le marché sent que quelque chose de gros se prépare !"
 }
