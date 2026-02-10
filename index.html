@@ -340,105 +340,152 @@
             font-weight: 600;
         }
         
-        /* NEWS SECTION */
-        .news-section {
-            padding: 40px 20px;
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        
-        .news-grid {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
-        
-        .news-card {
+        /* NEWS MOOD */
+        .news-mood {
+            margin-top: 40px;
+            padding: 25px;
             background: var(--bg-card);
             border-radius: 16px;
-            padding: 24px;
-            border-left: 4px solid var(--text-secondary);
-            transition: transform 0.2s;
         }
         
-        .news-card:hover {
-            transform: translateX(5px);
+        .news-mood-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
         }
         
-        .news-card.bullish { border-left-color: var(--green); }
-        .news-card.bearish { border-left-color: var(--red); }
+        .news-mood-icon {
+            font-size: 24px;
+        }
         
-        .news-header {
+        .news-mood-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+        
+        .news-mood-bar {
+            height: 12px;
+            background: linear-gradient(to right, #ef4444, #f59e0b, #22c55e);
+            border-radius: 6px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .news-mood-fill {
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            background: rgba(255,255,255,0.3);
+            border-right: 3px solid white;
+            transition: width 0.5s ease;
+        }
+        
+        .news-mood-labels {
             display: flex;
             justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 12px;
+            margin-top: 8px;
+            font-size: 12px;
+            color: var(--text-secondary);
         }
         
-        .news-title {
-            font-size: 18px;
+        /* KEY TAKEAWAYS */
+        .key-takeaways {
+            margin-top: 30px;
+            padding: 25px;
+            background: var(--bg-card);
+            border-radius: 16px;
+        }
+        
+        .takeaway-title {
+            font-size: 16px;
             font-weight: 600;
+            margin-bottom: 20px;
+        }
+        
+        .takeaway-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .takeaway-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 15px;
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            font-size: 15px;
+            line-height: 1.5;
+        }
+        
+        .takeaway-icon {
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+        
+        .takeaway-text {
             flex: 1;
         }
         
-        .news-impact-badge {
-            padding: 4px 12px;
+        .takeaway-text strong {
+            color: var(--text-primary);
+        }
+        
+        /* ACTION SECTION */
+        .action-section {
+            padding: 40px 20px;
+        }
+        
+        .action-box {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 40px;
             border-radius: 20px;
-            font-size: 12px;
-            font-weight: 600;
-            margin-left: 15px;
+            text-align: center;
+            background: var(--bg-card);
+            border: 2px solid var(--border);
         }
         
-        .news-impact-badge.bullish {
-            background: rgba(34, 197, 94, 0.15);
-            color: var(--green);
+        .action-box.buy {
+            background: linear-gradient(135deg, rgba(34, 197, 94, 0.15), rgba(34, 197, 94, 0.05));
+            border-color: rgba(34, 197, 94, 0.3);
         }
         
-        .news-impact-badge.bearish {
-            background: rgba(239, 68, 68, 0.15);
-            color: var(--red);
+        .action-box.wait {
+            background: linear-gradient(135deg, rgba(245, 158, 11, 0.15), rgba(245, 158, 11, 0.05));
+            border-color: rgba(245, 158, 11, 0.3);
         }
         
-        .news-impact-badge.neutre {
-            background: rgba(156, 163, 175, 0.15);
-            color: var(--text-secondary);
+        .action-box.caution {
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.15), rgba(239, 68, 68, 0.05));
+            border-color: rgba(239, 68, 68, 0.3);
         }
         
-        .news-summary {
-            color: var(--text-secondary);
+        .action-icon {
+            font-size: 50px;
             margin-bottom: 15px;
-            font-size: 15px;
         }
         
-        .news-price-effect {
-            background: var(--bg-secondary);
-            padding: 12px 16px;
-            border-radius: 10px;
+        .action-title {
             font-size: 14px;
-            line-height: 1.5;
-            margin-bottom: 12px;
-        }
-        
-        .news-price-effect strong {
-            color: var(--accent);
-        }
-        
-        .news-footer {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
             color: var(--text-secondary);
+            margin-bottom: 10px;
         }
         
-        .news-link {
-            color: var(--accent);
-            text-decoration: none;
+        .action-text {
+            font-size: 22px;
+            font-weight: 700;
+            line-height: 1.4;
         }
         
-        .news-link:hover {
-            text-decoration: underline;
-        }
+        .action-box.buy .action-text { color: var(--green); }
+        .action-box.wait .action-text { color: var(--orange); }
+        .action-box.caution .action-text { color: var(--red); }
         
         /* METRICS GRID */
         .metrics-section {
@@ -622,19 +669,44 @@
         </div>
     </section>
     
-    <!-- STORY + NEWS NARRATIVE -->
+    <!-- THE STORY - What's Really Happening -->
     <section class="story-section">
         <h2 class="story-title">📖 Ce qui se passe vraiment</h2>
         <div class="story-content" id="story-content">
             <p>Chargement de l'analyse...</p>
         </div>
+        
+        <!-- News Mood Indicator -->
+        <div class="news-mood" id="news-mood">
+            <div class="news-mood-header">
+                <span class="news-mood-icon" id="news-mood-icon">📰</span>
+                <span class="news-mood-label">Ambiance des news aujourd'hui</span>
+            </div>
+            <div class="news-mood-bar">
+                <div class="news-mood-fill" id="news-mood-fill" style="width: 50%"></div>
+            </div>
+            <div class="news-mood-labels">
+                <span>😨 Négatif</span>
+                <span>😐 Neutre</span>
+                <span>🚀 Positif</span>
+            </div>
+        </div>
+        
+        <!-- Key Takeaways -->
+        <div class="key-takeaways" id="key-takeaways">
+            <div class="takeaway-title">💡 Ce qu'il faut retenir</div>
+            <div class="takeaway-list" id="takeaway-list">
+                <div class="takeaway-item">Chargement...</div>
+            </div>
+        </div>
     </section>
     
-    <!-- NEWS WITH IMPACT -->
-    <section class="news-section">
-        <div class="section-title" style="text-align:center; margin-bottom: 30px;">📰 Les News qui Comptent</div>
-        <div class="news-grid" id="news-grid">
-            <div style="text-align:center; color: var(--text-secondary);">Chargement...</div>
+    <!-- What To Do -->
+    <section class="action-section">
+        <div class="action-box" id="action-box">
+            <div class="action-icon" id="action-icon">⏳</div>
+            <div class="action-title" id="action-title">Que faire maintenant ?</div>
+            <div class="action-text" id="action-text">Analyse en cours...</div>
         </div>
     </section>
     
@@ -871,6 +943,9 @@
                     // Could add more visual here
                 }
                 
+                // Update action recommendation
+                updateAction(data);
+                
             } catch (e) {
                 console.error('Smart money fetch error:', e);
             }
@@ -916,7 +991,7 @@
             }
         }
         
-        // Fetch and display news
+        // Fetch and synthesize news
         async function fetchNews() {
             try {
                 const res = await fetch('news.json?t=' + Date.now());
@@ -927,31 +1002,77 @@
                     document.getElementById('story-content').innerHTML = `<p>${data.narrative}</p>`;
                 }
                 
-                // Display news cards
-                const grid = document.getElementById('news-grid');
+                // Calculate news mood (% bullish)
                 if (data.news && data.news.length > 0) {
-                    grid.innerHTML = data.news.map(n => {
-                        const impactIcon = n.impact === 'bullish' ? '📈' : n.impact === 'bearish' ? '📉' : '➖';
-                        const impactText = n.impact === 'bullish' ? 'Bullish' : n.impact === 'bearish' ? 'Bearish' : 'Neutre';
-                        
-                        return `
-                        <div class="news-card ${n.impact}">
-                            <div class="news-header">
-                                <div class="news-title">${n.title}</div>
-                                <span class="news-impact-badge ${n.impact}">${impactIcon} ${impactText}</span>
-                            </div>
-                            <div class="news-summary">${n.summary}</div>
-                            ${n.priceEffect ? `<div class="news-price-effect"><strong>💰 Impact prix:</strong> ${n.priceEffect}</div>` : ''}
-                            <div class="news-footer">
-                                <span>${n.source} • ${new Date(n.date).toLocaleDateString('fr-FR', {hour: '2-digit', minute: '2-digit'})}</span>
-                                <a href="${n.link}" target="_blank" class="news-link">Lire l'article →</a>
-                            </div>
-                        </div>
-                        `;
-                    }).join('');
+                    const bullish = data.news.filter(n => n.impact === 'bullish').length;
+                    const bearish = data.news.filter(n => n.impact === 'bearish').length;
+                    const total = data.news.length;
+                    const moodPct = ((bullish - bearish + total) / (total * 2)) * 100;
+                    
+                    document.getElementById('news-mood-fill').style.width = moodPct + '%';
+                    
+                    if (moodPct > 60) {
+                        document.getElementById('news-mood-icon').textContent = '🚀';
+                    } else if (moodPct < 40) {
+                        document.getElementById('news-mood-icon').textContent = '😨';
+                    } else {
+                        document.getElementById('news-mood-icon').textContent = '😐';
+                    }
+                    
+                    // Key takeaways - synthesize the important news
+                    const takeaways = data.news
+                        .filter(n => n.importance >= 4)
+                        .slice(0, 3)
+                        .map(n => {
+                            const icon = n.impact === 'bullish' ? '🟢' : n.impact === 'bearish' ? '🔴' : '⚪';
+                            return `
+                                <div class="takeaway-item">
+                                    <span class="takeaway-icon">${icon}</span>
+                                    <div class="takeaway-text">
+                                        <strong>${n.title}</strong><br>
+                                        ${n.priceEffect || n.summary}
+                                    </div>
+                                </div>
+                            `;
+                        }).join('');
+                    
+                    if (takeaways) {
+                        document.getElementById('takeaway-list').innerHTML = takeaways;
+                    }
                 }
+                
             } catch (e) {
                 console.error('News fetch error:', e);
+            }
+        }
+        
+        // Update action recommendation based on all data
+        function updateAction(data) {
+            const box = document.getElementById('action-box');
+            const icon = document.getElementById('action-icon');
+            const text = document.getElementById('action-text');
+            
+            if (!data.analysis) return;
+            
+            const signal = data.analysis.signal;
+            const fg = data.fearGreed?.current || 50;
+            
+            if (signal.includes('strong_accumulation') || (signal.includes('accumulation') && fg < 20)) {
+                box.className = 'action-box buy';
+                icon.textContent = '🎯';
+                text.textContent = 'Zone d\'opportunité. Les smart money accumulent.';
+            } else if (signal.includes('accumulation')) {
+                box.className = 'action-box buy';
+                icon.textContent = '👀';
+                text.textContent = 'Intéressant. Commence à observer de près.';
+            } else if (signal.includes('distribution')) {
+                box.className = 'action-box caution';
+                icon.textContent = '⚠️';
+                text.textContent = 'Prudence. Les signaux sont mitigés.';
+            } else {
+                box.className = 'action-box wait';
+                icon.textContent = '⏳';
+                text.textContent = 'Patience. Attends un signal plus clair.';
             }
         }
         
