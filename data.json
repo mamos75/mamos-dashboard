@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:25:02.279Z",
+  "updatedAt": "2026-02-10T23:26:27.496Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,9 +19,9 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.6",
-      "short": "45.4",
-      "ratio": "1.20"
+      "long": "54.7",
+      "short": "45.3",
+      "ratio": "1.21"
     },
     "accounts": {
       "long": "64.5",
@@ -32,8 +32,8 @@
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,221",
-    "usd": "5.43B",
+    "btc": "79,214",
+    "usd": "5.44B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -114,13 +114,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 0,
-      "net": 8
+      "bear": 4,
+      "net": 4
     },
     "signals": [
       {
@@ -141,9 +141,14 @@
       {
         "type": "bullish",
         "weight": 1,
-        "reason": "ETF inflows positifs"
+        "reason": "ETF inflows positifs (+$145M)"
+      },
+      {
+        "type": "bearish",
+        "weight": 2,
+        "reason": "ETF outflows sur la semaine ($-580M)"
       }
     ]
   },
-  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait en même temps, mais les \"gros poissons\" achètent en douce, ce qui pourrait être un signe de rebond. C'est l'occasion parfaite d'acheter à bas prix, car le marché est en train de se ressourcer fortement !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent sur une baisse. Il y a m��me plus de 145 millions de dollars qui ont été investis dans les ETF crypto, ce qui montre qu'il y a encore de l'espoir. On dirait que c'est le moment idéal pour accumuler des cryptos, mais attention, c'est un jeu risqué !"
 }

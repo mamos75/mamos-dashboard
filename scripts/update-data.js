@@ -334,10 +334,16 @@ function generateAnalysis(data) {
   }
   
   // ETF Flows
-  if (data.etf && data.etf.daily > 50) {
-    signals.push({ type: 'bullish', weight: 1, reason: 'ETF inflows positifs' }); bullScore += 1;
-  } else if (data.etf && data.etf.daily < -100) {
-    signals.push({ type: 'bearish', weight: 2, reason: 'ETF outflows importants' }); bearScore += 2;
+  if (data.etf) {
+    if (data.etf.daily > 50) {
+      signals.push({ type: 'bullish', weight: 1, reason: 'ETF inflows positifs (+$' + data.etf.daily + 'M)' }); bullScore += 1;
+    } else if (data.etf.daily < -100) {
+      signals.push({ type: 'bearish', weight: 2, reason: 'ETF outflows importants' }); bearScore += 2;
+    }
+    // Weekly trend matters too!
+    if (data.etf.weekly < -300) {
+      signals.push({ type: 'bearish', weight: 2, reason: 'ETF outflows sur la semaine ($' + data.etf.weekly + 'M)' }); bearScore += 2;
+    }
   }
   
   // Long/Short Ratio
@@ -364,6 +370,20 @@ function generateAnalysis(data) {
   // Hashrate
   if (data.hashrate?.signal === 'bullish') {
     signals.push({ type: 'bullish', weight: 1, reason: 'Hashrate en hausse - mineurs confiants' }); bullScore += 1;
+  } else if (data.hashrate?.signal === 'bearish' || data.hashrate?.trend === 'crashing') {
+    signals.push({ type: 'bearish', weight: 2, reason: 'Hashrate en chute - mineurs en difficulté' }); bearScore += 2;
+  } else if (data.hashrate?.trend === 'dropping') {
+    signals.push({ type: 'bearish', weight: 1, reason: 'Hashrate en baisse (' + data.hashrate.changeFromPeak + '% depuis le pic)' }); bearScore += 1;
+  }
+  
+  // Taker Buy/Sell Ratio
+  if (data.longShort?.takerBuySellRatio) {
+    const ratio = parseFloat(data.longShort.takerBuySellRatio);
+    if (ratio < 0.95) {
+      signals.push({ type: 'bearish', weight: 1, reason: 'Plus de vendeurs que d\'acheteurs (ratio ' + ratio.toFixed(2) + ')' }); bearScore += 1;
+    } else if (ratio > 1.05) {
+      signals.push({ type: 'bullish', weight: 1, reason: 'Plus d\'acheteurs que de vendeurs' }); bullScore += 1;
+    }
   }
   
   // Calculate final signal
