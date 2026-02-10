@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:17:10.390Z",
+  "updatedAt": "2026-02-10T23:19:19.660Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -21,7 +21,7 @@
     "topTraders": {
       "long": "54.6",
       "short": "45.4",
-      "ratio": "1.21"
+      "ratio": "1.20"
     },
     "accounts": {
       "long": "64.5",
@@ -32,8 +32,8 @@
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,208",
-    "usd": "5.43B",
+    "btc": "79,225",
+    "usd": "5.44B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -144,5 +144,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grandes entreprises d'investissement sont même prêtes à parier contre le marché, mais les institutions sont plutôt optimistes. Malgré tout, l'argent continue d'arriver sur le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est en train de se préparer pour une remontée !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne nouvelle pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, et les flux d'argent dans les ETF sont positifs, ce qui montre qu'ils misent sur la hausse. Les hedge funds, eux, sont plutôt négatifs, mais cela pourrait être une occasion de les contrecarrer. C'est le moment de faire le contraire de la foule et d'acheter, car le signal est à l'accumulation forte !"
 }
