@@ -727,7 +727,7 @@
                 
                 // Metrics
                 if (data.etf) {
-                    const daily = data.etf.btc.daily;
+                    const daily = data.etf.daily || data.etf.btc?.daily || 0;
                     document.getElementById('etf-flow').textContent = (daily >= 0 ? '+' : '') + '$' + daily + 'M';
                     document.getElementById('etf-flow').style.color = daily >= 0 ? 'var(--green)' : 'var(--red)';
                 }
@@ -746,6 +746,38 @@
                 
                 // Update story based on data
                 updateStory(data);
+                updateSignals(data);
+                
+                // Update signal box with analysis
+                if (data.analysis) {
+                    const a = data.analysis;
+                    const box = document.getElementById('signal-box');
+                    
+                    if (a.signal.includes('accumulation')) {
+                        box.className = 'signal-box accumulation';
+                        document.getElementById('signal-icon').textContent = a.emoji || '🎯';
+                        document.getElementById('signal-label').textContent = a.label;
+                    } else if (a.signal.includes('distribution')) {
+                        box.className = 'signal-box distribution';
+                        document.getElementById('signal-icon').textContent = a.emoji || '⚠️';
+                        document.getElementById('signal-label').textContent = a.label;
+                    } else {
+                        box.className = 'signal-box neutral';
+                        document.getElementById('signal-icon').textContent = a.emoji || '⏳';
+                        document.getElementById('signal-label').textContent = a.label;
+                    }
+                    
+                    // Update explanation with score
+                    const scoreText = `Score: ${a.score.bull} bullish / ${a.score.bear} bearish`;
+                    document.getElementById('signal-explanation').innerHTML = 
+                        `${scoreText}<br><br>` + document.getElementById('signal-explanation').textContent;
+                }
+                
+                // Long/Short display
+                if (data.longShort?.topTraders) {
+                    const ls = data.longShort.topTraders;
+                    // Could add more visual here
+                }
                 
             } catch (e) {
                 console.error('Smart money fetch error:', e);
@@ -753,32 +785,43 @@
         }
         
         function updateStory(data) {
-            if (!data.cot || !data.etf) return;
+            // Use AI-generated story if available
+            if (data.story) {
+                document.getElementById('story-content').innerHTML = `<p>${data.story}</p>`;
+                return;
+            }
             
+            // Fallback
+            if (!data.cot || !data.etf) return;
             const hedgeFundShort = data.cot.categories.leveragedFunds.shortPct;
-            const etfFlow = data.etf.btc.daily;
-            const etfSign = etfFlow >= 0 ? '+' : '';
-            const etfClass = etfFlow >= 0 ? 'highlight-green' : 'highlight-red';
+            const etfFlow = data.etf.daily || 0;
             
             document.getElementById('story-content').innerHTML = `
-                <p>
-                    En ce moment, <strong>${hedgeFundShort}% des hedge funds</strong> parient que Bitcoin va baisser. 
-                    Ils ont placé des milliards en positions <span class="highlight-red">SHORT</span>.
-                </p>
-                <p>
-                    Mais pendant ce temps, les <strong>grandes institutions</strong> comme BlackRock 
-                    continuent d'acheter via les ETF. Hier, 
-                    <span class="${etfClass}">${etfSign}$${Math.abs(etfFlow)} millions</span> ${etfFlow >= 0 ? 'sont entrés' : 'sont sortis'} du marché.
-                </p>
-                <p>
-                    <strong>Qu'est-ce que ça veut dire ?</strong> Les "smart money" ne sont pas d'accord. 
-                    Les hedge funds parient sur la peur, mais les institutions parient sur le long terme.
-                </p>
-                <p>
-                    Historiquement, quand le Fear & Greed tombe sous 20 et que les institutions accumulent, 
-                    on est souvent proche d'un <strong>point bas</strong>.
-                </p>
+                <p><strong>${hedgeFundShort}% des hedge funds</strong> parient contre Bitcoin.</p>
+                <p>Les ETF ont vu ${etfFlow >= 0 ? '+' : ''}$${etfFlow}M de flux.</p>
             `;
+        }
+        
+        function updateSignals(data) {
+            if (!data.analysis?.signals) return;
+            
+            // Show top signals
+            const signalsHtml = data.analysis.signals.map(s => {
+                const color = s.type === 'bullish' ? 'var(--green)' : 'var(--red)';
+                const icon = s.type === 'bullish' ? '🟢' : '🔴';
+                return `<div style="display:flex;align-items:center;gap:8px;margin:8px 0;">
+                    <span>${icon}</span>
+                    <span style="color:${color}">${s.reason}</span>
+                </div>`;
+            }).join('');
+            
+            // Add signals section if it exists
+            const storyEl = document.getElementById('story-content');
+            if (storyEl && signalsHtml) {
+                storyEl.innerHTML += `<div style="margin-top:20px;padding-top:20px;border-top:1px solid var(--border);">
+                    <strong>📊 Signaux détectés:</strong>${signalsHtml}
+                </div>`;
+            }
         }
         
         function updateTime() {

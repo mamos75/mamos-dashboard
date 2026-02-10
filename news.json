@@ -1,12 +1,34 @@
 {
-  "updatedAt": "2026-02-10T13:00:08.535Z",
+  "updatedAt": "2026-02-10T13:30:07.228Z",
   "news": [
     {
-      "titleOriginal": "Solana treasuries sitting on over $1.5B in paper SOL losses",
-      "title": "Solana : 1,5 milliard de dollars de pertes",
-      "summary": "Les trésoreries de Solana affichent plus de 1,5 milliard de dollars de pertes en raison de la chute de la valeur de SOL",
+      "titleOriginal": "Phantom Chat under scrutiny after $264K address poisoning loss",
+      "title": "Phantom Chat victime d'une attaque de phishing",
+      "summary": "Phantom Chat a subi une attaque de phishing qui a entraîné une perte de 264 000 dollars en Wrapped Bitcoin, renforçant les inquiétudes sur la sécurité des portefeuilles et les arnaques de poisoning d'adresses",
       "impact": "bearish",
       "relevance": 4,
+      "source": "CoinTelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/phantom-chat-address-poisoning-bitcoin-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "date": "Tue, 10 Feb 2026 13:22:24 +0000",
+      "timestamp": 1770729744000
+    },
+    {
+      "titleOriginal": "UK regulator takes High Court action against HTX over crypto promotions",
+      "title": "Régulateur britannique attaque HTX en justice",
+      "summary": "Le régulateur financier britannique a intenté une action en justice contre l'échange HTX pour des promotions de crypto illégales sur les réseaux sociaux",
+      "impact": "bearish",
+      "relevance": 3,
+      "source": "CoinTelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fca-action-htx-exchange-illegal-financial-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "date": "Tue, 10 Feb 2026 13:00:41 +0000",
+      "timestamp": 1770728441000
+    },
+    {
+      "titleOriginal": "Solana treasuries sitting on over $1.5B in paper SOL losses",
+      "title": "Solana : 1,5 milliard de dollars de pertes potentielles",
+      "summary": "Les entreprises publiques qui ont accumulé de grandes positions en Solana en 2025 ont suspendu leur accumulation en raison de la réévaluation des bilans par les marchés",
+      "impact": "bearish",
+      "relevance": 5,
       "source": "CoinTelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/solana-treasury-firms-unrealized-losses-equity-repricing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "date": "Tue, 10 Feb 2026 11:36:27 +0000",
@@ -15,9 +37,9 @@
     {
       "titleOriginal": "South Korea probes Bithumb after $43B ‘phantom’ Bitcoin payout",
       "title": "Bithumb visé par une enquête après un paiement erroné de 43 milliards",
-      "summary": "Les autorités sud-coréennes enquêtent sur Bithumb après un paiement erroné de 620 000 BTC à des utilisateurs",
+      "summary": "Les autorités sud-coréennes ont lancé une enquête sur Bithumb après qu'il ait crédité par erreur 620 000 BTC à ses utilisateurs, renforçant les inquiétudes sur les contrôles internes",
       "impact": "bearish",
-      "relevance": 5,
+      "relevance": 4,
       "source": "CoinTelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/south-korea-probes-bithumb-paper-bitcoin-error?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "date": "Tue, 10 Feb 2026 11:01:20 +0000",
@@ -25,36 +47,14 @@
     },
     {
       "titleOriginal": "Gemini exit a ‘blow for policymakers’ with UK crypto hub ambitions",
-      "title": "Le départ de Gemini, un coup pour les ambitions du Royaume-Uni",
-      "summary": "Le départ de Gemini du Royaume-Uni est considéré comme un coup pour les ambitions du pays en tant que hub mondial de la crypto",
+      "title": "Le départ de Gemini porte un coup aux ambitions du Royaume-Uni",
+      "summary": "Les groupes de l'industrie et les échanges ont déclaré que les règles crypto lentes et chevauchantes du Royaume-Uni, ainsi que les frictions de conformité, minaient ses ambitions de devenir un hub mondial",
       "impact": "bearish",
-      "relevance": 3,
+      "relevance": 4,
       "source": "CoinTelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/gemini-exit-tests-uk-crypto-hub-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "date": "Tue, 10 Feb 2026 09:37:22 +0000",
       "timestamp": 1770716242000
-    },
-    {
-      "titleOriginal": "Bitcoin ETFs extend rebound as $145M in fresh inflows hit market",
-      "title": "Les ETF Bitcoin rebondissent avec 145 millions de dollars de nouveaux flux",
-      "summary": "Les ETF Bitcoin ont rebondi avec 145 millions de dollars de nouveaux flux, alors que les sorties ralentissent",
-      "impact": "bullish",
-      "relevance": 5,
-      "source": "CoinTelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-etf-rebound-145-million-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "date": "Tue, 10 Feb 2026 08:10:58 +0000",
-      "timestamp": 1770711058000
-    },
-    {
-      "titleOriginal": "Analysts debate whether Ether has capitulated or has further to fall",
-      "title": "Les analystes débattent de la chute de l'Ether",
-      "summary": "Les analystes débattent de la question de savoir si l'Ether a atteint son plancher ou si elle a encore du chemin à parcourir avant de se stabiliser",
-      "impact": "neutre",
-      "relevance": 4,
-      "source": "CoinTelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/technical-indicator-is-ether-going-through-capitulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "date": "Tue, 10 Feb 2026 06:48:59 +0000",
-      "timestamp": 1770706139000
     }
   ]
 }
