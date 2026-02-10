@@ -436,6 +436,32 @@
         .change-positive { color: var(--green); }
         .change-negative { color: var(--red); }
         
+        .cot-legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding: 12px;
+            background: var(--bg-secondary);
+            border-radius: 10px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+        }
+        
+        .legend-icon {
+            font-size: 18px;
+        }
+        
+        .legend-item small {
+            color: var(--text-secondary);
+            font-size: 11px;
+        }
+        
         .cta-section {
             background: linear-gradient(135deg, var(--accent), #8b5cf6);
             border-radius: 16px;
@@ -651,6 +677,15 @@
                     <span class="card-title">📊 COT Report Bitcoin (CME)</span>
                     <span class="card-icon" id="cot-date" style="font-size: 12px; color: var(--text-secondary);">--</span>
                 </div>
+                
+                <!-- Legend -->
+                <div class="cot-legend">
+                    <div class="legend-item"><span class="legend-icon">🏦</span> Dealers <small>Banques, market makers</small></div>
+                    <div class="legend-item"><span class="legend-icon">🐋</span> Asset Managers <small>Institutions (BlackRock...)</small></div>
+                    <div class="legend-item"><span class="legend-icon">🦈</span> Hedge Funds <small>Spéculateurs agressifs</small></div>
+                    <div class="legend-item"><span class="legend-icon">🦐</span> Retail <small>Petits traders</small></div>
+                </div>
+                
                 <div class="cot-table-container">
                     <table class="cot-table">
                         <thead>
