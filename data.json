@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:26:47.445Z",
+  "updatedAt": "2026-02-10T23:30:03.066Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "64.5",
       "short": "35.5"
     },
-    "takerBuySellRatio": "0.90",
+    "takerBuySellRatio": "1.57",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,214",
-    "usd": "5.43B",
+    "btc": "79,222",
+    "usd": "5.44B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -114,13 +114,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "strong_accumulation",
+    "label": "ACCUMULATION FORTE",
+    "emoji": "🚀",
     "score": {
-      "bull": 8,
-      "bear": 4,
-      "net": 4
+      "bull": 9,
+      "bear": 3,
+      "net": 6
     },
     "signals": [
       {
@@ -150,5 +150,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont toutefois optimistes, ce qui pourrait être un signe de rebond. Les hedge funds, eux, misent contre le marché, mais les flux d'argent dans les ETF montrent que les gens continuent d'investir. C'est une zone d'accumulation, c'est-à-dire que c'est le moment de prendre position avant que les choses ne s'envolent !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne opportunité pour acheter. Les gros investisseurs institutionnels sont plutôt optimistes, ce qui contraste avec les hedge funds qui misent contre le marché. Il y a même plus d'argent qui entre dans les cryptos que qui en sort, ce qui est un bon signe. C'est comme si tout le monde attendait le feu vert pour se lancer, et cela pourrait déclencher une vague de hausse !"
 }
