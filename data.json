@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T16:45:07.459Z",
+  "updatedAt": "2026-02-10T16:50:29.296Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.2",
-      "short": "45.8",
+      "long": "54.1",
+      "short": "45.9",
       "ratio": "1.18"
     },
     "accounts": {
-      "long": "64.8",
+      "long": "64.7",
       "short": "35.3"
     },
-    "takerBuySellRatio": "0.88",
+    "takerBuySellRatio": "0.62",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,036",
-    "usd": "5.57B",
-    "change24h": 0.1,
+    "btc": "80,082",
+    "usd": "5.56B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -49,11 +49,14 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "951.03",
+    "current": "1028",
     "unit": "EH/s",
-    "trend": "rising",
-    "allTimeHigh": true,
-    "interpretation": "🟢 Divergence bullish : Les mineurs continuent d'investir malgré la baisse du prix. Ils croient au long terme.",
+    "trend": "surging",
+    "peak": "1115",
+    "change24h": -2.6,
+    "change7d": 11.6,
+    "changeFromPeak": -7.9,
+    "interpretation": "🚀 Hashrate en forte hausse (+11.6% sur 7j). Mineurs très actifs !",
     "signal": "bullish"
   },
   "cot": {

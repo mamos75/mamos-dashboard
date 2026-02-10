@@ -36,77 +36,73 @@ function fetch(url, options = {}) {
 
 // ============ DATA FETCHERS ============
 
-// Fetch Bitcoin Hashrate
+// Fetch Bitcoin Hashrate with proper trend analysis
 async function fetchHashrate() {
   try {
-    // Use blockchain.com API
-    const [current, price] = await Promise.all([
-      fetch('https://blockchain.info/q/hashrate'),
-      fetch('https://blockchain.info/ticker')
-    ]);
+    // Use mempool.space for accurate historical data
+    const data = await fetch('https://mempool.space/api/v1/mining/hashrate/1w');
     
-    // Hashrate is in GH/s, convert to EH/s
-    const hashrateGH = parseFloat(current);
-    const hashrateEH = (hashrateGH / 1e9).toFixed(2);
-    
-    // Get historical for trend (30 days ago estimate)
-    // Since we can't easily get historical, we'll estimate based on known patterns
-    const estimatedMonthAgo = hashrateEH * 0.95; // Assume ~5% growth per month typical
-    const trend = hashrateGH > estimatedMonthAgo * 1e9 ? 'rising' : 'falling';
-    
-    // Get price trend
-    const btcPrice = price?.USD?.last || 70000;
-    
-    return {
-      current: hashrateEH,
-      unit: 'EH/s',
-      trend,
-      allTimeHigh: true, // Near ATH
-      interpretation: getHashrateInterpretation(trend, 'down'), // Price is down
-      signal: trend === 'rising' ? 'bullish' : 'neutral'
-    };
+    if (data?.hashrates && data.hashrates.length > 0) {
+      const hashrates = data.hashrates.map(h => h.avgHashrate / 1e18); // Convert to EH/s
+      const current = hashrates[hashrates.length - 1];
+      const yesterday = hashrates[hashrates.length - 2] || current;
+      const weekAgo = hashrates[0];
+      const peak = Math.max(...hashrates);
+      
+      // Calculate trends
+      const changeFromPeak = ((current - peak) / peak * 100).toFixed(1);
+      const change7d = ((current - weekAgo) / weekAgo * 100).toFixed(1);
+      const change24h = ((current - yesterday) / yesterday * 100).toFixed(1);
+      
+      // Determine trend
+      let trend, interpretation, signal;
+      
+      if (parseFloat(change24h) < -5) {
+        trend = 'dropping';
+        interpretation = '📉 Hashrate en baisse (-' + Math.abs(change24h) + '% 24h). Certains mineurs ralentissent.';
+        signal = 'neutral';
+      } else if (parseFloat(changeFromPeak) < -10) {
+        trend = 'falling_from_peak';
+        interpretation = '📉 Hashrate en recul depuis le pic (' + changeFromPeak + '%). Les mineurs ajustent.';
+        signal = 'neutral';
+      } else if (parseFloat(change7d) > 10) {
+        trend = 'surging';
+        interpretation = '🚀 Hashrate en forte hausse (+' + change7d + '% sur 7j). Mineurs très actifs !';
+        signal = 'bullish';
+      } else if (parseFloat(change7d) > 0) {
+        trend = 'rising';
+        interpretation = '🟢 Hashrate stable/hausse (+' + change7d + '% sur 7j). Mineurs confiants malgré le marché.';
+        signal = 'bullish';
+      } else {
+        trend = 'falling';
+        interpretation = '🟡 Hashrate en baisse (' + change7d + '% sur 7j). Pression sur les mineurs.';
+        signal = 'neutral';
+      }
+      
+      return {
+        current: current.toFixed(0),
+        unit: 'EH/s',
+        trend,
+        peak: peak.toFixed(0),
+        change24h: parseFloat(change24h),
+        change7d: parseFloat(change7d),
+        changeFromPeak: parseFloat(changeFromPeak),
+        interpretation,
+        signal
+      };
+    }
   } catch (e) {
     console.error('Hashrate error:', e.message);
-    
-    // Fallback with mempool.space
-    try {
-      const data = await fetch('https://mempool.space/api/v1/mining/hashrate/3d');
-      if (data?.currentHashrate) {
-        const hashrateEH = (data.currentHashrate / 1e18).toFixed(2);
-        return {
-          current: hashrateEH,
-          unit: 'EH/s',
-          trend: 'rising',
-          interpretation: 'Hashrate proche des plus hauts → Mineurs confiants',
-          signal: 'bullish'
-        };
-      }
-    } catch (e2) {
-      console.error('Mempool hashrate error:', e2.message);
-    }
   }
   
-  // Final fallback with known approximate value
+  // Fallback
   return {
-    current: '750',
+    current: '1000',
     unit: 'EH/s',
-    trend: 'rising',
-    allTimeHigh: true,
-    interpretation: 'Hashrate proche des records historiques',
-    signal: 'bullish'
+    trend: 'unknown',
+    interpretation: '⚪ Données hashrate indisponibles',
+    signal: 'neutral'
   };
-}
-
-function getHashrateInterpretation(hashrateTrend, priceTrend) {
-  if (hashrateTrend === 'rising' && priceTrend === 'down') {
-    return '🟢 Divergence bullish : Les mineurs continuent d\'investir malgré la baisse du prix. Ils croient au long terme.';
-  } else if (hashrateTrend === 'rising' && priceTrend === 'up') {
-    return '🟢 Tendance saine : Hashrate et prix montent ensemble.';
-  } else if (hashrateTrend === 'falling' && priceTrend === 'down') {
-    return '🟡 Capitulation mineurs : Certains éteignent leurs machines. Souvent proche d\'un bottom.';
-  } else {
-    return '⚪ Situation mixte à surveiller.';
-  }
 }
 
 // Fear & Greed with history
