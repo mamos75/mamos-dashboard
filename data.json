@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:15:08.473Z",
+  "updatedAt": "2026-02-10T23:17:10.390Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "64.5",
       "short": "35.5"
     },
-    "takerBuySellRatio": "1.17",
+    "takerBuySellRatio": "1.08",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,212",
-    "usd": "5.44B",
+    "btc": "79,208",
+    "usd": "5.43B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -51,13 +51,13 @@
   "hashrate": {
     "current": "1028",
     "unit": "EH/s",
-    "trend": "surging",
+    "trend": "dropping",
     "peak": "1115",
     "change24h": -2.6,
     "change7d": 11.6,
     "changeFromPeak": -7.9,
-    "interpretation": "🚀 Hashrate en forte hausse (+11.6% sur 7j). Mineurs très actifs !",
-    "signal": "bullish"
+    "interpretation": "📉 Hashrate en baisse (-2.6% 24h, -7.9% depuis le pic). Les mineurs ralentissent.",
+    "signal": "neutral"
   },
   "cot": {
     "asOf": "2026-02-03",
@@ -117,9 +117,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
+      "bull": 8,
       "bear": 0,
-      "net": 9
+      "net": 8
     },
     "signals": [
       {
@@ -141,13 +141,8 @@
         "type": "bullish",
         "weight": 1,
         "reason": "ETF inflows positifs"
-      },
-      {
-        "type": "bullish",
-        "weight": 1,
-        "reason": "Hashrate en hausse - mineurs confiants"
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont cependant optimistes, ils achètent même des cryptos. Les flux d'argent dans les ETF sont également positifs, ce qui signifie que les gens placent leur argent dans les cryptos. C'est le moment idéal pour accumuler, tout le monde est trop pessimiste, c'est l'occasion de faire des affaires !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grandes entreprises d'investissement sont même prêtes à parier contre le marché, mais les institutions sont plutôt optimistes. Malgré tout, l'argent continue d'arriver sur le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est en train de se préparer pour une remontée !"
 }

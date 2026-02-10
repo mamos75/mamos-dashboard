@@ -54,28 +54,32 @@ async function fetchHashrate() {
       const change7d = ((current - weekAgo) / weekAgo * 100).toFixed(1);
       const change24h = ((current - yesterday) / yesterday * 100).toFixed(1);
       
-      // Determine trend
+      // Determine trend - prioritize SHORT-TERM over weekly
       let trend, interpretation, signal;
       
-      if (parseFloat(change24h) < -5) {
+      const isDropping = parseFloat(change24h) < -2 && parseFloat(changeFromPeak) < -5;
+      const isCrashing = parseFloat(changeFromPeak) < -15;
+      const isRising = parseFloat(change24h) > 2 && parseFloat(change7d) > 5;
+      
+      if (isCrashing) {
+        trend = 'crashing';
+        interpretation = '🔴 Hashrate en chute libre (' + changeFromPeak + '% depuis le pic). Mineurs en difficulté.';
+        signal = 'bearish';
+      } else if (isDropping) {
         trend = 'dropping';
-        interpretation = '📉 Hashrate en baisse (-' + Math.abs(change24h) + '% 24h). Certains mineurs ralentissent.';
+        interpretation = '📉 Hashrate en baisse (' + change24h + '% 24h, ' + changeFromPeak + '% depuis le pic). Les mineurs ralentissent.';
         signal = 'neutral';
-      } else if (parseFloat(changeFromPeak) < -10) {
-        trend = 'falling_from_peak';
-        interpretation = '📉 Hashrate en recul depuis le pic (' + changeFromPeak + '%). Les mineurs ajustent.';
-        signal = 'neutral';
-      } else if (parseFloat(change7d) > 10) {
-        trend = 'surging';
-        interpretation = '🚀 Hashrate en forte hausse (+' + change7d + '% sur 7j). Mineurs très actifs !';
-        signal = 'bullish';
-      } else if (parseFloat(change7d) > 0) {
+      } else if (isRising) {
         trend = 'rising';
-        interpretation = '🟢 Hashrate stable/hausse (+' + change7d + '% sur 7j). Mineurs confiants malgré le marché.';
+        interpretation = '🟢 Hashrate en hausse (+' + change24h + '% 24h). Mineurs confiants.';
         signal = 'bullish';
+      } else if (parseFloat(change7d) > 0 && parseFloat(change24h) >= -2) {
+        trend = 'stable';
+        interpretation = '⚪ Hashrate stable. Légère consolidation après le pic.';
+        signal = 'neutral';
       } else {
         trend = 'falling';
-        interpretation = '🟡 Hashrate en baisse (' + change7d + '% sur 7j). Pression sur les mineurs.';
+        interpretation = '🟡 Hashrate en légère baisse. Pression sur les mineurs.';
         signal = 'neutral';
       }
       
