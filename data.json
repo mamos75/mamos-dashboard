@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:26:27.496Z",
+  "updatedAt": "2026-02-10T23:30:13.784Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "64.5",
       "short": "35.5"
     },
-    "takerBuySellRatio": "0.90",
+    "takerBuySellRatio": "1.57",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,214",
+    "btc": "79,222",
     "usd": "5.44B",
     "change24h": 0.1,
     "trend": "stable",
@@ -114,13 +114,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "strong_accumulation",
+    "label": "ACCUMULATION FORTE",
+    "emoji": "🚀",
     "score": {
-      "bull": 8,
-      "bear": 4,
-      "net": 4
+      "bull": 9,
+      "bear": 3,
+      "net": 6
     },
     "signals": [
       {
@@ -150,5 +150,5 @@
       }
     ]
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent sur une baisse. Il y a m��me plus de 145 millions de dollars qui ont été investis dans les ETF crypto, ce qui montre qu'il y a encore de l'espoir. On dirait que c'est le moment idéal pour accumuler des cryptos, mais attention, c'est un jeu risqué !"
+  "story": "Le marché est dans un état de peur extrême, les gens sont super nerveux ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos. Les flux d'argent frais dans les ETF sont même en augmentation, ce qui est un bon signe. C'est l'occasion parfaite de profiter de la peur des autres et d'acheter à bas prix !"
 }
