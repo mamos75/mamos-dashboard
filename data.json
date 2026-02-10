@@ -1,0 +1,50 @@
+{
+  "updatedAt": "2026-02-10T10:09:18.552Z",
+  "cot": {
+    "asOf": "2026-02-03",
+    "openInterest": 23044,
+    "dealers": {
+      "long": 6302,
+      "short": 2224,
+      "net": 4078
+    },
+    "assetManagers": {
+      "long": 7193,
+      "short": 891,
+      "net": 6302
+    },
+    "leveragedFunds": {
+      "long": 4450,
+      "short": 15875,
+      "net": -11425,
+      "shortPercent": 69
+    },
+    "signal": "Hedge funds massivement SHORT - potentiel squeeze"
+  },
+  "etf": {
+    "date": "2026-02-10",
+    "btc": {
+      "daily": 145,
+      "weekly": -580,
+      "total": 40200
+    },
+    "source": "manual"
+  },
+  "funding": {
+    "btc": "-0.0048",
+    "timestamp": 1770710400007,
+    "sentiment": "neutre"
+  },
+  "liquidations": {
+    "h24": {
+      "total": 89,
+      "longs": 32,
+      "shorts": 57
+    },
+    "source": "estimated"
+  },
+  "openInterest": {
+    "btc": 80234.694,
+    "usd": "5.55B"
+  }
+}
