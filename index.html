@@ -379,6 +379,63 @@
             color: var(--text-secondary);
         }
         
+        .cot-table-container {
+            overflow-x: auto;
+        }
+        
+        .cot-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        
+        .cot-table th, .cot-table td {
+            padding: 12px 8px;
+            text-align: right;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .cot-table th {
+            color: var(--text-secondary);
+            font-weight: 500;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+        
+        .cot-table td:first-child, .cot-table th:first-child {
+            text-align: left;
+        }
+        
+        .cot-table tr:hover {
+            background: var(--bg-secondary);
+        }
+        
+        .cot-signal {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        
+        .cot-signal.bullish {
+            background: rgba(34, 197, 94, 0.15);
+            color: var(--green);
+        }
+        
+        .cot-signal.bearish {
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--red);
+        }
+        
+        .cot-signal.neutral {
+            background: rgba(156, 163, 175, 0.15);
+            color: var(--text-secondary);
+        }
+        
+        .change-positive { color: var(--green); }
+        .change-negative { color: var(--red); }
+        
         .cta-section {
             background: linear-gradient(135deg, var(--accent), #8b5cf6);
             border-radius: 16px;
@@ -550,44 +607,68 @@
                 </ul>
             </div>
             
-            <!-- Smart Money Section -->
-            <div class="card wide-card" style="background: linear-gradient(135deg, #1a1a24 0%, #1f1f2e 100%);">
+            <!-- Smart Money Signal -->
+            <div class="card" style="background: linear-gradient(135deg, #1a1a24 0%, #1f1f2e 100%);">
                 <div class="card-header">
-                    <span class="card-title">📊 Smart Money Indicators</span>
-                    <span class="card-icon">🐋</span>
+                    <span class="card-title">🐋 Signal Smart Money</span>
                 </div>
-                <div class="smart-money-grid">
-                    <!-- COT -->
-                    <div class="sm-item">
-                        <div class="sm-label">COT Hedge Funds</div>
-                        <div class="sm-value" id="cot-short">--% SHORT</div>
-                        <div class="sm-signal" id="cot-signal">Chargement...</div>
-                    </div>
-                    <!-- ETF Flows -->
+                <div style="text-align: center; padding: 20px 0;">
+                    <div id="sm-signal" style="font-size: 28px; font-weight: 700; margin-bottom: 10px;">🟡 Chargement...</div>
+                    <div id="sm-insight" style="font-size: 14px; color: var(--text-secondary);"></div>
+                </div>
+                <div class="smart-money-grid" style="margin-top: 15px;">
                     <div class="sm-item">
                         <div class="sm-label">ETF Flows (24h)</div>
                         <div class="sm-value" id="etf-daily">$--M</div>
                         <div class="sm-sub" id="etf-weekly">Semaine: --</div>
                     </div>
-                    <!-- Funding Rate -->
                     <div class="sm-item">
-                        <div class="sm-label">Funding Rate BTC</div>
+                        <div class="sm-label">Funding Rate</div>
                         <div class="sm-value" id="funding-rate">--%</div>
-                        <div class="sm-sentiment" id="funding-sentiment">--</div>
+                        <div class="sm-sub" id="funding-interp">--</div>
                     </div>
-                    <!-- Liquidations -->
                     <div class="sm-item">
                         <div class="sm-label">Liquidations 24h</div>
                         <div class="sm-value" id="liq-total">$--M</div>
-                        <div class="sm-sub"><span id="liq-longs">--</span> longs | <span id="liq-shorts">--</span> shorts</div>
+                        <div class="sm-sub"><span id="liq-longs">--</span> L | <span id="liq-shorts">--</span> S</div>
                     </div>
-                    <!-- Open Interest -->
                     <div class="sm-item">
-                        <div class="sm-label">Open Interest BTC</div>
+                        <div class="sm-label">Open Interest</div>
                         <div class="sm-value" id="oi-value">$--B</div>
                         <div class="sm-sub" id="oi-btc">-- BTC</div>
                     </div>
+                    <div class="sm-item">
+                        <div class="sm-label">Long/Short Ratio</div>
+                        <div class="sm-value" id="ls-ratio">--</div>
+                        <div class="sm-sub" id="ls-interp">--</div>
+                    </div>
                 </div>
+            </div>
+            
+            <!-- COT Report Detailed -->
+            <div class="card wide-card">
+                <div class="card-header">
+                    <span class="card-title">📊 COT Report Bitcoin (CME)</span>
+                    <span class="card-icon" id="cot-date" style="font-size: 12px; color: var(--text-secondary);">--</span>
+                </div>
+                <div class="cot-table-container">
+                    <table class="cot-table">
+                        <thead>
+                            <tr>
+                                <th>Catégorie</th>
+                                <th>Long</th>
+                                <th>Short</th>
+                                <th>Net</th>
+                                <th>Δ Long</th>
+                                <th>Signal</th>
+                            </tr>
+                        </thead>
+                        <tbody id="cot-tbody">
+                            <tr><td colspan="6" style="text-align:center; color: var(--text-secondary);">Chargement...</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="cot-insight" style="margin-top: 15px; padding: 12px; background: var(--bg-secondary); border-radius: 8px; font-size: 14px;"></div>
             </div>
             
             <!-- Calendar -->
@@ -796,18 +877,53 @@
             }
         }
         
+        // COT Category icons and names
+        const COT_CATEGORIES = {
+            dealers: { icon: '🏦', name: 'Dealers (Banques)', desc: 'Market makers' },
+            assetManagers: { icon: '🐋', name: 'Asset Managers', desc: 'Institutions (BlackRock, Fidelity...)' },
+            leveragedFunds: { icon: '🦈', name: 'Hedge Funds', desc: 'Spéculateurs agressifs' },
+            retail: { icon: '🦐', name: 'Retail', desc: 'Petits traders' }
+        };
+        
         // Fetch Smart Money data
         async function fetchSmartMoney() {
             try {
                 const res = await fetch('data.json?t=' + Date.now());
                 const data = await res.json();
                 
-                // COT
-                if (data.cot) {
-                    const cotEl = document.getElementById('cot-short');
-                    cotEl.textContent = data.cot.leveragedFunds.shortPercent + '% SHORT';
-                    cotEl.className = 'sm-value bearish';
-                    document.getElementById('cot-signal').textContent = '⚠️ ' + data.cot.signal;
+                // Smart Money Signal
+                if (data.smartMoneySignal) {
+                    document.getElementById('sm-signal').textContent = data.smartMoneySignal.label;
+                }
+                if (data.cot?.insight) {
+                    document.getElementById('sm-insight').textContent = data.cot.insight;
+                }
+                
+                // COT Table
+                if (data.cot?.categories) {
+                    const tbody = document.getElementById('cot-tbody');
+                    tbody.innerHTML = '';
+                    
+                    for (const [key, cat] of Object.entries(data.cot.categories)) {
+                        const meta = COT_CATEGORIES[key] || { icon: '📊', name: key };
+                        const signalClass = cat.signal === 'bullish' ? 'bullish' : cat.signal === 'bearish' ? 'bearish' : 'neutral';
+                        const signalText = cat.signal === 'bullish' ? '🟢 Bullish' : cat.signal === 'bearish' ? '🔴 Bearish' : '⚪ Neutre';
+                        const changeClass = cat.change.long >= 0 ? 'change-positive' : 'change-negative';
+                        
+                        tbody.innerHTML += `
+                            <tr>
+                                <td><span style="font-size:18px">${meta.icon}</span> ${meta.name}</td>
+                                <td>${cat.long.toLocaleString()} <small style="color:var(--text-secondary)">(${cat.longPct}%)</small></td>
+                                <td>${cat.short.toLocaleString()} <small style="color:var(--text-secondary)">(${cat.shortPct}%)</small></td>
+                                <td style="font-weight:600; color: ${cat.net >= 0 ? 'var(--green)' : 'var(--red)'}">${cat.net >= 0 ? '+' : ''}${cat.net.toLocaleString()}</td>
+                                <td class="${changeClass}">${cat.change.long >= 0 ? '+' : ''}${cat.change.long.toLocaleString()}</td>
+                                <td><span class="cot-signal ${signalClass}">${signalText}</span></td>
+                            </tr>
+                        `;
+                    }
+                    
+                    document.getElementById('cot-date').textContent = 'Données au ' + data.cot.asOf;
+                    document.getElementById('cot-insight').innerHTML = '💡 <strong>Analyse:</strong> ' + data.cot.insight;
                 }
                 
                 // ETF Flows
@@ -823,10 +939,14 @@
                 
                 // Funding
                 if (data.funding) {
-                    document.getElementById('funding-rate').textContent = data.funding.btc + '%';
-                    const sentEl = document.getElementById('funding-sentiment');
-                    sentEl.textContent = data.funding.sentiment;
-                    sentEl.className = 'sm-sentiment ' + data.funding.sentiment;
+                    document.getElementById('funding-rate').textContent = data.funding.btc.current + '%';
+                    document.getElementById('funding-interp').textContent = data.funding.interpretation || '';
+                }
+                
+                // Long/Short Ratio
+                if (data.longShortRatio?.topTraders) {
+                    document.getElementById('ls-ratio').textContent = data.longShortRatio.topTraders.ratio;
+                    document.getElementById('ls-interp').textContent = data.longShortRatio.topTraders.long + '% L / ' + data.longShortRatio.topTraders.short + '% S';
                 }
                 
                 // Liquidations
@@ -839,7 +959,7 @@
                 // Open Interest
                 if (data.openInterest) {
                     document.getElementById('oi-value').textContent = '$' + data.openInterest.usd;
-                    document.getElementById('oi-btc').textContent = Math.round(data.openInterest.btc).toLocaleString() + ' BTC';
+                    document.getElementById('oi-btc').textContent = data.openInterest.btc + ' BTC';
                 }
                 
             } catch (e) {

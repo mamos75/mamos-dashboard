@@ -1,12 +1,34 @@
 {
-  "updatedAt": "2026-02-10T10:01:35.425Z",
+  "updatedAt": "2026-02-10T13:00:08.535Z",
   "news": [
     {
-      "titleOriginal": "Gemini exit a ‘blow for policymakers’ with UK crypto hub ambitions",
-      "title": "Royaume-Uni : les règles crypto trop lentes",
-      "summary": "Les règles crypto britanniques sont considérées comme trop lentes et trop complexes, ce qui menace l'ambition du pays de devenir un hub mondial pour les crypto-monnaies.",
+      "titleOriginal": "Solana treasuries sitting on over $1.5B in paper SOL losses",
+      "title": "Solana : 1,5 milliard de dollars de pertes",
+      "summary": "Les trésoreries de Solana affichent plus de 1,5 milliard de dollars de pertes en raison de la chute de la valeur de SOL",
       "impact": "bearish",
       "relevance": 4,
+      "source": "CoinTelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-treasury-firms-unrealized-losses-equity-repricing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "date": "Tue, 10 Feb 2026 11:36:27 +0000",
+      "timestamp": 1770723387000
+    },
+    {
+      "titleOriginal": "South Korea probes Bithumb after $43B ‘phantom’ Bitcoin payout",
+      "title": "Bithumb visé par une enquête après un paiement erroné de 43 milliards",
+      "summary": "Les autorités sud-coréennes enquêtent sur Bithumb après un paiement erroné de 620 000 BTC à des utilisateurs",
+      "impact": "bearish",
+      "relevance": 5,
+      "source": "CoinTelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-probes-bithumb-paper-bitcoin-error?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "date": "Tue, 10 Feb 2026 11:01:20 +0000",
+      "timestamp": 1770721280000
+    },
+    {
+      "titleOriginal": "Gemini exit a ‘blow for policymakers’ with UK crypto hub ambitions",
+      "title": "Le départ de Gemini, un coup pour les ambitions du Royaume-Uni",
+      "summary": "Le départ de Gemini du Royaume-Uni est considéré comme un coup pour les ambitions du pays en tant que hub mondial de la crypto",
+      "impact": "bearish",
+      "relevance": 3,
       "source": "CoinTelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/gemini-exit-tests-uk-crypto-hub-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "date": "Tue, 10 Feb 2026 09:37:22 +0000",
@@ -14,8 +36,8 @@
     },
     {
       "titleOriginal": "Bitcoin ETFs extend rebound as $145M in fresh inflows hit market",
-      "title": "Les ETF Bitcoin rebondissent",
-      "summary": "Les ETF Bitcoin ont enregistré un afflux de 145 millions de dollars, ce qui suggère une confiance renouvelée dans le marché.",
+      "title": "Les ETF Bitcoin rebondissent avec 145 millions de dollars de nouveaux flux",
+      "summary": "Les ETF Bitcoin ont rebondi avec 145 millions de dollars de nouveaux flux, alors que les sorties ralentissent",
       "impact": "bullish",
       "relevance": 5,
       "source": "CoinTelegraph",
@@ -25,36 +47,14 @@
     },
     {
       "titleOriginal": "Analysts debate whether Ether has capitulated or has further to fall",
-      "title": "L'Ether a-t-il atteint son plancher ?",
-      "summary": "Les analystes débattent de la possibilité que l'Ether ait atteint son plancher après une chute de 30% en deux semaines.",
+      "title": "Les analystes débattent de la chute de l'Ether",
+      "summary": "Les analystes débattent de la question de savoir si l'Ether a atteint son plancher ou si elle a encore du chemin à parcourir avant de se stabiliser",
       "impact": "neutre",
       "relevance": 4,
       "source": "CoinTelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/technical-indicator-is-ether-going-through-capitulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "date": "Tue, 10 Feb 2026 06:48:59 +0000",
       "timestamp": 1770706139000
-    },
-    {
-      "titleOriginal": "Fed’s Waller says crypto hype ‘fading’ with TradFi tie-ins",
-      "title": "La Fed : l'hype crypto s'estompe",
-      "summary": "Un gouverneur de la Fed a déclaré que l'hype autour des crypto-monnaies s'estompe et que la volatilité du marché est normale.",
-      "impact": "neutre",
-      "relevance": 3,
-      "source": "CoinTelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fed-waller-crypto-hype-fading-tradfi-tie-ins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "date": "Tue, 10 Feb 2026 06:20:37 +0000",
-      "timestamp": 1770704437000
-    },
-    {
-      "titleOriginal": "Chainlink co-founder’s 2 reasons this bear market feels different",
-      "title": "Ce bear market est différent",
-      "summary": "Le co-fondateur de Chainlink estime que le dernier bear market montre les progrès réalisés par l'industrie des crypto-monnaies.",
-      "impact": "bullish",
-      "relevance": 4,
-      "source": "CoinTelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/chainlink-sergey-nazarov-bear-market-feels-different?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "date": "Tue, 10 Feb 2026 05:14:23 +0000",
-      "timestamp": 1770700463000
     }
   ]
 }

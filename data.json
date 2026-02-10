@@ -1,25 +1,74 @@
 {
-  "updatedAt": "2026-02-10T10:09:18.552Z",
+  "updatedAt": "2026-02-10T13:04:37.143Z",
   "cot": {
     "asOf": "2026-02-03",
-    "openInterest": 23044,
-    "dealers": {
-      "long": 6302,
-      "short": 2224,
-      "net": 4078
+    "nextUpdate": "2026-02-14",
+    "openInterest": {
+      "current": 23044,
+      "change": -1232,
+      "changePercent": -5.1
     },
-    "assetManagers": {
-      "long": 7193,
-      "short": 891,
-      "net": 6302
+    "categories": {
+      "dealers": {
+        "name": "Dealers/Intermediary",
+        "long": 6302,
+        "longPct": 27.3,
+        "short": 2224,
+        "shortPct": 9.7,
+        "net": 4078,
+        "change": {
+          "long": -828,
+          "short": -278
+        },
+        "signal": "bullish"
+      },
+      "assetManagers": {
+        "name": "Asset Managers",
+        "long": 7193,
+        "longPct": 31.2,
+        "short": 891,
+        "shortPct": 3.9,
+        "net": 6302,
+        "change": {
+          "long": -576,
+          "short": 400
+        },
+        "signal": "bullish"
+      },
+      "leveragedFunds": {
+        "name": "Leveraged Funds",
+        "long": 4450,
+        "longPct": 19.3,
+        "short": 15875,
+        "shortPct": 68.9,
+        "net": -11425,
+        "change": {
+          "long": 1447,
+          "short": 476
+        },
+        "signal": "bearish"
+      },
+      "retail": {
+        "name": "Retail/Non-reportable",
+        "long": 1151,
+        "longPct": 5,
+        "short": 1191,
+        "shortPct": 5.2,
+        "net": -40,
+        "change": {
+          "long": -55,
+          "short": -120
+        },
+        "signal": "neutral"
+      }
     },
-    "leveragedFunds": {
-      "long": 4450,
-      "short": 15875,
-      "net": -11425,
-      "shortPercent": 69
+    "summary": {
+      "smartMoney": "bullish",
+      "hedgeFunds": "bearish",
+      "retail": "neutral",
+      "overall": "mixed"
     },
-    "signal": "Hedge funds massivement SHORT - potentiel squeeze"
+    "insight": "Hedge funds massivement SHORT (69%) - potentiel short squeeze si BTC casse $75K"
   },
   "etf": {
     "date": "2026-02-10",
@@ -28,23 +77,67 @@
       "weekly": -580,
       "total": 40200
     },
-    "source": "manual"
+    "source": "cache"
   },
   "funding": {
-    "btc": "-0.0048",
-    "timestamp": 1770710400007,
-    "sentiment": "neutre"
+    "btc": {
+      "current": "-0.0034",
+      "avg24h": "-0.0039"
+    },
+    "eth": {
+      "current": "-0.0152"
+    },
+    "sentiment": "neutral",
+    "interpretation": "Équilibré"
+  },
+  "longShortRatio": {
+    "topTraders": {
+      "long": "56.8",
+      "short": "43.2",
+      "ratio": "1.31",
+      "trend": "increasing"
+    },
+    "accounts": {
+      "long": "61.7",
+      "short": "38.3",
+      "ratio": "1.61"
+    },
+    "interpretation": "Retail très long - prudence"
   },
   "liquidations": {
     "h24": {
-      "total": 89,
-      "longs": 32,
-      "shorts": 57
+      "total": "89",
+      "longs": "32",
+      "shorts": "57"
     },
-    "source": "estimated"
+    "dominant": "shorts"
   },
   "openInterest": {
-    "btc": 80234.694,
-    "usd": "5.55B"
+    "btc": "81,693",
+    "usd": "5.60B",
+    "raw": 81692.54
+  },
+  "fearGreed": {
+    "current": 9,
+    "label": "Extreme Fear",
+    "weekAgo": 14,
+    "trend": "worsening",
+    "history": [
+      9,
+      14,
+      7,
+      6,
+      9,
+      12,
+      14
+    ],
+    "interpretation": "Extreme Fear - historiquement zone d'achat"
+  },
+  "smartMoneySignal": {
+    "score": 7,
+    "signal": "strong_accumulation",
+    "label": "🟢 ACCUMULATION FORTE",
+    "bullishFactors": 7,
+    "bearishFactors": 0
   }
 }
