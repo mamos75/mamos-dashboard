@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T16:31:39.134Z",
+  "updatedAt": "2026-02-10T16:45:07.459Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
-      "ratio": "1.19"
+      "long": "54.2",
+      "short": "45.8",
+      "ratio": "1.18"
     },
     "accounts": {
       "long": "64.8",
-      "short": "35.2"
+      "short": "35.3"
     },
-    "takerBuySellRatio": "0.72",
+    "takerBuySellRatio": "0.88",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,011",
-    "usd": "5.55B",
+    "btc": "80,036",
+    "usd": "5.57B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -49,7 +49,7 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "957.28",
+    "current": "951.03",
     "unit": "EH/s",
     "trend": "rising",
     "allTimeHigh": true,
