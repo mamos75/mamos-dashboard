@@ -487,6 +487,200 @@
         .action-box.wait .action-text { color: var(--orange); }
         .action-box.caution .action-text { color: var(--red); }
         
+        /* TRADING PLAN */
+        .trading-plan-section {
+            padding: 40px 20px;
+            background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+        }
+        
+        .trading-plan-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: var(--bg-card);
+            border-radius: 20px;
+            padding: 30px;
+            border: 2px solid var(--accent);
+        }
+        
+        .plan-title {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 25px;
+            color: var(--accent);
+        }
+        
+        .plan-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .plan-bias {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .bias-emoji {
+            font-size: 32px;
+        }
+        
+        .bias-text {
+            font-size: 24px;
+            font-weight: 800;
+        }
+        
+        .bias-text.buy { color: var(--green); }
+        .bias-text.sell { color: var(--red); }
+        .bias-text.wait { color: var(--orange); }
+        
+        .plan-horizon {
+            text-align: right;
+        }
+        
+        .horizon-label {
+            font-size: 12px;
+            color: var(--text-secondary);
+            display: block;
+        }
+        
+        .horizon-value {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--accent);
+        }
+        
+        .plan-levels {
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .level-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .level-row:last-child {
+            border-bottom: none;
+        }
+        
+        .level-label {
+            color: var(--text-secondary);
+        }
+        
+        .level-value {
+            font-weight: 600;
+            font-family: monospace;
+            font-size: 16px;
+        }
+        
+        .level-row.entry .level-value { color: var(--green); }
+        .level-row.target .level-value { color: var(--accent); }
+        .level-row.invalidation .level-value { color: var(--red); }
+        
+        .plan-factors {
+            margin-bottom: 20px;
+        }
+        
+        .factors-title {
+            font-weight: 600;
+            margin-bottom: 12px;
+        }
+        
+        .factors-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .factor-item {
+            display: flex;
+            gap: 10px;
+            padding: 12px;
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        .factor-level {
+            font-weight: 700;
+            min-width: 100px;
+        }
+        
+        .factor-level.principal { color: var(--accent); }
+        .factor-level.confirmant { color: var(--green); }
+        .factor-level.attention { color: var(--orange); }
+        .factor-level.secondaire { color: var(--text-secondary); }
+        
+        .plan-invalidation {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .invalidation-title {
+            font-weight: 600;
+            color: var(--red);
+            margin-bottom: 8px;
+        }
+        
+        .invalidation-text {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+        
+        .plan-action {
+            background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(139, 92, 246, 0.05));
+            border: 1px solid rgba(139, 92, 246, 0.3);
+            border-radius: 12px;
+            padding: 20px;
+        }
+        
+        .action-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .action-emoji {
+            font-size: 24px;
+        }
+        
+        .action-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--accent);
+        }
+        
+        .action-detail {
+            color: var(--text-secondary);
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+        
+        .action-risk {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 10px;
+            border-top: 1px solid var(--border);
+            font-size: 14px;
+        }
+        
+        #risk-value {
+            font-weight: 600;
+            color: var(--orange);
+        }
+        
         /* METRICS GRID */
         .metrics-section {
             padding: 40px 20px;
@@ -752,6 +946,69 @@
         </div>
     </section>
     
+    <!-- TRADING PLAN -->
+    <section class="trading-plan-section" id="trading-plan-section">
+        <div class="trading-plan-container">
+            <h2 class="plan-title">🎯 Plan de Trading</h2>
+            
+            <div class="plan-header" id="plan-header">
+                <div class="plan-bias" id="plan-bias">
+                    <span class="bias-emoji">⏳</span>
+                    <span class="bias-text">CHARGEMENT</span>
+                </div>
+                <div class="plan-horizon" id="plan-horizon">
+                    <span class="horizon-label">Horizon :</span>
+                    <span class="horizon-value">--</span>
+                </div>
+            </div>
+            
+            <div class="plan-levels">
+                <div class="level-row">
+                    <span class="level-label">💰 Prix actuel</span>
+                    <span class="level-value" id="current-price">--</span>
+                </div>
+                <div class="level-row entry">
+                    <span class="level-label">🎯 Zone d'entrée</span>
+                    <span class="level-value" id="entry-zone">--</span>
+                </div>
+                <div class="level-row target">
+                    <span class="level-label">📈 Objectif 1</span>
+                    <span class="level-value" id="target-1">--</span>
+                </div>
+                <div class="level-row target">
+                    <span class="level-label">🚀 Objectif 2</span>
+                    <span class="level-value" id="target-2">--</span>
+                </div>
+                <div class="level-row invalidation">
+                    <span class="level-label">❌ Invalidation</span>
+                    <span class="level-value" id="invalidation-level">--</span>
+                </div>
+            </div>
+            
+            <div class="plan-factors" id="plan-factors">
+                <div class="factors-title">📊 Hiérarchie des facteurs</div>
+                <div class="factors-list" id="factors-list"></div>
+            </div>
+            
+            <div class="plan-invalidation" id="plan-invalidation">
+                <div class="invalidation-title">⚠️ Quand ce scénario devient FAUX :</div>
+                <div class="invalidation-text" id="invalidation-text">--</div>
+            </div>
+            
+            <div class="plan-action" id="plan-action">
+                <div class="action-header">
+                    <span class="action-emoji">👉</span>
+                    <span class="action-title" id="action-title">ACTION</span>
+                </div>
+                <div class="action-detail" id="action-detail">--</div>
+                <div class="action-risk" id="action-risk">
+                    <span>💼 Risque max :</span>
+                    <span id="risk-value">--</span>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <!-- CTA -->
     <section class="cta-section">
         <div class="cta-box">
@@ -974,9 +1231,53 @@
                 // Update action recommendation
                 updateAction(data);
                 
+                // Update trading plan
+                updateTradingPlan(data);
+                
             } catch (e) {
                 console.error('Smart money fetch error:', e);
             }
+        }
+        
+        function updateTradingPlan(data) {
+            const plan = data.tradingPlan;
+            if (!plan) return;
+            
+            // Bias
+            const biasEl = document.getElementById('plan-bias');
+            biasEl.querySelector('.bias-emoji').textContent = plan.bias.emoji;
+            const biasText = biasEl.querySelector('.bias-text');
+            biasText.textContent = plan.bias.direction + ' (' + plan.bias.strength + ')';
+            biasText.className = 'bias-text ' + (plan.bias.direction === 'ACHAT' ? 'buy' : plan.bias.direction === 'VENTE' ? 'sell' : 'wait');
+            
+            // Horizon
+            document.querySelector('.horizon-value').textContent = plan.horizon.timeframe;
+            
+            // Levels
+            document.getElementById('current-price').textContent = plan.levels.currentPrice;
+            document.getElementById('entry-zone').textContent = plan.levels.entryZone || '--';
+            document.getElementById('target-1').textContent = plan.levels.target1 || '--';
+            document.getElementById('target-2').textContent = plan.levels.target2 || '--';
+            document.getElementById('invalidation-level').textContent = plan.levels.invalidation || '--';
+            
+            // Factors
+            const factorsList = document.getElementById('factors-list');
+            if (plan.factors && plan.factors.length > 0) {
+                factorsList.innerHTML = plan.factors.map(f => `
+                    <div class="factor-item">
+                        <span class="factor-level ${f.level.toLowerCase()}">${f.level}</span>
+                        <span class="factor-text">${f.text}</span>
+                    </div>
+                `).join('');
+            }
+            
+            // Invalidation
+            document.getElementById('invalidation-text').textContent = plan.invalidationText;
+            
+            // Action
+            document.getElementById('action-title').textContent = plan.action.recommendation;
+            document.getElementById('action-detail').textContent = plan.action.detail;
+            document.getElementById('risk-value').textContent = plan.risk.maxPosition + ' ' + plan.risk.note;
         }
         
         function updateStory(data) {

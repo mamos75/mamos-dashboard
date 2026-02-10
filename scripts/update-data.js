@@ -36,6 +36,67 @@ function fetch(url, options = {}) {
 
 // ============ DATA FETCHERS ============
 
+// Fetch BTC Price + Key Levels for actionable analysis
+async function fetchPriceData() {
+  try {
+    const [ticker, klines] = await Promise.all([
+      fetch('https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT'),
+      fetch('https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=14')
+    ]);
+    
+    const price = parseFloat(ticker.lastPrice);
+    const high24h = parseFloat(ticker.highPrice);
+    const low24h = parseFloat(ticker.lowPrice);
+    const change24h = parseFloat(ticker.priceChangePercent);
+    
+    // Calculate key levels from recent candles
+    const candles = klines.map(k => ({
+      open: parseFloat(k[1]),
+      high: parseFloat(k[2]),
+      low: parseFloat(k[3]),
+      close: parseFloat(k[4])
+    }));
+    
+    // Find significant levels
+    const allHighs = candles.map(c => c.high);
+    const allLows = candles.map(c => c.low);
+    const weekHigh = Math.max(...allHighs.slice(-7));
+    const weekLow = Math.min(...allLows.slice(-7));
+    const recentSwingLow = Math.min(...allLows.slice(-3));
+    const recentSwingHigh = Math.max(...allHighs.slice(-3));
+    
+    // Key support/resistance levels
+    const support1 = Math.round(low24h / 100) * 100; // Round to 100
+    const support2 = Math.round(recentSwingLow / 100) * 100;
+    const support3 = Math.round(weekLow / 100) * 100;
+    const resistance1 = Math.round(high24h / 100) * 100;
+    const resistance2 = Math.round(recentSwingHigh / 100) * 100;
+    const resistance3 = Math.round(weekHigh / 100) * 100;
+    
+    // Determine bias based on price position
+    const midRange = (weekHigh + weekLow) / 2;
+    const bias = price > midRange ? 'bullish' : 'bearish';
+    const pricePosition = price > resistance1 ? 'above_resistance' : 
+                          price < support1 ? 'below_support' : 'in_range';
+    
+    return {
+      current: Math.round(price),
+      high24h: Math.round(high24h),
+      low24h: Math.round(low24h),
+      change24h: change24h.toFixed(2),
+      weekHigh: Math.round(weekHigh),
+      weekLow: Math.round(weekLow),
+      supports: [support1, support2, support3].filter((v, i, a) => a.indexOf(v) === i).sort((a,b) => b-a).slice(0, 3),
+      resistances: [resistance1, resistance2, resistance3].filter((v, i, a) => a.indexOf(v) === i).sort((a,b) => a-b).slice(0, 3),
+      bias,
+      pricePosition
+    };
+  } catch (e) {
+    console.error('Price data error:', e.message);
+    return null;
+  }
+}
+
 // Fetch Bitcoin Hashrate with proper trend analysis
 async function fetchHashrate() {
   try {
@@ -513,27 +574,138 @@ function generateFallbackStory(data, analysis) {
   return story;
 }
 
+// ============ TRADING PLAN GENERATOR ============
+
+function generateTradingPlan(data, analysis) {
+  const price = data.priceData;
+  if (!price) return null;
+  
+  const fg = data.fearGreed?.current || 50;
+  const netScore = analysis.score.net;
+  
+  // Determine bias
+  let bias, biasEmoji, biasStrength;
+  if (netScore >= 5) {
+    bias = 'ACHAT';
+    biasEmoji = '🟢';
+    biasStrength = 'Fort';
+  } else if (netScore >= 2) {
+    bias = 'ACHAT';
+    biasEmoji = '🟢';
+    biasStrength = 'Modéré';
+  } else if (netScore <= -5) {
+    bias = 'VENTE';
+    biasEmoji = '🔴';
+    biasStrength = 'Fort';
+  } else if (netScore <= -2) {
+    bias = 'PRUDENCE';
+    biasEmoji = '🟡';
+    biasStrength = 'Modéré';
+  } else {
+    bias = 'NEUTRE';
+    biasEmoji = '⚪';
+    biasStrength = 'Attente';
+  }
+  
+  // Key levels
+  const entryZone = price.supports[0] ? `$${price.supports[0].toLocaleString()} - $${(price.supports[0] + 1500).toLocaleString()}` : null;
+  const invalidation = price.supports[1] ? `$${price.supports[1].toLocaleString()}` : null;
+  const target1 = price.resistances[0] ? `$${price.resistances[0].toLocaleString()}` : null;
+  const target2 = price.resistances[1] ? `$${price.resistances[1].toLocaleString()}` : null;
+  
+  // Time horizon based on volatility and signals
+  let horizon, horizonDetail;
+  if (fg <= 20 || fg >= 80) {
+    horizon = '24-72h';
+    horizonDetail = 'Extrême Fear/Greed = retournement rapide possible';
+  } else {
+    horizon = '1-2 semaines';
+    horizonDetail = 'Conditions normales, patience requise';
+  }
+  
+  // Main factor hierarchy
+  const factors = [];
+  if (fg <= 20) factors.push({ level: 'PRINCIPAL', text: `Fear & Greed extrême (${fg}) - historiquement zone d'achat` });
+  else if (fg >= 80) factors.push({ level: 'PRINCIPAL', text: `Greed extrême (${fg}) - historiquement zone de vente` });
+  
+  if (data.cot?.categories.leveragedFunds.shortPct > 60) {
+    factors.push({ level: factors.length ? 'CONFIRMANT' : 'PRINCIPAL', text: `Hedge Funds ${data.cot.categories.leveragedFunds.shortPct}% short - squeeze possible` });
+  }
+  if (data.etf?.weekly < -300) {
+    factors.push({ level: 'ATTENTION', text: `ETF outflows semaine: $${data.etf.weekly}M - pression vendeuse` });
+  } else if (data.etf?.daily > 100) {
+    factors.push({ level: factors.length ? 'CONFIRMANT' : 'PRINCIPAL', text: `ETF inflows: +$${data.etf.daily}M aujourd'hui` });
+  }
+  if (data.hashrate?.trend === 'dropping') {
+    factors.push({ level: 'SECONDAIRE', text: `Hashrate en baisse (${data.hashrate.changeFromPeak}%) - mineurs sous pression` });
+  }
+  
+  // Invalidation conditions
+  const invalidationText = invalidation 
+    ? `Clôture daily sous ${invalidation} = scénario bullish invalidé`
+    : 'Cassure du support principal = invalidation';
+  
+  // Action recommendation
+  let action, actionDetail;
+  if (bias === 'ACHAT' && biasStrength === 'Fort') {
+    action = 'Accumulation progressive';
+    actionDetail = `DCA sur la zone ${entryZone}. Ne pas FOMO sur les pumps.`;
+  } else if (bias === 'ACHAT') {
+    action = 'Observer pour entrée';
+    actionDetail = `Attendre un repli vers ${entryZone} pour position.`;
+  } else if (bias === 'VENTE') {
+    action = 'Réduire exposition';
+    actionDetail = 'Prendre des profits partiels. Éviter les nouveaux achats.';
+  } else {
+    action = 'Attendre';
+    actionDetail = 'Pas de signal clair. Rester en cash ou position réduite.';
+  }
+  
+  // Risk management
+  const riskPercent = biasStrength === 'Fort' ? '3-5%' : '1-2%';
+  
+  return {
+    bias: { direction: bias, emoji: biasEmoji, strength: biasStrength },
+    horizon: { timeframe: horizon, detail: horizonDetail },
+    levels: {
+      currentPrice: `$${price.current.toLocaleString()}`,
+      entryZone,
+      invalidation,
+      target1,
+      target2
+    },
+    factors: factors.slice(0, 3),
+    invalidationText,
+    action: { recommendation: action, detail: actionDetail },
+    risk: { maxPosition: riskPercent, note: 'du capital par trade' }
+  };
+}
+
 // ============ MAIN ============
 
 async function main() {
   console.log('🚀 Fetching market data...');
   
-  const [fearGreed, longShort, openInterest, funding, liquidations, hashrate] = await Promise.all([
+  const [fearGreed, longShort, openInterest, funding, liquidations, hashrate, priceData] = await Promise.all([
     fetchFearGreed(),
     fetchLongShort(),
     fetchOpenInterest(),
     fetchFunding(),
     fetchLiquidations(),
-    fetchHashrate()
+    fetchHashrate(),
+    fetchPriceData()
   ]);
   
   const cot = getCOTData();
   const etf = getETFFlows();
   
-  const data = { fearGreed, longShort, openInterest, funding, liquidations, hashrate, cot, etf };
+  const data = { fearGreed, longShort, openInterest, funding, liquidations, hashrate, priceData, cot, etf };
   
   console.log('🧠 Generating analysis...');
   const analysis = generateAnalysis(data);
+  
+  console.log('🎯 Generating trading plan...');
+  const tradingPlan = generateTradingPlan(data, analysis);
   
   console.log('📝 Writing story...');
   const story = await generateStory(data, analysis);
@@ -542,6 +714,7 @@ async function main() {
     updatedAt: new Date().toISOString(),
     ...data,
     analysis,
+    tradingPlan,
     story
   };
   
