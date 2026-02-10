@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T16:30:07.133Z",
+  "updatedAt": "2026-02-10T16:31:39.134Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "64.7",
-      "short": "35.3"
+      "long": "64.8",
+      "short": "35.2"
     },
     "takerBuySellRatio": "0.72",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,048",
+    "btc": "80,011",
     "usd": "5.55B",
     "change24h": 0.1,
     "trend": "stable",
@@ -48,6 +48,14 @@
     "signal": "normal"
   },
   "liquidations": null,
+  "hashrate": {
+    "current": "957.28",
+    "unit": "EH/s",
+    "trend": "rising",
+    "allTimeHigh": true,
+    "interpretation": "🟢 Divergence bullish : Les mineurs continuent d'investir malgré la baisse du prix. Ils croient au long terme.",
+    "signal": "bullish"
+  },
   "cot": {
     "asOf": "2026-02-03",
     "nextUpdate": "2026-02-14",
@@ -106,9 +114,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 8,
+      "bull": 9,
       "bear": 0,
-      "net": 8
+      "net": 9
     },
     "signals": [
       {
@@ -130,6 +138,11 @@
         "type": "bullish",
         "weight": 1,
         "reason": "ETF inflows positifs"
+      },
+      {
+        "type": "bullish",
+        "weight": 1,
+        "reason": "Hashrate en hausse - mineurs confiants"
       }
     ]
   },

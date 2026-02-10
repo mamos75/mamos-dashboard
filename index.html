@@ -734,6 +734,17 @@
                 <div class="metric-value" id="oi-display">$5.5B</div>
                 <div class="metric-label">Open Interest</div>
             </div>
+            <div class="metric-card">
+                <div class="metric-icon">⛏️</div>
+                <div class="metric-value" id="hashrate-display">-- EH/s</div>
+                <div class="metric-label">Hashrate BTC</div>
+            </div>
+        </div>
+        
+        <!-- Hashrate Interpretation -->
+        <div class="hashrate-insight" id="hashrate-insight" style="max-width: 800px; margin: 20px auto; padding: 20px; background: var(--bg-card); border-radius: 16px; text-align: center;">
+            <div style="font-size: 14px; color: var(--text-secondary); margin-bottom: 10px;">⛏️ Ce que font les mineurs</div>
+            <div id="hashrate-interpretation" style="font-size: 16px; line-height: 1.6;">Chargement...</div>
         </div>
     </section>
     
@@ -906,6 +917,12 @@
                 
                 if (data.openInterest) {
                     document.getElementById('oi-display').textContent = '$' + data.openInterest.usd;
+                }
+                
+                // Hashrate
+                if (data.hashrate) {
+                    document.getElementById('hashrate-display').textContent = data.hashrate.current + ' ' + data.hashrate.unit;
+                    document.getElementById('hashrate-interpretation').innerHTML = data.hashrate.interpretation;
                 }
                 
                 // Update story based on data
