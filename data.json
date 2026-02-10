@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T18:30:15.458Z",
+  "updatedAt": "2026-02-10T18:45:06.972Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.21"
     },
     "accounts": {
-      "long": "66.0",
-      "short": "34.0"
+      "long": "65.6",
+      "short": "34.4"
     },
-    "takerBuySellRatio": "1.08",
+    "takerBuySellRatio": "0.84",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,699",
+    "btc": "79,674",
     "usd": "5.50B",
     "change24h": -0.1,
     "trend": "stable",
@@ -149,5 +149,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grands investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF crypto est en train de grimper. C'est le moment idéal pour accumuler, les prix sont bas et les gros joueurs sont en train de se positionner pour une remontée."
+  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent qui entre dans les ETF est en train de contrebalancer cela. C'est comme si tout le monde se préparait pour un grand rebond !"
 }
