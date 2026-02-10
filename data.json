@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:26:27.496Z",
+  "updatedAt": "2026-02-10T23:26:47.445Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -33,7 +33,7 @@
   },
   "openInterest": {
     "btc": "79,214",
-    "usd": "5.44B",
+    "usd": "5.43B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -150,5 +150,5 @@
       }
     ]
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent sur une baisse. Il y a m��me plus de 145 millions de dollars qui ont été investis dans les ETF crypto, ce qui montre qu'il y a encore de l'espoir. On dirait que c'est le moment idéal pour accumuler des cryptos, mais attention, c'est un jeu risqué !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont toutefois optimistes, ce qui pourrait être un signe de rebond. Les hedge funds, eux, misent contre le marché, mais les flux d'argent dans les ETF montrent que les gens continuent d'investir. C'est une zone d'accumulation, c'est-à-dire que c'est le moment de prendre position avant que les choses ne s'envolent !"
 }
