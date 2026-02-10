@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T19:15:14.410Z",
+  "updatedAt": "2026-02-10T19:45:06.682Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.22"
     },
     "accounts": {
-      "long": "65.2",
-      "short": "34.8"
+      "long": "64.6",
+      "short": "35.4"
     },
-    "takerBuySellRatio": "0.98",
+    "takerBuySellRatio": "0.63",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,605",
-    "usd": "5.48B",
+    "btc": "79,558",
+    "usd": "5.51B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -149,5 +149,5 @@
       }
     ]
   },
-  "story": "Le marché est super nerveux en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont très pessimistes et misent contre le marché. C'est le moment idéal pour acheter, car tout le monde est en train de s'approvisionner discrètement !"
+  "story": "Le marché est actuellement sous une grosse pression, les gens ont vraiment peur et vendent leurs cryptos. Mais attention, les gros investisseurs institutionnels sont plutôt optimistes et achètent même plus de cryptos. Il y a même des signes qui montrent que les gens commencent à accumuler des cryptos en secret. C'est le moment de rester calme et de ne pas se laisser emporter par la peur !"
 }
