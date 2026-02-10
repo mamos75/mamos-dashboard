@@ -742,9 +742,13 @@
         </div>
         
         <!-- Hashrate Interpretation -->
-        <div class="hashrate-insight" id="hashrate-insight" style="max-width: 800px; margin: 20px auto; padding: 20px; background: var(--bg-card); border-radius: 16px; text-align: center;">
-            <div style="font-size: 14px; color: var(--text-secondary); margin-bottom: 10px;">⛏️ Ce que font les mineurs</div>
-            <div id="hashrate-interpretation" style="font-size: 16px; line-height: 1.6;">Chargement...</div>
+        <div class="hashrate-insight" id="hashrate-insight" style="max-width: 800px; margin: 20px auto; padding: 25px; background: var(--bg-card); border-radius: 16px;">
+            <div style="text-align: center; margin-bottom: 20px;">
+                <div style="font-size: 14px; color: var(--text-secondary); margin-bottom: 10px;">⛏️ Ce que font les mineurs</div>
+                <div id="hashrate-interpretation" style="font-size: 18px; font-weight: 600; line-height: 1.6;">Chargement...</div>
+            </div>
+            <div id="hashrate-price-impact" style="background: var(--bg-secondary); padding: 20px; border-radius: 12px; font-size: 15px; line-height: 1.8; display: none;">
+            </div>
         </div>
     </section>
     
@@ -923,6 +927,13 @@
                 if (data.hashrate) {
                     document.getElementById('hashrate-display').textContent = data.hashrate.current + ' ' + data.hashrate.unit;
                     document.getElementById('hashrate-interpretation').innerHTML = data.hashrate.interpretation;
+                    
+                    // Show price impact scenarios
+                    if (data.hashrate.priceImpact) {
+                        const impactEl = document.getElementById('hashrate-price-impact');
+                        impactEl.innerHTML = data.hashrate.priceImpact;
+                        impactEl.style.display = 'block';
+                    }
                 }
                 
                 // Update story based on data

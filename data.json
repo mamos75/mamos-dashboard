@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T23:19:19.660Z",
+  "updatedAt": "2026-02-10T23:25:02.279Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "64.5",
       "short": "35.5"
     },
-    "takerBuySellRatio": "1.08",
+    "takerBuySellRatio": "0.90",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,225",
-    "usd": "5.44B",
+    "btc": "79,221",
+    "usd": "5.43B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -57,6 +57,7 @@
     "change7d": 11.6,
     "changeFromPeak": -7.9,
     "interpretation": "📉 Hashrate en baisse (-2.6% 24h, -7.9% depuis le pic). Les mineurs ralentissent.",
+    "priceImpact": "🤔 <strong>Pourquoi ça baisse ?</strong> Soit les mineurs les moins rentables éteignent leurs machines (coûts > revenus), soit maintenance temporaire après le pic. <br><br>📊 <strong>Scénarios possibles :</strong><br>• Si le prix continue de baisser → plus de mineurs arrêtent → capitulation = souvent proche d'un bottom<br>• Si le prix rebondit → hashrate repart → situation saine",
     "signal": "neutral"
   },
   "cot": {
@@ -144,5 +145,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne nouvelle pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, et les flux d'argent dans les ETF sont positifs, ce qui montre qu'ils misent sur la hausse. Les hedge funds, eux, sont plutôt négatifs, mais cela pourrait être une occasion de les contrecarrer. C'est le moment de faire le contraire de la foule et d'acheter, car le signal est à l'accumulation forte !"
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait en même temps, mais les \"gros poissons\" achètent en douce, ce qui pourrait être un signe de rebond. C'est l'occasion parfaite d'acheter à bas prix, car le marché est en train de se ressourcer fortement !"
 }

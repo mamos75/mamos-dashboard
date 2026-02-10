@@ -61,25 +61,32 @@ async function fetchHashrate() {
       const isCrashing = parseFloat(changeFromPeak) < -15;
       const isRising = parseFloat(change24h) > 2 && parseFloat(change7d) > 5;
       
+      let priceImpact = '';
+      
       if (isCrashing) {
         trend = 'crashing';
-        interpretation = '🔴 Hashrate en chute libre (' + changeFromPeak + '% depuis le pic). Mineurs en difficulté.';
+        interpretation = '🔴 Hashrate en chute libre (' + changeFromPeak + '% depuis le pic). Mineurs en grande difficulté.';
+        priceImpact = '⚠️ <strong>Impact prix :</strong> Les mineurs vendent du BTC pour payer leurs factures → pression vendeuse à court terme. MAIS historiquement, la capitulation des mineurs marque souvent un <strong>point bas</strong>. Si tu crois au long terme, c\'est potentiellement une opportunité.';
         signal = 'bearish';
       } else if (isDropping) {
         trend = 'dropping';
         interpretation = '📉 Hashrate en baisse (' + change24h + '% 24h, ' + changeFromPeak + '% depuis le pic). Les mineurs ralentissent.';
+        priceImpact = '🤔 <strong>Pourquoi ça baisse ?</strong> Soit les mineurs les moins rentables éteignent leurs machines (coûts > revenus), soit maintenance temporaire après le pic. <br><br>📊 <strong>Scénarios possibles :</strong><br>• Si le prix continue de baisser → plus de mineurs arrêtent → capitulation = souvent proche d\'un bottom<br>• Si le prix rebondit → hashrate repart → situation saine';
         signal = 'neutral';
       } else if (isRising) {
         trend = 'rising';
         interpretation = '🟢 Hashrate en hausse (+' + change24h + '% 24h). Mineurs confiants.';
+        priceImpact = '✅ <strong>Signal positif :</strong> Les mineurs investissent dans du matériel → ils croient que le BTC vaudra plus cher à l\'avenir. Réseau plus sécurisé = fondamentaux solides.';
         signal = 'bullish';
       } else if (parseFloat(change7d) > 0 && parseFloat(change24h) >= -2) {
         trend = 'stable';
         interpretation = '⚪ Hashrate stable. Légère consolidation après le pic.';
+        priceImpact = '😌 <strong>Neutre :</strong> Pas de signal particulier. Les mineurs maintiennent leur activité normale.';
         signal = 'neutral';
       } else {
         trend = 'falling';
-        interpretation = '🟡 Hashrate en légère baisse. Pression sur les mineurs.';
+        interpretation = '🟡 Hashrate en légère baisse. Pression sur certains mineurs.';
+        priceImpact = '👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.';
         signal = 'neutral';
       }
       
@@ -92,6 +99,7 @@ async function fetchHashrate() {
         change7d: parseFloat(change7d),
         changeFromPeak: parseFloat(changeFromPeak),
         interpretation,
+        priceImpact,
         signal
       };
     }
