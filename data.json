@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T16:00:08.504Z",
+  "updatedAt": "2026-02-10T16:30:07.133Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.5",
-      "short": "45.5",
-      "ratio": "1.20"
+      "long": "54.3",
+      "short": "45.7",
+      "ratio": "1.19"
     },
     "accounts": {
-      "long": "64.6",
-      "short": "35.4"
+      "long": "64.7",
+      "short": "35.3"
     },
-    "takerBuySellRatio": "1.04",
+    "takerBuySellRatio": "0.72",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,954",
-    "usd": "5.54B",
-    "change24h": -0.6,
+    "btc": "80,048",
+    "usd": "5.55B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -133,5 +133,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les flux d'argent dans les ETF sont même en hausse, ce qui montre qu'il y a encore de l'intérêt pour les cryptos. C'est le moment idéal pour acheter, car tout le monde est en train de vendre !"
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 9 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
 }
