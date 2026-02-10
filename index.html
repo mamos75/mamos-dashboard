@@ -639,37 +639,59 @@
     </div>
     
     <script>
-        // Fetch prices from CoinGecko
+        // Fetch prices from Binance (more reliable)
         async function fetchPrices() {
             try {
-                const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd&include_24hr_change=true&include_market_cap=true&include_24hr_vol=true');
-                const data = await res.json();
+                // Use Binance API - no rate limits, more reliable
+                const [btcRes, ethRes, solRes] = await Promise.all([
+                    fetch('https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT'),
+                    fetch('https://api.binance.com/api/v3/ticker/24hr?symbol=ETHUSDT'),
+                    fetch('https://api.binance.com/api/v3/ticker/24hr?symbol=SOLUSDT')
+                ]);
+                
+                const btc = await btcRes.json();
+                const eth = await ethRes.json();
+                const sol = await solRes.json();
                 
                 // BTC
-                const btcPrice = data.bitcoin.usd.toLocaleString('en-US', {style: 'currency', currency: 'USD', maximumFractionDigits: 0});
-                const btcChange = data.bitcoin.usd_24h_change.toFixed(1);
-                document.getElementById('btc-price').textContent = btcPrice;
+                const btcPrice = parseFloat(btc.lastPrice);
+                const btcChange = parseFloat(btc.priceChangePercent);
+                document.getElementById('btc-price').textContent = '$' + btcPrice.toLocaleString('en-US', {maximumFractionDigits: 0});
                 const btcChangeEl = document.getElementById('btc-change');
-                btcChangeEl.textContent = (btcChange >= 0 ? '+' : '') + btcChange + '%';
+                btcChangeEl.textContent = (btcChange >= 0 ? '+' : '') + btcChange.toFixed(1) + '%';
                 btcChangeEl.className = 'change ' + (btcChange >= 0 ? 'up' : 'down');
                 
                 // ETH
-                const ethPrice = data.ethereum.usd.toLocaleString('en-US', {style: 'currency', currency: 'USD', maximumFractionDigits: 0});
-                const ethChange = data.ethereum.usd_24h_change.toFixed(1);
-                document.getElementById('eth-price').textContent = ethPrice;
+                const ethPrice = parseFloat(eth.lastPrice);
+                const ethChange = parseFloat(eth.priceChangePercent);
+                document.getElementById('eth-price').textContent = '$' + ethPrice.toLocaleString('en-US', {maximumFractionDigits: 0});
                 const ethChangeEl = document.getElementById('eth-change');
-                ethChangeEl.textContent = (ethChange >= 0 ? '+' : '') + ethChange + '%';
+                ethChangeEl.textContent = (ethChange >= 0 ? '+' : '') + ethChange.toFixed(1) + '%';
                 ethChangeEl.className = 'change ' + (ethChange >= 0 ? 'up' : 'down');
                 
                 // SOL
-                document.getElementById('sol-price').textContent = '$' + data.solana.usd.toFixed(0);
+                document.getElementById('sol-price').textContent = '$' + parseFloat(sol.lastPrice).toFixed(0);
                 
-                // Volume
-                const totalVol = (data.bitcoin.usd_24h_vol + data.ethereum.usd_24h_vol) / 1e9;
+                // Volume (BTC + ETH in billions)
+                const totalVol = (parseFloat(btc.quoteVolume) + parseFloat(eth.quoteVolume)) / 1e9;
                 document.getElementById('volume-24h').textContent = '$' + totalVol.toFixed(0) + 'B';
                 
             } catch (e) {
                 console.error('Price fetch error:', e);
+                // Fallback to CoinGecko
+                fetchPricesCoinGecko();
+            }
+        }
+        
+        async function fetchPricesCoinGecko() {
+            try {
+                const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana&vs_currencies=usd&include_24hr_change=true');
+                const data = await res.json();
+                document.getElementById('btc-price').textContent = '$' + data.bitcoin.usd.toLocaleString('en-US', {maximumFractionDigits: 0});
+                document.getElementById('eth-price').textContent = '$' + data.ethereum.usd.toLocaleString('en-US', {maximumFractionDigits: 0});
+                document.getElementById('sol-price').textContent = '$' + data.solana.usd.toFixed(0);
+            } catch (e) {
+                console.error('CoinGecko fallback error:', e);
             }
         }
         
