@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T19:45:06.682Z",
+  "updatedAt": "2026-02-10T20:15:07.419Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.0",
-      "short": "45.0",
-      "ratio": "1.22"
+      "long": "54.8",
+      "short": "45.2",
+      "ratio": "1.21"
     },
     "accounts": {
-      "long": "64.6",
-      "short": "35.4"
+      "long": "64.7",
+      "short": "35.3"
     },
-    "takerBuySellRatio": "0.63",
-    "trend": "more_long",
+    "takerBuySellRatio": "1.77",
+    "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,558",
-    "usd": "5.51B",
-    "change24h": 0.1,
+    "btc": "79,452",
+    "usd": "5.46B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -149,5 +149,5 @@
       }
     ]
   },
-  "story": "Le marché est actuellement sous une grosse pression, les gens ont vraiment peur et vendent leurs cryptos. Mais attention, les gros investisseurs institutionnels sont plutôt optimistes et achètent même plus de cryptos. Il y a même des signes qui montrent que les gens commencent à accumuler des cryptos en secret. C'est le moment de rester calme et de ne pas se laisser emporter par la peur !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour nous ! Les gros investisseurs institutionnels sont plutôt optimistes, et beaucoup d'argent entre dans le marché via les ETF. Les \"gros joueurs\" tentent de profiter de la peur, mais les signaux montrent que c'est le moment d'acheter, pas de vendre ! C'est le moment parfait pour saisir l'occasion et investir."
 }
