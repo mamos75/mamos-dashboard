@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T02:00:03.402Z",
+  "updatedAt": "2026-02-11T02:15:03.489Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.1",
-      "short": "44.9",
+      "long": "55.2",
+      "short": "44.8",
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "64.9",
+      "short": "35.1"
     },
-    "takerBuySellRatio": "1.25",
+    "takerBuySellRatio": "0.75",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,505",
-    "usd": "5.49B",
-    "change24h": 0.1,
+    "btc": "79,515",
+    "usd": "5.48B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68991,
-    "high24h": 70464,
+    "current": 68948,
+    "high24h": 70453,
     "low24h": 67800,
-    "change24h": "-2.08",
+    "change24h": "-2.04",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,991",
+      "currentPrice": "$68,948",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,500",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les investisseurs sont vraiment nerveux ! Les gros joueurs, comme les hedge funds, misent contre le marché, mais les institutions sont optimistes. C'est comme si tout le monde attendait le feu vert pour plonger, et les flux d'argent vers les ETF montrent que les gens commencent à se positionner. C'est la zone parfaite pour acheter, car tout est en place pour un énorme rebond !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes, ce qui est intéressant. Il y a même de l'argent qui rentre dans le marché, ce qui pourrait être un signe de retournement. On dirait que c'est le moment idéal pour acheter, mais il faut rester calme et patient !"
 }
