@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T06:00:04.231Z",
+  "updatedAt": "2026-02-11T06:15:03.190Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -20,21 +20,21 @@
   "longShort": {
     "topTraders": {
       "long": "55.3",
-      "short": "44.8",
-      "ratio": "1.23"
+      "short": "44.7",
+      "ratio": "1.24"
     },
     "accounts": {
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "0.72",
+    "takerBuySellRatio": "0.53",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,957",
-    "usd": "5.52B",
-    "change24h": 0.3,
+    "btc": "81,845",
+    "usd": "5.48B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67411,
+    "current": 66918,
     "high24h": 69994,
-    "low24h": 67368,
-    "change24h": "-2.89",
+    "low24h": 66819,
+    "change24h": "-3.49",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
-      67400,
+      66800,
       60000
     ],
     "resistances": [
@@ -180,8 +180,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,411",
-      "entryZone": "$67,400 - $68,900",
+      "currentPrice": "$66,918",
+      "entryZone": "$66,800 - $68,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
       "target2": "$71,500"
@@ -203,12 +203,12 @@
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $67,400 - $68,900 pour position."
+      "detail": "Attendre un repli vers $66,800 - $68,300 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les flux d'argent vers les ETF crypto sont même en augmentation, ce qui signale une confiance certaine. C'est comme si le marché était en train de se préparer pour quelque chose, mais les gens sont trop effrayés pour y croire !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les institutions, elles, sont optimistes et achètent ! Les hedge funds, par contre, misent contre le marché, ce qui pourrait créer une belle opportunité pour nous. C'est une zone d'accumulation parfaite, où les sages achètent discrètement pendant que les autres paniquent !"
 }
