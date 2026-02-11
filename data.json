@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T22:45:03.672Z",
+  "updatedAt": "2026-02-11T23:00:04.972Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.4",
-      "short": "43.6",
-      "ratio": "1.30"
+      "long": "56.2",
+      "short": "43.8",
+      "ratio": "1.28"
     },
     "accounts": {
       "long": "66.8",
-      "short": "33.3"
+      "short": "33.2"
     },
-    "takerBuySellRatio": "0.82",
+    "takerBuySellRatio": "1.09",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,358",
-    "usd": "5.50B",
+    "btc": "81,321",
+    "usd": "5.48B",
     "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67628,
+    "current": 67418,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-1.52",
+    "change24h": "-1.85",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,628",
+      "currentPrice": "$67,418",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent contre le march��, mais les flux d'argent dans les ETF sont plutôt positifs. C'est une zone d'accumulation, ça veut dire que c'est peut-être le moment de se positionner pour une future hausse !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions restent optimistes. Malgré cela, on voit de l'argent qui entre dans les ETF, ce qui pourrait être un signe de renversement. C'est presque comme si le marché était en train de se préparer pour un grand rebond !"
 }
