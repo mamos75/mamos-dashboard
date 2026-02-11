@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T10:45:03.429Z",
+  "updatedAt": "2026-02-11T11:00:04.298Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.6",
-      "short": "45.4",
+      "long": "54.5",
+      "short": "45.5",
       "ratio": "1.20"
     },
     "accounts": {
-      "long": "65.5",
-      "short": "34.5"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "1.14",
+    "takerBuySellRatio": "1.59",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,819",
-    "usd": "5.53B",
-    "change24h": 0.4,
+    "btc": "82,732",
+    "usd": "5.50B",
+    "change24h": 0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66727,
+    "current": 66535,
     "high24h": 69994,
-    "low24h": 66558,
-    "change24h": "-3.29",
+    "low24h": 66369,
+    "change24h": "-3.45",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
-      66600,
+      66400,
       60000
     ],
     "resistances": [
@@ -76,7 +76,7 @@
       71500,
       73300
     ],
-    "bias": "bullish",
+    "bias": "bearish",
     "pricePosition": "in_range"
   },
   "cot": {
@@ -180,8 +180,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,727",
-      "entryZone": "$66,600 - $68,100",
+      "currentPrice": "$66,535",
+      "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
       "target2": "$71,500"
@@ -203,12 +203,12 @@
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
       "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $66,600 - $68,100. Ne pas FOMO sur les pumps."
+      "detail": "DCA sur la zone $66,400 - $67,900. Ne pas FOMO sur les pumps."
     },
     "risk": {
       "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour les acheteurs ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds font le contraire, ce qui crée une tension intéressante. Les flux d'argent dans les ETF montrent que les gens commencent à acheter, et les signaux globaux indiquent une forte accumulation. C'est le moment de rester calme et de regarder les possibilités à long terme !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même sur une baisse, mais les institutions sont plutôt optimistes. C'est comme si tout le monde attendait le feu vert pour sauter dans le bain, et avec les flux d'argent qui entrent, ça pourrait arriver bientôt ! L'ambiance est électrique, c'est le moment de s'accrocher."
 }
