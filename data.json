@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T15:00:06.631Z",
+  "updatedAt": "2026-02-11T15:15:03.096Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,18 +24,18 @@
       "ratio": "1.20"
     },
     "accounts": {
-      "long": "65.2",
-      "short": "34.8"
+      "long": "65.3",
+      "short": "34.7"
     },
-    "takerBuySellRatio": "1.05",
+    "takerBuySellRatio": "1.01",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,642",
-    "usd": "5.37B",
-    "change24h": -2.4,
-    "trend": "decreasing",
+    "btc": "81,510",
+    "usd": "5.39B",
+    "change24h": 1.1,
+    "trend": "stable",
     "signal": "normal"
   },
   "funding": {
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66575,
+    "current": 66079,
     "high24h": 69994,
-    "low24h": 66369,
-    "change24h": "-2.71",
+    "low24h": 65756,
+    "change24h": "-3.71",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
-      66400,
+      65800,
       60000
     ],
     "resistances": [
@@ -180,8 +180,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,575",
-      "entryZone": "$66,400 - $67,900",
+      "currentPrice": "$66,079",
+      "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
       "target2": "$71,500"
@@ -203,12 +203,12 @@
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $66,400 - $67,900 pour position."
+      "detail": "Attendre un repli vers $65,800 - $67,300 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont optimistes et investissent massivement, ce qui pourrait être un signe de renversement de tendance. Les hedge funds, eux, sont prêts à tirer profit d'une baisse, mais l'argent qui entre dans les ETF est un bon signe. C'est une zone d'accumulation, c'est-à-dire que c'est peut-être le moment de acheter avant que les prix ne remontent !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, sont majoritairement prêts à vendre, ce qui pourrait créer une belle opportunité d'achat. C'est la zone d'accumulation parfaite, il faut rester calme et regarder les possibilités !"
 }
