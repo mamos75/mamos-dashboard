@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T20:30:03.520Z",
+  "updatedAt": "2026-02-11T20:45:03.680Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "57.0",
-      "short": "43.0",
-      "ratio": "1.32"
+      "long": "56.5",
+      "short": "43.5",
+      "ratio": "1.30"
     },
     "accounts": {
-      "long": "66.9",
-      "short": "33.1"
+      "long": "67.0",
+      "short": "33.0"
     },
-    "takerBuySellRatio": "0.73",
+    "takerBuySellRatio": "1.06",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,521",
-    "usd": "5.48B",
-    "change24h": 0,
+    "btc": "81,579",
+    "usd": "5.49B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67207,
+    "current": 67302,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-2.34",
+    "change24h": "-2.32",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,207",
+      "currentPrice": "$67,302",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Les grosses institutions, par contre, sont plutôt optimistes et achètent, ce qui pourrait être un bon signe pour l'avenir. Les flux d'argent dans les ETF sont également positifs, avec plus de 145 millions de dollars investis récemment. C'est comme si le marché était en train de se ressourcer pour un éventuel rebond !"
+  "story": "Le marché est actuellement dans un état de peur extrême, avec les investisseurs très inquiets. Les hedge funds misent même contre le marché, avec près de 70% d'entre eux qui sont à la vente. Mais attention, les institutions sont plutôt optimistes et mettent de l'argent dans le marché, ce qui pourrait être un signe de retournement. Le marché est en zone d'accumulation, c'est peut-être le moment de saisir l'occasion !"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T20:30:03.908Z",
+  "updatedAt": "2026-02-11T20:45:07.956Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,52 @@
   "narrative": null,
   "news": [
     {
-      "title": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "title": "Prévisions de prix",
       "titleOriginal": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Technical charts show Bitcoin and altcoins consolidating as part of establishing a new price floor after last week’s sharp sell-off. As a range is det",
+      "summary": "Les charts techniques montrent que Bitcoin et les altcoins se consolident pour établir un nouveau plancher de prix.",
       "impact": "neutre",
-      "priceEffect": "",
+      "priceEffect": "Dans le contexte actuel de peur extrême, cette consolidation pourrait être un signe de rebond potentiel, mais l'impact sur le prix est limité pour le moment. Le marché attend des signes de retournement de tendance.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 11/100, où les investisseurs sont très prudents.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 20:20:00 +0000"
     },
     {
-      "title": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
+      "title": "BTC volatile",
       "titleOriginal": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
-      "summary": "Bitcoin price crumbled back toward its 2026 low as a lack of fresh capital inflows, weak investor sentiment, and rising selling in spot markets chippe",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le prix de Bitcoin a chuté vers son plus bas de 2026 en raison d'un manque de capitaux frais et d'une faible confiance des investisseurs.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait accentuer la tendance baissière à court terme, mais dans le contexte actuel de peur extrême, le marché pourrait déjà avoir pris en compte cette baisse. Les hedge funds à 68,9% SHORT pourraient également être un signe de rebond potentiel.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 11/100 et aux hedge funds très shorts, ce qui pourrait indiquer un rebond potentiel.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 19:16:17 +0000"
     },
     {
-      "title": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
-      "titleOriginal": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
-      "summary": "Deel will enable its customers to pay workers in the United Kingdom and European Union, with a US expansion planned later.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/deel-partners-with-moonpay-to-roll-out-stablecoin-salary-payouts-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 18:14:35 +0000"
-    },
-    {
-      "title": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
+      "title": "BlackRock entre",
       "titleOriginal": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "summary": "BlackRock is bringing its $2.1 billion tokenized Treasury fund to Uniswap, expanding institutional access to DeFi and deepening Wall Street’s push int",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "BlackRock lance un fonds de 2,1 milliards de dollars sur Uniswap pour les institutions.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, en favorisant l'adoption institutionnelle des cryptomonnaies et en augmentant la liquidité du marché. Les institutions bullish et les flux d'ETF positifs pourraient également soutenir cette tendance.",
+      "contextLink": "Cette news se connecte au contexte actuel d'adoption institutionnelle et de flux d'ETF positifs, ce qui pourrait indiquer une tendance haussière à long terme.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 17:47:08 +0000"
     },
     {
-      "title": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "titleOriginal": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "summary": "The pilot programs explore wholesale settlement between institutions and real-world use cases, along with stablecoin development and tokenized bank de",
-      "impact": "neutre",
-      "priceEffect": "",
+      "title": "Prochain cycle",
+      "titleOriginal": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
+      "summary": "Le prix de Bitcoin pourrait atteindre 150 000 dollars d'ici la fin de l'année si certaines conditions sont réunies.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, en favorisant l'optimisme des investisseurs et en augmentant la demande. Cependant, l'impact sur le prix à court terme est limité et dépend de la réalisation de ces conditions.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 11/100, où les investisseurs sont très prudents et pourraient être sensibles à des prévisions optimistes.",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 16:59:59 +0000"
+      "link": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 16:30:00 +0000"
     }
   ]
 }
