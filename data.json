@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T07:45:03.169Z",
+  "updatedAt": "2026-02-11T08:00:05.256Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,26 +24,26 @@
       "ratio": "1.18"
     },
     "accounts": {
-      "long": "65.6",
-      "short": "34.4"
+      "long": "65.5",
+      "short": "34.5"
     },
-    "takerBuySellRatio": "0.92",
+    "takerBuySellRatio": "0.71",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,188",
+    "btc": "82,297",
     "usd": "5.52B",
-    "change24h": 0.2,
+    "change24h": 0.3,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "0.0022",
-      "avg24h": "-0.0033"
+      "current": "-0.0005",
+      "avg24h": "-0.0037"
     },
-    "eth": "-0.0084",
+    "eth": "-0.0130",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67155,
+    "current": 67037,
     "high24h": 69994,
     "low24h": 66558,
-    "change24h": "-2.62",
+    "change24h": "-2.73",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,155",
+      "currentPrice": "$67,037",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "C'est chaud, les gens ont vraiment peur et vendent leurs cryptos, mais les grosses institutions sont plutôt optimistes. Les hedge funds, eux, sont à 68,9% pour vendre, ce qui pourrait signifier qu'ils vont se faire prendre à contre-pied. Il y a même eu un afflux de 145 millions de dollars dans les ETF, ce qui montre que certains ont confiance. On est clairement dans une zone d'accumulation, où les prix sont bas et où il pourrait être temps de se positionner pour une remontée."
+  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont toutefois optimistes, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est comme si tout le monde attendait le feu vert pour bondir, on est dans une zone d'accumulation, prêts à décoller !"
 }
