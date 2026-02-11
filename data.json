@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T01:30:03.585Z",
+  "updatedAt": "2026-02-11T01:45:03.209Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "64.7",
-      "short": "35.3"
+      "long": "64.8",
+      "short": "35.2"
     },
-    "takerBuySellRatio": "0.65",
+    "takerBuySellRatio": "0.76",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,356",
-    "usd": "5.47B",
-    "change24h": -0.1,
+    "btc": "79,465",
+    "usd": "5.49B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68967,
-    "high24h": 70528,
+    "current": 69074,
+    "high24h": 70490,
     "low24h": 67800,
-    "change24h": "-1.97",
+    "change24h": "-1.98",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,967",
+      "currentPrice": "$69,074",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,500",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF montre que les gens continuent d'acheter. C'est le moment de faire son marché, on est dans une zone d'accumulation, c'est-à-dire que c'est le bon moment pour acheter !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont super peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent énormément sur une baisse. Malgré tout, de l'argent entre dans le marché via des fonds négociés en bourse. C'est une zone d'accumulation, c'est-à-dire que c'est peut-être le moment de rentrer dans le marché avant que les choses s'accélèrent !"
 }
