@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T00:00:04.547Z",
+  "updatedAt": "2026-02-11T00:00:54.527Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -32,8 +32,8 @@
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,252",
-    "usd": "5.45B",
+    "btc": "79,256",
+    "usd": "5.46B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 68838,
+    "current": 68833,
     "high24h": 70528,
     "low24h": 67800,
-    "change24h": "-1.87",
+    "change24h": "-1.94",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,838",
+      "currentPrice": "$68,833",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,500",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, eux, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens continuent d'acheter. C'est la zone parfaite pour acheter, selon moi !"
+  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui règne en maître. Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, ce qui crée une tension intéressante. On dirait que c'est le moment idéal pour accumuler des crypto, comme si le marché se préparait pour un grand rebond !"
 }
