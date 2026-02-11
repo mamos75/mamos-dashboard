@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T02:45:03.003Z",
+  "updatedAt": "2026-02-11T03:00:04.309Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -20,21 +20,21 @@
   "longShort": {
     "topTraders": {
       "long": "55.3",
-      "short": "44.8",
+      "short": "44.7",
       "ratio": "1.23"
     },
     "accounts": {
       "long": "65.0",
       "short": "35.0"
     },
-    "takerBuySellRatio": "1.04",
+    "takerBuySellRatio": "1.45",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,602",
-    "usd": "5.48B",
-    "change24h": 0.1,
+    "btc": "79,901",
+    "usd": "5.49B",
+    "change24h": 0.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68870,
-    "high24h": 70192,
+    "current": 68695,
+    "high24h": 70166,
     "low24h": 67800,
-    "change24h": "-1.69",
+    "change24h": "-2.02",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
+      "bull": 9,
       "bear": 5,
-      "net": 3
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,870",
+      "currentPrice": "$68,695",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,200",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et mettent leur argent dans les cryptos, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens commencent à voir les opportunités. C'est la peur qui domine, mais c'est peut-être justement le moment de saisir les occasions !"
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur et vend ses crypto ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent même plus de crypto. Les hedge funds, par contre, misent sur une baisse, mais les flux d'argent vers les ETF crypto sont plutôt positifs. C'est comme si le marché était en train de créer une zone de feu pour les prix, prêt à exploser vers le haut !"
 }
