@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T07:00:03.787Z",
+  "updatedAt": "2026-02-11T07:15:03.514Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "65.0",
       "short": "35.0"
     },
-    "takerBuySellRatio": "0.81",
+    "takerBuySellRatio": "0.46",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "81,985",
+    "btc": "82,037",
     "usd": "5.48B",
     "change24h": 0,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66819,
+    "current": 66748,
     "high24h": 69994,
     "low24h": 66558,
-    "change24h": "-3.05",
+    "change24h": "-3.40",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,819",
+      "currentPrice": "$66,748",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont nerveux et vendent leurs cryptos. Mais attention, les grandes institutions sont plutôt optimistes et investissent même plus de 145 millions de dollars. Les hedge funds, eux, misent sur une baisse, mais je dirais que c'est le moment idéal pour acheter, le marché est en zone d'accumulation ! C'est le moment de faire le contraire de la foule et de saisir l'opportunité."
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont très peur et vendent leurs cryptos. Mais les grandes institutions sont plutôt optimistes et achètent, ce qui pourrait être un bon signe pour l'avenir. Les hedge funds, par contre, misent sur une baisse, ce qui crée une tension interessante. C'est comme si le marché était en train de se préparer pour un grand rebond !"
 }
