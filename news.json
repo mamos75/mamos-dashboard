@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T18:30:03.207Z",
+  "updatedAt": "2026-02-11T18:45:06.746Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
+      "title": "Deel lance salaires en stablecoin",
       "titleOriginal": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
-      "summary": "Deel will enable its customers to pay workers in the United Kingdom and European Union, with a US expansion planned later.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Deel permet aux entreprises de payer leurs employés en stablecoin au Royaume-Uni et dans l'UE",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle indique une adoption croissante des crypto-monnaies dans les paiements salariaux. Dans le contexte actuel de peur extrême, cela pourrait être un signe de résilience du marché.",
+      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les institutions sont bullish et les flux d'ETF sont positifs.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/deel-partners-with-moonpay-to-roll-out-stablecoin-salary-payouts-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 18:14:35 +0000"
     },
     {
-      "title": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
+      "title": "BlackRock entre dans la DeFi",
       "titleOriginal": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "summary": "BlackRock is bringing its $2.1 billion tokenized Treasury fund to Uniswap, expanding institutional access to DeFi and deepening Wall Street’s push int",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "BlackRock lance un fonds de 2,1 milliards de dollars pour les échanges de tokens institutionnels sur Uniswap",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle indique une participation croissante des institutions dans la DeFi. Cela pourrait contribuer à une augmentation de la confiance et de la liquidité sur le marché.",
+      "contextLink": "Cette news se connecte au contexte actuel de bullish des institutions et de flux d'ETF positifs, ce qui pourrait renforcer la tendance haussière.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 17:47:08 +0000"
     },
     {
-      "title": "Malaysia's central bank announces stablecoin, tokenization sandbox",
+      "title": "Malaisie lance un bac à sable pour les stablecoins",
       "titleOriginal": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "summary": "The pilot programs explore wholesale settlement between institutions and real-world use cases, along with stablecoin development and tokenized bank de",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "La banque centrale de Malaisie lance un programme pilote pour les stablecoins et la tokenisation",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, car elle indique une adoption croissante des crypto-monnaies dans les systèmes financiers traditionnels. Cependant, l'impact à court terme pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les institutions sont bullish et les flux d'ETF sont positifs.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:59:59 +0000"
     },
     {
-      "title": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
+      "title": "Bitcoin vers 150 000 $ ?",
       "titleOriginal": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
-      "summary": "Bitcoin price could still reach $150,000 by year-end, but several things must happen for BTC price to find its technical footing and spark a new bull ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les analystes prévoient que le prix de Bitcoin pourrait atteindre 150 000 $ d'ici la fin de l'année",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle indique une confiance croissante dans le potentiel de Bitcoin. Cependant, l'impact à court terme pourrait être limité, car le marché est actuellement dans une phase de peur extrême.",
+      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les institutions sont bullish et les flux d'ETF sont positifs.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:30:00 +0000"
     },
     {
-      "title": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "titleOriginal": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "summary": "Bitcoin volatility spiked on the back of surprisingly strong US nonfarm payrolls numbers, but traders retained $50,000 BTC price targets. Will a Feder",
-      "impact": "neutre",
-      "priceEffect": "",
+      "title": "UE cherche à fermer les failles crypto avec la Russie",
+      "titleOriginal": "EU seeks to close Russia crypto loopholes in new sanctions",
+      "summary": "L'UE cherche à interdire les transactions crypto avec la Russie",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix à court terme, car elle indique une augmentation des régulations et des restrictions sur les crypto-monnaies. Cependant, l'impact à long terme pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où le marché est très sensible aux régulations et aux restrictions.",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 15:30:19 +0000"
+      "link": "https://cointelegraph.com/news/russia-crypto-loophole-eu-20th-sanctions-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:43:08 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T18:30:02.814Z",
+  "updatedAt": "2026-02-11T18:45:03.279Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.7",
-      "short": "44.3",
-      "ratio": "1.26"
+      "long": "55.3",
+      "short": "44.7",
+      "ratio": "1.24"
     },
     "accounts": {
-      "long": "66.5",
-      "short": "33.5"
+      "long": "66.8",
+      "short": "33.3"
     },
-    "takerBuySellRatio": "1.30",
+    "takerBuySellRatio": "0.96",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,843",
-    "usd": "5.48B",
-    "change24h": -0.3,
+    "btc": "81,871",
+    "usd": "5.49B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66921,
+    "current": 67020,
     "high24h": 69304,
     "low24h": 65756,
-    "change24h": "-2.87",
+    "change24h": "-2.88",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
+      "bull": 8,
       "bear": 5,
-      "net": 4
+      "net": 3
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,921",
+      "currentPrice": "$67,020",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone d'extrême peur, ce qui peut être une bonne occasion d'acheter. Les grandes institutions sont optimistes, ce qui est un bon signe, et elles investissent même plus de 145 millions de dollars. Les hedge funds, eux, sont très pessimistes, mais ça pourrait jouer en notre faveur. C'est le moment idéal pour acheter, car tout le monde a peur et les prix sont bas !"
+  "story": "Le marché est super nerveux en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les crypto. C'est comme si tout le monde vendait en panique, mais les gros joueurs attendent le bon moment pour frapper. C'est une zone d'accumulation parfaite pour ceux qui ont des nerfs solides !"
 }
