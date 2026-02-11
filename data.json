@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T19:30:03.101Z",
+  "updatedAt": "2026-02-11T19:45:04.122Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.0",
-      "short": "44.0",
-      "ratio": "1.27"
+      "long": "56.1",
+      "short": "43.9",
+      "ratio": "1.28"
     },
     "accounts": {
-      "long": "66.8",
-      "short": "33.2"
+      "long": "67.3",
+      "short": "32.7"
     },
-    "takerBuySellRatio": "1.12",
+    "takerBuySellRatio": "1.30",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,776",
-    "usd": "5.51B",
-    "change24h": -0.1,
+    "btc": "81,687",
+    "usd": "5.54B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67439,
+    "current": 67767,
     "high24h": 69304,
     "low24h": 65756,
-    "change24h": "-2.18",
+    "change24h": "-2.08",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,439",
+      "currentPrice": "$67,767",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Malgré cette peur, il y a eu un afflux de 145 millions de dollars dans les ETF crypto, ce qui est un signe positif. On dirait que le marché est en train de se ressourcer, c'est peut-être le moment de saisir l'occasion !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent contre le marché à 68,9%. C'est comme si tout le monde attendait le feu vert pour se lancer, et avec 145 millions de dollars qui entrent dans les ETF, ça pourrait être le signal qu'il faut. On est clairement dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que c'est peut-être le moment de acheter !"
 }
