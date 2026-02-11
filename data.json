@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T03:15:03.649Z",
+  "updatedAt": "2026-02-11T03:16:00.047Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -32,7 +32,7 @@
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,970",
+    "btc": "80,002",
     "usd": "5.48B",
     "change24h": 0.1,
     "trend": "stable",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "897",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "crashing",
-    "peak": "1115",
-    "change24h": -12.7,
-    "change7d": -10.3,
-    "changeFromPeak": -19.6,
-    "interpretation": "🔴 Hashrate en chute libre (-19.6% depuis le pic). Mineurs en grande difficulté.",
-    "priceImpact": "⚠️ <strong>Impact prix :</strong> Les mineurs vendent du BTC pour payer leurs factures → pression vendeuse à court terme. MAIS historiquement, la capitulation des mineurs marque souvent un <strong>point bas</strong>. Si tu crois au long terme, c'est potentiellement une opportunité.",
-    "signal": "bearish"
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
+    "signal": "neutral"
   },
   "priceData": {
-    "current": 68521,
+    "current": 68520,
     "high24h": 69994,
     "low24h": 67800,
-    "change24h": "-1.88",
+    "change24h": "-1.98",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -133,13 +128,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "strong_accumulation",
+    "label": "ACCUMULATION FORTE",
+    "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bear": 3,
+      "net": 6
     },
     "signals": [
       {
@@ -173,14 +168,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Modéré"
+      "strength": "Fort"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,521",
+      "currentPrice": "$68,520",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -202,13 +197,13 @@
     ],
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $67,800 - $69,300 pour position."
+      "recommendation": "Accumulation progressive",
+      "detail": "DCA sur la zone $67,800 - $69,300. Ne pas FOMO sur les pumps."
     },
     "risk": {
-      "maxPosition": "1-2%",
+      "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Les gros investisseurs institutionnels, eux, restent optimistes et achètent même plus de cryptos, ce qui est un signe positif. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETFs cryptos est en augmentation, ce qui pourrait être un signal de rebond. On dirait qu'on est dans une zone où les prix sont bas et qu'il pourrait être temps d'acheter !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne nouvelle pour les acheteurs ! Les gros investisseurs institutionnels sont optimistes, et beaucoup d'argent entre dans le marché via les ETF. Les hedge funds, eux, sont plutôt négatifs, mais cela pourrait jouer en notre faveur. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
 }
