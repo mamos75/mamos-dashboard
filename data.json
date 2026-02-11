@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T05:00:04.589Z",
+  "updatedAt": "2026-02-11T05:00:18.831Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone d'extrême peur, les gens sont vraiment nerveux ! Les grandes institutions, elles, sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars injectés ces derniers temps. Les hedge funds, par contre, misent sur une baisse, ce qui crée une tension intéressante. C'est la parfaite tempête pour une accumulation discrète, si tu sais quoi faire !"
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 11 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
 }
