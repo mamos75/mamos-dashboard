@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T11:45:03.475Z",
+  "updatedAt": "2026-02-11T12:00:05.358Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "66.0",
-      "short": "34.0"
+      "long": "66.1",
+      "short": "33.9"
     },
-    "takerBuySellRatio": "0.95",
+    "takerBuySellRatio": "0.44",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,697",
-    "usd": "5.53B",
-    "change24h": 0,
+    "btc": "82,680",
+    "usd": "5.55B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66927,
+    "current": 67078,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-2.50",
+    "change24h": "-2.14",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 4,
-      "net": 4
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,927",
+      "currentPrice": "$67,078",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue de rentrer dans les ETF, ce qui est un bon signe. On dirait qu'on est dans une zone où les prix sont bas et que c'est le moment d'acheter !"
+  "story": "Le marché est actuellement dans une zone de peur extrême, les investisseurs sont vraiment nerveux ! Les grandes institutions sont toutefois optimistes et investissent massivement, avec plus de 145 millions de dollars injectés récemment. Les hedge funds, eux, sont plutôt négatifs, mais c'est souvent un signe que le marché est prêt à rebondir. C'est une zone d'accumulation parfaite pour acheter, car tout le monde a peur et les prix sont bas !"
 }
