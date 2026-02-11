@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T19:45:04.122Z",
+  "updatedAt": "2026-02-11T20:00:03.700Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.1",
-      "short": "43.9",
-      "ratio": "1.28"
+      "long": "56.5",
+      "short": "43.5",
+      "ratio": "1.30"
     },
     "accounts": {
-      "long": "67.3",
-      "short": "32.7"
+      "long": "67.0",
+      "short": "33.1"
     },
-    "takerBuySellRatio": "1.30",
+    "takerBuySellRatio": "1.33",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,687",
-    "usd": "5.54B",
-    "change24h": -0.2,
+    "btc": "81,505",
+    "usd": "5.51B",
+    "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67767,
-    "high24h": 69304,
+    "current": 67570,
+    "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-2.08",
+    "change24h": "-2.15",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,767",
+      "currentPrice": "$67,570",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent contre le marché à 68,9%. C'est comme si tout le monde attendait le feu vert pour se lancer, et avec 145 millions de dollars qui entrent dans les ETF, ça pourrait être le signal qu'il faut. On est clairement dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que c'est peut-être le moment de acheter !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont nerveux et ont tendance à vendre. Mais attention, les institutions sont plutôt optimistes et investissent même plus de 145 millions de dollars ! Les hedge funds, eux, misent sur une baisse, mais les signaux sont plutôt favorables à une accumulation, ce qui pourrait signifier que les prix sont prêts à rebondir. C'est le moment de rester calme et de regarder les opportunités !"
 }
