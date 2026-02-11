@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-11T03:45:08.172Z",
+  "updatedAt": "2026-02-11T03:46:08.953Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ZONE D'ACCUMULATION"
+    "signal": "ACCUMULATION FORTE"
   },
-  "narrative": "Actuellement, le marché des cryptomonnaies est caractérisé par une peur extrême, avec un indice de peur et de cupidité à 11/100, et de nombreux hedge funds pariant contre le Bitcoin. Cependant, malgré cette peur, on observe des signes d'accumulation de la part des investisseurs intelligents, avec des flux d'argent positifs dans les ETF et une zone d'accumulation identifiée. Les annonces de LayerZero et Robinhood, qui lancent de nouvelles technologies pour améliorer l'écosystème des cryptomonnaies, pourraient être un signal positif pour le marché. Avec la zone d'achat pour Ethereum identifiée en dessous de 2000$, il pourrait être judicieux d'attendre et d'observer les mouvements du marché avant de prendre une décision d'investissement. Il est peut-être temps d'accumuler des cryptomonnaies à des prix bas, mais il est important de rester prudent et de ne pas se laisser emporter par les émotions du marché.",
+  "narrative": null,
   "news": [
     {
-      "title": "Robinhood Q4 : déception",
+      "title": "Robinhood Q4 earnings miss as crypto revenues decline",
       "titleOriginal": "Robinhood Q4 earnings miss as crypto revenues decline",
-      "summary": "Les revenus de Robinhood ont déçu les analystes en raison d'une baisse des revenus liés aux crypto-monnaies.",
-      "impact": "bearish",
-      "priceEffect": "Cette nouvelle pourrait accentuer la peur extrême actuelle sur le marché, mais l'impact sur le prix pourrait être limité car les hedge funds sont déjà à 68,9% short. Le marché pourrait être en train de chercher un point de rebond.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de fear extrême et de hedge funds majoritairement short.",
+      "summary": "Robinhood shares fell nearly 8% in after-hours trading as the platform’s record Q4 revenues weren’t enough to satisfy analysts’ predictions.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 03:27:34 +0000"
     },
     {
-      "title": "LayerZero lance 'Zero'",
+      "title": "LayerZero unveils ‘Zero’ chain, with Citadel, ARK backing",
       "titleOriginal": "LayerZero unveils ‘Zero’ chain, with Citadel, ARK backing",
-      "summary": "LayerZero a annoncé le lancement de sa nouvelle chaîne 'Zero' avec le soutien de Citadel et ARK.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle apporte une perspective positive sur l'adoption et l'innovation dans l'espace crypto. Le contexte actuel de fear extrême pourrait amplifier l'impact positif.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de zone d'accumulation et d'institutions bullish.",
-      "importance": 4,
+      "summary": "Zero is scheduled to launch in the fall of 2026 and LayerZero Labs claims it can scale up to two million transactions per second by leveraging zero-kn",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/layerzero-launching-zero-blockchain-with-backing-from-citadel-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 02:57:56 +0000"
     },
     {
-      "title": "Robinhood teste L2",
+      "title": "Ex-SafeMoon chief sentenced to 8 years over $9M investor fraud",
+      "titleOriginal": "Ex-SafeMoon chief sentenced to 8 years over $9M investor fraud",
+      "summary": "SafeMoon’s former chief technology officer, Thomas Smith, has also pleaded guilty and is awaiting sentencing. Alleged co-conspirator Kyle Nagy remains",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/safemoon-ceo-sentenced-8-years-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 01:42:58 +0000"
+    },
+    {
+      "title": "Robinhood launches Ethereum layer-2 testnet for tokenized assets",
       "titleOriginal": "Robinhood launches Ethereum layer-2 testnet for tokenized assets",
-      "summary": "Robinhood a lancé un testnet pour son Ethereum layer-2 basé sur Arbitrum.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à une adoption accrue des technologies crypto et à une confiance renouvelée dans les infrastructures DeFi, ce qui pourrait soutenir un rebond du marché dans le contexte actuel.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel d'institutions bullish et de zone d'accumulation.",
-      "importance": 4,
+      "summary": "Robinhood is testing its own Arbitrum‑based Ethereum layer‑2, deepening its push into tokenized stocks and DeFi infrastructure alongside other major e",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-launches-ethereum-layer-2-testnet-for-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 01:30:00 +0000"
     },
     {
-      "title": "ETH : zone d'achat",
-      "titleOriginal": "Large demand zone below $2K ETH price gives signal on where Ether may go",
-      "summary": "Une analyse technique suggère qu'il existe une zone d'achat importante pour Ethereum en dessous de 2000$.",
-      "impact": "bullish",
-      "priceEffect": "Cette analyse pourrait soutenir un rebond d'Ethereum et, par extension, du marché crypto global, car elle identifie une zone de soutien clé. Le contexte actuel de fear extrême pourrait rendre cette zone d'achat particulièrement attractive.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de zone d'accumulation et d'institutions bullish.",
-      "importance": 5,
+      "title": "Crypto miner Canaan sinks 7% despite strongest quarter in 3 years",
+      "titleOriginal": "Crypto miner Canaan sinks 7% despite strongest quarter in 3 years",
+      "summary": "Canaan’s fall on Tuesday sent its share price to $0.56, falling further from the $1 it must reclaim by July to avoid a potential Nasdaq delisting.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/large-demand-zone-below-dollar2k-eth-price-gives-signal-on-where-ether-may-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Tue, 10 Feb 2026 22:45:00 +0000"
-    },
-    {
-      "title": "Traders BTC hésitants",
-      "titleOriginal": "Top Bitcoin traders refuse to turn bullish despite BTC’s 14% rebound: Here’s why",
-      "summary": "Les meilleurs traders de Bitcoin hésitent à prendre des positions longues malgré le rebond de 14%.",
-      "impact": "bearish",
-      "priceEffect": "Cette hésitation pourrait indiquer un manque de conviction dans le rebond actuel de Bitcoin, ce qui pourrait limiter la hauteur du rebond ou même conduire à une correction. Cependant, le contexte actuel de fear extrême et de hedge funds short pourrait déjà refléter cette hésitation.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de fear extrême et de hedge funds majoritairement short.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/top-bitcoin-traders-refuse-to-turn-bullish-despite-btc-s-14-rebound-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Tue, 10 Feb 2026 21:48:23 +0000"
+      "link": "https://cointelegraph.com/news/crypto-miner-canaan-shares-fall-on-q4-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Tue, 10 Feb 2026 23:37:59 +0000"
     }
   ]
 }
