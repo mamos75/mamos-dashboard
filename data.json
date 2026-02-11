@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T04:15:03.990Z",
+  "updatedAt": "2026-02-11T04:15:50.447Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -32,7 +32,7 @@
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,877",
+    "btc": "80,883",
     "usd": "5.50B",
     "change24h": 0.1,
     "trend": "stable",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "897",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "crashing",
-    "peak": "1115",
-    "change24h": -12.7,
-    "change7d": -10.3,
-    "changeFromPeak": -19.6,
-    "interpretation": "🔴 Hashrate en chute libre (-19.6% depuis le pic). Mineurs en grande difficulté.",
-    "priceImpact": "⚠️ <strong>Impact prix :</strong> Les mineurs vendent du BTC pour payer leurs factures → pression vendeuse à court terme. MAIS historiquement, la capitulation des mineurs marque souvent un <strong>point bas</strong>. Si tu crois au long terme, c'est potentiellement une opportunité.",
-    "signal": "bearish"
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
+    "signal": "neutral"
   },
   "priceData": {
-    "current": 68038,
+    "current": 68048,
     "high24h": 69994,
     "low24h": 67800,
-    "change24h": "-2.50",
+    "change24h": "-2.45",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +133,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bear": 4,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +175,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,038",
+      "currentPrice": "$68,048",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +205,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les grandes institutions sont optimistes et achètent, ce qui pourrait être un bon signe pour l'avenir. Les hedge funds, eux, misent sur une baisse, mais les flux d'argent dans les ETF sont positifs, ce qui montre que les investisseurs institutionnels croient en la reprise. C'est une zone d'accumulation, il faut peut-être saisir cette occasion pour acheter à bas prix !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont majoritairement contre, ce qui pourrait créer une belle opportunité d'achat. C'est comme si le marché criait : \"C'est le moment d'acheter !"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T04:15:04.252Z",
+  "updatedAt": "2026-02-11T04:15:51.172Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -7,6 +7,17 @@
   },
   "narrative": null,
   "news": [
+    {
+      "title": "Tokenized commodities market crosses $6B amid gold's historic rally",
+      "titleOriginal": "Tokenized commodities market crosses $6B amid gold's historic rally",
+      "summary": "Tether Gold and the Paxos-listed PAX Gold account for over 95% of the tokenized commodities market, which is now outpacing tokenized stocks and funds.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 04:14:03 +0000"
+    },
     {
       "title": "Robinhood Q4 earnings miss as crypto revenues decline",
       "titleOriginal": "Robinhood Q4 earnings miss as crypto revenues decline",
@@ -50,17 +61,6 @@
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-launches-ethereum-layer-2-testnet-for-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 01:30:00 +0000"
-    },
-    {
-      "title": "Crypto miner Canaan sinks 7% despite strongest quarter in 3 years",
-      "titleOriginal": "Crypto miner Canaan sinks 7% despite strongest quarter in 3 years",
-      "summary": "Canaan’s fall on Tuesday sent its share price to $0.56, falling further from the $1 it must reclaim by July to avoid a potential Nasdaq delisting.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-miner-canaan-shares-fall-on-q4-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Tue, 10 Feb 2026 23:37:59 +0000"
     }
   ]
 }
