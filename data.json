@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T02:30:04.279Z",
+  "updatedAt": "2026-02-11T02:45:03.003Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.2",
+      "long": "55.3",
       "short": "44.8",
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "1.60",
-    "trend": "more_short",
+    "takerBuySellRatio": "1.04",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,494",
-    "usd": "5.49B",
-    "change24h": 0,
+    "btc": "79,602",
+    "usd": "5.48B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,8 +61,8 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69063,
-    "high24h": 70299,
+    "current": 68870,
+    "high24h": 70192,
     "low24h": 67800,
     "change24h": "-1.69",
     "weekHigh": 73341,
@@ -72,7 +72,7 @@
       60000
     ],
     "resistances": [
-      70300,
+      70200,
       71500,
       73300
     ],
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
+      "bull": 8,
       "bear": 5,
-      "net": 4
+      "net": 3
     },
     "signals": [
       {
@@ -180,10 +180,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,063",
+      "currentPrice": "$68,870",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
-      "target1": "$70,300",
+      "target1": "$70,200",
       "target2": "$71,500"
     },
     "factors": [
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est comme si tout le monde avait peur de perdre. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, mais les gens continuent d'acheter, ce qui signale que nous sommes peut-être dans une zone où les prix sont bas et qu'il pourrait être temps d'investir. C'est l'occasion parfaite pour acheter à bas prix !"
+  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et mettent leur argent dans les cryptos, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens commencent à voir les opportunités. C'est la peur qui domine, mais c'est peut-être justement le moment de saisir les occasions !"
 }
