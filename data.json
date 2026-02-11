@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T08:30:05.935Z",
+  "updatedAt": "2026-02-11T08:45:04.025Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.6",
-      "short": "45.4",
-      "ratio": "1.20"
+      "long": "54.3",
+      "short": "45.7",
+      "ratio": "1.19"
     },
     "accounts": {
       "long": "65.4",
       "short": "34.6"
     },
-    "takerBuySellRatio": "0.47",
+    "takerBuySellRatio": "0.94",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,319",
-    "usd": "5.51B",
+    "btc": "82,300",
+    "usd": "5.52B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66886,
+    "current": 67027,
     "high24h": 69994,
     "low24h": 66558,
-    "change24h": "-3.11",
+    "change24h": "-2.98",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,886",
+      "currentPrice": "$67,027",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. Il y a même plus de 145 millions de dollars qui entrent dans les fonds liés aux cryptos, ce qui est un signe positif. On dirait que c'est le moment idéal pour accumuler des cryptos, les prix sont bas et les investisseurs intelligents en profitent !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, misent contre le marché, ce qui pourrait créer une belle opportunité pour nous. C'est comme si tout le monde attendait le feu vert pour se lancer, on est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que c'est peut-être le moment de saisir l'occasion !"
 }

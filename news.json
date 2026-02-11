@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T08:30:09.890Z",
+  "updatedAt": "2026-02-11T08:45:04.401Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Spark lance suite de prêt",
+      "title": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
       "titleOriginal": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
-      "summary": "Spark propose de nouveaux services de prêt pour les institutions",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre un intérêt institutionnel croissant pour les stablecoins, ce qui pourrait contrebalancer l'extrême peur actuelle. Les flux d'ETF positifs de 145M$ en 24h soutiennent également cette tendance.",
-      "contextLink": "Cette news se connecte au contexte actuel par l'intérêt institutionnel pour les cryptos, malgré l'extrême peur du marché.",
-      "importance": 4,
+      "summary": "Spark is rolling out Spark Prime and Spark Institutional Lending, aiming to turn its DeFi stablecoin stack into institutional margin and credit lines.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spark-new-lending-suite-onchain-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:12:57 +0000"
     },
     {
-      "title": "Bitcoin chute de 3%",
+      "title": "Bitcoin price drops 3% as analyst warns bulls lack 'momentum' to flip $69K",
       "titleOriginal": "Bitcoin price drops 3% as analyst warns bulls lack 'momentum' to flip $69K",
-      "summary": "Le prix du Bitcoin baisse en raison d'un manque de momentum",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait exacerber la tendance baissière actuelle, mais dans un marché déjà très bearish, son impact pourrait être limité, car les hedge funds sont déjà à 68,9% short.",
-      "contextLink": "Cette news se connecte au contexte actuel par la peur extrême qui domine le marché, ce qui rend les investisseurs prudentes.",
+      "summary": "Bitcoin analysis warned the $69,000 mark may end up as long-term resistance again, thanks to its significance in BTC price history.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:00:08 +0000"
     },
     {
-      "title": "Fin de l'âge de la spéculation",
+      "title": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
+      "titleOriginal": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
+      "summary": "Crypto political action committee Fairshake spent roughly $130 million during the 2024 US elections to support pro-crypto candidates.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/fairshake-barry-moore-alabama-senate-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 06:24:17 +0000"
+    },
+    {
+      "title": "White House crypto bill talks ‘productive,’ but no deal yet",
+      "titleOriginal": "White House crypto bill talks ‘productive,’ but no deal yet",
+      "summary": "The second meeting between crypto and the banks at the White House over the crypto market structure bill has yet to come to an agreement on stablecoin",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/crypto-banks-white-house-crypto-bill-meeting-productive-no-deal-reached?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 06:09:43 +0000"
+    },
+    {
+      "title": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
       "titleOriginal": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
-      "summary": "Le PDG de Galaxy pense que l'âge de la spéculation dans les cryptos est en train de se terminer",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait être interprétée comme un signe de maturité du marché, ce qui pourrait attirer davantage d'investisseurs institutionnels et contribuer à une tendance haussière à long terme, malgré la peur actuelle.",
-      "contextLink": "Cette news se connecte au contexte actuel par l'intérêt institutionnel pour les cryptos, malgré l'extrême peur du marché.",
-      "importance": 4,
+      "summary": "Galaxy CEO Mike Novogratz says crypto's high-risk, high-reward reputation could be replaced by lower, steadier returns brought by real-world asset tok",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 05:55:07 +0000"
-    },
-    {
-      "title": "Marché des matières premières tokenisées",
-      "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Le marché des matières premières tokenisées dépasse les 6 milliards de dollars",
-      "impact": "bullish",
-      "priceEffect": "Cette news montre un intérêt croissant pour les applications concrètes des technologies blockchain, ce qui pourrait soutenir une tendance haussière à long terme, même si le marché actuel est dominé par la peur.",
-      "contextLink": "Cette news se connecte au contexte actuel par la zone d'accumulation, où les investisseurs cherchent des opportunités de croissance à long terme.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 04:14:03 +0000"
-    },
-    {
-      "title": "Lancement de Zero",
-      "titleOriginal": "LayerZero unveils ‘Zero’ chain with Citadel Securities, ARK Invest backing",
-      "summary": "LayerZero lance une nouvelle chaîne appelée Zero avec le soutien de Citadel Securities et ARK Invest",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif à long terme sur le marché, car elle montre des progrès technologiques et un intérêt institutionnel croissant, ce qui pourrait soutenir une tendance haussière à long terme, même si le marché actuel est dominé par la peur.",
-      "contextLink": "Cette news se connecte au contexte actuel par l'intérêt institutionnel pour les cryptos, malgré l'extrême peur du marché, et la zone d'accumulation, où les investisseurs cherchent des opportunités de croissance à long terme.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/layerzero-launching-zero-blockchain-with-backing-from-citadel-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 02:57:56 +0000"
     }
   ]
 }
