@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T13:30:04.218Z",
+  "updatedAt": "2026-02-11T13:45:06.822Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Arkham Exchange pivoting to fully decentralized platform, CEO says",
-      "titleOriginal": "Arkham Exchange pivoting to fully decentralized platform, CEO says",
-      "summary": "Arkham CEO denies shutdown reports as the exchange pivots from a CEX to a fully decentralized model amid record DEX derivatives growth.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "title": "XRP: Chute possible",
+      "titleOriginal": "XRP analysts explain why price drop below $1 ‘remains possible’",
+      "summary": "Le prix de XRP pourrait chuter en dessous de 1$",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait accentuer la tendance baissière de XRP, mais dans le contexte actuel de peur extrême, elle pourrait être déjà prise en compte par les investisseurs. Le prix pourrait donc ne pas être trop affecté.",
+      "contextLink": "La peur extrême du marché actuel pourrait limiter l'impact de cette news bearish sur le prix de XRP.",
       "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/xrp-analysts-why-price-drop-below-1-dollar-possible?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 13:32:41 +0000"
+    },
+    {
+      "title": "Arkham: Décenralisation",
+      "titleOriginal": "Arkham Exchange pivoting to fully decentralized platform, CEO says",
+      "summary": "L'échange Arkham passe à un modèle décentralisé",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une légère hausse des prix des cryptomonnaies, car elle indique une adoption croissante des modèles décentralisés. Dans le contexte actuel, cela pourrait aider à inverser la tendance baissière.",
+      "contextLink": "Le signal d'accumulation forte du marché actuel pourrait être renforcé par cette news, car elle indique une volonté d'adopter des modèles plus décentralisés et innovants.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 13:00:38 +0000"
     },
     {
-      "title": "Why Bitcoin has recently reacted more to liquidity conditions than to rate cuts",
-      "titleOriginal": "Why Bitcoin has recently reacted more to liquidity conditions than to rate cuts",
-      "summary": "Bitcoin’s recent moves track liquidity stress more than Fed rate cuts. Here’s how balance sheet policy and cash flows shape crypto markets.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-to-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 12:56:00 +0000"
-    },
-    {
-      "title": "Google Cloud flags North Korea-linked crypto malware campaign",
-      "titleOriginal": "Google Cloud flags North Korea-linked crypto malware campaign",
-      "summary": "Mandiant, which operates under Google Cloud, has tracked the suspected North Korean scammers since 2018, and AI has helped scale up malicious attacks ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/north-korean-hackers-malware-crypto-fintech-social-engineering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 12:22:44 +0000"
-    },
-    {
-      "title": "Hong Kong greenlights crypto margin financing and perpetual trading",
+      "title": "Hong Kong: Margin",
       "titleOriginal": "Hong Kong greenlights crypto margin financing and perpetual trading",
-      "summary": "Hong Kong’s SFC will allow licensed brokers to offer digital asset margin financing and set a framework for crypto perpetuals for professionals.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Hong Kong autorise la marge et le trading permanent pour les cryptomonnaies",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une hausse des prix des cryptomonnaies, car elle indique une adoption croissante des marchés de cryptomonnaies par les institutions. Dans le contexte actuel, cela pourrait aider à inverser la tendance baissière.",
+      "contextLink": "Le signal d'accumulation forte du marché actuel pourrait être renforcé par cette news, car elle indique une volonté d'adopter les marchés de cryptomonnaies par les institutions et les régulateurs.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/hong-kong-sfc-crypto-margin-perps-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 11:55:17 +0000"
     },
     {
-      "title": "European Parliament throws support behind digital euro",
+      "title": "Euro numérique",
       "titleOriginal": "European Parliament throws support behind digital euro",
-      "summary": "European lawmakers endorsed the ECB’s digital euro plans as a way to shore up the bloc’s monetary sovereignty, while reiterating that the central bank",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le Parlement européen soutient l'euro numérique",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une légère hausse des prix des cryptomonnaies, car elle indique une adoption croissante des technologies de paiement numérique. Dans le contexte actuel, cela pourrait aider à inverser la tendance baissière.",
+      "contextLink": "Le signal d'accumulation forte du marché actuel pourrait être renforcé par cette news, car elle indique une volonté d'adopter les technologies de paiement numérique par les régulateurs.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/european-parliament-backs-ecb-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 11:20:19 +0000"
+    },
+    {
+      "title": "Ethereum: Accumulation",
+      "titleOriginal": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
+      "summary": "Les détenteurs d'Ethereum accumulent des ethers malgré la baisse du prix",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une hausse des prix d'Ethereum, car elle indique une confiance forte des investisseurs dans le long terme. Dans le contexte actuel, cela pourrait aider à inverser la tendance baissière.",
+      "contextLink": "Le signal d'accumulation forte du marché actuel est renforcé par cette news, car elle indique une volonté d'accumuler des ethers malgré la baisse du prix.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 11:08:05 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T13:30:03.763Z",
+  "updatedAt": "2026-02-11T13:45:02.986Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "65.9",
-      "short": "34.1"
+      "long": "66.0",
+      "short": "34.0"
     },
-    "takerBuySellRatio": "2.48",
+    "takerBuySellRatio": "1.06",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,296",
-    "usd": "5.53B",
-    "change24h": -0.1,
+    "btc": "82,484",
+    "usd": "5.55B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67200,
+    "current": 67246,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-2.21",
+    "change24h": "-2.59",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,200",
+      "currentPrice": "$67,246",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec une note de 11/100, ce qui signifie que tout le monde a très peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour les acheteurs. Les grandes institutions sont optimistes, ce qui est un bon signe. Les investisseurs institutionnels ont injecté 145 millions de dollars dans les ETF, ce qui montre leur confiance. C'est le moment idéal pour accumuler, car le marché est en train de se renforcer en silence."
 }
