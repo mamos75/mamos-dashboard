@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-11T11:30:07.217Z",
+  "updatedAt": "2026-02-11T11:45:03.859Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Euro numérique",
+      "title": "European Parliament throws support behind digital euro",
       "titleOriginal": "European Parliament throws support behind digital euro",
-      "summary": "Le Parlement européen soutient le plan d'euro numérique de la BCE",
-      "impact": "bullish",
-      "priceEffect": "Dans un marché en extrême peur, cette nouvelle pourrait contribuer à un rebond potentiel, car elle montre un soutien institutionnel à l'adoption des cryptomonnaies",
-      "contextLink": "Les institutions sont déjà bullish, cette nouvelle renforce leur position",
-      "importance": 4,
+      "summary": "European lawmakers endorsed the ECB’s digital euro plans as a way to shore up the bloc’s monetary sovereignty, while reiterating that the central bank",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/european-parliament-backs-ecb-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 11:20:19 +0000"
     },
     {
-      "title": "Accumulation ETH",
+      "title": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
       "titleOriginal": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
-      "summary": "Les détenteurs d'Ethereum accumulent malgré la baisse du prix",
-      "impact": "bullish",
-      "priceEffect": "Cette accumulation forte pourrait être un signe de confiance dans le long terme et contribuer à un rebond du prix, notamment avec le signal global d'accumulation forte",
-      "contextLink": "Le signal global d'accumulation forte est déjà présent, cette nouvelle le renforce",
-      "importance": 5,
+      "summary": "Ether inflows into accumulation addresses spike despite ETH price falling below $2,000, signalling strong investor confidence in the long term.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 11:08:05 +0000"
     },
     {
-      "title": "ETF Bitcoin",
+      "title": "Uniswap scores early win as US judge dismisses Bancor patent suit",
+      "titleOriginal": "Uniswap scores early win as US judge dismisses Bancor patent suit",
+      "summary": "The court granted Uniswap’s motion to dismiss without prejudice, allowing plaintiffs 21 days to amend before the dismissal becomes final.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/judge-dismisses-bancor-patent-case-uniswap-abstract-ideas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 09:31:50 +0000"
+    },
+    {
+      "title": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
       "titleOriginal": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
-      "summary": "Les ETF Bitcoin spot ajoutent 167 millions de dollars",
-      "impact": "bullish",
-      "priceEffect": "Ces influx d'argent dans les ETF Bitcoin spot pourraient contribuer à un rebond du prix, surtout avec les hedge funds déjà à 68,9% short",
-      "contextLink": "Les flux d'argent dans les ETF sont déjà positifs, cette nouvelle les renforce",
-      "importance": 4,
+      "summary": "Spot Bitcoin ETFs have posted $311 million inflows this week, almost offsetting last week’s $318 million outflows, even as BTC fell 13%.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-add-167m-nearly-erase-last-week-s-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 09:09:03 +0000"
     },
     {
-      "title": "Tokenisation MMF",
+      "title": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
       "titleOriginal": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
-      "summary": "Franklin Templeton permet la tokenisation des parts de fonds monétaires",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait ouvrir de nouvelles opportunités d'investissement et renforcer l'adoption institutionnelle des cryptomonnaies",
-      "contextLink": "Les institutions sont déjà bullish, cette nouvelle élargit leurs possibilités d'investissement",
-      "importance": 4,
+      "summary": "Franklin Templeton is letting institutions pledge tokenized money market fund shares as collateral for trading on Binance, while keeping the fund asse",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/franklin-templeton-binance-tokenized-mmf-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:53:14 +0000"
-    },
-    {
-      "title": "Prêt stablecoin",
-      "titleOriginal": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
-      "summary": "Spark lance une nouvelle plateforme de prêt pour les stablecoins",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à l'adoption des stablecoins et renforcer l'écosystème, mais son impact sur le prix est indirect",
-      "contextLink": "Cette nouvelle montre l'évolution de l'écosystème, mais n'a pas d'impact direct sur le marché actuel",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/spark-new-lending-suite-onchain-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 08:12:57 +0000"
     }
   ]
 }
