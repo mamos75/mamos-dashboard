@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T05:00:18.831Z",
+  "updatedAt": "2026-02-11T05:15:03.656Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.2",
-      "short": "44.8",
-      "ratio": "1.23"
+      "long": "55.3",
+      "short": "44.7",
+      "ratio": "1.24"
     },
     "accounts": {
-      "long": "65.1",
-      "short": "34.9"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "0.69",
+    "takerBuySellRatio": "1.48",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,694",
+    "btc": "81,571",
     "usd": "5.52B",
-    "change24h": 1.1,
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67585,
+    "current": 67718,
     "high24h": 69994,
     "low24h": 67368,
-    "change24h": "-3.23",
+    "change24h": "-2.97",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,585",
+      "currentPrice": "$67,718",
       "entryZone": "$67,400 - $68,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 11 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
+  "story": "Le marché est actuellement dans une phase de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les grandes institutions sont optimistes, ce qui contraste avec les fonds spéculatifs qui misent à la baisse. Il y a même un afflux d'argent dans les fonds liés aux crypto, ce qui est un signe positif. C'est le moment idéal pour accumuler, car le marché est sous-évalué !"
 }
