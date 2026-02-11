@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T01:45:03.209Z",
+  "updatedAt": "2026-02-11T02:00:03.402Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "64.8",
       "short": "35.2"
     },
-    "takerBuySellRatio": "0.76",
+    "takerBuySellRatio": "1.25",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,465",
+    "btc": "79,505",
     "usd": "5.49B",
     "change24h": 0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69074,
-    "high24h": 70490,
+    "current": 68991,
+    "high24h": 70464,
     "low24h": 67800,
-    "change24h": "-1.98",
+    "change24h": "-2.08",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,074",
+      "currentPrice": "$68,991",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,500",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont super peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent énormément sur une baisse. Malgré tout, de l'argent entre dans le marché via des fonds négociés en bourse. C'est une zone d'accumulation, c'est-à-dire que c'est peut-être le moment de rentrer dans le marché avant que les choses s'accélèrent !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les investisseurs sont vraiment nerveux ! Les gros joueurs, comme les hedge funds, misent contre le marché, mais les institutions sont optimistes. C'est comme si tout le monde attendait le feu vert pour plonger, et les flux d'argent vers les ETF montrent que les gens commencent à se positionner. C'est la zone parfaite pour acheter, car tout est en place pour un énorme rebond !"
 }
