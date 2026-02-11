@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T22:15:03.056Z",
+  "updatedAt": "2026-02-11T22:30:03.612Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "66.9",
-      "short": "33.1"
+      "long": "66.7",
+      "short": "33.3"
     },
-    "takerBuySellRatio": "1.38",
+    "takerBuySellRatio": "0.90",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,429",
-    "usd": "5.51B",
-    "change24h": -0.1,
+    "btc": "81,451",
+    "usd": "5.50B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67668,
+    "current": 67586,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-1.41",
+    "change24h": "-1.60",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,668",
+      "currentPrice": "$67,586",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont super nerveux ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent contre le marché, ce qui crée une tension incroyable. Malgré cela, les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens continuent d'investir. C'est une zone d'accumulation, le moment idéal pour acheter, mais il faut être courageux !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens sont prêts à prendre des risques. C'est l'occasion parfaite de faire des affaires, le marché est en zone d'accumulation !"
 }
