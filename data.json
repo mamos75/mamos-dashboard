@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T17:15:04.701Z",
+  "updatedAt": "2026-02-11T17:30:03.883Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
+      "long": "54.4",
+      "short": "45.6",
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "66.6",
-      "short": "33.4"
+      "long": "67.1",
+      "short": "32.9"
     },
-    "takerBuySellRatio": "0.75",
+    "takerBuySellRatio": "0.93",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "81,486",
-    "usd": "5.40B",
+    "btc": "81,535",
+    "usd": "5.43B",
     "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66288,
+    "current": 66656,
     "high24h": 69994,
     "low24h": 65756,
-    "change24h": "-4.50",
+    "change24h": "-4.32",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,288",
+      "currentPrice": "$66,656",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment stressés ! Les gros investisseurs institutionnels, eux, restent positifs et achètent même plus d'actions, ce qui est plutôt rassurant. Les hedge funds, par contre, sont très négatifs, mais c'est peut-être une bonne occasion pour nous de acheter à bas prix. C'est comme si le marché nous disait : \"Allez, c'est le moment d'acheter, je suis en zone d'accumulation !\""
+  "story": "Le marché est actuellement plongé dans la peur, c'est extrême ! Les gros investisseurs institutionnels sont pourtant optimistes et mettent de l'argent dans les cryptos, ce qui est un bon signe. Les hedge funds, eux, sont plutôt négatifs, mais les flux d'argent frais dans les ETF sont très encourageants. On dirait que c'est le moment idéal pour acheter, le marché est en phase d'accumulation !"
 }

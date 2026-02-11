@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T17:15:08.765Z",
+  "updatedAt": "2026-02-11T17:30:04.241Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Malaisie lance sandbox",
+      "title": "Malaysia's central bank announces stablecoin and tokenization sandbox",
       "titleOriginal": "Malaysia's central bank announces stablecoin and tokenization sandbox",
-      "summary": "La banque centrale de Malaisie lance un programme de sandbox pour les stablecoins et la tokenisation",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre un intérêt croissant des institutions pour les crypto-monnaies, ce qui pourrait contrebalancer les positions short des hedge funds. Dans le contexte actuel de fear extrême, cela pourrait être un signal de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de bullish des institutions et de flux d'argent positif dans les ETF",
-      "importance": 4,
+      "summary": "The pilot programs explore wholesale settlement between institutions and real-world use cases, along with stablecoin development and tokenized bank de",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:59:59 +0000"
     },
     {
-      "title": "Bitcoin à 150K ?",
+      "title": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
       "titleOriginal": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
-      "summary": "Un article analyse les conditions nécessaires pour que Bitcoin atteigne 150 000 $ d'ici la fin de l'année",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer les attentes des investisseurs et contribuer à un rebond du marché, car elle montre que certains analystes sont toujours optimistes sur le potentiel de Bitcoin à long terme. Cependant, dans le contexte actuel, cela pourrait être déjà pricé.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positions short des hedge funds, ce qui pourrait rendre un rebond plus probable",
+      "summary": "Bitcoin price could still reach $150,000 by year-end, but several things must happen for BTC price to find its technical footing and spark a new bull ",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:30:00 +0000"
     },
     {
-      "title": "UE contre la Russie",
+      "title": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
+      "titleOriginal": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
+      "summary": "Bitcoin volatility spiked on the back of surprisingly strong US nonfarm payrolls numbers, but traders retained $50,000 BTC price targets. Will a Feder",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 15:30:19 +0000"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:53:39 +0000"
+    },
+    {
+      "title": "EU seeks to close Russia crypto loopholes in new sanctions",
       "titleOriginal": "EU seeks to close Russia crypto loopholes in new sanctions",
-      "summary": "L'Union européenne cherche à fermer les failles dans les sanctions contre la Russie en matière de crypto-monnaies",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix des crypto-monnaies, car elle montre que les gouvernements sont de plus en plus intéressés à réguler et à contrôler les transactions en crypto-monnaies. Cependant, dans le contexte actuel de fear extrême, cela pourrait être déjà pricé.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positions short des hedge funds, ce qui pourrait rendre un rebond plus probable si les investisseurs estiment que les régulations ne seront pas trop sévères",
+      "summary": "The EU plans to ban crypto transactions with Russia by shutting down all related channels, but analysts question whether the measure is fully enforcea",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/russia-crypto-loophole-eu-20th-sanctions-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:43:08 +0000"
-    },
-    {
-      "title": "Danske Bank ouvre aux ETP",
-      "titleOriginal": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
-      "summary": "La banque danoise Danske Bank permet à ses clients d'acheter des ETP sur Bitcoin et Ether",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre que les institutions sont de plus en plus ouvertes aux crypto-monnaies et aux produits dérivés. Dans le contexte actuel de fear extrême, cela pourrait être un signal de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de bullish des institutions et de flux d'argent positif dans les ETF",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:22:26 +0000"
-    },
-    {
-      "title": "Sam Bankman-Fried",
-      "titleOriginal": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
-      "summary": "Sam Bankman-Fried demande un nouveau procès pour l'affaire FTX, alléguant que les témoins ont été muselés",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix des crypto-monnaies, car elle montre que les problèmes de régulation et de confiance dans le secteur des crypto-monnaies sont toujours présents. Cependant, dans le contexte actuel de fear extrême, cela pourrait être déjà pricé.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positions short des hedge funds, ce qui pourrait rendre un rebond plus probable si les investisseurs estiment que les problèmes de régulation ne seront pas trop sévères",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:00:43 +0000"
     }
   ]
 }
