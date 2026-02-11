@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-11T13:15:07.263Z",
+  "updatedAt": "2026-02-11T13:30:04.218Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ZONE D'ACCUMULATION"
+    "signal": "ACCUMULATION FORTE"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Arkham passe à la décentralisation",
+      "title": "Arkham Exchange pivoting to fully decentralized platform, CEO says",
       "titleOriginal": "Arkham Exchange pivoting to fully decentralized platform, CEO says",
-      "summary": "L'échange Arkham passe à un modèle décentralisé",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre une adaptation positive des échanges de cryptomonnaies. Dans le contexte actuel de peur extrême, cela pourrait être un facteur de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs institutionnels sont bullish et les flux d'ETF sont positifs.",
-      "importance": 4,
+      "summary": "Arkham CEO denies shutdown reports as the exchange pivots from a CEX to a fully decentralized model amid record DEX derivatives growth.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 13:00:38 +0000"
     },
     {
-      "title": "Bitcoin suit la liquidité",
+      "title": "Why Bitcoin has recently reacted more to liquidity conditions than to rate cuts",
       "titleOriginal": "Why Bitcoin has recently reacted more to liquidity conditions than to rate cuts",
-      "summary": "Bitcoin suit les conditions de liquidité plutôt que les taux d'intérêt",
+      "summary": "Bitcoin’s recent moves track liquidity stress more than Fed rate cuts. Here’s how balance sheet policy and cash flows shape crypto markets.",
       "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact direct sur le prix, mais elle fournit une explication pour les mouvements récents du marché. Dans le contexte actuel, cela pourrait aider les traders à mieux comprendre les facteurs qui influencent le marché.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les conditions de liquidité sont tendues et les taux d'intérêt sont en baisse.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-to-rate-cuts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 12:56:00 +0000"
     },
     {
-      "title": "Hong Kong ouvre aux crypto",
+      "title": "Google Cloud flags North Korea-linked crypto malware campaign",
+      "titleOriginal": "Google Cloud flags North Korea-linked crypto malware campaign",
+      "summary": "Mandiant, which operates under Google Cloud, has tracked the suspected North Korean scammers since 2018, and AI has helped scale up malicious attacks ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/north-korean-hackers-malware-crypto-fintech-social-engineering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 12:22:44 +0000"
+    },
+    {
+      "title": "Hong Kong greenlights crypto margin financing and perpetual trading",
       "titleOriginal": "Hong Kong greenlights crypto margin financing and perpetual trading",
-      "summary": "Hong Kong autorise les prêts et les transactions à effet de levier sur les cryptomonnaies",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle ouvre de nouvelles opportunités pour les investisseurs et les traders. Dans le contexte actuel de peur extrême, cela pourrait être un facteur de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs institutionnels sont bullish et les flux d'ETF sont positifs.",
-      "importance": 5,
+      "summary": "Hong Kong’s SFC will allow licensed brokers to offer digital asset margin financing and set a framework for crypto perpetuals for professionals.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/hong-kong-sfc-crypto-margin-perps-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 11:55:17 +0000"
     },
     {
-      "title": "Parlement européen soutient l'euro numérique",
+      "title": "European Parliament throws support behind digital euro",
       "titleOriginal": "European Parliament throws support behind digital euro",
-      "summary": "Le Parlement européen soutient les plans de l'ECB pour un euro numérique",
+      "summary": "European lawmakers endorsed the ECB’s digital euro plans as a way to shore up the bloc’s monetary sovereignty, while reiterating that the central bank",
       "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact direct sur le prix, mais elle montre une évolution positive pour les monnaies numériques. Dans le contexte actuel, cela pourrait aider à renforcer la confiance dans les cryptomonnaies.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs institutionnels sont bullish et les flux d'ETF sont positifs.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/european-parliament-backs-ecb-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 11:20:19 +0000"
-    },
-    {
-      "title": "Accumulation d'Ether",
-      "titleOriginal": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
-      "summary": "Les détenteurs d'Ether accumulent leurs avoirs malgré la baisse du prix",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre une confiance forte des investisseurs dans le long terme. Dans le contexte actuel de peur extrême, cela pourrait être un facteur de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs institutionnels sont bullish et les flux d'ETF sont positifs.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 11:08:05 +0000"
     }
   ]
 }
