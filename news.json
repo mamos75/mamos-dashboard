@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-11T15:15:07.056Z",
+  "updatedAt": "2026-02-11T15:30:03.698Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ZONE D'ACCUMULATION"
+    "signal": "ACCUMULATION FORTE"
   },
   "narrative": null,
   "news": [
     {
-      "title": "UE contre crypto Russie",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:53:39 +0000"
+    },
+    {
+      "title": "EU seeks to close Russia crypto loopholes in new sanctions",
       "titleOriginal": "EU seeks to close Russia crypto loopholes in new sanctions",
-      "summary": "L'UE cherche à fermer les failles crypto avec la Russie",
-      "impact": "bearish",
-      "priceEffect": "Cette mesure pourrait réduire la liquidité et augmenter les coûts de transaction, ce qui pourrait exercer une pression à la baisse sur les prix. Cependant, dans le contexte actuel de peur extrême, cela pourrait déjà être pris en compte.",
-      "contextLink": "Cette news s'inscrit dans le contexte de régulation et de géopolitique qui influence le marché actuel.",
+      "summary": "The EU plans to ban crypto transactions with Russia by shutting down all related channels, but analysts question whether the measure is fully enforcea",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/russia-crypto-loophole-eu-20th-sanctions-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:43:08 +0000"
     },
     {
-      "title": "Danske Bank adopte crypto",
+      "title": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
       "titleOriginal": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
-      "summary": "Danske Bank permet à ses clients d'acheter des ETP Bitcoin et Ether",
-      "impact": "bullish",
-      "priceEffect": "Cette adoption par une banque traditionnelle pourrait augmenter la confiance et attirer de nouveaux investisseurs, ce qui pourrait soutenir les prix. Dans le contexte actuel, cela pourrait contribuer à un rebond.",
-      "contextLink": "Cette news va à l'encontre de la tendance short des hedge funds et pourrait indiquer un intérêt institutionnel croissant.",
-      "importance": 4,
+      "summary": "Danske Bank said it is opening access to Bitcoin and Ether ETPs for self-directed clients after years of caution on crypto, citing rising customer dem",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:22:26 +0000"
     },
     {
-      "title": "Sam Bankman-Fried contre DOJ",
+      "title": "Africa records highest stablecoin conversion spreads, data shows",
+      "titleOriginal": "Africa records highest stablecoin conversion spreads, data shows",
+      "summary": "Data observed across 66 corridors in Africa shows conversion costs from 1.5% to 19% in January, with competition driving pricing gaps.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/africa-stablecoin-fx-spreads-january-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:09:06 +0000"
+    },
+    {
+      "title": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
       "titleOriginal": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
-      "summary": "Sam Bankman-Fried demande un nouveau procès pour FTX",
-      "impact": "bearish",
-      "priceEffect": "Les problèmes juridiques et réglementaires autour de FTX pourraient continuer à peser sur la confiance dans le marché, mais dans le contexte actuel, les investisseurs sont déjà très prudents.",
-      "contextLink": "Cette news s'inscrit dans le contexte de régulation et de confiance qui influence le marché actuel, mais son impact est peut-être déjà pris en compte.",
+      "summary": "Sam Bankman-Fried seeks a new FTX trial, alleging DOJ witness pressure and citing a declaration disputing the prosecution’s insolvency claims, accordi",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:00:43 +0000"
-    },
-    {
-      "title": "Lombard et finance décentralisée",
-      "titleOriginal": "Lombard looks to link institutional custody to onchain finance",
-      "summary": "Lombard veut relier la garde institutionnelle à la finance décentralisée",
-      "impact": "bullish",
-      "priceEffect": "Cette initiative pourrait faciliter l'accès des institutions à la finance décentralisée, augmentant ainsi la liquidité et la confiance. Dans le contexte actuel, cela pourrait soutenir un rebond.",
-      "contextLink": "Cette news correspond à l'intérêt institutionnel croissant pour le marché crypto et pourrait aider à inverser la tendance short.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/lombard-unveils-bitcoin-smart-accounts-linking-institutional-custody-to-onchain-finance-embargo-weds-9am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:00:00 +0000"
-    },
-    {
-      "title": "XRP en baisse possible",
-      "titleOriginal": "XRP analysts explain why price drop below $1 ‘remains possible’",
-      "summary": "Le prix de XRP pourrait baisser en dessous de 1$",
-      "impact": "bearish",
-      "priceEffect": "Cette prévision pourrait exercer une pression à la baisse sur le prix de XRP, mais dans le contexte actuel de peur extrême, les investisseurs sont déjà très prudents et cette news pourrait être déjà prise en compte.",
-      "contextLink": "Cette news s'inscrit dans le contexte de volatilité et de peur extrême qui caractérise actuellement le marché.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/xrp-analysts-why-price-drop-below-1-dollar-possible?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 13:32:41 +0000"
     }
   ]
 }
