@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T13:45:02.986Z",
+  "updatedAt": "2026-02-11T14:00:04.792Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "66.0",
-      "short": "34.0"
+      "long": "65.8",
+      "short": "34.2"
     },
-    "takerBuySellRatio": "1.06",
+    "takerBuySellRatio": "1.47",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,484",
-    "usd": "5.55B",
-    "change24h": 0.1,
+    "btc": "82,646",
+    "usd": "5.58B",
+    "change24h": 0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67246,
+    "current": 67467,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-2.59",
+    "change24h": "-2.24",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,246",
+      "currentPrice": "$67,467",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour les acheteurs. Les grandes institutions sont optimistes, ce qui est un bon signe. Les investisseurs institutionnels ont injecté 145 millions de dollars dans les ETF, ce qui montre leur confiance. C'est le moment idéal pour accumuler, car le marché est en train de se renforcer en silence."
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont nerveux et ont peur de perdre de l'argent. Mais attention, les gros joueurs institutionnels sont optimistes et achètent massivement, ce qui pourrait être un signal de rebond. Les hedge funds, eux, misent sur la baisse, mais l'argent frais qui entre dans le marché pourrait les prendre au dépourvu. C'est le moment idéal pour accumuler, le marché semble prêt à exploser !"
 }
