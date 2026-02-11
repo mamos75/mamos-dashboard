@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T14:15:05.677Z",
+  "updatedAt": "2026-02-11T14:30:03.179Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "65.6",
-      "short": "34.4"
+      "long": "65.7",
+      "short": "34.3"
     },
-    "takerBuySellRatio": "1.34",
+    "takerBuySellRatio": "1.17",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,778",
-    "usd": "5.53B",
-    "change24h": -2.3,
+    "btc": "80,186",
+    "usd": "5.45B",
+    "change24h": -3,
     "trend": "decreasing",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68497,
+    "current": 68017,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-0.95",
+    "change24h": "-1.74",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,497",
+      "currentPrice": "$68,017",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont super peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les fonds spéculatifs misent à 68,9% sur une baisse. Malgré tout, on voit de l'argent qui entre dans les cryptos, avec 145 millions de dollars d'investissements supplémentaires. C'est le signe d'une accumulation forte, comme si les gens attendaient le feu vert pour plonger !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les flux d'argent montrent que les gens achètent, mais les hedge funds misent plutôt sur une baisse, c'est une situation explosive ! On dirait que tout le monde se prépare pour une grande remontée."
 }
