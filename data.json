@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T09:15:03.937Z",
+  "updatedAt": "2026-02-11T09:30:03.907Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "66.0",
       "short": "34.0"
     },
-    "takerBuySellRatio": "0.75",
+    "takerBuySellRatio": "0.78",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,220",
-    "usd": "5.50B",
-    "change24h": 0,
+    "btc": "82,278",
+    "usd": "5.51B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66904,
+    "current": 66988,
     "high24h": 69994,
     "low24h": 66558,
-    "change24h": "-3.43",
+    "change24h": "-3.29",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,904",
+      "currentPrice": "$66,988",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, avec une note de 11/100, ce qui signifie que les gens ont vraiment peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions restent optimistes, ce qui crée une tension intéressante. Les investisseurs institutionnels injectent même 145 millions de dollars dans les ETF, ce qui montre qu'ils ont confiance à long terme. C'est une zone d'accumulation, c'est-à-dire que c'est le moment de acheter, pas de vendre !"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de se faire mal. Les grandes institutions, elles, sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans les cryptos. Les gros joueurs, comme les hedge funds, sont en train de parier contre le marché, mais les signaux sont clairs : c'est le moment d'acheter, on est dans une zone d'accumulation !"
 }
