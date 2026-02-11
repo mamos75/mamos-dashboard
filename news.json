@@ -1,66 +1,59 @@
 {
-  "updatedAt": "2026-02-11T18:00:04.890Z",
+  "updatedAt": "2026-02-11T18:15:08.927Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
+      "title": "BlackRock entre dans DeFi",
       "titleOriginal": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "summary": "BlackRock is bringing its $2.1 billion tokenized Treasury fund to Uniswap, expanding institutional access to DeFi and deepening Wall Street’s push int",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "BlackRock lance un fonds de 2,1 milliards sur Uniswap pour les institutions",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle indique une augmentation de la confiance des institutions dans le marché crypto, ce qui pourrait contrebalancer l'extrême peur actuelle. Le contexte actuel de fear extrême et de positions short élevées des hedge funds pourrait amplifier l'effet de cette news.",
+      "contextLink": "Cette news se connecte au contexte actuel par l'augmentation de la confiance des institutions, ce qui est déjà observé avec les flux d'ETF à +145M$",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 17:47:08 +0000"
     },
     {
-      "title": "Malaysia's central bank announces stablecoin, tokenization sandbox",
+      "title": "Malaisie lance stablecoin",
       "titleOriginal": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "summary": "The pilot programs explore wholesale settlement between institutions and real-world use cases, along with stablecoin development and tokenized bank de",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "La banque centrale de Malaisie lance un projet pilote de stablecoin et de tokenisation",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une augmentation de la confiance dans le marché crypto, en particulier dans les pays émergents, et pourrait avoir un effet positif sur le prix à long terme. Cependant, son impact à court terme pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel par l'expansion de l'adoption de la technologie blockchain et des stablecoins, ce qui pourrait soutenir la zone d'accumulation actuelle",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:59:59 +0000"
     },
     {
-      "title": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
+      "title": "Bitcoin vers 150k$ ?",
       "titleOriginal": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
-      "summary": "Bitcoin price could still reach $150,000 by year-end, but several things must happen for BTC price to find its technical footing and spark a new bull ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les analystes prévoient un possible retour de la hausse pour Bitcoin vers 150 000$",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une augmentation de la spéculation et de l'optimisme sur le marché, ce qui pourrait aider à inverser la tendance baissière actuelle. Cependant, il est important de noter que les prévisions de prix sont souvent sujettes à erreur.",
+      "contextLink": "Cette news se connecte au contexte actuel par la recherche de signes de retournement de tendance, ce qui est crucial dans une zone d'accumulation",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:30:00 +0000"
     },
     {
-      "title": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "titleOriginal": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "summary": "Bitcoin volatility spiked on the back of surprisingly strong US nonfarm payrolls numbers, but traders retained $50,000 BTC price targets. Will a Feder",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "title": "Danske Bank ouvre à la crypto",
+      "titleOriginal": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
+      "summary": "La banque danoise Danske Bank autorise ses clients à acheter des ETP de Bitcoin et d'Ethereum",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une augmentation de la confiance des institutions dans le marché crypto, ce qui pourrait avoir un effet positif sur le prix à long terme. L'expansion de l'offre de produits crypto par les banques traditionnelles peut également accroître la liquidité du marché.",
+      "contextLink": "Cette news se connecte au contexte actuel par l'augmentation de la confiance des institutions, ce qui est déjà observé avec les flux d'ETF à +145M$ et le signal global de zone d'accumulation",
+      "importance": 4,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 15:30:19 +0000"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:53:39 +0000"
+      "link": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:22:26 +0000"
     }
   ]
 }
