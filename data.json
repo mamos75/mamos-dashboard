@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T01:00:04.019Z",
+  "updatedAt": "2026-02-11T01:15:03.685Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "64.7",
       "short": "35.3"
     },
-    "takerBuySellRatio": "0.55",
+    "takerBuySellRatio": "0.86",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,402",
+    "btc": "79,420",
     "usd": "5.50B",
-    "change24h": 0.2,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69201,
+    "current": 69218,
     "high24h": 70528,
     "low24h": 67800,
-    "change24h": "-0.93",
+    "change24h": "-1.26",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,201",
+      "currentPrice": "$69,218",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,500",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en plein chaos, les gens ont vraiment peur et vendent tout ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent en douce. Les hedge funds, par contre, misent contre le marché, ce qui pourrait créer une belle opportunité pour nous. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour voir les signes de reprise !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont rather optimistes et mettent de l'argent dans le marché. Les hedge funds, eux, jouent sur la baisse, mais les flux d'argent dans les ETF sont plutôt positifs. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais tout le monde a peur de sauter le premier !"
 }
