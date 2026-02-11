@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T14:30:03.179Z",
+  "updatedAt": "2026-02-11T14:45:04.802Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
+      "long": "54.4",
+      "short": "45.6",
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "65.7",
-      "short": "34.3"
+      "long": "65.6",
+      "short": "34.4"
     },
-    "takerBuySellRatio": "1.17",
+    "takerBuySellRatio": "1.12",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,186",
-    "usd": "5.45B",
-    "change24h": -3,
+    "btc": "80,497",
+    "usd": "5.41B",
+    "change24h": -2.6,
     "trend": "decreasing",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68017,
+    "current": 67222,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-1.74",
+    "change24h": "-1.50",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,017",
+      "currentPrice": "$67,222",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les flux d'argent montrent que les gens achètent, mais les hedge funds misent plutôt sur une baisse, c'est une situation explosive ! On dirait que tout le monde se prépare pour une grande remontée."
+  "story": "Le marché est super nerveux en ce moment, c'est comme si tout le monde avait peur de tout ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les flux d'argent montrent que les gens achètent, ce qui pourrait être un signe de renversement de tendance. C'est l'heure de l'accumulation, il faut peut-être saisir cette occasion !"
 }
