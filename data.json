@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T16:15:06.814Z",
+  "updatedAt": "2026-02-11T16:30:03.270Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -20,21 +20,21 @@
   "longShort": {
     "topTraders": {
       "long": "54.3",
-      "short": "45.8",
+      "short": "45.7",
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "66.5",
-      "short": "33.5"
+      "long": "67.1",
+      "short": "32.9"
     },
-    "takerBuySellRatio": "0.88",
+    "takerBuySellRatio": "0.95",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "81,047",
-    "usd": "5.44B",
-    "change24h": -0.3,
+    "btc": "81,318",
+    "usd": "5.41B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67133,
+    "current": 66573,
     "high24h": 69994,
     "low24h": 65756,
-    "change24h": "-3.61",
+    "change24h": "-4.03",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -76,7 +76,7 @@
       71500,
       73300
     ],
-    "bias": "bullish",
+    "bias": "bearish",
     "pricePosition": "in_range"
   },
   "cot": {
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 5,
-      "net": 3
+      "bear": 4,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,133",
+      "currentPrice": "$66,573",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dominé par la peur, avec beaucoup de gens qui ont peur de perdre de l'argent. Les grandes institutions, en revanche, sont optimistes et achètent des crypto, ce qui est un bon signe. Les flux d'argent vers les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est comme si le marché était en train de se préparer pour un grand rebond, mais pour l'instant, c'est la prudence qui prévaut !"
+  "story": "Le marché est super peur, c'est presque apocalyptique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, sont très négatifs et parient contre le marché, ce qui pourrait créer une opportunité pour nous. C'est une zone d'accumulation, il faut être prêt à saisir l'occasion !"
 }
