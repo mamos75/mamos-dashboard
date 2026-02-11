@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T13:00:03.113Z",
+  "updatedAt": "2026-02-11T13:15:03.777Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.4",
-      "short": "45.6",
+      "long": "54.3",
+      "short": "45.7",
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "66.0",
-      "short": "34.0"
+      "long": "66.1",
+      "short": "33.9"
     },
-    "takerBuySellRatio": "1.02",
-    "trend": "more_long",
+    "takerBuySellRatio": "0.91",
+    "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,375",
-    "usd": "5.53B",
-    "change24h": -0.4,
+    "btc": "82,241",
+    "usd": "5.50B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67138,
+    "current": 66928,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-2.13",
+    "change24h": "-2.41",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 4,
-      "net": 4
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,138",
+      "currentPrice": "$66,928",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone de peur extrême, avec beaucoup de gens qui ont peur de perdre de l'argent. Mais les gros investisseurs sont plutôt optimistes et mettent de l'argent dans le marché, ce qui est un bon signe. Les flux d'argent entrant dans les fonds cryptos sont même positifs, ce qui indique que les gens commencent à voir les opportunités. C'est comme si le marché était en train de se préparer pour un grand bond en avant !"
+  "story": "Le marché est actuellement plongé dans la peur, avec beaucoup de gens qui ont peur de perdre de l'argent. Les gros investisseurs institutionnels, par contre, sont optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent vers les ETF crypto sont également positifs, ce qui montre que les gens commencent à revenir sur le marché. C'est une zone d'accumulation parfaite pour acheter, car les prix sont bas et les prospects sont intéressants !"
 }
