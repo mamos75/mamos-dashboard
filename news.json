@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T21:45:06.960Z",
+  "updatedAt": "2026-02-11T22:00:05.928Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Ouragans baissiers",
+      "title": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
+      "titleOriginal": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
+      "summary": "A House Committee on Financial Services hearing on Wednesday dredged up concerns about the pro-crypto regulatory shift under the Trump administration.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/democrats-slam-sec-chair-atkins-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 21:46:47 +0000"
+    },
+    {
+      "title": "Bitcoin futures data shows bears gearing up for an assault on $60K",
       "titleOriginal": "Bitcoin futures data shows bears gearing up for an assault on $60K",
-      "summary": "Les ours préparent une attaque sur 60 000 $",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait accélérer la descente du prix, mais dans le contexte actuel de peur extrême, elle pourrait également être déjà prise en compte par les traders, limitant son impact. Le prix pourrait rebondir si les investisseurs institutionnels continuent à acheter.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, où les hedge funds sont majoritairement short, ce qui pourrait limiter l'impact à la baisse.",
-      "importance": 4,
+      "summary": "Bitcoin’s rejection at $70,000 and the large liquidity void below leave $60,000 vulnerable, a move analysts see as likely in the coming days.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:15:02 +0000"
     },
     {
-      "title": "Prévisions de prix",
+      "title": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
       "titleOriginal": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Les analystes techniquent les prix de Bitcoin et des altcoins",
+      "summary": "Technical charts show Bitcoin and altcoins consolidating as part of establishing a new price floor after last week’s sharp sell-off. As a range is det",
       "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact direct sur le prix, mais les prévisions des analystes pourraient influencer les décisions d'investissement. Dans le contexte actuel, les investisseurs institutionnels pourraient être plus optimistes que les prévisions.",
-      "contextLink": "Cette news se connecte au contexte actuel de consolidation, où les investisseurs attendent des signes de retournement de tendance.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 20:20:00 +0000"
     },
     {
-      "title": "Rebond de BTC",
+      "title": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
       "titleOriginal": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
-      "summary": "Le prix de Bitcoin chute à nouveau",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait accélérer la descente du prix, mais comme les hedge funds sont déjà majoritairement short, l'impact pourrait être limité. Les investisseurs institutionnels pourraient voir cela comme une opportunité d'achat.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, où les investisseurs sont prudents et les hedge funds sont short.",
-      "importance": 4,
+      "summary": "Bitcoin price crumbled back toward its 2026 low as a lack of fresh capital inflows, weak investor sentiment, and rising selling in spot markets chippe",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 19:16:17 +0000"
     },
     {
-      "title": "Salaire en stablecoin",
+      "title": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
       "titleOriginal": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
-      "summary": "Deel lance des salaires en stablecoin au Royaume-Uni et dans l'UE",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, car elle montre une adoption croissante des crypto-monnaies. Dans le contexte actuel, cela pourrait être un signe de retournement de tendance.",
-      "contextLink": "Cette news se connecte au contexte actuel d'adoption institutionnelle, où les entreprises comme BlackRock investissent dans les crypto-monnaies.",
+      "summary": "Deel will enable its customers to pay workers in the United Kingdom and European Union, with a US expansion planned later.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/deel-partners-with-moonpay-to-roll-out-stablecoin-salary-payouts-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 18:14:35 +0000"
-    },
-    {
-      "title": "BlackRock entre",
-      "titleOriginal": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "summary": "BlackRock entre dans le DeFi avec Uniswap",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre une adoption croissante des crypto-monnaies par les institutions. Dans le contexte actuel, cela pourrait être un signe de retournement de tendance.",
-      "contextLink": "Cette news se connecte au contexte actuel d'adoption institutionnelle, où les investisseurs institutionnels comme BlackRock investissent dans les crypto-monnaies.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 17:47:08 +0000"
     }
   ]
 }
