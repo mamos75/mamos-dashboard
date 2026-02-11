@@ -1,66 +1,59 @@
 {
-  "updatedAt": "2026-02-11T15:30:03.698Z",
+  "updatedAt": "2026-02-11T15:45:07.314Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "title": "Bitcoin réagit aux données US",
+      "titleOriginal": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
+      "summary": "Les données d'emploi US ont battu les attentes, mais les traders visent toujours 50 000 $ pour le Bitcoin",
+      "impact": "bullish",
+      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond potentiel du prix du Bitcoin, car les traders restent optimistes sur la cible de 50 000 $",
+      "contextLink": "La news se connecte au contexte actuel de Fear & Greed à 11/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond",
+      "importance": 4,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:53:39 +0000"
+      "link": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 15:30:19 +0000"
     },
     {
-      "title": "EU seeks to close Russia crypto loopholes in new sanctions",
+      "title": "UE cherche à fermer les failles crypto",
       "titleOriginal": "EU seeks to close Russia crypto loopholes in new sanctions",
-      "summary": "The EU plans to ban crypto transactions with Russia by shutting down all related channels, but analysts question whether the measure is fully enforcea",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "L'UE veut interdire les transactions crypto avec la Russie en fermant les canaux liés",
+      "impact": "bearish",
+      "priceEffect": "Dans le contexte actuel, cette news pourrait avoir un impact négatif sur le prix, car les restrictions sur les transactions crypto pourraient réduire la liquidité et augmenter les coûts de transaction",
+      "contextLink": "La news se connecte au contexte actuel de régulation crypto, où les institutions sont bullish, mais les hedge funds sont à 68,9% SHORT",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/russia-crypto-loophole-eu-20th-sanctions-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:43:08 +0000"
     },
     {
-      "title": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
+      "title": "Danske Bank ouvre l'accès au Bitcoin",
       "titleOriginal": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
-      "summary": "Danske Bank said it is opening access to Bitcoin and Ether ETPs for self-directed clients after years of caution on crypto, citing rising customer dem",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "La banque danoise Danske Bank permet à ses clients d'acheter des ETP Bitcoin et Ether",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car l'ouverture de l'accès au Bitcoin et à l'Ether pour les clients de la banque pourrait augmenter la demande et la liquidité",
+      "contextLink": "La news se connecte au contexte actuel d'adoption institutionnelle, où les institutions sont bullish et les ETF Flows 24h sont à +145M $",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:22:26 +0000"
     },
     {
-      "title": "Africa records highest stablecoin conversion spreads, data shows",
-      "titleOriginal": "Africa records highest stablecoin conversion spreads, data shows",
-      "summary": "Data observed across 66 corridors in Africa shows conversion costs from 1.5% to 19% in January, with competition driving pricing gaps.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "title": "Lombard relie la garde institutionnelle",
+      "titleOriginal": "Lombard looks to link institutional custody to onchain finance",
+      "summary": "Lombard permet aux institutions d'utiliser des Bitcoins en garantie sans déplacer les actifs",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car l'ouverture de la garde institutionnelle pour les Bitcoins pourrait augmenter la demande et la liquidité",
+      "contextLink": "La news se connecte au contexte actuel d'adoption institutionnelle, où les institutions sont bullish et les ETF Flows 24h sont à +145M $",
+      "importance": 4,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/africa-stablecoin-fx-spreads-january-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:09:06 +0000"
-    },
-    {
-      "title": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
-      "titleOriginal": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
-      "summary": "Sam Bankman-Fried seeks a new FTX trial, alleging DOJ witness pressure and citing a declaration disputing the prosecution’s insolvency claims, accordi",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:00:43 +0000"
+      "link": "https://cointelegraph.com/news/lombard-unveils-bitcoin-smart-accounts-linking-institutional-custody-to-onchain-finance-embargo-weds-9am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:00:00 +0000"
     }
   ]
 }

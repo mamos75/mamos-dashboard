@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T15:30:03.274Z",
+  "updatedAt": "2026-02-11T15:45:03.627Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
-      "ratio": "1.19"
+      "long": "54.5",
+      "short": "45.5",
+      "ratio": "1.20"
     },
     "accounts": {
       "long": "65.8",
       "short": "34.2"
     },
-    "takerBuySellRatio": "1.06",
+    "takerBuySellRatio": "0.81",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "81,627",
-    "usd": "5.40B",
-    "change24h": 1.2,
+    "btc": "81,451",
+    "usd": "5.44B",
+    "change24h": 1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66177,
+    "current": 66784,
     "high24h": 69994,
     "low24h": 65756,
-    "change24h": "-4.39",
+    "change24h": "-3.60",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -76,7 +76,7 @@
       71500,
       73300
     ],
-    "bias": "bearish",
+    "bias": "bullish",
     "pricePosition": "in_range"
   },
   "cot": {
@@ -133,13 +133,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 8,
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -173,14 +173,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,177",
+      "currentPrice": "$66,784",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -202,13 +202,13 @@
     ],
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $65,800 - $67,300. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $65,800 - $67,300 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne nouvelle pour les acheteurs ! Les gros investisseurs institutionnels sont optimistes, ce qui contraste avec les hedge funds qui misent sur une baisse. Il y a même plus d'argent qui entre dans le marché que jamais, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement très nerveux, avec une peur extrême qui prédomine. Les gros investisseurs institutionnels sont cependant optimistes, ce qui crée une opportunité intéressante. Les flux d'argent dans les ETF sont également positifs, ce qui signale une confiance croissante. C'est le moment idéal pour acheter, car nous sommes dans une zone d'accumulation, c'est-à-dire que les prix sont bas et prêts à rebondir !"
 }
