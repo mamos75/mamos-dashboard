@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T11:15:03.883Z",
+  "updatedAt": "2026-02-11T11:30:03.976Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "65.4",
-      "short": "34.6"
+      "long": "65.6",
+      "short": "34.4"
     },
-    "takerBuySellRatio": "1.07",
-    "trend": "more_short",
+    "takerBuySellRatio": "1.87",
+    "trend": "stable",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,814",
-    "usd": "5.52B",
+    "btc": "82,794",
+    "usd": "5.55B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66667,
+    "current": 66984,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-3.25",
+    "change24h": "-2.82",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -76,7 +76,7 @@
       71500,
       73300
     ],
-    "bias": "bearish",
+    "bias": "bullish",
     "pricePosition": "in_range"
   },
   "cot": {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,667",
+      "currentPrice": "$66,984",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, avec tout le monde qui a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est cool ! Les hedge funds, par contre, misent contre le marché, mais l'argent qui entre dans les ETF est un bon signe. C'est l'heure de l'accumulation, et ça pourrait être le début de quelque chose de gros !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les fonds cryptos est en train de grimper. C'est le signe d'une accumulation forte, ça pourrait être le début d'une belle remontée !"
 }
