@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T16:45:07.643Z",
+  "updatedAt": "2026-02-11T17:00:04.379Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "BTC vers 150k$ ?",
+      "title": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
       "titleOriginal": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
-      "summary": "Bitcoin pourrait atteindre 150 000 $ d'ici la fin de l'année si certaines conditions sont réunies.",
-      "impact": "bullish",
-      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond potentiel, car les investisseurs institutionnels sont déjà bullish et les flux d'ETF sont positifs.",
-      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les investisseurs attendent des signes de rebond.",
-      "importance": 4,
+      "summary": "Bitcoin price could still reach $150,000 by year-end, but several things must happen for BTC price to find its technical footing and spark a new bull ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:30:00 +0000"
     },
     {
-      "title": "BTC réagit aux données US",
+      "title": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
       "titleOriginal": "Bitcoin reacts to major US jobs data beat as Fed rate pause odds near 95%",
-      "summary": "Les données de l'emploi aux États-Unis ont fait fluctuer le prix de Bitcoin, mais les traders visent toujours les 50 000 $.",
+      "summary": "Bitcoin volatility spiked on the back of surprisingly strong US nonfarm payrolls numbers, but traders retained $50,000 BTC price targets. Will a Feder",
       "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact significatif sur le prix, car les traders ont déjà pris en compte les données de l'emploi et les décisions de la Fed dans leurs stratégies.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont prudents et attendent des signes de stabilité.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-reacts-to-major-us-jobs-data-beat-as-fed-rate-pause-odds-near-95?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 15:30:19 +0000"
     },
     {
-      "title": "UE contre la Russie",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:53:39 +0000"
+    },
+    {
+      "title": "EU seeks to close Russia crypto loopholes in new sanctions",
       "titleOriginal": "EU seeks to close Russia crypto loopholes in new sanctions",
-      "summary": "L'UE cherche à fermer les failles de la crypto avec la Russie en interdisant les transactions.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix, car les restrictions sur les transactions crypto pourraient réduire la liquidité et augmenter les coûts de transaction.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont sensibles aux risques géopolitiques et réglementaires.",
+      "summary": "The EU plans to ban crypto transactions with Russia by shutting down all related channels, but analysts question whether the measure is fully enforcea",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/russia-crypto-loophole-eu-20th-sanctions-package?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:43:08 +0000"
     },
     {
-      "title": "Danske Bank ouvre à la crypto",
+      "title": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
       "titleOriginal": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
-      "summary": "La banque danoise Danske Bank permet à ses clients d'acheter des ETP de Bitcoin et d'Ethereum.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond potentiel, car l'adoption de la crypto par les institutions financières traditionnelles peut augmenter la confiance et la liquidité du marché.",
-      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les investisseurs attendent des signes de croissance et d'adoption.",
-      "importance": 4,
+      "summary": "Danske Bank said it is opening access to Bitcoin and Ether ETPs for self-directed clients after years of caution on crypto, citing rising customer dem",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 14:22:26 +0000"
-    },
-    {
-      "title": "Lombard et la finance décentralisée",
-      "titleOriginal": "Lombard looks to link institutional custody to onchain finance",
-      "summary": "Lombard cherche à relier la garde institutionnelle à la finance décentralisée pour permettre aux institutions d'utiliser la crypto comme garantie.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond potentiel, car l'intégration de la finance décentralisée et de la garde institutionnelle peut augmenter la confiance et la liquidité du marché.",
-      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les investisseurs attendent des signes de croissance et d'innovation.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/lombard-unveils-bitcoin-smart-accounts-linking-institutional-custody-to-onchain-finance-embargo-weds-9am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:00:00 +0000"
     }
   ]
 }
