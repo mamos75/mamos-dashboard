@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T04:45:24.051Z",
+  "updatedAt": "2026-02-11T05:00:07.938Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Tokenized commodities market crosses $6B amid gold’s historic rally",
+      "title": "Marché des matières premières",
       "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Tether Gold and the Paxos-listed PAX Gold account for over 95% of the tokenized commodities market, which is now outpacing tokenized stocks and funds.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le marché des matières premières tokenisées dépasse les 6 milliards de dollars.",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle montre un intérêt croissant pour les actifs numériques. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de fear & greed, où les investisseurs cherchent des opportunités de croissance dans les actifs numériques.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 04:14:03 +0000"
     },
     {
-      "title": "Robinhood Q4 earnings miss as crypto revenues decline",
+      "title": "Robinhood Q4",
       "titleOriginal": "Robinhood Q4 earnings miss as crypto revenues decline",
-      "summary": "Robinhood shares fell nearly 8% in after-hours trading as the platform’s record Q4 revenues weren’t enough to satisfy analysts’ predictions.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les revenus de Robinhood pour le Q4 sont inférieurs aux prévisions.",
+      "impact": "bearish",
+      "priceEffect": "Cette nouvelle pourrait avoir un impact négatif sur le prix, car elle montre une baisse des revenus de Robinhood liés aux crypto-monnaies. Cependant, dans le contexte actuel de short selling important, cela pourrait déjà être pris en compte dans les prix.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel des hedge funds, qui sont déjà à 68,9% short, ce qui pourrait limiter l'impact négatif de cette nouvelle.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 03:27:34 +0000"
     },
     {
-      "title": "LayerZero unveils ‘Zero’ chain, with Citadel, ARK backing",
+      "title": "LayerZero",
       "titleOriginal": "LayerZero unveils ‘Zero’ chain, with Citadel, ARK backing",
-      "summary": "Zero is scheduled to launch in the fall of 2026 and LayerZero Labs claims it can scale up to two million transactions per second by leveraging zero-kn",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "LayerZero lance une nouvelle chaîne de blocs appelée Zero.",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait avoir un impact positif sur le prix, car elle montre une innovation dans le domaine des crypto-monnaies. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de zone d'accumulation, où les investisseurs cherchent des opportunités de croissance dans les actifs numériques.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/layerzero-launching-zero-blockchain-with-backing-from-citadel-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 02:57:56 +0000"
     },
     {
-      "title": "Ex-SafeMoon chief sentenced to 8 years over $9M investor fraud",
-      "titleOriginal": "Ex-SafeMoon chief sentenced to 8 years over $9M investor fraud",
-      "summary": "SafeMoon’s former chief technology officer, Thomas Smith, has also pleaded guilty and is awaiting sentencing. Alleged co-conspirator Kyle Nagy remains",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/safemoon-ceo-sentenced-8-years-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 01:42:58 +0000"
-    },
-    {
-      "title": "Robinhood launches Ethereum layer-2 testnet for tokenized assets",
+      "title": "Robinhood",
       "titleOriginal": "Robinhood launches Ethereum layer-2 testnet for tokenized assets",
-      "summary": "Robinhood is testing its own Arbitrum‑based Ethereum layer‑2, deepening its push into tokenized stocks and DeFi infrastructure alongside other major e",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Robinhood lance un testnet pour les actifs tokenisés.",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait avoir un impact positif sur le prix, car elle montre une innovation dans le domaine des crypto-monnaies. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de zone d'accumulation, où les investisseurs cherchent des opportunités de croissance dans les actifs numériques.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-launches-ethereum-layer-2-testnet-for-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 01:30:00 +0000"
+    },
+    {
+      "title": "Canaan",
+      "titleOriginal": "Crypto miner Canaan sinks 7% despite strongest quarter in 3 years",
+      "summary": "Les actions de Canaan chutent de 7% malgré un trimestre solide.",
+      "impact": "bearish",
+      "priceEffect": "Cette nouvelle pourrait avoir un impact négatif sur le prix, car elle montre une baisse des actions de Canaan. Cependant, dans le contexte actuel de short selling important, cela pourrait déjà être pris en compte dans les prix.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel des hedge funds, qui sont déjà à 68,9% short, ce qui pourrait limiter l'impact négatif de cette nouvelle.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/crypto-miner-canaan-shares-fall-on-q4-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Tue, 10 Feb 2026 23:37:59 +0000"
     }
   ]
 }
