@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T08:00:09.609Z",
+  "updatedAt": "2026-02-11T08:15:03.653Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Crypto PAC dépense 5M$",
+      "title": "Spark’s new lending suite tests Wall Street’s appetite for onchain stablecoins",
+      "titleOriginal": "Spark’s new lending suite tests Wall Street’s appetite for onchain stablecoins",
+      "summary": "Spark is rolling out Spark Prime and Spark Institutional Lending, aiming to turn its DeFi stablecoin stack into institutional margin and credit lines.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/spark-new-lending-suite-onchain-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 08:12:57 +0000"
+    },
+    {
+      "title": "Bitcoin price drops 3% as analyst warns bulls lack 'momentum' to flip $69K",
+      "titleOriginal": "Bitcoin price drops 3% as analyst warns bulls lack 'momentum' to flip $69K",
+      "summary": "Bitcoin analysis warned the $69,000 mark may end up as long-term resistance again, thanks to its significance in BTC price history.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 08:00:08 +0000"
+    },
+    {
+      "title": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
       "titleOriginal": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
-      "summary": "Un comité d'action politique crypto dépense 5 millions de dollars pour soutenir un candidat au Sénat",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre un engagement croissant de la communauté crypto dans la politique, ce qui pourrait renforcer la confiance des investisseurs dans un contexte de peur extrême. Le marché pourrait réagir positivement à cette nouvelle, car les hedge funds sont déjà très shorts.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les institutions sont bullish et les flux d'ETF sont positifs.",
-      "importance": 4,
+      "summary": "Crypto political action committee Fairshake spent roughly $130 million during the 2024 US elections to support pro-crypto candidates.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/fairshake-barry-moore-alabama-senate-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 06:24:17 +0000"
     },
     {
-      "title": "Bill crypto en discussion",
+      "title": "White House crypto bill talks ‘productive,’ but no deal yet",
       "titleOriginal": "White House crypto bill talks ‘productive,’ but no deal yet",
-      "summary": "Les discussions sur le projet de loi crypto à la Maison Blanche sont productives, mais aucun accord n'a été trouvé",
+      "summary": "The second meeting between crypto and the banks at the White House over the crypto market structure bill has yet to come to an agreement on stablecoin",
       "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact direct sur le prix, car les discussions sont encore en cours et aucun accord n'a été trouvé. Cependant, le fait que les discussions soient productives pourrait être interprété comme un signe positif pour le marché à long terme.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les institutions sont bullish et les flux d'ETF sont positifs, ce qui pourrait indiquer que les régulateurs sont ouverts à trouver des solutions pour le marché crypto.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/crypto-banks-white-house-crypto-bill-meeting-productive-no-deal-reached?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 06:09:43 +0000"
     },
     {
-      "title": "Fin de l'âge de la spéculation",
+      "title": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
       "titleOriginal": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
-      "summary": "Le PDG de Galaxy, Mike Novogratz, pense que l'âge de la spéculation dans le crypto est en train de se terminer",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une stabilité du marché, car elle suggère que le marché crypto est en train de maturer et de devenir moins spéculatif. Cela pourrait attirer de nouveaux investisseurs institutionnels et renforcer la confiance dans le marché.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les institutions sont bullish et les flux d'ETF sont positifs, ce qui pourrait indiquer que les investisseurs institutionnels sont prêts à entrer dans le marché crypto.",
-      "importance": 5,
+      "summary": "Galaxy CEO Mike Novogratz says crypto's high-risk, high-reward reputation could be replaced by lower, steadier returns brought by real-world asset tok",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 05:55:07 +0000"
-    },
-    {
-      "title": "Marché des commodities tokenisées",
-      "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Le marché des commodities tokenisées dépasse les 6 milliards de dollars",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une augmentation du prix, car elle montre une croissance du marché des commodities tokenisées, ce qui pourrait attirer de nouveaux investisseurs et renforcer la demande pour les actifs crypto. Le marché pourrait réagir positivement à cette nouvelle, car les hedge funds sont déjà très shorts.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les institutions sont bullish et les flux d'ETF sont positifs, ce qui pourrait indiquer que les investisseurs sont à la recherche de nouvelles opportunités de croissance.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 04:14:03 +0000"
-    },
-    {
-      "title": "Robinhood Q4 en baisse",
-      "titleOriginal": "Robinhood Q4 earnings miss as crypto revenues decline",
-      "summary": "Les revenus de Robinhood pour le Q4 sont en baisse en raison de la diminution des revenus crypto",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait contribuer à une baisse du prix, car elle montre une diminution des revenus crypto pour Robinhood, ce qui pourrait indiquer une diminution de la demande pour les actifs crypto. Cependant, le marché pourrait déjà avoir pris en compte cette information, car les hedge funds sont déjà très shorts.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les institutions sont bullish et les flux d'ETF sont positifs, ce qui pourrait indiquer que les investisseurs sont prêts à ignorer les mauvaises nouvelles et à se concentrer sur les opportunités de croissance à long terme.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 03:27:34 +0000"
     }
   ]
 }

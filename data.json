@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T08:00:05.256Z",
+  "updatedAt": "2026-02-11T08:15:03.295Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.2",
-      "short": "45.8",
-      "ratio": "1.18"
+      "long": "54.3",
+      "short": "45.7",
+      "ratio": "1.19"
     },
     "accounts": {
       "long": "65.5",
       "short": "34.5"
     },
-    "takerBuySellRatio": "0.71",
+    "takerBuySellRatio": "0.98",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,297",
-    "usd": "5.52B",
-    "change24h": 0.3,
+    "btc": "82,272",
+    "usd": "5.50B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67037,
+    "current": 66907,
     "high24h": 69994,
     "low24h": 66558,
-    "change24h": "-2.73",
+    "change24h": "-2.79",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 5,
-      "net": 3
+      "bear": 4,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,037",
+      "currentPrice": "$66,907",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont toutefois optimistes, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est comme si tout le monde attendait le feu vert pour bondir, on est dans une zone d'accumulation, prêts à décoller !"
+  "story": "Le marché est actuellement plongé dans la peur, les gens sont super nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent même. Les flux d'argent dans les ETF sont en hausse, ce qui montre que les gens commencent à revenir. C'est la zone parfaite pour acheter, car tout le monde est trop effrayé pour investir !"
 }
