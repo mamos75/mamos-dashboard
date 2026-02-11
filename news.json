@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T14:00:08.865Z",
+  "updatedAt": "2026-02-11T14:15:06.031Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "XRP : risque de chute",
+      "title": "Africa records highest stablecoin conversion spreads, data shows",
+      "titleOriginal": "Africa records highest stablecoin conversion spreads, data shows",
+      "summary": "Data observed across 66 corridors in Africa shows conversion costs from 1.5% to 19% in January, with competition driving pricing gaps.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/africa-stablecoin-fx-spreads-january-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:09:06 +0000"
+    },
+    {
+      "title": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
+      "titleOriginal": "Sam Bankman-Fried claims Biden DOJ silenced witnesses during FTX trial",
+      "summary": "Sam Bankman-Fried seeks a new FTX trial, alleging DOJ witness pressure and citing a declaration disputing the prosecution’s insolvency claims, accordi",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/sam-bankman-fried-rule-33-new-trial-doj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:00:43 +0000"
+    },
+    {
+      "title": "Lombard looks to link institutional custody to onchain finance",
+      "titleOriginal": "Lombard looks to link institutional custody to onchain finance",
+      "summary": "The product will let institutions use custodied Bitcoin as onchain collateral without moving assets or transferring control, with Morpho set as the in",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/lombard-unveils-bitcoin-smart-accounts-linking-institutional-custody-to-onchain-finance-embargo-weds-9am-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Why blockchain TPS numbers often collapse in the real world",
+      "titleOriginal": "Why blockchain TPS numbers often collapse in the real world",
+      "summary": "High TPS figures promise scale, but every additional transaction increases the burden on the very nodes meant to keep networks decentralized.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/blockchain-tps-numbers-collapse-real-world?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 13:43:26 +0000"
+    },
+    {
+      "title": "XRP analysts explain why price drop below $1 ‘remains possible’",
       "titleOriginal": "XRP analysts explain why price drop below $1 ‘remains possible’",
-      "summary": "Le prix de XRP pourrait chuter en dessous de 1$ selon les analystes.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait accentuer la peur et la vente dans le marché actuel, mais comme 68,9% des hedge funds sont déjà short, le prix pourrait déjà avoir pris en compte cette information. Cela pourrait potentiellement conduire à un rebond si les investisseurs institutionnels restent bullish.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de positions short élevées, ce qui pourrait conduire à un rebond si les investisseurs institutionnels restent confiants.",
-      "importance": 4,
+      "summary": "XRP looked increasingly bearish at $1.40, with a key indicator suggesting that a downward move below $1 was possible in the coming weeks.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/xrp-analysts-why-price-drop-below-1-dollar-possible?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 13:32:41 +0000"
-    },
-    {
-      "title": "Arkham : pivot vers la décentralisation",
-      "titleOriginal": "Arkham Exchange pivoting to fully decentralized platform, CEO says",
-      "summary": "L'échange Arkham passe à un modèle fully décentralisé.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance dans les échanges décentralisés et potentiellement soutenir le prix des cryptomonnaies. Dans le contexte actuel, cela pourrait contribuer à un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de croissance des DEX et de recherche de solutions décentralisées, ce qui pourrait soutenir le prix des cryptomonnaies.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/arkham-exchange-pivots-to-decentralized-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 13:00:38 +0000"
-    },
-    {
-      "title": "Hong Kong : financement de marge",
-      "titleOriginal": "Hong Kong greenlights crypto margin financing and perpetual trading",
-      "summary": "Hong Kong autorise le financement de marge pour les cryptomonnaies.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait attirer de nouveaux investisseurs et renforcer la liquidité du marché, ce qui pourrait soutenir le prix des cryptomonnaies. Dans le contexte actuel, cela pourrait contribuer à un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de recherche de solutions de financement pour les cryptomonnaies, ce qui pourrait soutenir le prix des cryptomonnaies.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/hong-kong-sfc-crypto-margin-perps-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 11:55:17 +0000"
-    },
-    {
-      "title": "Parlement européen : euro numérique",
-      "titleOriginal": "European Parliament throws support behind digital euro",
-      "summary": "Le Parlement européen soutient le projet d'euro numérique.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance dans les monnaies numériques et potentiellement soutenir le prix des cryptomonnaies. Dans le contexte actuel, cela pourrait contribuer à un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de recherche de solutions de monnaies numériques, ce qui pourrait soutenir le prix des cryptomonnaies.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/european-parliament-backs-ecb-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 11:20:19 +0000"
-    },
-    {
-      "title": "Ethereum : accumulation",
-      "titleOriginal": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
-      "summary": "Les détenteurs d'Ethereum accumulent des tokens malgré la chute du prix.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance dans Ethereum et potentiellement soutenir le prix. Dans le contexte actuel de peur extrême, cela pourrait contribuer à un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de signal d'accumulation forte et de positions short élevées, ce qui pourrait conduire à un rebond si les investisseurs institutionnels restent confiants.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 11:08:05 +0000"
     }
   ]
 }
