@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T05:45:03.843Z",
+  "updatedAt": "2026-02-11T06:00:08.174Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Tokenized commodities market crosses $6B amid gold’s historic rally",
+      "title": "Fin de l'âge de la spéculation",
+      "titleOriginal": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
+      "summary": "Le PDG de Galaxy pense que les rendements crypto seront plus stables",
+      "impact": "bullish",
+      "priceEffect": "Dans un marché en extrême peur, cette news pourrait contribuer à un rebond, car elle suggère une stabilisation des rendements à long terme. Cela pourrait encourager les investisseurs à réévaluer leur position.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 11/100, où les investisseurs sont très pessimistes.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 05:55:07 +0000"
+    },
+    {
+      "title": "Marché des commodities tokenisées",
       "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Tether Gold and the Paxos-listed PAX Gold account for over 95% of the tokenized commodities market, which is now outpacing tokenized stocks and funds.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le marché des commodities tokenisées dépasse les 6 milliards de dollars",
+      "impact": "bullish",
+      "priceEffect": "Cette croissance du marché des commodities tokenisées pourrait soutenir les prix des crypto, car elle indique une adoption accrue des technologies blockchain. Cela pourrait contrebalancer les effets négatifs de la peur extrême actuelle.",
+      "contextLink": "Cette news se connecte au contexte actuel des ETF Flows à +145M$, qui indique un intérêt accru pour les investissements crypto.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 04:14:03 +0000"
     },
     {
-      "title": "Robinhood Q4 earnings miss as crypto revenues decline",
-      "titleOriginal": "Robinhood Q4 earnings miss as crypto revenues decline",
-      "summary": "Robinhood shares fell nearly 8% in after-hours trading as the platform’s record Q4 revenues weren’t enough to satisfy analysts’ predictions.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 03:27:34 +0000"
-    },
-    {
-      "title": "LayerZero unveils ‘Zero’ chain, with Citadel, ARK backing",
+      "title": "Lancement de Zero",
       "titleOriginal": "LayerZero unveils ‘Zero’ chain, with Citadel, ARK backing",
-      "summary": "Zero is scheduled to launch in the fall of 2026 and LayerZero Labs claims it can scale up to two million transactions per second by leveraging zero-kn",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "LayerZero lance une nouvelle chaîne appelée Zero",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, car elle indique des avancées technologiques dans l'écosystème crypto. Cependant, son impact immédiat pourrait être limité dans un marché en extrême peur.",
+      "contextLink": "Cette news se connecte au contexte actuel des Institutions bullish, qui indique un intérêt accru pour les technologies blockchain.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/layerzero-launching-zero-blockchain-with-backing-from-citadel-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 02:57:56 +0000"
     },
     {
-      "title": "Ex-SafeMoon chief sentenced to 8 years over $9M investor fraud",
-      "titleOriginal": "Ex-SafeMoon chief sentenced to 8 years over $9M investor fraud",
-      "summary": "SafeMoon’s former chief technology officer, Thomas Smith, has also pleaded guilty and is awaiting sentencing. Alleged co-conspirator Kyle Nagy remains",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/safemoon-ceo-sentenced-8-years-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 01:42:58 +0000"
-    },
-    {
-      "title": "Robinhood launches Ethereum layer-2 testnet for tokenized assets",
+      "title": "Lancement de testnet par Robinhood",
       "titleOriginal": "Robinhood launches Ethereum layer-2 testnet for tokenized assets",
-      "summary": "Robinhood is testing its own Arbitrum‑based Ethereum layer‑2, deepening its push into tokenized stocks and DeFi infrastructure alongside other major e",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Robinhood lance un testnet pour les actifs tokenisés",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle indique une adoption accrue des technologies blockchain et des actifs tokenisés. Cela pourrait encourager les investisseurs à réévaluer leur position.",
+      "contextLink": "Cette news se connecte au contexte actuel des ETF Flows à +145M$, qui indique un intérêt accru pour les investissements crypto.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-launches-ethereum-layer-2-testnet-for-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 01:30:00 +0000"
+    },
+    {
+      "title": "Zone d'accumulation pour ETH",
+      "titleOriginal": "Large demand zone below $2K ETH price gives signal on where Ether may go",
+      "summary": "Une zone d'accumulation importante se trouve en dessous de 2 000$ pour ETH",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle indique une zone de soutien importante pour ETH. Cela pourrait encourager les investisseurs à acheter à ces niveaux et contribuer à un rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de la zone d'accumulation, où les investisseurs sont déjà à la recherche de zones de soutien pour acheter.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/large-demand-zone-below-dollar2k-eth-price-gives-signal-on-where-ether-may-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Tue, 10 Feb 2026 22:45:00 +0000"
     }
   ]
 }
