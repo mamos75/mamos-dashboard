@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T22:30:03.998Z",
+  "updatedAt": "2026-02-11T22:45:07.796Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
+      "title": "Chainlink sur Ethereum",
       "titleOriginal": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
-      "summary": "Price feeds for SPYon, QQQon and TSLAon are now live on Ethereum, allowing the Ondo-issued tokenized equities to be used as collateral in DeFi lending",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Chainlink fournit des flux de prix pour les actions tokenisées sur Ethereum",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait renforcer la confiance dans les marchés DeFi et potentiellement soutenir les prix, notamment dans un contexte de fear extrême où les investisseurs cherchent des opportunités de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel en offrant une opportunité de croissance pour les investissements institutionnels dans les marchés DeFi.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:59:03 +0000"
     },
     {
-      "title": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
+      "title": "Démocrates critiquent SEC",
       "titleOriginal": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
-      "summary": "A House Committee on Financial Services hearing on Wednesday dredged up concerns about the pro-crypto regulatory shift under the Trump administration.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les démocrates critiquent la position de la SEC sur la régulation des crypto-monnaies",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait créer de l'incertitude et potentiellement peser sur les prix, mais dans un contexte où les hedge funds sont déjà majoritairement short, l'impact pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel en soulignant les défis réglementaires auxquels les crypto-monnaies sont confrontées, ce qui pourrait influencer la confiance des investisseurs.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/democrats-slam-sec-chair-atkins-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:46:47 +0000"
     },
     {
-      "title": "Bitcoin futures data shows bears gearing up for an assault on $60K",
+      "title": "Bears visent 60k$",
       "titleOriginal": "Bitcoin futures data shows bears gearing up for an assault on $60K",
-      "summary": "Bitcoin’s rejection at $70,000 and the large liquidity void below leave $60,000 vulnerable, a move analysts see as likely in the coming days.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les ours visent un niveau de prix de 60 000 $ pour le Bitcoin",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait exercer une pression à la baisse sur les prix à court terme, mais dans un contexte de fear extrême, les investisseurs pourraient voir cela comme une opportunité d'achat.",
+      "contextLink": "Cette news se connecte au contexte actuel en reflétant les sentiments négatifs des investisseurs, mais les institutions restent bullish, ce qui pourrait limiter la chute des prix.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:15:02 +0000"
     },
     {
-      "title": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "titleOriginal": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Technical charts show Bitcoin and altcoins consolidating as part of establishing a new price floor after last week’s sharp sell-off. As a range is set",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 20:20:00 +0000"
-    },
-    {
-      "title": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
+      "title": "Rebond de BTC s'essouffle",
       "titleOriginal": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
-      "summary": "Bitcoin price crumbled back toward its 2026 low as a lack of fresh capital inflows, weak investor sentiment, and rising selling in spot markets chippe",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le rebond du Bitcoin s'essouffle en raison d'un manque de capitaux frais",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait indiquer une poursuite de la tendance baissière à court terme, mais les flux d'ETF positifs et l'engagement institutionnel pourraient soutenir les prix à plus long terme.",
+      "contextLink": "Cette news se connecte au contexte actuel en soulignant les défis que le Bitcoin rencontre pour maintenir son élan, malgré les signaux positifs de l'engagement institutionnel.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 19:16:17 +0000"
+    },
+    {
+      "title": "Deel utilise MoonPay",
+      "titleOriginal": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
+      "summary": "Deel utilise MoonPay pour les paiements de salaires en stablecoin",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait renforcer l'adoption des stablecoins et des crypto-monnaies dans les paiements réels, soutenant ainsi les prix à long terme, notamment dans un contexte où les institutions cherchent à intégrer les crypto-monnaies dans leurs opérations.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant comment les entreprises utilisent les crypto-monnaies pour améliorer leurs opérations, ce qui pourrait contribuer à une adoption plus large.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/deel-partners-with-moonpay-to-roll-out-stablecoin-salary-payouts-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 18:14:35 +0000"
     }
   ]
 }
