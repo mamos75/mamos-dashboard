@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T23:00:04.972Z",
+  "updatedAt": "2026-02-11T23:15:03.309Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.2",
-      "short": "43.8",
+      "long": "56.0",
+      "short": "44.0",
       "ratio": "1.28"
     },
     "accounts": {
       "long": "66.8",
       "short": "33.2"
     },
-    "takerBuySellRatio": "1.09",
+    "takerBuySellRatio": "1.54",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,321",
+    "btc": "81,357",
     "usd": "5.48B",
-    "change24h": -0.2,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67418,
+    "current": 67318,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-1.85",
+    "change24h": "-1.96",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,418",
+      "currentPrice": "$67,318",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions restent optimistes. Malgré cela, on voit de l'argent qui entre dans les ETF, ce qui pourrait être un signe de renversement. C'est presque comme si le marché était en train de se préparer pour un grand rebond !"
+  "story": "Le marché est dans un état de peur extrême, les gens sont vraiment anxieux ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds parient contre le marché à 68,9%. C'est comme si tout le monde attendait le feu vert pour bondir, avec des flux d'argent qui entrent déjà dans les ETF à hauteur de 145 millions de dollars. On dirait que le marché est prêt à exploser, c'est une zone d'accumulation, il faut être prêt !"
 }
