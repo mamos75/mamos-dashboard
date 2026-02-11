@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T12:00:05.358Z",
+  "updatedAt": "2026-02-11T12:15:03.161Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -21,19 +21,19 @@
     "topTraders": {
       "long": "54.4",
       "short": "45.6",
-      "ratio": "1.19"
+      "ratio": "1.20"
     },
     "accounts": {
-      "long": "66.1",
-      "short": "33.9"
+      "long": "65.8",
+      "short": "34.2"
     },
-    "takerBuySellRatio": "0.44",
-    "trend": "more_short",
+    "takerBuySellRatio": "0.69",
+    "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,680",
-    "usd": "5.55B",
+    "btc": "82,607",
+    "usd": "5.54B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67078,
+    "current": 67085,
     "high24h": 69994,
     "low24h": 66369,
-    "change24h": "-2.14",
+    "change24h": "-2.25",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,078",
+      "currentPrice": "$67,085",
       "entryZone": "$66,400 - $67,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone de peur extrême, les investisseurs sont vraiment nerveux ! Les grandes institutions sont toutefois optimistes et investissent massivement, avec plus de 145 millions de dollars injectés récemment. Les hedge funds, eux, sont plutôt négatifs, mais c'est souvent un signe que le marché est prêt à rebondir. C'est une zone d'accumulation parfaite pour acheter, car tout le monde a peur et les prix sont bas !"
+  "story": "Le marché est super peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent gros sur une baisse. Il y a même plus de 145 millions de dollars qui entrent dans les fonds crypto, ce qui est un bon signe. On dirait qu'on est dans une zone où les prix sont bas et que c'est le moment d'acheter !"
 }
