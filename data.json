@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T04:30:04.136Z",
+  "updatedAt": "2026-02-11T04:30:52.802Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -32,9 +32,9 @@
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,068",
-    "usd": "5.48B",
-    "change24h": 0.3,
+    "btc": "81,155",
+    "usd": "5.49B",
+    "change24h": 0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "897",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "crashing",
-    "peak": "1115",
-    "change24h": -12.7,
-    "change7d": -10.3,
-    "changeFromPeak": -19.6,
-    "interpretation": "🔴 Hashrate en chute libre (-19.6% depuis le pic). Mineurs en grande difficulté.",
-    "priceImpact": "⚠️ <strong>Impact prix :</strong> Les mineurs vendent du BTC pour payer leurs factures → pression vendeuse à court terme. MAIS historiquement, la capitulation des mineurs marque souvent un <strong>point bas</strong>. Si tu crois au long terme, c'est potentiellement une opportunité.",
-    "signal": "bearish"
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
+    "signal": "neutral"
   },
   "priceData": {
-    "current": 67606,
+    "current": 67614,
     "high24h": 69994,
     "low24h": 67556,
-    "change24h": "-3.14",
+    "change24h": "-3.09",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -133,13 +128,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "strong_accumulation",
+    "label": "ACCUMULATION FORTE",
+    "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bear": 3,
+      "net": 6
     },
     "signals": [
       {
@@ -173,14 +168,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Modéré"
+      "strength": "Fort"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,606",
+      "currentPrice": "$67,614",
       "entryZone": "$67,600 - $69,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -202,13 +197,13 @@
     ],
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $67,600 - $69,100 pour position."
+      "recommendation": "Accumulation progressive",
+      "detail": "DCA sur la zone $67,600 - $69,100. Ne pas FOMO sur les pumps."
     },
     "risk": {
-      "maxPosition": "1-2%",
+      "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont plutôt optimistes et investissent même plus, ce qui est un bon signe. Les hedge funds, eux, sont en train de parier contre le marché, ce qui pourrait être une erreur. C'est comme si tout le monde criait \"vendez\" alors que les gros investisseurs disent \"achetez\", c'est une zone d'opportunité !"
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 11 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
 }
