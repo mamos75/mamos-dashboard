@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-11T09:30:07.949Z",
+  "updatedAt": "2026-02-11T09:45:04.498Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ZONE D'ACCUMULATION"
+    "signal": "ACCUMULATION FORTE"
   },
   "narrative": null,
   "news": [
     {
-      "title": "ETF Bitcoin",
+      "title": "Uniswap scores early win as US judge dismisses Bancor patent suit",
+      "titleOriginal": "Uniswap scores early win as US judge dismisses Bancor patent suit",
+      "summary": "The court granted Uniswap’s motion to dismiss without prejudice, allowing plaintiffs 21 days to amend before the dismissal becomes final.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/judge-dismisses-bancor-patent-case-uniswap-abstract-ideas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 09:31:50 +0000"
+    },
+    {
+      "title": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
       "titleOriginal": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
-      "summary": "Les ETF Bitcoin ont ajouté 167 millions de dollars, annulant presque les sorties de la semaine dernière.",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à un rebond du prix du Bitcoin, car les investisseurs institutionnels montrent un intérêt croissant pour les actifs cryptographiques. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
-      "contextLink": "Les institutions sont bullish, ce qui est cohérent avec l'augmentation des flux d'ETF.",
-      "importance": 4,
+      "summary": "Spot Bitcoin ETFs posted $311 million inflows this week, nearly offsetting last week’s $318 million outflows, even as BTC fell 13%.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-add-167m-nearly-erase-last-week-s-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 09:09:03 +0000"
     },
     {
-      "title": "Franklin Templeton",
+      "title": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
       "titleOriginal": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
-      "summary": "Franklin Templeton permet aux institutions de utiliser des parts de fonds monétaires tokenisés comme collatéral pour les échanges sur Binance.",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait augmenter la liquidité et la confiance dans les marchés cryptographiques, ce qui pourrait avoir un impact positif sur le prix du Bitcoin. Cependant, l'impact pourrait être limité dans le court terme.",
-      "contextLink": "Cela se connecte au contexte actuel d'accumulation, où les institutions cherchent à investir dans les actifs cryptographiques de manière plus sécurisée.",
+      "summary": "Franklin Templeton is letting institutions pledge tokenized money market fund shares as collateral for trading on Binance, while keeping the fund asse",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/franklin-templeton-binance-tokenized-mmf-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:53:14 +0000"
     },
     {
-      "title": "Spark Lending",
+      "title": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
       "titleOriginal": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
-      "summary": "Spark lance une nouvelle plateforme de prêt pour les institutions, utilisant des stablecoins décentralisées.",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait augmenter l'adoption des stablecoins et des actifs cryptographiques dans les institutions, ce qui pourrait avoir un impact positif sur le prix du Bitcoin à long terme. Cependant, l'impact immédiat pourrait être limité.",
-      "contextLink": "Cela se connecte au contexte actuel d'accumulation, où les institutions cherchent à investir dans les actifs cryptographiques de manière plus innovante.",
+      "summary": "Spark is rolling out Spark Prime and Spark Institutional Lending, aiming to turn its DeFi stablecoin stack into institutional margin and credit lines.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spark-new-lending-suite-onchain-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:12:57 +0000"
     },
     {
-      "title": "Novogratz",
-      "titleOriginal": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
-      "summary": "Le PDG de Galaxy, Mike Novogratz, pense que l'âge de la spéculation dans les cryptos est en train de se terminer.",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation de la confiance dans les actifs cryptographiques, car les investisseurs pourraient considérer que les rendements plus stables et plus bas sont plus attractifs que les rendements élevés et risqués. Cependant, cela pourrait également signifier que les rendements à court terme pourraient être plus faibles.",
-      "contextLink": "Cela se connecte au contexte actuel d'accumulation, où les investisseurs cherchent à investir dans les actifs cryptographiques de manière plus sécurisée et plus stable.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 05:55:07 +0000"
-    },
-    {
-      "title": "Marché des commodities",
-      "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Le marché des commodities tokenisées a dépassé les 6 milliards de dollars, avec une croissance historique de l'or.",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation de la confiance dans les actifs cryptographiques, car les investisseurs pourraient considérer que les commodities tokenisées sont une alternative attractive aux actifs traditionnels. Cependant, l'impact direct sur le prix du Bitcoin pourrait être limité.",
-      "contextLink": "Cela se connecte au contexte actuel d'accumulation, où les investisseurs cherchent à diversifier leurs portefeuilles avec des actifs innovants.",
+      "title": "Bitcoin price drops 3% as analyst warns bulls lack ‘momentum’ to flip $69K",
+      "titleOriginal": "Bitcoin price drops 3% as analyst warns bulls lack ‘momentum’ to flip $69K",
+      "summary": "Bitcoin analysis warned the $69,000 mark may end up as long-term resistance again, thanks to its significance in BTC price history.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 04:14:03 +0000"
+      "link": "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 08:00:08 +0000"
     }
   ]
 }
