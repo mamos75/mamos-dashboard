@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T06:30:03.789Z",
+  "updatedAt": "2026-02-11T06:45:02.737Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
-      "ratio": "1.24"
+      "long": "54.9",
+      "short": "45.1",
+      "ratio": "1.22"
     },
     "accounts": {
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "0.67",
+    "takerBuySellRatio": "0.34",
     "trend": "more_long",
-    "signal": "dump_possible"
+    "signal": "neutral"
   },
   "openInterest": {
-    "btc": "81,747",
-    "usd": "5.49B",
-    "change24h": -0.3,
+    "btc": "82,015",
+    "usd": "5.48B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67121,
+    "current": 66856,
     "high24h": 69994,
     "low24h": 66699,
-    "change24h": "-3.02",
+    "change24h": "-3.15",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,121",
+      "currentPrice": "$66,856",
       "entryZone": "$66,700 - $68,200",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement très nerveux, avec une peur extrême qui domine les esprits. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, ce qui pourrait créer une opportunité pour nous. C'est une zone d'accumulation parfaite, où les sages investisseurs achètent à bas prix !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grands investisseurs institutionnels, eux, sont plutôt optimistes et misent sur une hausse. Les hedge funds, par contre, sont majoritairement prêts à vendre, ce qui pourrait créer une opportunité d'achat. C'est comme si le marché était en train de se préparer pour un grand rebond !"
 }
