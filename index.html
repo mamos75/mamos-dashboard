@@ -681,6 +681,48 @@
             color: var(--orange);
         }
         
+        /* DISCLAIMER */
+        .disclaimer-section {
+            padding: 30px 20px;
+            background: var(--bg-secondary);
+        }
+        
+        .disclaimer-box {
+            max-width: 700px;
+            margin: 0 auto;
+            display: flex;
+            gap: 15px;
+            padding: 20px;
+            background: rgba(245, 158, 11, 0.1);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+            border-radius: 12px;
+        }
+        
+        .disclaimer-icon {
+            font-size: 24px;
+            flex-shrink: 0;
+        }
+        
+        .disclaimer-content {
+            flex: 1;
+        }
+        
+        .disclaimer-title {
+            font-weight: 700;
+            color: var(--orange);
+            margin-bottom: 8px;
+        }
+        
+        .disclaimer-text {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+        
+        .disclaimer-text strong {
+            color: var(--text-primary);
+        }
+        
         /* METRICS GRID */
         .metrics-section {
             padding: 40px 20px;
@@ -1021,9 +1063,24 @@
         </div>
     </section>
     
+    <!-- DISCLAIMER -->
+    <section class="disclaimer-section">
+        <div class="disclaimer-box">
+            <div class="disclaimer-icon">⚠️</div>
+            <div class="disclaimer-content">
+                <div class="disclaimer-title">Ceci n'est pas un conseil financier</div>
+                <div class="disclaimer-text">
+                    Ce dashboard exploite des <strong>données on-chain</strong> + de l'<strong>IA</strong> pour synthétiser rapidement l'état du marché et identifier les zones importantes. 
+                    Les informations présentées sont à titre éducatif uniquement. Faites toujours vos propres recherches (DYOR) avant toute décision d'investissement.
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <footer>
         <p>Made with ❤️ by <a href="https://mamoscrypto.com">Mamos</a> & Jarvis</p>
         <p style="margin-top: 10px; font-size: 12px;">Dernière mise à jour : <span id="update-time">--</span></p>
+        <p style="margin-top: 5px; font-size: 11px; color: var(--text-secondary);">📊 Data: Binance, Glassnode, CoinGlass, Alternative.me | 🤖 AI: Groq</p>
     </footer>
     
     <script>
