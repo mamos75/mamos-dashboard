@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T05:30:03.218Z",
+  "updatedAt": "2026-02-11T05:45:03.361Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "0.85",
+    "takerBuySellRatio": "1.53",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,659",
+    "btc": "81,790",
     "usd": "5.52B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67573,
+    "current": 67440,
     "high24h": 69994,
     "low24h": 67368,
-    "change24h": "-2.80",
+    "change24h": "-2.79",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,573",
+      "currentPrice": "$67,440",
       "entryZone": "$67,400 - $68,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. C'est comme si tout le monde vendait en panique, mais les pros achètent en douce, ce qui pourrait être un signal intéressant. On dirait qu'on est dans une zone où les investisseurs intelligents achètent à bas prix, prêts à prendre le relais."
+  "story": "Le marché est actuellement dans un état de peur extrême, avec beaucoup de gens qui ont peur de tout perdre. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les flux d'argent vers les ETF crypto sont même en hausse, ce qui est un bon signe. C'est comme si le marché était en train de se preparer pour un grand rebond, mais personne n'ose y croire pour l'instant."
 }
