@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T05:15:03.656Z",
+  "updatedAt": "2026-02-11T05:30:03.218Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
-      "ratio": "1.24"
+      "long": "55.2",
+      "short": "44.8",
+      "ratio": "1.23"
     },
     "accounts": {
-      "long": "65.0",
-      "short": "35.0"
+      "long": "64.9",
+      "short": "35.1"
     },
-    "takerBuySellRatio": "1.48",
+    "takerBuySellRatio": "0.85",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,571",
+    "btc": "81,659",
     "usd": "5.52B",
-    "change24h": -0.2,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67718,
+    "current": 67573,
     "high24h": 69994,
     "low24h": 67368,
-    "change24h": "-2.97",
+    "change24h": "-2.80",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,718",
+      "currentPrice": "$67,573",
       "entryZone": "$67,400 - $68,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les grandes institutions sont optimistes, ce qui contraste avec les fonds spéculatifs qui misent à la baisse. Il y a même un afflux d'argent dans les fonds liés aux crypto, ce qui est un signe positif. C'est le moment idéal pour accumuler, car le marché est sous-évalué !"
+  "story": "Le marché est super nerveux en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. C'est comme si tout le monde vendait en panique, mais les pros achètent en douce, ce qui pourrait être un signal intéressant. On dirait qu'on est dans une zone où les investisseurs intelligents achètent à bas prix, prêts à prendre le relais."
 }
