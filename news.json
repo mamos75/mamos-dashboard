@@ -1,59 +1,66 @@
 {
-  "updatedAt": "2026-02-11T09:00:07.945Z",
+  "updatedAt": "2026-02-11T09:15:04.325Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Franklin Templeton",
+      "title": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
+      "titleOriginal": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
+      "summary": "Spot Bitcoin ETFs posted $311 million inflows this week, nearly offsetting last week’s $318 million outflows, even as BTC fell 13%.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-add-167m-nearly-erase-last-week-s-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 09:09:03 +0000"
+    },
+    {
+      "title": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
       "titleOriginal": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
-      "summary": "Les institutions peuvent désormais utiliser des parts de fonds monétaires tokenisés comme collatéral pour les échanges sur Binance.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle indique une augmentation de la participation institutionnelle et de la liquidité. Dans le contexte actuel de peur extrême, cela pourrait être un signal d'accumulation.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'augmentation des flux d'ETF et la position bullish des institutions.",
-      "importance": 4,
+      "summary": "Franklin Templeton is letting institutions pledge tokenized money market fund shares as collateral for trading on Binance, while keeping the fund asse",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/franklin-templeton-binance-tokenized-mmf-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:53:14 +0000"
     },
     {
-      "title": "Spark lance prêt",
+      "title": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
       "titleOriginal": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
-      "summary": "Spark propose une nouvelle gamme de prêts pour les institutions, basée sur des stablecoins décentralisées.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait renforcer la confiance dans les stablecoins et les applications décentralisées, ce qui pourrait avoir un effet positif sur le prix. Cependant, dans le contexte actuel, l'impact pourrait être limité en raison de la peur extrême.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'intérêt croissant des institutions pour les applications décentralisées et les stablecoins.",
+      "summary": "Spark is rolling out Spark Prime and Spark Institutional Lending, aiming to turn its DeFi stablecoin stack into institutional margin and credit lines.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spark-new-lending-suite-onchain-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:12:57 +0000"
     },
     {
-      "title": "Novogratz",
-      "titleOriginal": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
-      "summary": "Le PDG de Galaxy, Mike Novogratz, pense que l'âge de la spéculation dans les crypto-monnaies est en train de se terminer.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle indique une évolution vers des rendements plus stables et plus bas, ce qui pourrait attirer les investisseurs institutionnels. Dans le contexte actuel, cela pourrait être un signal d'accumulation.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'augmentation des flux d'ETF et la position bullish des institutions.",
-      "importance": 4,
+      "title": "Bitcoin price drops 3% as analyst warns bulls lack ‘momentum’ to flip $69K",
+      "titleOriginal": "Bitcoin price drops 3% as analyst warns bulls lack ‘momentum’ to flip $69K",
+      "summary": "Bitcoin analysis warned the $69,000 mark may end up as long-term resistance again, thanks to its significance in BTC price history.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 05:55:07 +0000"
+      "link": "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 08:00:08 +0000"
     },
     {
-      "title": "Marché des commodities",
-      "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Le marché des commodities tokenisées a dépassé les 6 milliards de dollars, avec Tether Gold et PAX Gold représentant plus de 95% du marché.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle indique une augmentation de la participation institutionnelle et de la liquidité. Dans le contexte actuel, cela pourrait être un signal d'accumulation.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'augmentation des flux d'ETF et la position bullish des institutions.",
-      "importance": 4,
+      "title": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
+      "titleOriginal": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
+      "summary": "Crypto political action committee Fairshake spent roughly $130 million during the 2024 US elections to support pro-crypto candidates.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 04:14:03 +0000"
+      "link": "https://cointelegraph.com/news/fairshake-barry-moore-alabama-senate-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 06:24:17 +0000"
     }
   ]
 }
