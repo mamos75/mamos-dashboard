@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T06:45:02.737Z",
+  "updatedAt": "2026-02-11T07:00:03.787Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.9",
-      "short": "45.1",
-      "ratio": "1.22"
+      "long": "54.8",
+      "short": "45.2",
+      "ratio": "1.21"
     },
     "accounts": {
-      "long": "64.9",
-      "short": "35.1"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "0.34",
+    "takerBuySellRatio": "0.81",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,015",
+    "btc": "81,985",
     "usd": "5.48B",
-    "change24h": 0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66856,
+    "current": 66819,
     "high24h": 69994,
-    "low24h": 66699,
-    "change24h": "-3.15",
+    "low24h": 66558,
+    "change24h": "-3.05",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
-      66700,
+      66600,
       60000
     ],
     "resistances": [
@@ -180,8 +180,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,856",
-      "entryZone": "$66,700 - $68,200",
+      "currentPrice": "$66,819",
+      "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
       "target2": "$71,500"
@@ -203,12 +203,12 @@
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $66,700 - $68,200 pour position."
+      "detail": "Attendre un repli vers $66,600 - $68,100 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grands investisseurs institutionnels, eux, sont plutôt optimistes et misent sur une hausse. Les hedge funds, par contre, sont majoritairement prêts à vendre, ce qui pourrait créer une opportunité d'achat. C'est comme si le marché était en train de se préparer pour un grand rebond !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont nerveux et vendent leurs cryptos. Mais attention, les grandes institutions sont plutôt optimistes et investissent même plus de 145 millions de dollars. Les hedge funds, eux, misent sur une baisse, mais je dirais que c'est le moment idéal pour acheter, le marché est en zone d'accumulation ! C'est le moment de faire le contraire de la foule et de saisir l'opportunité."
 }

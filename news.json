@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T06:45:03.244Z",
+  "updatedAt": "2026-02-11T07:00:09.291Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
+      "title": "PAC Crypto",
       "titleOriginal": "Crypto super PAC to spend $5M on Barry Moore’s Senate bid: Report",
-      "summary": "Crypto political action committee Fairshake spent roughly $130 million during the 2024 US elections to support pro-crypto candidates.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Un comité d'action politique crypto dépense 5 millions de dollars pour soutenir un candidat au Sénat.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre un soutien croissant pour les candidats pro-crypto, ce qui pourrait renforcer la confiance des investisseurs dans un marché actuellement dominé par la peur.",
+      "contextLink": "Cette news se connecte au contexte actuel par le soutien institutionnel aux candidats pro-crypto, malgré le sentiment de peur extrême actuel.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/fairshake-barry-moore-alabama-senate-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 06:24:17 +0000"
     },
     {
-      "title": "White House crypto bill talks ‘productive,’ but no deal yet",
-      "titleOriginal": "White House crypto bill talks ‘productive,’ but no deal yet",
-      "summary": "The second meeting between crypto and the banks at the White House over the crypto market structure bill has yet to come to an agreement on stablecoin",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-banks-white-house-crypto-bill-meeting-productive-no-deal-reached?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 06:09:43 +0000"
-    },
-    {
-      "title": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
+      "title": "Fin de l'âge de la spéculation",
       "titleOriginal": "Crypto’s ‘age of speculation’ may be ending: Galaxy’s Novogratz",
-      "summary": "Galaxy CEO Mike Novogratz says crypto's high-risk, high-reward reputation could be replaced by lower, steadier returns brought by real-world asset tok",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le PDG de Galaxy, Mike Novogratz, pense que l'âge de la spéculation dans les crypto-monnaies est peut-être en train de se terminer.",
+      "impact": "bearish",
+      "priceEffect": "Cette déclaration pourrait avoir un impact négatif sur le prix à court terme, car elle suggère une réduction potentielle des rendements, mais dans un marché actuellement dominé par la peur, elle pourrait également être considérée comme une étape vers une maturité du marché.",
+      "contextLink": "Cette news se connecte au contexte actuel par la réflexion sur l'évolution du marché crypto, qui est actuellement caractérisé par une peur extrême et une attente de régulation.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/age-of-crypto-speculation-is-over-galaxy-novogratz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 05:55:07 +0000"
     },
     {
-      "title": "Tokenized commodities market crosses $6B amid gold’s historic rally",
+      "title": "Marché des commodities tokenisées",
       "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
-      "summary": "Tether Gold and the Paxos-listed PAX Gold account for over 95% of the tokenized commodities market, which is now outpacing tokenized stocks and funds.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le marché des commodities tokenisées dépasse les 6 milliards de dollars, avec une croissance significative de l'or.",
+      "impact": "bullish",
+      "priceEffect": "Cette croissance du marché des commodities tokenisées, en particulier avec l'or, pourrait soutenir les prix des crypto-monnaies liées à ces actifs, contribuant ainsi à un potentiel rebond dans un marché actuellement en peur extrême.",
+      "contextLink": "Cette news se connecte au contexte actuel par la recherche de valeur refuge dans les actifs tokenisés, reflétant la peur du marché et la quête de stabilité.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/tokenized-commodities-like-gold-reach-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 04:14:03 +0000"
     },
     {
-      "title": "Robinhood Q4 earnings miss as crypto revenues decline",
+      "title": "Robinhood Q4",
       "titleOriginal": "Robinhood Q4 earnings miss as crypto revenues decline",
-      "summary": "Robinhood shares fell nearly 8% in after-hours trading as the platform’s record Q4 revenues weren’t enough to satisfy analysts’ predictions.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les revenus de Robinhood pour le Q4 sont inférieurs aux attentes, avec une baisse des revenus liés aux crypto-monnaies.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix, car elle indique une baisse de l'activité et des revenus dans le secteur des crypto-monnaies, mais dans un marché déjà en peur extrême, cette information pourrait être considérée comme déjà prise en compte dans les prix actuels.",
+      "contextLink": "Cette news se connecte au contexte actuel par la performance financière des plateformes de trading de crypto-monnaies, qui reflète l'activité et la confiance des investisseurs dans le marché actuel.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/robinhood-shares-dip-q4-earnings-miss-crypto-revenues-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 03:27:34 +0000"
+    },
+    {
+      "title": "Lancement de Zero",
+      "titleOriginal": "LayerZero unveils ‘Zero’ chain with Citadel Securities, ARK Invest backing",
+      "summary": "LayerZero lance une nouvelle chaîne appelée 'Zero' avec le soutien de Citadel Securities et ARK Invest.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle annonce une nouvelle technologie prometteuse avec des partenaires de poids, ce qui pourrait renforcer la confiance dans le potentiel à long terme du marché crypto.",
+      "contextLink": "Cette news se connecte au contexte actuel par l'innovation technologique et les partenariats stratégiques, qui sont cruciaux pour la croissance et la maturité du marché crypto dans un environnement actuellement dominé par la peur.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/layerzero-launching-zero-blockchain-with-backing-from-citadel-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 02:57:56 +0000"
     }
   ]
 }
