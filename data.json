@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T16:30:03.270Z",
+  "updatedAt": "2026-02-11T16:45:04.173Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
+      "long": "54.4",
+      "short": "45.6",
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "67.1",
-      "short": "32.9"
+      "long": "66.8",
+      "short": "33.2"
     },
-    "takerBuySellRatio": "0.95",
+    "takerBuySellRatio": "0.71",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "81,318",
-    "usd": "5.41B",
+    "btc": "81,340",
+    "usd": "5.38B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66573,
+    "current": 66112,
     "high24h": 69994,
     "low24h": 65756,
-    "change24h": "-4.03",
+    "change24h": "-4.90",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 4,
-      "net": 4
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,573",
+      "currentPrice": "$66,112",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque apocalyptique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, sont très négatifs et parient contre le marché, ce qui pourrait créer une opportunité pour nous. C'est une zone d'accumulation, il faut être prêt à saisir l'occasion !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent à tout prix ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent discrètement. C'est comme si tout le monde criait \"c'est la fin\" alors que les plus malins disent \"c'est l'occasion\". On dirait qu'on est dans une zone de feu vente, mais peut-être que c'est le moment de faire le contraire !"
 }
