@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-02-10T23:51:57.671Z",
+  "updatedAt": "2026-02-11T00:00:04.547Z",
   "fearGreed": {
-    "current": 9,
+    "current": 11,
     "label": "Extreme Fear",
-    "change24h": -5,
-    "change7d": -5,
-    "change30d": -18,
+    "change24h": 2,
+    "change7d": -1,
+    "change30d": -15,
     "trend": "worsening",
     "history7d": [
+      11,
       9,
       14,
       7,
       6,
       9,
-      12,
-      14
+      12
     ]
   },
   "longShort": {
@@ -24,15 +24,15 @@
       "ratio": "1.22"
     },
     "accounts": {
-      "long": "64.7",
-      "short": "35.3"
+      "long": "64.6",
+      "short": "35.4"
     },
-    "takerBuySellRatio": "1.20",
+    "takerBuySellRatio": "0.81",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,258",
+    "btc": "79,252",
     "usd": "5.45B",
     "change24h": 0.1,
     "trend": "stable",
@@ -40,10 +40,10 @@
   },
   "funding": {
     "btc": {
-      "current": "-0.0022",
-      "avg24h": "-0.0034"
+      "current": "0.0022",
+      "avg24h": "-0.0033"
     },
-    "eth": "-0.0194",
+    "eth": "-0.0084",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,11 +61,11 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 68790,
+    "current": 68838,
     "high24h": 70528,
     "low24h": 67800,
-    "change24h": "-1.99",
-    "weekHigh": 76972,
+    "change24h": "-1.87",
+    "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
       67800,
@@ -73,8 +73,8 @@
     ],
     "resistances": [
       70500,
-      72300,
-      77000
+      71500,
+      73300
     ],
     "bias": "bullish",
     "pricePosition": "in_range"
@@ -133,13 +133,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bull": 8,
+      "bear": 4,
+      "net": 4
     },
     "signals": [
       {
@@ -173,23 +173,23 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,790",
+      "currentPrice": "$68,838",
       "entryZone": "$67,800 - $69,300",
       "invalidation": "$60,000",
       "target1": "$70,500",
-      "target2": "$72,300"
+      "target2": "$71,500"
     },
     "factors": [
       {
         "level": "PRINCIPAL",
-        "text": "Fear & Greed extrême (9) - historiquement zone d'achat"
+        "text": "Fear & Greed extrême (11) - historiquement zone d'achat"
       },
       {
         "level": "CONFIRMANT",
@@ -202,13 +202,13 @@
     ],
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $67,800 - $69,300. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $67,800 - $69,300 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les gros investisseurs institutionnels sont optimistes, et ils injectent même de l'argent dans les cryptos, avec 145 millions de dollars d'investissements récents. Les Hedge Funds, par contre, sont très négatifs, ce qui peut créer une opportunité de rattrapage. C'est le moment idéal pour acheter, car tout le monde est en train de se préparer pour une remontée !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, eux, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens continuent d'acheter. C'est la zone parfaite pour acheter, selon moi !"
 }
