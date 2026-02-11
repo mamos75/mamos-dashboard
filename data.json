@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T19:15:03.777Z",
+  "updatedAt": "2026-02-11T19:30:03.101Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.27"
     },
     "accounts": {
-      "long": "66.1",
-      "short": "33.9"
+      "long": "66.8",
+      "short": "33.2"
     },
-    "takerBuySellRatio": "0.96",
-    "trend": "more_short",
+    "takerBuySellRatio": "1.12",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,840",
-    "usd": "5.54B",
-    "change24h": 0,
+    "btc": "81,776",
+    "usd": "5.51B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67636,
+    "current": 67439,
     "high24h": 69304,
     "low24h": 65756,
-    "change24h": "-1.83",
+    "change24h": "-2.18",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
+      "bull": 9,
       "bear": 5,
-      "net": 3
+      "net": 4
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,636",
+      "currentPrice": "$67,439",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en plein chaos, les gens ont peur et vendent leurs cryptos. Mais les institutions, elles, sont optimistes et achètent en masse, ce qui pourrait être un signe de rebond. Les hedge funds, eux, misent sur la baisse, mais l'argent qui entre dans les ETFs cryptos est en augmentation, ce qui est un bon signe. On dirait que c'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Malgré cette peur, il y a eu un afflux de 145 millions de dollars dans les ETF crypto, ce qui est un signe positif. On dirait que le marché est en train de se ressourcer, c'est peut-être le moment de saisir l'occasion !"
 }

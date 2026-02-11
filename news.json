@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T19:15:07.982Z",
+  "updatedAt": "2026-02-11T19:30:03.525Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,52 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Deel lance salaires en stablecoin",
+      "title": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
+      "titleOriginal": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
+      "summary": "Bitcoin price crumbled back toward its 2026 low as a lack of fresh capital inflows, weak investor sentiment, and rising selling in spot markets chippe",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 19:16:17 +0000"
+    },
+    {
+      "title": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
       "titleOriginal": "Deel taps MoonPay to roll out stablecoin salary payouts in UK, EU",
-      "summary": "Deel permet aux entreprises de payer leurs employés en stablecoin dans l'UE et le Royaume-Uni",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre une adoption croissante des cryptomonnaies dans les paiements salariaux, ce qui pourrait renforcer la confiance des investisseurs dans un marché actuellement en extreme peur. Le contexte actuel de fear extrême pourrait amplifier l'impact positif de cette news.",
-      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les institutions sont bullish et où les flux d'ETF sont positifs.",
-      "importance": 4,
+      "summary": "Deel will enable its customers to pay workers in the United Kingdom and European Union, with a US expansion planned later.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/deel-partners-with-moonpay-to-roll-out-stablecoin-salary-payouts-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 18:14:35 +0000"
     },
     {
-      "title": "BlackRock entre dans la DeFi",
+      "title": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
       "titleOriginal": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "summary": "BlackRock lance un fonds de 2,1 milliards de dollars pour la négociation de tokens institutionnels sur Uniswap",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact significatif sur le prix, car elle montre que les institutions commencent à s'intéresser sérieusement à la DeFi, ce qui pourrait attirer de nouveaux investisseurs et renforcer la confiance dans le marché. Le fait que les hedge funds soient majoritairement short pourrait rendre cette news encore plus positive pour le prix.",
-      "contextLink": "Cette news se connecte au contexte actuel de bullish des institutions et de zone d'accumulation, où les investisseurs attendent un signal pour entrer sur le marché.",
-      "importance": 5,
+      "summary": "BlackRock is bringing its $2.1 billion tokenized Treasury fund to Uniswap, expanding institutional access to DeFi and deepening Wall Street’s push int",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 17:47:08 +0000"
     },
     {
-      "title": "Malaisie lance stablecoin et tokenisation",
+      "title": "Malaysia's central bank announces stablecoin, tokenization sandbox",
       "titleOriginal": "Malaysia's central bank announces stablecoin, tokenization sandbox",
-      "summary": "La banque centrale de Malaisie lance des programmes pilotes pour les stablecoins et la tokenisation",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une augmentation de la confiance dans les cryptomonnaies et les technologies blockchain, ce qui pourrait avoir un impact positif sur le prix à long terme. Cependant, l'impact à court terme pourrait être limité en raison du contexte actuel de fear extrême.",
-      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les investisseurs recherchent des signaux de croissance et d'adoption pour entrer sur le marché.",
+      "summary": "The pilot programs explore wholesale settlement between institutions and real-world use cases, along with stablecoin development and tokenized bank de",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/malaysia-central-bank-stablecoin-tokenize-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 16:59:59 +0000"
     },
     {
-      "title": "Danske Bank ouvre aux ETP crypto",
-      "titleOriginal": "Denmark’s Danske Bank allows clients to buy Bitcoin and Ether ETPs",
-      "summary": "La banque danoise Danske Bank permet à ses clients d'acheter des ETP crypto",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que les banques traditionnelles commencent à s'intéresser aux cryptomonnaies. Le contexte actuel de fear extrême pourrait rendre cette news encore plus positive pour le prix.",
-      "contextLink": "Cette news se connecte au contexte actuel de zone d'accumulation, où les investisseurs attendent des signaux de croissance et d'adoption pour entrer sur le marché.",
-      "importance": 4,
+      "title": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
+      "titleOriginal": "When will Bitcoin start a new bull cycle toward $150K? Look for these signs",
+      "summary": "Bitcoin price could still reach $150,000 by year-end, but several things must happen for BTC price to find its technical footing and spark a new bull ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/denmark-largest-bank-danske-pivots-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 14:22:26 +0000"
+      "link": "https://cointelegraph.com/news/when-will-bitcoin-start-a-new-bull-cycle-toward-150k-look-for-these-signs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 16:30:00 +0000"
     }
   ]
 }
