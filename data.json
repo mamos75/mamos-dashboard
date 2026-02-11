@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T21:15:03.066Z",
+  "updatedAt": "2026-02-11T21:30:03.135Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.6",
-      "short": "43.4",
+      "long": "56.7",
+      "short": "43.3",
       "ratio": "1.31"
     },
     "accounts": {
       "long": "67.3",
-      "short": "32.7"
+      "short": "32.8"
     },
     "takerBuySellRatio": "1.21",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,391",
-    "usd": "5.51B",
-    "change24h": -0.1,
+    "btc": "81,184",
+    "usd": "5.53B",
+    "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67690,
+    "current": 68182,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-1.64",
+    "change24h": "-0.66",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,690",
+      "currentPrice": "$68,182",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec presque tout le monde qui pense que les choses vont empirer. Les gros investisseurs institutionnels, eux, restent optimistes et achètent discrètement. Les flux d'argent dans les ETF montrent même un intérêt grandissant, avec 145 millions de dollars injectés récemment. C'est la peur qui domine, mais c'est peut-être le moment idéal pour acheter, car tout le monde est en train de vendre !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent contre le marché à hauteur de 68,9%. C'est un peu comme si tout le monde était en train de vendre, mais les gros poissons sont en train d'acheter en douce. C'est la définition d'une zone d'accumulation, il est peut-être temps de saisir l'occasion !"
 }
