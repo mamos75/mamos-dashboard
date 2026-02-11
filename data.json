@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T10:00:03.802Z",
+  "updatedAt": "2026-02-11T10:15:03.898Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.7",
-      "short": "45.3",
+      "long": "54.8",
+      "short": "45.2",
       "ratio": "1.21"
     },
     "accounts": {
-      "long": "66.1",
-      "short": "33.9"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "0.50",
+    "takerBuySellRatio": "0.66",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "82,465",
+    "btc": "82,525",
     "usd": "5.51B",
-    "change24h": 0.3,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 66865,
+    "current": 66752,
     "high24h": 69994,
     "low24h": 66558,
-    "change24h": "-3.33",
+    "change24h": "-3.47",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,865",
+      "currentPrice": "$66,752",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$60,000",
       "target1": "$70,000",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone d'extrême peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont optimistes, mais les fonds spéculatifs misent contre la tendance. Malgré cela, de l'argent entre dans le marché via les ETF, ce qui est un bon signe. C'est la peur qui domine, mais c'est peut-être le moment de saisir l'occasion !"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde attendait le pire. Les gros investisseurs institutionnels, eux, restent optimistes et mettent leur argent dans les cryptos, ce qui pourrait être un signal positif. Les hedge funds, par contre, sont majoritairement prêts à parier contre le marché, ce qui crée une tension palpable. C'est comme si le marché était à la croisée des chemins, prêt à exploser dans un sens ou dans l'autre."
 }
