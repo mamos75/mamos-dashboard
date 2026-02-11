@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-02-11T04:30:53.886Z",
+  "updatedAt": "2026-02-11T04:45:03.789Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Tokenized commodities market crosses $6B amid gold's historic rally",
-      "titleOriginal": "Tokenized commodities market crosses $6B amid gold's historic rally",
+      "title": "Tokenized commodities market crosses $6B amid gold’s historic rally",
+      "titleOriginal": "Tokenized commodities market crosses $6B amid gold’s historic rally",
       "summary": "Tether Gold and the Paxos-listed PAX Gold account for over 95% of the tokenized commodities market, which is now outpacing tokenized stocks and funds.",
       "impact": "neutre",
       "priceEffect": "",

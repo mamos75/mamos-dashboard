@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T04:30:52.802Z",
+  "updatedAt": "2026-02-11T04:45:03.448Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.24"
     },
     "accounts": {
-      "long": "65.2",
-      "short": "34.8"
+      "long": "65.1",
+      "short": "34.9"
     },
-    "takerBuySellRatio": "1.69",
+    "takerBuySellRatio": "0.61",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,155",
-    "usd": "5.49B",
-    "change24h": 0.4,
+    "btc": "81,568",
+    "usd": "5.51B",
+    "change24h": 0.9,
     "trend": "stable",
     "signal": "normal"
   },
@@ -49,21 +49,26 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1000",
+    "current": "897",
     "unit": "EH/s",
-    "trend": "unknown",
-    "interpretation": "⚪ Données hashrate indisponibles",
-    "signal": "neutral"
+    "trend": "crashing",
+    "peak": "1115",
+    "change24h": -12.7,
+    "change7d": -10.3,
+    "changeFromPeak": -19.6,
+    "interpretation": "🔴 Hashrate en chute libre (-19.6% depuis le pic). Mineurs en grande difficulté.",
+    "priceImpact": "⚠️ <strong>Impact prix :</strong> Les mineurs vendent du BTC pour payer leurs factures → pression vendeuse à court terme. MAIS historiquement, la capitulation des mineurs marque souvent un <strong>point bas</strong>. Si tu crois au long terme, c'est potentiellement une opportunité.",
+    "signal": "bearish"
   },
   "priceData": {
-    "current": 67614,
+    "current": 67527,
     "high24h": 69994,
-    "low24h": 67556,
-    "change24h": "-3.09",
+    "low24h": 67368,
+    "change24h": "-3.11",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
-      67600,
+      67400,
       60000
     ],
     "resistances": [
@@ -128,13 +133,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -168,15 +173,15 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,614",
-      "entryZone": "$67,600 - $69,100",
+      "currentPrice": "$67,527",
+      "entryZone": "$67,400 - $68,900",
       "invalidation": "$60,000",
       "target1": "$70,000",
       "target2": "$71,500"
@@ -197,13 +202,13 @@
     ],
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $67,600 - $69,100. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $67,400 - $68,900 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 11 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens continuent d'acheter. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais personne n'ose y croire pour l'instant !"
 }
