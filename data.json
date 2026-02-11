@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T20:00:03.700Z",
+  "updatedAt": "2026-02-11T20:15:03.550Z",
   "fearGreed": {
     "current": 11,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.5",
-      "short": "43.5",
-      "ratio": "1.30"
+      "long": "56.7",
+      "short": "43.3",
+      "ratio": "1.31"
     },
     "accounts": {
-      "long": "67.0",
-      "short": "33.1"
+      "long": "67.3",
+      "short": "32.7"
     },
-    "takerBuySellRatio": "1.33",
+    "takerBuySellRatio": "1.51",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,505",
+    "btc": "81,459",
     "usd": "5.51B",
-    "change24h": -0.4,
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67570,
+    "current": 67639,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-2.15",
+    "change24h": "-1.63",
     "weekHigh": 73341,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,570",
+      "currentPrice": "$67,639",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont nerveux et ont tendance à vendre. Mais attention, les institutions sont plutôt optimistes et investissent même plus de 145 millions de dollars ! Les hedge funds, eux, misent sur une baisse, mais les signaux sont plutôt favorables à une accumulation, ce qui pourrait signifier que les prix sont prêts à rebondir. C'est le moment de rester calme et de regarder les opportunités !"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de se faire mal. Les grands investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont à 68,9% contre le marché, ce qui pourrait être une bonne nouvelle pour nous si on parvient à les prendre par surprise. C'est la zone d'accumulation parfaite pour acheter !"
 }
