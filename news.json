@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T11:00:10.399Z",
+  "updatedAt": "2026-02-11T11:15:04.171Z",
   "context": {
     "fearGreed": 11,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Uniswap gagne",
+      "title": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
+      "titleOriginal": "Ethereum holders in ‘full-scale’ accumulation as ETH price drops below $2K",
+      "summary": "Ether inflows into accumulation addresses spike despite ETH price falling below $2,000, signalling strong investor confidence in the long term.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ethereum-holders-full-scale-accumulation-eth-price-drops-below-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 11:08:05 +0000"
+    },
+    {
+      "title": "Uniswap scores early win as US judge dismisses Bancor patent suit",
       "titleOriginal": "Uniswap scores early win as US judge dismisses Bancor patent suit",
-      "summary": "Uniswap remporte une victoire en justice contre Bancor",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle renforce la confiance dans l'écosystème DeFi. Dans le contexte actuel de peur extrême, cela pourrait être un catalyseur pour une remontée des prix.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 11/100, où les investisseurs sont à la recherche de signaux positifs pour inverser la tendance baissière.",
-      "importance": 4,
+      "summary": "The court granted Uniswap’s motion to dismiss without prejudice, allowing plaintiffs 21 days to amend before the dismissal becomes final.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/judge-dismisses-bancor-patent-case-uniswap-abstract-ideas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 09:31:50 +0000"
     },
     {
-      "title": "ETF Bitcoin",
+      "title": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
       "titleOriginal": "Spot Bitcoin ETFs add $167M, nearly erase last week’s outflows",
-      "summary": "Les ETF Bitcoin enregistrent des entrées de capitaux malgré la baisse du prix",
-      "impact": "bullish",
-      "priceEffect": "Ces flux d'entrée dans les ETF Bitcoin suggèrent que les investisseurs institutionnels sont toujours intéressés par l'actif, ce qui pourrait soutenir les prix à long terme. Dans le contexte actuel, cela pourrait aider à stabiliser le marché.",
-      "contextLink": "Cette nouvelle se relie aux flux d'ETF à +$145M sur 24 heures, indiquant une demande soutenue pour les produits liés à Bitcoin malgré la peur extrême du marché.",
-      "importance": 5,
+      "summary": "Spot Bitcoin ETFs have posted $311 million inflows this week, almost offsetting last week’s $318 million outflows, even as BTC fell 13%.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-add-167m-nearly-erase-last-week-s-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 09:09:03 +0000"
     },
     {
-      "title": "Tokenisation MMF",
+      "title": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
       "titleOriginal": "Franklin Templeton, Binance allow tokenized MMFs as off-exchange collateral",
-      "summary": "Franklin Templeton et Binance permettent l'utilisation de parts de fonds monétaires tokenisés comme collatéral",
-      "impact": "bullish",
-      "priceEffect": "Cette initiative pourrait augmenter la liquidité et la confiance dans les marchés de crypto, pouvant ainsi soutenir les prix. Dans le contexte actuel, cela pourrait contribuer à une accumulation plus forte.",
-      "contextLink": "Cette nouvelle se connecte au signal global d'accumulation forte, car elle facilite l'accès aux marchés de crypto pour les institutions.",
-      "importance": 4,
+      "summary": "Franklin Templeton is letting institutions pledge tokenized money market fund shares as collateral for trading on Binance, while keeping the fund asse",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/franklin-templeton-binance-tokenized-mmf-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:53:14 +0000"
     },
     {
-      "title": "Spark Lending",
+      "title": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
       "titleOriginal": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
-      "summary": "Spark lance de nouveaux services de prêt pour les institutions",
-      "impact": "bullish",
-      "priceEffect": "Cette offre pourrait attirer plus d'institutions dans l'écosystème DeFi, augmentant ainsi la demande pour les actifs numériques. Cela pourrait aider à inverser la tendance baissière actuelle.",
-      "contextLink": "Cette nouvelle se relie à la position bullish des institutions, car elle leur offre de nouvelles opportunités d'investissement dans les crypto-actifs.",
-      "importance": 4,
+      "summary": "Spark is rolling out Spark Prime and Spark Institutional Lending, aiming to turn its DeFi stablecoin stack into institutional margin and credit lines.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/spark-new-lending-suite-onchain-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 08:12:57 +0000"
-    },
-    {
-      "title": "Analyse BTC",
-      "titleOriginal": "Bitcoin price drops 3% as analyst warns bulls lack ‘momentum’ to flip $69K",
-      "summary": "Un analyste prévient que les bulls manquent de momentum pour dépasser 69 000 $",
-      "impact": "bearish",
-      "priceEffect": "Cette analyse pourrait renforcer la peur et la prudence parmi les investisseurs, pouvant ainsi maintenir la pression baissière sur les prix. Cependant, dans le contexte actuel de peur extrême, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette nouvelle se connecte au Fear & Greed à 11/100, où les investisseurs sont déjà très prudents, ce qui pourrait limiter l'impact de cette analyse négative.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-price-drops-3-percent-analyst-warns-bulls-lack-momentum-69k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 08:00:08 +0000"
     }
   ]
 }
