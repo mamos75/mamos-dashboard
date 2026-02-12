@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T00:30:03.866Z",
+  "updatedAt": "2026-02-12T00:45:07.337Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Coinbase unveils crypto wallets designed specifically for AI agents",
+      "title": "Coinbase lance portefeuille",
       "titleOriginal": "Coinbase unveils crypto wallets designed specifically for AI agents",
-      "summary": "Users can set controls and permissions to allow the AI agent to manage liquidity positions and execute trades at any time of day, Coinbase said.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Coinbase propose des portefeuilles pour les agents IA",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait augmenter la confiance des investisseurs et stimuler l'adoption de la technologie blockchain, ce qui pourrait avoir un impact positif sur le prix dans un marché actuellement en peur extrême.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs sont à la recherche de signaux positifs pour inverser la tendance baissière.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 00:20:50 +0000"
     },
     {
-      "title": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
+      "title": "Chainlink alimente Ondo",
       "titleOriginal": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
-      "summary": "Price feeds for SPYon, QQQon and TSLAon are now live on Ethereum, allowing the Ondo-issued tokenized equities to be used as collateral in DeFi lending",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Chainlink fournit des flux de prix pour les actions tokenisées d'Ondo",
+      "impact": "bullish",
+      "priceEffect": "L'intégration de Chainlink avec Ondo pourrait accroître la liquidité et la confiance dans les marchés DeFi, ce qui pourrait avoir un impact positif sur le prix, notamment avec les flux d'ETF à +$145M en 24h.",
+      "contextLink": "Cette news se connecte au contexte actuel des ETF Flows 24h positifs, indiquant un intérêt croissant pour les produits dérivés de crypto-monnaies.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:59:03 +0000"
     },
     {
-      "title": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
+      "title": "Démocrates critiquent SEC",
       "titleOriginal": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
-      "summary": "A House Committee on Financial Services hearing on Wednesday dredged up concerns about the pro-crypto regulatory shift under the Trump administration.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les démocrates critiquent la politique de régulation de la SEC envers les crypto-monnaies",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la peur et l'incertitude sur le marché, mais étant donné que le marché est déjà en peur extrême, l'impact pourrait être limité, et les institutions restent bullish.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs sont déjà très prudents et les hedge funds sont majoritairement short.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/democrats-slam-sec-chair-atkins-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:46:47 +0000"
     },
     {
-      "title": "Bitcoin futures data shows bears gearing up for an assault on $60K",
+      "title": "Oursons visent 60k$",
       "titleOriginal": "Bitcoin futures data shows bears gearing up for an assault on $60K",
-      "summary": "Bitcoin’s rejection at $70,000 and the large liquidity void below leave $60,000 vulnerable, a move analysts see as likely in the coming days.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les ours prévoient une baisse du prix du Bitcoin vers 60 000 $",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait accentuer la pression baissière sur le prix du Bitcoin, mais étant donné que les institutions sont bullish et que le signal global est en zone d'accumulation, le prix pourrait rebondir.",
+      "contextLink": "Cette news se connecte au contexte actuel du signal global en zone d'accumulation, où les investisseurs institutionnels sont en train d'accumuler des positions.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:15:02 +0000"
     },
     {
-      "title": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "titleOriginal": "Price predictions 2/11: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Technical charts show Bitcoin and altcoins consolidating as part of establishing a new price floor after last week’s sharp sell-off. As a range is set",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "title": "Rebond de BTC s'essouffle",
+      "titleOriginal": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
+      "summary": "Le rebond du prix du Bitcoin s'essouffle en raison d'un manque de capitaux frais",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait accentuer la tendance baissière du prix du Bitcoin, mais étant donné que le marché est déjà en peur extrême, un rebond pourrait survenir si les investisseurs institutionnels décident de prendre position.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs sont très prudents et les hedge funds sont majoritairement short.",
+      "importance": 4,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/price-predictions-2-11-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 20:20:00 +0000"
+      "link": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 19:16:17 +0000"
     }
   ]
 }
