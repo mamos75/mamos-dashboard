@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T17:30:06.528Z",
+  "updatedAt": "2026-02-12T17:45:03.259Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "63.7",
       "short": "36.3"
     },
-    "takerBuySellRatio": "0.89",
+    "takerBuySellRatio": "1.74",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,714",
-    "usd": "5.34B",
+    "btc": "80,765",
+    "usd": "5.33B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66090,
+    "current": 65979,
     "high24h": 68411,
     "low24h": 65556,
-    "change24h": "-0.85",
+    "change24h": "-0.94",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,090",
+      "currentPrice": "$65,979",
       "entryZone": "$65,600 - $67,100",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont super négatifs ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions restent optimistes. C'est comme si tout le monde vendait, mais les gros joueurs achètent en secret, avec 145 millions de dollars injectés dans les ETF. C'est le moment idéal pour acheter, le signal est clair : c'est le moment d'accumuler !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros joueurs comme les hedge funds misent même contre le marché, mais les institutions restent optimistes. Il y a même de l'argent qui rentre dans le marché, ce qui est un bon signe. C'est comme si tout le monde attendait le feu vert pour bondir, l'accumulation est forte et ça pourrait exploser à tout moment !"
 }
