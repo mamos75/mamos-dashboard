@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T06:15:03.630Z",
+  "updatedAt": "2026-02-12T06:30:03.724Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "64.6",
+      "short": "35.4"
     },
-    "takerBuySellRatio": "0.42",
+    "takerBuySellRatio": "0.66",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,883",
-    "usd": "5.50B",
+    "btc": "81,873",
+    "usd": "5.51B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67126,
+    "current": 67311,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.31",
+    "change24h": "0.28",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,126",
+      "currentPrice": "$67,311",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement très peur, avec une note de peur extrême à 5 sur 100 ! Les gros investisseurs institutionnels sont pourtant optimistes et ont même mis 145 millions de dollars dans les crypto ces derniers temps. Mais les hedge funds, eux, sont très négatifs, avec 68,9% d'entre eux pariant contre le marché. C'est le signe d'une accumulation forte, et je sens que le marché est prêt à exploser !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. C'est comme si tout le monde vendait en panique, mais les \"gros joueurs\" achètent discrètement, ce qui pourrait être un signe de rebond. C'est une situation explosive, où la peur et la cupidité sont aux prises !"
 }
