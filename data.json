@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T12:45:03.163Z",
+  "updatedAt": "2026-02-12T13:00:04.638Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "1.46",
+    "takerBuySellRatio": "1.61",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,109",
+    "btc": "82,020",
     "usd": "5.57B",
-    "change24h": 0.4,
+    "change24h": 0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67873,
+    "current": 67850,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.18",
+    "change24h": "1.06",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,873",
+      "currentPrice": "$67,850",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, avec beaucoup de gens qui ont peur de tout perdre. Mais les gros investisseurs, eux, sont optimistes et achètent massivement, ce qui est un signal très positif. Les flux d'argent dans les fonds sont même en train d'augmenter, ce qui montre que les gens commencent à voir l'opportunité. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
+  "story": "Le marché est complètement paniqué en ce moment, c'est l'extrême peur qui prédomine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans le jeu. Les flux d'argent dans les ETF sont également très positifs, ce qui signale une forte accumulation. C'est le moment de saisir l'occasion, car le marché est prêt à rebondir !"
 }
