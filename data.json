@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T04:30:04.100Z",
+  "updatedAt": "2026-02-12T04:45:03.304Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.4",
-      "short": "44.6",
-      "ratio": "1.24"
+      "long": "55.5",
+      "short": "44.5",
+      "ratio": "1.25"
     },
     "accounts": {
       "long": "65.6",
       "short": "34.4"
     },
-    "takerBuySellRatio": "1.11",
+    "takerBuySellRatio": "1.83",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,809",
-    "usd": "5.50B",
-    "change24h": 0.9,
+    "btc": "81,927",
+    "usd": "5.51B",
+    "change24h": 1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -64,7 +64,7 @@
     "current": 67212,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-0.59",
+    "change24h": "-0.47",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Malgré cela, les gens continuent d'investir, avec plus de 145 millions de dollars qui entrent dans les ETF. C'est le moment idéal pour acheter, le signal est clair : c'est l'heure de l'accumulation !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grosses institutions sont optimistes et achètent, ce qui est plutôt rassurant. Les hedge funds, eux, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos est en train de grimper. C'est le moment idéal pour accumuler, les prix sont bas et les gros joueurs sont en train de se positionner pour une remontée."
 }
