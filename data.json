@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T00:15:03.713Z",
+  "updatedAt": "2026-02-12T00:30:03.470Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "66.1",
-      "short": "33.9"
+      "long": "65.9",
+      "short": "34.1"
     },
-    "takerBuySellRatio": "1.26",
+    "takerBuySellRatio": "0.57",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,778",
-    "usd": "5.44B",
-    "change24h": -0.3,
+    "btc": "80,581",
+    "usd": "5.43B",
+    "change24h": -0.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67352,
+    "current": 67403,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-2.10",
+    "change24h": "-2.58",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,352",
+      "currentPrice": "$67,403",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui domine les esprits. Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est plutôt rassurant. Les flux d'argent dans les ETF sont également positifs, ce qui montre que les gens placent leur confiance dans le marché. C'est comme si le marché était en train de se ressourcer pour un éventuel rebond !"
+  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une baisse. C'est comme si tout le monde attendait le feu vert pour se ruer dans le marché, avec même des entrées d'argent nets de 145 millions de dollars dans les ETF. On est clairement en zone d'accumulation, c'est-à-dire que c'est le moment de passer à l'achat !"
 }
