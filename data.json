@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T20:30:03.872Z",
+  "updatedAt": "2026-02-12T20:45:03.327Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
-      "ratio": "1.26"
+      "long": "55.4",
+      "short": "44.6",
+      "ratio": "1.24"
     },
     "accounts": {
-      "long": "65.7",
-      "short": "34.3"
+      "long": "66.8",
+      "short": "33.2"
     },
-    "takerBuySellRatio": "0.75",
-    "trend": "more_long",
+    "takerBuySellRatio": "0.85",
+    "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,264",
-    "usd": "5.26B",
-    "change24h": 0,
+    "btc": "80,383",
+    "usd": "5.27B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65478,
+    "current": 65560,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.57",
+    "change24h": "-2.59",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,478",
+      "currentPrice": "$65,560",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, misent contre le marché, mais l'argent qui rentre dans les ETF montre que les gens ont confiance à long terme. C'est le moment idéal pour acheter, car tout le monde est en train d'accumuler des cryptos en secret !"
+  "story": "Le marché est actuellement dans une peur extrême, c'est comme si tout le monde avait peur de tout ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent vers les ETF cryptos sont également positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour accumuler, le marché est sous-évalué et prêt à rebondir !"
 }
