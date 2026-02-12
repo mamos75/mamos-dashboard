@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T09:15:03.634Z",
+  "updatedAt": "2026-02-12T09:30:02.893Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.4",
-      "short": "43.6",
-      "ratio": "1.29"
+      "long": "56.5",
+      "short": "43.5",
+      "ratio": "1.30"
     },
     "accounts": {
-      "long": "64.7",
-      "short": "35.3"
+      "long": "64.8",
+      "short": "35.2"
     },
-    "takerBuySellRatio": "0.78",
+    "takerBuySellRatio": "1.12",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,044",
-    "usd": "5.51B",
+    "btc": "82,041",
+    "usd": "5.52B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67173,
+    "current": 67297,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.40",
+    "change24h": "0.47",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,173",
+      "currentPrice": "$67,297",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Pourtant, on voit des signes d'accumulation forte, comme si les gens attendaient le bon moment pour frapper. C'est un peu comme si tout le monde retenait son souffle en attendant la prochaine étape !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont vraiment nerveux ! Les hedge funds misent même contre le marché, mais les institutions sont plutôt optimistes, ce qui est intéressant. Il y a même de l'argent qui rentre dans le marché via les ETF, ce qui pourrait être un signe de renversement de tendance. C'est comme si le marché disait : \"achetez-moi, je suis trop bas !\""
 }
