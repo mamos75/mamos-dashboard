@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T11:15:03.561Z",
+  "updatedAt": "2026-02-12T11:30:03.444Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -21,19 +21,19 @@
     "topTraders": {
       "long": "56.6",
       "short": "43.4",
-      "ratio": "1.30"
+      "ratio": "1.31"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "64.9",
+      "short": "35.1"
     },
-    "takerBuySellRatio": "1.21",
+    "takerBuySellRatio": "0.93",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,684",
-    "usd": "5.54B",
+    "btc": "81,653",
+    "usd": "5.57B",
     "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67880,
+    "current": 68187,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.82",
+    "change24h": "1.79",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,880",
+      "currentPrice": "$68,187",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec une note de 5 sur 100, ce qui signifie que tout le monde a peur et vend. Mais attention, les gros investisseurs sont plutôt optimistes et mettent de l'argent dans le marché, avec même 145 millions de dollars injectés récemment. C'est comme si le marché criait \"achetez\" alors que tout le monde pense \"vendez\", c'est une opportunité incroyable ! Les signes sont clairs, c'est le moment d'accumuler."
+  "story": "Le marché est actuellement plongé dans la peur, c'est extrême ! Les grandes investisseurs institutionnels, eux, sont plutôt optimistes et achètent, ce qui est intéressant. Les fonds spéculatifs, par contre, misent sur une baisse, mais les investisseurs continuent de mettre de l'argent dans les cryptos, ce qui pourrait être un signe de renversement. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
 }

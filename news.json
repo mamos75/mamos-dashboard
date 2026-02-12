@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T11:15:07.171Z",
+  "updatedAt": "2026-02-12T11:30:03.857Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "OKX soutient RWA",
+      "title": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
       "titleOriginal": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
-      "summary": "OKX Ventures investit dans une stablecoin innovante",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre une confiance accrue dans les stablecoins et les investissements dans le secteur. Dans un marché en fear extrême, cela pourrait être un signal de retournement.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, où les investisseurs cherchent des signaux de retournement.",
-      "importance": 4,
+      "summary": "The dual-token structure seeks to sidestep US restrictions on yield-bearing stablecoins by separating returns from the stable unit itself.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/securitize-to-launch-rwa-backed-stablecoin-with-okx-stbl-hamilton-lane?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 11:01:15 +0000"
     },
     {
-      "title": "UK teste les obligations",
+      "title": "UK government appoints HSBC for tokenized bond pilot",
       "titleOriginal": "UK government appoints HSBC for tokenized bond pilot",
-      "summary": "Le gouvernement britannique teste les obligations tokenisées",
-      "impact": "bullish",
-      "priceEffect": "Cette adoption de la technologie blockchain par un gouvernement pourrait renforcer la confiance dans le secteur et contribuer à un rebond du marché. Les institutions sont déjà bullish, ce qui pourrait amplifier l'effet.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, où les investissements dans les technologies blockchain sont encouragés.",
-      "importance": 5,
+      "summary": "The UK appointed HSBC Orion for its DIGIT pilot to explore blockchain bonds, aiming to improve efficiency, cut costs and boost security.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 10:25:58 +0000"
     },
     {
-      "title": "Gen Z et crypto",
+      "title": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
       "titleOriginal": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
-      "summary": "Les jeunes utilisent la crypto pour payer des sorties",
-      "impact": "bullish",
-      "priceEffect": "Cette adoption de la crypto par les jeunes générations pourrait contribuer à une augmentation de la demande et à un rebond du march��. Cependant, l'effet pourrait être limité par le contexte actuel de fear extrême.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, où les investisseurs sont prudents, mais les jeunes générations pourraient être moins influencées par la peur.",
+      "summary": "An OKX-commissioned Pollfish survey finds 13% of Gen Z have paid for dates with crypto, while many non-users cite a lack of a direct way to do so.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/gen-z-crypto-valentines-date-payments-okx-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 10:06:58 +0000"
     },
     {
-      "title": "Binance convertit",
+      "title": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "titleOriginal": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "summary": "The American Bankers Association pressed the OCC to delay new national trust bank charters for crypto and stablecoin firms until the GENIUS Act framew",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 09:23:24 +0000"
+    },
+    {
+      "title": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
       "titleOriginal": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
-      "summary": "Binance convertit 1 milliard de dollars en Bitcoin",
-      "impact": "bullish",
-      "priceEffect": "Cette conversion pourrait contribuer à un rebond du marché, car elle montre une confiance accrue dans le Bitcoin et les investissements dans le secteur. Dans un marché en fear extrême, cela pourrait être un signal de retournement.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, où les investisseurs cherchent des signaux de retournement et les institutions sont bullish.",
-      "importance": 5,
+      "summary": "Binance completed its $1 billion Bitcoin conversion for its emergency user fund as crypto sentiment hit record lows and smart money traders increased ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 09:03:16 +0000"
-    },
-    {
-      "title": "ARK Invest achète",
-      "titleOriginal": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
-      "summary": "ARK Invest achète des actions de Robinhood et d'autres sociétés",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre une confiance accrue dans les sociétés liées à la crypto et les investissements dans le secteur. Les institutions sont déjà bullish, ce qui pourrait amplifier l'effet.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, où les investissements dans les sociétés liées à la crypto sont encouragés.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 08:37:01 +0000"
     }
   ]
 }
