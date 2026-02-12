@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T07:00:03.778Z",
+  "updatedAt": "2026-02-12T07:15:03.671Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "64.6",
       "short": "35.4"
     },
-    "takerBuySellRatio": "0.93",
+    "takerBuySellRatio": "0.46",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,849",
+    "btc": "81,955",
     "usd": "5.49B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67121,
+    "current": 66992,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.45",
+    "change24h": "0.37",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,121",
+      "currentPrice": "$66,992",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et continuent d'acheter. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent qui entre dans les ETF crypto montre que les gens ont confiance. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement plongé dans la peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les fonds crypto est en train d'augmenter, ce qui est un bon signe. Tout cela sent l'opportunité d'achat pour ceux qui ont des nerfs solides !"
 }

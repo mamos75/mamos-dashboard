@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T07:00:08.499Z",
+  "updatedAt": "2026-02-12T07:15:04.021Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Strategy achète BTC",
+      "title": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
       "titleOriginal": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
-      "summary": "Une entreprise achète du Bitcoin avec des actions préférées",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du prix du Bitcoin, car elle indique une augmentation de la demande institutionnelle dans un marché actuellement dominé par la peur. Le contexte actuel de fear extrême et de hedge funds à 68,9% short pourrait amplifier l'effet de cette news",
-      "contextLink": "Cette news se connecte au contexte actuel par l'augmentation des flux d'ETF à hauteur de 145M$ en 24h, indiquant une demande institutionnelle accrue",
-      "importance": 4,
+      "summary": "Strategy CEO Phong Le says the company is moving away from issuing and selling common stock to buy Bitcoin and isn't interested in acquiring Bitcoin t",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 06:20:54 +0000"
     },
     {
-      "title": "Ether rebondira",
+      "title": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
       "titleOriginal": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
-      "summary": "Un expert prévoit un rebond en forme de V pour Ether",
-      "impact": "bullish",
-      "priceEffect": "Cette prédiction pourrait contribuer à une augmentation du prix d'Ether, car elle indique une confiance accrue dans le marché. Le signal global d'accumulation forte et les institutions bullish pourraient soutenir ce rebond",
-      "contextLink": "Cette news se connecte au contexte actuel par le signal global d'accumulation forte, qui indique que les investisseurs sont en train d'accumuler des actifs cryptographiques",
-      "importance": 4,
+      "summary": "Fundstrat's Tom Lee argues Ether is close to the bottom and says investors should be thinking about opportunities instead of selling.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 05:55:27 +0000"
     },
     {
-      "title": "Thaïlande autorise crypto",
+      "title": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "titleOriginal": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "summary": "Russian news outlets reported on Wednesday that WhatsApp’s domain had been completely blocked and was inaccessible without a VPN or another workaround",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/whatsapp-accuses-russia-of-trying-to-block-it-to-push-state-backed-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 05:34:53 +0000"
+    },
+    {
+      "title": "Thailand approves crypto as underlying assets in derivatives markets",
       "titleOriginal": "Thailand approves crypto as underlying assets in derivatives markets",
-      "summary": "La Thaïlande autorise les crypto-monnaies comme actifs sous-jacents dans les marchés dérivés",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une augmentation de la demande et de la légitimité des cryptomonnaies, ce qui pourrait avoir un impact positif sur les prix. Le contexte actuel de fear extrême pourrait rendre les investisseurs plus sensibles aux nouvelles réglementaires positives",
-      "contextLink": "Cette news se connecte au contexte actuel par l'augmentation des flux d'ETF à hauteur de 145M$ en 24h, indiquant une demande institutionnelle accrue et une volonté de réguler les marchés des cryptomonnaies",
-      "importance": 4,
+      "summary": "Binance Thailand’s CEO says it is a “watershed moment” for digital assets in the country, as they are no longer being treated as mere speculative inst",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/thailand-approves-crypto-underlying-assets-derivatives-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 04:49:05 +0000"
     },
     {
-      "title": "Ethereum anonymise AI",
+      "title": "Ethereum developers suggest using ZK tech to anonymize AI use",
       "titleOriginal": "Ethereum developers suggest using ZK tech to anonymize AI use",
-      "summary": "Les développeurs d'Ethereum proposent une méthode pour anonymiser les appels d'API d'intelligence artificielle",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une augmentation de la confiance et de l'adoption d'Ethereum, car elle indique une volonté de protéger la vie privée des utilisateurs. Le signal global d'accumulation forte pourrait soutenir cette tendance",
-      "contextLink": "Cette news se connecte au contexte actuel par le signal global d'accumulation forte, qui indique que les investisseurs sont en train d'accumuler des actifs cryptographiques",
+      "summary": "Ethereum co-founder Vitalik Buterin and the Ethereum Foundation’s head of AI have proposed a method to keep users’ AI API calls private while still al",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ethereum-devs-propose-zero-knowledge-ai-api-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 04:25:05 +0000"
-    },
-    {
-      "title": "BlockFills stoppe retraits",
-      "titleOriginal": "Crypto lender halted withdrawals during Bitcoin’s fall last week",
-      "summary": "Un prêteur de cryptomonnaies a stoppé les retraits pendant la chute du prix du Bitcoin",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait contribuer à une diminution de la confiance dans les prêteurs de cryptomonnaies, ce qui pourrait avoir un impact négatif sur les prix. Cependant, le contexte actuel de fear extrême et de hedge funds à 68,9% short pourrait déjà avoir pris en compte cette news",
-      "contextLink": "Cette news se connecte au contexte actuel par le taux de financement à 0,0036%, qui indique une demande élevée pour les emprunts de cryptomonnaies",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-lender-blockfills-suspended-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 04:02:27 +0000"
     }
   ]
 }
