@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T17:00:04.206Z",
+  "updatedAt": "2026-02-12T17:15:03.856Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "63.3",
-      "short": "36.7"
+      "long": "63.4",
+      "short": "36.6"
     },
-    "takerBuySellRatio": "0.99",
-    "trend": "more_long",
+    "takerBuySellRatio": "1.26",
+    "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,668",
+    "btc": "80,722",
     "usd": "5.31B",
-    "change24h": -0.4,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65836,
+    "current": 65748,
     "high24h": 68411,
     "low24h": 65556,
-    "change24h": "-0.28",
+    "change24h": "-0.81",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
+      "bull": 10,
       "bear": 3,
-      "net": 6
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,836",
+      "currentPrice": "$65,748",
       "entryZone": "$65,600 - $67,100",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions, elles, sont optimistes et achètent massivement, ce qui est un signe plutôt positif. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les investisseurs individuels ont confiance. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui crée une opportunité d'achat pour les investisseurs audacieux. Les gros joueurs sont prêts à parier contre le marché, mais les institutions sont optimistes, ce qui est un signe positif. Les investisseurs achètent massivement, avec plus de 145 millions de dollars injectés dans les ETF. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
 }
