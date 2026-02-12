@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T14:00:04.288Z",
+  "updatedAt": "2026-02-12T14:15:07.902Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Bitcoin miner outflows spike in January, but public sales remain limited",
+      "title": "Hiver crypto différent",
+      "titleOriginal": "Is this crypto winter different? Key observers reevaluate Bitcoin",
+      "summary": "Les investisseurs institutionnels pourraient être à l'origine de la baisse du marché",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la tendance baissière, mais dans le contexte actuel de peur extrême et de positionnement majoritairement short des hedge funds, le prix pourrait déjà intégrer cette information. Cela pourrait potentiellement conduire à un rebond si les investisseurs institutionnels commencent à reprendre des positions.",
+      "contextLink": "Cette news se connecte au contexte actuel en expliquant les raisons potentielles derrière la baisse du marché, qui pourrait être influencée par les investisseurs institutionnels.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/crypto-winter-different-observers-reevaluate-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 13:59:31 +0000"
+    },
+    {
+      "title": "Sorties de mineurs de BTC",
       "titleOriginal": "Bitcoin miner outflows spike in January, but public sales remain limited",
-      "summary": "Onchain data shows nearly 49,000 BTC moved from miner wallets in two days, but public disclosures suggest the transfers do not reflect broad capitulat",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les mineurs de Bitcoin ont transféré près de 49 000 BTC en deux jours",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix à court terme, car elle suggère que les mineurs pourraient être en train de liquider leurs actifs. Cependant, dans le contexte actuel, cette information pourrait déjà être prise en compte par les marchés, et les ventes publiques restant limitées, cela pourrait ne pas avoir un impact significatif sur le prix.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant que les mineurs pourraient être en train de réduire leurs positions, ce qui pourrait influencer la dynamique du marché.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/miner-outflows-spike-public-miners-steady-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 13:57:42 +0000"
     },
     {
-      "title": "US credit union regulator proposes stablecoin licensing path",
+      "title": "Licensing stablecoin",
       "titleOriginal": "US credit union regulator proposes stablecoin licensing path",
-      "summary": "The US National Credit Union Administration proposed a federal licensing regime for payment stablecoin issuers operating through credit union subsidia",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les États-Unis proposent un régime de licence pour les émetteurs de stablecoins",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère une régulation plus claire et une potentielle adoption accrue des stablecoins. Dans le contexte actuel de peur extrême, cela pourrait contribuer à un rebond du marché.",
+      "contextLink": "Cette news se connecte au contexte actuel en offrant une perspective positive sur la régulation des stablecoins, ce qui pourrait renforcer la confiance des investisseurs.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ncua-proposal-outlines-licensing-rules-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 12:36:18 +0000"
     },
     {
-      "title": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
+      "title": "OKX Ventures stablecoin",
       "titleOriginal": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
-      "summary": "The dual-token structure seeks to sidestep US restrictions on yield-bearing stablecoins by separating returns from the stable unit itself.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "OKX Ventures soutient un stablecoin avec une structure à deux jetons",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre l'innovation et la créativité dans le secteur des stablecoins. Cela pourrait contribuer à une perception plus positive du marché et potentiellement à un rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant que les acteurs du marché sont en train de développer de nouvelles solutions pour contourner les restrictions réglementaires.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/securitize-to-launch-rwa-backed-stablecoin-with-okx-stbl-hamilton-lane?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 11:01:15 +0000"
     },
     {
-      "title": "UK government appoints HSBC for tokenized bond pilot",
+      "title": "Royauté britannique tokenisé",
       "titleOriginal": "UK government appoints HSBC for tokenized bond pilot",
-      "summary": "The UK appointed HSBC Orion for its DIGIT pilot to explore blockchain bonds, aiming to improve efficiency, cut costs and boost security.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le gouvernement britannique explore l'utilisation de la blockchain pour les obligations",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère une adoption accrue de la technologie blockchain par les institutions gouvernementales. Cela pourrait renforcer la confiance dans le marché et contribuer à un rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant que les gouvernements commencent à explorer les applications de la blockchain, ce qui pourrait avoir un impact positif sur la perception générale du marché.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 10:25:58 +0000"
-    },
-    {
-      "title": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
-      "titleOriginal": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
-      "summary": "An OKX-commissioned Pollfish survey finds 13% of Gen Z have paid for dates with crypto, while many non-users cite a lack of a direct way to do so.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/gen-z-crypto-valentines-date-payments-okx-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 10:06:58 +0000"
     }
   ]
 }
