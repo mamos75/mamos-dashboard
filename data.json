@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T03:45:03.099Z",
+  "updatedAt": "2026-02-12T04:00:05.432Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.5",
-      "short": "44.5",
+      "long": "55.6",
+      "short": "44.4",
       "ratio": "1.25"
     },
     "accounts": {
       "long": "65.3",
       "short": "34.7"
     },
-    "takerBuySellRatio": "0.67",
+    "takerBuySellRatio": "0.66",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,108",
+    "btc": "81,117",
     "usd": "5.48B",
     "change24h": 0.2,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67504,
+    "current": 67561,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-1.38",
+    "change24h": "-0.92",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,504",
+      "currentPrice": "$67,561",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Mais les gros joueurs, comme les institutions, sont plutôt optimistes et achètent. Les hedge funds, eux, misent sur une baisse, mais l'argent frais qui entre dans le marché montre que les investisseurs sont prêts à prendre des risques. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les fonds spéculatifs, eux, sont à 68,9% contre le marché, ce qui pourrait être une bonne occasion d'acheter. C'est le moment idéal pour accumuler, les signaux sont très positifs !"
 }
