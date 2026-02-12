@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T04:15:07.796Z",
+  "updatedAt": "2026-02-12T04:30:04.485Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "BlockFills stoppe les retraits",
+      "title": "Ethereum developers suggest using ZK tech to anonymize AI use",
+      "titleOriginal": "Ethereum developers suggest using ZK tech to anonymize AI use",
+      "summary": "Ethereum co-founder Vitalik Buterin and the Ethereum Foundation's head of AI have proposed a method to keep users' AI API calls private while retainin",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ethereum-devs-propose-zero-knowledge-ai-api-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 04:25:05 +0000"
+    },
+    {
+      "title": "Crypto lender halted withdrawals during Bitcoin's fall last week",
       "titleOriginal": "Crypto lender halted withdrawals during Bitcoin's fall last week",
-      "summary": "Un prêteur crypto a stoppé les retraits pendant la chute de Bitcoin",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait accentuer la peur et la méfiance sur le marché, mais dans le contexte actuel de fear extrême, elle pourrait déjà être prise en compte dans les prix. Le marché pourrait être en train de chercher un point de rebond.",
-      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les investisseurs sont déjà très prudents.",
+      "summary": "Despite the deposit and withdrawal halt, BlockFills customers can still place trades on the platform to open and close positions.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/crypto-lender-blockfills-suspended-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 04:02:27 +0000"
     },
     {
-      "title": "X Money bientôt disponible",
+      "title": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
+      "titleOriginal": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
+      "summary": "US prosecutors said Paxful marketed itself as a non-KYC platform and presented anti-money laundering policies that it knew “were not implemented or en",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/us-fines-paxful-4m-moving-funds-trafficking-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 03:17:42 +0000"
+    },
+    {
+      "title": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
       "titleOriginal": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
-      "summary": "X Money lancera une version bêta dans les prochaines semaines",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait apporter un souffle d'air frais sur le marché, en particulier dans le contexte actuel de fear extrême. Les investisseurs pourraient voir cela comme une opportunité de rebond.",
-      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les investisseurs cherchent des signaux positifs pour rebondir.",
-      "importance": 4,
+      "summary": "The tech billionaire revealed X Money will launch in limited beta before rolling out globally as part of the firm’s “everything app” strategy.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 03:15:33 +0000"
     },
     {
-      "title": "Coinbase lance des portefeuilles pour IA",
+      "title": "Coinbase unveils crypto wallets designed specifically for AI agents",
       "titleOriginal": "Coinbase unveils crypto wallets designed specifically for AI agents",
-      "summary": "Coinbase a lancé des portefeuilles crypto conçus pour les agents IA",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait apporter une nouvelle vague d'adoption et d'innovation sur le marché, en particulier dans le contexte actuel d'accumulation forte. Les investisseurs pourraient voir cela comme une opportunité de croissance.",
-      "contextLink": "La news se connecte au contexte actuel d'accumulation forte, où les investisseurs sont en train de renforcer leurs positions.",
-      "importance": 4,
+      "summary": "Users can set controls and permissions to allow the AI agent to manage liquidity positions and execute trades at any time of day, Coinbase said.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 00:20:50 +0000"
-    },
-    {
-      "title": "Chainlink lance des flux de prix",
-      "titleOriginal": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
-      "summary": "Chainlink a lancé des flux de prix pour les actions tokenisées",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait apporter une nouvelle vague de liquidité et de transparence sur le marché, en particulier dans le contexte actuel d'accumulation forte. Les investisseurs pourraient voir cela comme une opportunité de croissance.",
-      "contextLink": "La news se connecte au contexte actuel d'accumulation forte, où les investisseurs sont en train de renforcer leurs positions.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 21:59:03 +0000"
-    },
-    {
-      "title": "Les ours visent 60k$",
-      "titleOriginal": "Bitcoin futures data shows bears gearing up for an assault on $60K",
-      "summary": "Les ours sont en train de se préparer pour une attaque sur le prix de 60k$",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait accentuer la peur et la méfiance sur le marché, mais dans le contexte actuel de fear extrême, elle pourrait déjà être prise en compte dans les prix. Le marché pourrait être en train de chercher un point de rebond.",
-      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les investisseurs sont déjà très prudents.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 21:15:02 +0000"
     }
   ]
 }
