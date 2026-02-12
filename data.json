@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T23:15:03.513Z",
+  "updatedAt": "2026-02-12T23:30:03.981Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "68.8",
-      "short": "31.2"
+      "long": "69.1",
+      "short": "30.9"
     },
-    "takerBuySellRatio": "1.04",
+    "takerBuySellRatio": "0.81",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,854",
-    "usd": "5.30B",
-    "change24h": 0,
+    "btc": "79,930",
+    "usd": "5.31B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66310,
+    "current": 66406,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.50",
+    "change24h": "-0.94",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,310",
+      "currentPrice": "$66,406",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, la peur est palpable ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont très prudents, avec près de 70% d'entre eux qui misent sur une baisse. Cependant, l'argent continue d'affluer dans les ETF, ce qui montre qu'il y a encore de l'espoir. C'est le moment idéal pour accumuler, car tout le monde est trop pessimiste !"
+  "story": "Le marché est complètement paniqué, c'est l'extrême peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont super négatifs et misent sur une chute. C'est l'occasion parfaite pour acheter, le signal est clair : c'est le moment d'accumuler !"
 }
