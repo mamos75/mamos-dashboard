@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T19:45:03.331Z",
+  "updatedAt": "2026-02-12T20:00:04.022Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.2",
-      "short": "44.8",
-      "ratio": "1.23"
+      "long": "55.5",
+      "short": "44.5",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "64.3",
-      "short": "35.7"
+      "long": "64.6",
+      "short": "35.4"
     },
-    "takerBuySellRatio": "1.09",
+    "takerBuySellRatio": "1.42",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,498",
-    "usd": "5.31B",
-    "change24h": -0.3,
+    "btc": "80,293",
+    "usd": "5.28B",
+    "change24h": -0.6,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65985,
+    "current": 65804,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.63",
+    "change24h": "-2.61",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,985",
+      "currentPrice": "$65,804",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les flux d'argent entrant dans les ETF sont également positifs, ce qui montre que les gens commencent à revenir. C'est le moment idéal pour acheter, les prix sont bas et les signaux sont verts !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont très nerveux et ont tendance à vendre. Mais attention, les grandes institutions sont optimistes et investissent massivement, avec plus de 145 millions de dollars injectés ces derniers jours ! Les hedge funds, eux, sont en train de parier contre le marché, ce qui pourrait être une erreur coûteuse. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
 }
