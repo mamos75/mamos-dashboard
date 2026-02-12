@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T07:45:03.789Z",
+  "updatedAt": "2026-02-12T08:00:05.915Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "64.6",
-      "short": "35.4"
+      "long": "64.7",
+      "short": "35.3"
     },
-    "takerBuySellRatio": "1.36",
+    "takerBuySellRatio": "1.27",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,018",
+    "btc": "82,009",
     "usd": "5.51B",
     "change24h": 0.2,
     "trend": "stable",
@@ -40,10 +40,10 @@
   },
   "funding": {
     "btc": {
-      "current": "0.0036",
+      "current": "0.0046",
       "avg24h": "-0.0038"
     },
-    "eth": "-0.0025",
+    "eth": "0.0022",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67108,
+    "current": 67225,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-0.07",
+    "change24h": "0.28",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,108",
+      "currentPrice": "$67,225",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui prédomine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des crypto, ce qui est un bon signe. Les fonds spéculatifs, par contre, misent sur la baisse, mais l'argent qui entre dans les crypto via les ETF montre que les gens ont confiance. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement dans une période de peur extrême, ce qui signifie que les gens sont très nerveux et ont tendance à vendre. Mais attention, les grosses institutions sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars injectés récemment. C'est comme si tout le monde courait vers la sortie, mais les \"gros joueurs\" achètent discrètement, ce qui pourrait être un signe de rebond imminent. C'est une situation explosive, prête à décoller !"
 }
