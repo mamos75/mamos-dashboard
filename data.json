@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T14:15:03.678Z",
+  "updatedAt": "2026-02-12T14:30:03.809Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "64.9",
-      "short": "35.1"
+      "long": "64.7",
+      "short": "35.3"
     },
-    "takerBuySellRatio": "0.78",
+    "takerBuySellRatio": "1.79",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,684",
+    "btc": "81,715",
     "usd": "5.55B",
-    "change24h": -0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67999,
-    "high24h": 68582,
+    "current": 67946,
+    "high24h": 68411,
     "low24h": 65756,
-    "change24h": "-0.73",
+    "change24h": "-0.04",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -72,7 +72,7 @@
       60000
     ],
     "resistances": [
-      68600,
+      68400,
       70500,
       72300
     ],
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,10 +180,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,999",
+      "currentPrice": "$67,946",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
-      "target1": "$68,600",
+      "target1": "$68,400",
       "target2": "$70,500"
     },
     "factors": [
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds jouent la carte de la prudence à 68,9%. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui est un bon signe. C'est comme si le marché criait \"achetez\" mais que tout le monde avait peur de se lancer !"
+  "story": "Le marché est actuellement très nerveux, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent plutôt sur une baisse. Malgré cela, de l'argent continue d'arriver sur le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est en train de se préparer pour une grande remontée !"
 }
