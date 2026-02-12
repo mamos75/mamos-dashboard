@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T18:45:03.588Z",
+  "updatedAt": "2026-02-12T19:00:04.878Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.9",
-      "short": "45.1",
+      "long": "55.0",
+      "short": "45.0",
       "ratio": "1.22"
     },
     "accounts": {
       "long": "63.8",
       "short": "36.2"
     },
-    "takerBuySellRatio": "0.67",
+    "takerBuySellRatio": "0.60",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "80,750",
-    "usd": "5.28B",
+    "btc": "80,753",
+    "usd": "5.30B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65447,
+    "current": 65575,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.35",
+    "change24h": "-2.52",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,447",
+      "currentPrice": "$65,575",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement très peur, avec un sentiment d'extrême crainte qui domine. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent vers les ETF crypto sont également très positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, car le marché semble être en train de se préparer pour une forte remontée !"
+  "story": "Le marché est actuellement très nerveux, les gens ont vraiment peur ! Les grandes institutions, par contre, sont optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans les ETF. Les hedge funds, eux, misent sur une baisse, mais les signaux sont clairs : c'est le moment d'acheter, le marché est en train de se rétablir ! C'est l'occasion parfaite de profiter de la peur des autres pour faire des affaires."
 }
