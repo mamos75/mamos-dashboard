@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T20:45:03.692Z",
+  "updatedAt": "2026-02-12T21:00:10.233Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
+      "title": "Fiserv lance plateforme crypto",
       "titleOriginal": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
-      "summary": "Fiserv launches a 24/7/365 settlement platform for digital asset companies, aiming to reduce banking friction and improve liquidity in the US dollar.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Fiserv crée une plateforme de règlement en temps réel pour les entreprises de crypto-monnaies",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une augmentation du prix des crypto-monnaies, car elle facilite l'accès au marché pour les entreprises de crypto-monnaies. Dans le contexte actuel de peur extrême, cela pourrait potentiellement déclencher un rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs institutionnels sont bullish, ce qui pourrait favoriser une augmentation du prix.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 20:40:41 +0000"
     },
     {
-      "title": "21Shares taps BitGo for expanded regulated staking, custody support across US, Europe",
+      "title": "21Shares renforce son support",
       "titleOriginal": "21Shares taps BitGo for expanded regulated staking, custody support across US, Europe",
-      "summary": "The move strengthens institutional support for 21Shares’ multibillion dollar digital asset investment platform and broadens its regulated staking capa",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "21Shares s'associe à BitGo pour offrir des services de staking et de custodie réglementés",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait renforcer la confiance des investisseurs institutionnels dans les crypto-monnaies, ce qui pourrait conduire à une augmentation du prix. Les flux d'ETF à hauteur de +$145M en 24h soutiennent cette tendance.",
+      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish et de flux d'ETF positifs, ce qui indique une demande croissante pour les crypto-monnaies.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitgo-expands-custody-and-staking-partnership-with-21shares-across-us-and-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 19:59:36 +0000"
     },
     {
-      "title": "Ether’s hidden strength: Why institutional demand points to $2.4K",
+      "title": "Ethérée : une force cachée",
       "titleOriginal": "Ether’s hidden strength: Why institutional demand points to $2.4K",
-      "summary": "While ETH’s price action remains weak, rising institutional investor inflows and surging network activity suggest that Ether is building a base for a ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "La demande institutionnelle pour l'Ethérée pourrait pousser son prix à 2 400 $",
+      "impact": "bullish",
+      "priceEffect": "Cette news suggère que l'Ethérée pourrait être en train de se préparer pour une rallie, ce qui pourrait avoir un impact positif sur le prix des autres crypto-monnaies. Le signal global d'accumulation forte soutient cette tendance.",
+      "contextLink": "Cette news se connecte au contexte actuel de signal global d'accumulation forte, ce qui indique que les investisseurs sont en train d'accumuler des crypto-monnaies en attendant une augmentation du prix.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-hidden-strength-why-institutional-demand-points-to-2-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 19:30:00 +0000"
     },
     {
-      "title": "Cango raises $75.5M as Bitcoin miner makes AI infrastructure pivot",
-      "titleOriginal": "Cango raises $75.5M as Bitcoin miner makes AI infrastructure pivot",
-      "summary": "The funding follows a $305 million Bitcoin sale and increases a key investor’s voting power to nearly 50%, as the company restructures its balance she",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/cango-raises-75-5m-in-equity-as-bitcoin-miner-pivots-toward-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 18:57:56 +0000"
-    },
-    {
-      "title": "ETH ETF holders in ‘worse position’ than BTC ETF peers as crypto market looks for bottom",
+      "title": "Les détenteurs d'ETF Ethérée",
       "titleOriginal": "ETH ETF holders in ‘worse position’ than BTC ETF peers as crypto market looks for bottom",
-      "summary": "Bitcoin and Ether spot ETF holders are nursing steep losses as the market continues to search for a local bottom, but data from Bloomberg suggests nei",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les détenteurs d'ETF Ethérée sont dans une position plus difficile que ceux du Bitcoin",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix de l'Ethérée, mais dans le contexte actuel de peur extrême, cela pourrait déjà être pris en compte dans le prix. Les investisseurs pourraient être en train d'attendre un rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs sont très prudents et pourraient être en train d'attendre un rebond.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-etf-holders-in-worse-position-than-btc-etf-peers-as-crypto-market-looks-for-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 18:45:00 +0000"
+    },
+    {
+      "title": "Les analystes prévoient",
+      "titleOriginal": "Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price",
+      "summary": "Les analystes prévoient une phase de consolidation prolongée pour le prix du Bitcoin",
+      "impact": "neutre",
+      "priceEffect": "Cette news suggère que le prix du Bitcoin pourrait rester stable dans les prochaines semaines, ce qui pourrait donner aux investisseurs le temps de réévaluer leur stratégie. Le funding rate bas à 0,0092% soutient cette tendance.",
+      "contextLink": "Cette news se connecte au contexte actuel de signal global d'accumulation forte, ce qui indique que les investisseurs sont en train d'accumuler des crypto-monnaies en attendant une augmentation du prix.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-phase-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 17:45:00 +0000"
     }
   ]
 }
