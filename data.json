@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T17:45:03.259Z",
+  "updatedAt": "2026-02-12T18:00:03.798Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.1",
-      "short": "44.9",
+      "long": "55.2",
+      "short": "44.8",
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "63.7",
-      "short": "36.3"
+      "long": "64.0",
+      "short": "36.0"
     },
-    "takerBuySellRatio": "1.74",
+    "takerBuySellRatio": "1.43",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,765",
-    "usd": "5.33B",
-    "change24h": 0.1,
+    "btc": "80,807",
+    "usd": "5.29B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65979,
+    "current": 65444,
     "high24h": 68411,
-    "low24h": 65556,
-    "change24h": "-0.94",
+    "low24h": 65375,
+    "change24h": "-1.64",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
-      65600,
+      65400,
       60000
     ],
     "resistances": [
@@ -180,8 +180,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,979",
-      "entryZone": "$65,600 - $67,100",
+      "currentPrice": "$65,444",
+      "entryZone": "$65,400 - $66,900",
       "invalidation": "$60,000",
       "target1": "$68,400",
       "target2": "$70,500"
@@ -203,12 +203,12 @@
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
       "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $65,600 - $67,100. Ne pas FOMO sur les pumps."
+      "detail": "DCA sur la zone $65,400 - $66,900. Ne pas FOMO sur les pumps."
     },
     "risk": {
       "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros joueurs comme les hedge funds misent même contre le marché, mais les institutions restent optimistes. Il y a même de l'argent qui rentre dans le marché, ce qui est un bon signe. C'est comme si tout le monde attendait le feu vert pour bondir, l'accumulation est forte et ça pourrait exploser à tout moment !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont peur de tout ! Les grands investisseurs institutionnels sont cependant optimistes, ce qui est un bon signe. Les flux d'argent vers les fonds cryptos sont même en augmentation, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, car tout le monde est en train de vendre, ce qui signifie que les prix sont bas et prêts à remonter !"
 }
