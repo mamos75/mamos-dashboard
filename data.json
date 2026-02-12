@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T12:00:04.580Z",
+  "updatedAt": "2026-02-12T12:15:03.222Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -21,20 +21,20 @@
     "topTraders": {
       "long": "56.6",
       "short": "43.4",
-      "ratio": "1.30"
+      "ratio": "1.31"
     },
     "accounts": {
       "long": "65.0",
       "short": "35.0"
     },
-    "takerBuySellRatio": "1.58",
+    "takerBuySellRatio": "0.76",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,794",
-    "usd": "5.57B",
-    "change24h": -0.2,
+    "btc": "82,172",
+    "usd": "5.59B",
+    "change24h": 0.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68116,
+    "current": 68024,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.55",
+    "change24h": "1.40",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,116",
+      "currentPrice": "$68,024",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, mais les gros investisseurs sont optimistes. Les hedge funds, eux, misent à 68,9% sur une baisse, ce qui pourrait être une erreur coûteuse. Les institutions placent massivement de l'argent dans les cryptos, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est étrange. Les hedge funds, par contre, misent gros sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est l'heure de l'accumulation, il y a de l'argent à gagner si on sait être patient !"
 }
