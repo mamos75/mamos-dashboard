@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T03:00:04.597Z",
+  "updatedAt": "2026-02-12T03:15:02.806Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.27"
     },
     "accounts": {
-      "long": "65.4",
-      "short": "34.6"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "0.61",
+    "takerBuySellRatio": "0.76",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,980",
-    "usd": "5.46B",
-    "change24h": 0.4,
+    "btc": "81,009",
+    "usd": "5.47B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67439,
+    "current": 67494,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-1.83",
+    "change24h": "-1.50",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,439",
+      "currentPrice": "$67,494",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur la baisse, mais les flux d'argent dans les ETFs montrent que les gens continuent d'acheter. C'est l'heure de l'accumulation, je sens que quelque chose de gros se prépare !"
+  "story": "Le marché est actuellement dans un état de peur extrême, avec beaucoup de gens qui ont peur de tout perdre. Les grandes institutions, par contre, sont optimistes et achètent massivement, ce qui est un bon signe. Les Hedge Funds, eux, sont majoritairement contre le marché, mais cela pourrait jouer en notre faveur. C'est le moment idéal pour acheter et profiter de cette accumulation forte !"
 }
