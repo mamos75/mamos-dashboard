@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T02:15:03.175Z",
+  "updatedAt": "2026-02-12T02:30:03.442Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.9",
-      "short": "44.1",
+      "long": "56.0",
+      "short": "44.0",
       "ratio": "1.27"
     },
     "accounts": {
-      "long": "65.4",
-      "short": "34.6"
+      "long": "65.3",
+      "short": "34.7"
     },
-    "takerBuySellRatio": "0.69",
+    "takerBuySellRatio": "1.50",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,781",
-    "usd": "5.45B",
-    "change24h": 0.2,
+    "btc": "80,930",
+    "usd": "5.46B",
+    "change24h": 0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67498,
-    "high24h": 69133,
+    "current": 67511,
+    "high24h": 69130,
     "low24h": 65756,
-    "change24h": "-2.10",
+    "change24h": "-2.25",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,498",
+      "currentPrice": "$67,511",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,100",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait en même temps, mais les \"gros poissons\" achètent en secret. C'est le moment idéal pour acheter, car le marché est en train de se renforcer discrètement !"
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, sont en train de parier contre le marché, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est le moment idéal pour accumuler des cryptos, le signal est clair !"
 }
