@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T04:45:03.304Z",
+  "updatedAt": "2026-02-12T05:00:04.459Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "65.6",
+      "long": "65.5",
       "short": "34.4"
     },
-    "takerBuySellRatio": "1.83",
+    "takerBuySellRatio": "0.77",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,927",
-    "usd": "5.51B",
+    "btc": "81,942",
+    "usd": "5.49B",
     "change24h": 1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67212,
+    "current": 67018,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-0.47",
+    "change24h": "-0.83",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,212",
+      "currentPrice": "$67,018",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grosses institutions sont optimistes et achètent, ce qui est plutôt rassurant. Les hedge funds, eux, misent sur une baisse, mais l'argent qui entre dans les ETF cryptos est en train de grimper. C'est le moment idéal pour accumuler, les prix sont bas et les gros joueurs sont en train de se positionner pour une remontée."
+  "story": "Le marché est super peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont à 68,9% pour vendre. Malgré cela, les gens continuent d'investir de l'argent, avec 145 millions de dollars supplémentaires cette semaine. C'est comme si tout le monde attendait le feu vert pour bondir !"
 }
