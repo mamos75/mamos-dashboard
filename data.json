@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T18:00:03.798Z",
+  "updatedAt": "2026-02-12T18:15:03.626Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.2",
-      "short": "44.8",
+      "long": "55.1",
+      "short": "44.9",
       "ratio": "1.23"
     },
     "accounts": {
       "long": "64.0",
       "short": "36.0"
     },
-    "takerBuySellRatio": "1.43",
+    "takerBuySellRatio": "1.09",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,807",
-    "usd": "5.29B",
-    "change24h": 0.2,
+    "btc": "80,810",
+    "usd": "5.31B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65444,
+    "current": 65692,
     "high24h": 68411,
     "low24h": 65375,
-    "change24h": "-1.64",
+    "change24h": "-1.16",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,444",
+      "currentPrice": "$65,692",
       "entryZone": "$65,400 - $66,900",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont peur de tout ! Les grands investisseurs institutionnels sont cependant optimistes, ce qui est un bon signe. Les flux d'argent vers les fonds cryptos sont même en augmentation, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, car tout le monde est en train de vendre, ce qui signifie que les prix sont bas et prêts à remonter !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont super nerveux et vendent leurs cryptos. Mais attention, les gros investisseurs sont plutôt optimistes et achètent en masse, ce qui pourrait signifier que le marché est sur le point de rebondir. Les flux d'argent dans les ETF montrent même que les gens commencent à investir à nouveau, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché criait : \"Achetez, c'est le moment !\""
 }
