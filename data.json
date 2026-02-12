@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T07:30:03.230Z",
+  "updatedAt": "2026-02-12T07:45:03.789Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "64.5",
-      "short": "35.5"
+      "long": "64.6",
+      "short": "35.4"
     },
-    "takerBuySellRatio": "0.51",
+    "takerBuySellRatio": "1.36",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,009",
+    "btc": "82,018",
     "usd": "5.51B",
     "change24h": 0.2,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67228,
+    "current": 67108,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.36",
+    "change24h": "-0.07",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,228",
+      "currentPrice": "$67,108",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dominé par la peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et misent sur la hausse. Les flux d'argent vers les fonds cryptos sont même en augmentation, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est en train de vendre à bas prix !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui prédomine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des crypto, ce qui est un bon signe. Les fonds spéculatifs, par contre, misent sur la baisse, mais l'argent qui entre dans les crypto via les ETF montre que les gens ont confiance. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
 }
