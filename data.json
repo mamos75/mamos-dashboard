@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T21:45:03.621Z",
+  "updatedAt": "2026-02-12T22:00:04.482Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
-      "ratio": "1.26"
+      "long": "56.0",
+      "short": "44.0",
+      "ratio": "1.28"
     },
     "accounts": {
-      "long": "68.3",
-      "short": "31.7"
+      "long": "68.0",
+      "short": "32.0"
     },
-    "takerBuySellRatio": "1.30",
-    "trend": "more_short",
+    "takerBuySellRatio": "0.71",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,130",
+    "btc": "80,025",
     "usd": "5.27B",
-    "change24h": -0.3,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65817,
+    "current": 65824,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-3.23",
+    "change24h": "-2.95",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,817",
+      "currentPrice": "$65,824",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent sur une baisse. Il y a même des signes que les gens commencent à acheter discrètement, ce qui pourrait être un signal de rebond. C'est l'occasion parfaite de faire le contraire de la foule et de saisir une chance !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les gros investisseurs, eux, sont optimistes et achètent, ce qui pourrait être un bon signe pour l'avenir. Les flux d'argent entrant dans les ETF crypto sont même en augmentation, ce qui montre que les gens commencent à reprendre confiance. C'est comme si le marché était en train de se préparer pour un grand rebond !"
 }
