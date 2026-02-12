@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T06:00:04.261Z",
+  "updatedAt": "2026-02-12T06:15:03.630Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.6",
-      "short": "44.4",
-      "ratio": "1.25"
+      "long": "55.7",
+      "short": "44.3",
+      "ratio": "1.26"
     },
     "accounts": {
-      "long": "65.0",
-      "short": "35.0"
+      "long": "64.8",
+      "short": "35.2"
     },
-    "takerBuySellRatio": "1.34",
+    "takerBuySellRatio": "0.42",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,872",
+    "btc": "81,883",
     "usd": "5.50B",
-    "change24h": -0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67136,
+    "current": 67126,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-0.42",
+    "change24h": "0.31",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,136",
+      "currentPrice": "$67,126",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en pleine panique, les gens ont vraiment peur ! Les grandes institutions, par contre, sont plutôt optimistes et achètent massivement. Il y a même de l'argent qui rentre dans le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est actuellement très peur, avec une note de peur extrême à 5 sur 100 ! Les gros investisseurs institutionnels sont pourtant optimistes et ont même mis 145 millions de dollars dans les crypto ces derniers temps. Mais les hedge funds, eux, sont très négatifs, avec 68,9% d'entre eux pariant contre le marché. C'est le signe d'une accumulation forte, et je sens que le marché est prêt à exploser !"
 }
