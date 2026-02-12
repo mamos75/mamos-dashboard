@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-02-11T23:45:03.327Z",
+  "updatedAt": "2026-02-12T00:00:04.979Z",
   "fearGreed": {
-    "current": 11,
+    "current": 5,
     "label": "Extreme Fear",
-    "change24h": 2,
-    "change7d": -1,
-    "change30d": -15,
+    "change24h": -6,
+    "change7d": -4,
+    "change30d": -43,
     "trend": "worsening",
     "history7d": [
+      5,
       11,
       9,
       14,
       7,
       6,
-      9,
-      12
+      9
     ]
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
+      "long": "55.7",
+      "short": "44.3",
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "66.5",
-      "short": "33.6"
+      "long": "66.3",
+      "short": "33.7"
     },
-    "takerBuySellRatio": "1.08",
+    "takerBuySellRatio": "0.77",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,877",
+    "btc": "80,907",
     "usd": "5.43B",
-    "change24h": -0.6,
+    "change24h": -0.5,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "0.0001",
+      "current": "0.0036",
       "avg24h": "-0.0038"
     },
-    "eth": "-0.0123",
+    "eth": "-0.0025",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,11 +61,11 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 67075,
+    "current": 67084,
     "high24h": 69293,
     "low24h": 65756,
-    "change24h": "-2.47",
-    "weekHigh": 73341,
+    "change24h": "-2.55",
+    "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
       65800,
@@ -73,8 +73,8 @@
     ],
     "resistances": [
       69300,
-      71500,
-      73300
+      70500,
+      72300
     ],
     "bias": "bullish",
     "pricePosition": "in_range"
@@ -137,9 +137,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -180,16 +180,16 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,075",
+      "currentPrice": "$67,084",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,300",
-      "target2": "$71,500"
+      "target2": "$70,500"
     },
     "factors": [
       {
         "level": "PRINCIPAL",
-        "text": "Fear & Greed extrême (11) - historiquement zone d'achat"
+        "text": "Fear & Greed extrême (5) - historiquement zone d'achat"
       },
       {
         "level": "CONFIRMANT",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, c'est une situation extrême ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent à 68,9% sur une baisse. C'est une opportunité d'achat énorme, car les investisseurs institutionnels injectent 145 millions de dollars dans les ETF. C'est la zone parfaite pour accumuler des cryptos à des prix bas !"
+  "story": "Le marché est complètement paniqué, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent qui entre dans les ETF cryptos montre que les gens ont encore espoir. C'est une zone d'accumulation, c'est-à-dire que c'est le moment de acheter avant que les prix ne repartent à la hausse !"
 }
