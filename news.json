@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T18:30:06.712Z",
+  "updatedAt": "2026-02-12T18:45:03.956Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "BTC: Consolidation",
+      "title": "Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price",
       "titleOriginal": "Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price",
-      "summary": "Les analystes prévoient une phase de consolidation prolongée pour le prix du Bitcoin.",
+      "summary": "Glassnode analysts said Bitcoin remains stuck between “key cost-basis levels,” and a prolonged consolidation period may lie ahead even if traders are ",
       "impact": "neutre",
-      "priceEffect": "Cette news pourrait contribuer à maintenir le prix du Bitcoin dans une fourchette étroite, mais le contexte actuel de peur extrême et de positionnement short important des hedge funds pourrait favoriser un rebond si les institutions restent bullish.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positionnement short important des hedge funds, qui pourrait favoriser un rebond si les institutions restent bullish.",
-      "importance": 4,
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-phase-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 17:45:00 +0000"
     },
     {
-      "title": "Supercycle AI",
+      "title": "Trump family's WLFI plans FX and remittance platform: Report",
+      "titleOriginal": "Trump family's WLFI plans FX and remittance platform: Report",
+      "summary": "The platform hopes to capture a fraction of the more than $9.6 trillion in daily trading volume in the foreign currency exchange market.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 17:14:11 +0000"
+    },
+    {
+      "title": "The real ‘supercycle’ isn’t crypto, it’s AI infrastructure: Analyst",
       "titleOriginal": "The real ‘supercycle’ isn’t crypto, it’s AI infrastructure: Analyst",
-      "summary": "L'infrastructure AI est considérée comme le véritable supercycle, et non le crypto.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin, car elle suggère que l'infrastructure AI est plus prometteuse que le crypto, mais le contexte actuel de peur extrême pourrait déjà avoir pris en compte cette information.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, qui pourrait déjà avoir pris en compte les informations négatives sur le marché crypto.",
+      "summary": "AI data center spending is eclipsing crypto’s hoped-for supercycle as Bitcoin miners shift capital toward high-performance computing infrastructure.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ai-infrastructure-supercycle-bitcoin-miners-pivot-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 17:12:05 +0000"
     },
     {
-      "title": "BTC: Objectif",
+      "title": "Bitcoin must close week at $68.3K to avoid 'bearish acceleration': Analyst",
       "titleOriginal": "Bitcoin must close week at $68.3K to avoid 'bearish acceleration': Analyst",
-      "summary": "Le Bitcoin doit fermer la semaine à 68,3k$ pour éviter une accélération baissière.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin si l'objectif n'est pas atteint, mais le contexte actuel de positionnement short important des hedge funds pourrait favoriser un rebond si les institutions restent bullish.",
-      "contextLink": "Cette news se connecte au contexte actuel de positionnement short important des hedge funds, qui pourrait favoriser un rebond si les institutions restent bullish et que l'objectif est atteint.",
-      "importance": 5,
+      "summary": "Bitcoin may continue to copy its 2022 bear market if bulls fail to reclaim the 200-week exponential moving average by the end of the week, new analysi",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 17:00:00 +0000"
     },
     {
-      "title": "Binance: Tendance",
-      "titleOriginal": "Binance teases Bitcoin bullish 'shift' as crypto sentiment hits record low",
-      "summary": "Binance annonce une tendance haussière pour le Bitcoin malgré un sentiment négatif.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix du Bitcoin, car elle suggère que les investisseurs institutionnels sont toujours bullish, et le contexte actuel de peur extrême et de positionnement short important des hedge funds pourrait favoriser un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positionnement short important des hedge funds, qui pourrait favoriser un rebond si les institutions restent bullish.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-sentiment-sees-record-low-as-binance-teases-bitcoin-stabilization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 16:02:06 +0000"
-    },
-    {
-      "title": "Hiver crypto",
-      "titleOriginal": "Is this crypto winter different? Key observers reevaluate Bitcoin",
-      "summary": "Les observateurs réévaluent le Bitcoin et se demandent si cet hiver crypto est différent.",
+      "title": "How a Bitcoin promotion error triggered a regulatory reckoning in South Korea",
+      "titleOriginal": "How a Bitcoin promotion error triggered a regulatory reckoning in South Korea",
+      "summary": "A mistaken Bitcoin payout revealed how exchange ledgers work and why South Korea is rethinking internal controls for crypto platforms.",
       "impact": "neutre",
-      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin si les investisseurs institutionnels sortent de leurs positions, mais le contexte actuel de peur extrême pourrait déjà avoir pris en compte cette information.",
-      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, qui pourrait déjà avoir pris en compte les informations négatives sur le marché crypto.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-winter-different-observers-reevaluate-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 13:59:31 +0000"
+      "link": "https://cointelegraph.com/news/how-a-bitcoin-promotion-error-triggered-a-regulatory-reckoning-in-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 16:52:55 +0000"
     }
   ]
 }
