@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T19:30:05.556Z",
+  "updatedAt": "2026-02-12T19:45:03.331Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "64.0",
-      "short": "36.0"
+      "long": "64.3",
+      "short": "35.7"
     },
-    "takerBuySellRatio": "1.19",
+    "takerBuySellRatio": "1.09",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,531",
-    "usd": "5.30B",
+    "btc": "80,498",
+    "usd": "5.31B",
     "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65778,
+    "current": 65985,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.45",
+    "change24h": "-2.63",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,778",
+      "currentPrice": "$65,985",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, sont en train de parier contre le marché, ce qui pourrait être une bonne opportunité pour nous. C'est le moment idéal pour accumuler, le signal est clair !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les flux d'argent entrant dans les ETF sont également positifs, ce qui montre que les gens commencent à revenir. C'est le moment idéal pour acheter, les prix sont bas et les signaux sont verts !"
 }
