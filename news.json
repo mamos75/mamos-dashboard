@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T05:30:07.647Z",
+  "updatedAt": "2026-02-12T05:45:04.089Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Thaïlande valide crypto",
+      "title": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "titleOriginal": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "summary": "Russian news outlets reported on Wednesday that WhatsApp’s domain had been completely blocked and was inaccessible without a VPN or another workaround",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/whatsapp-accuses-russia-of-trying-to-block-it-to-push-state-backed-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 05:34:53 +0000"
+    },
+    {
+      "title": "Thailand approves crypto as underlying assets in derivatives markets",
       "titleOriginal": "Thailand approves crypto as underlying assets in derivatives markets",
-      "summary": "La Thaïlande autorise les crypto-monnaies comme actifs sous-jacents dans les marchés dérivés",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle représente une reconnaissance officielle des crypto-monnaies dans un pays en développement. Dans le contexte actuel de peur extrême, cela pourrait être un catalyseur pour une correction haussière.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs institutionnels sont bullish, et pourrait contribuer à une accumulation forte.",
-      "importance": 4,
+      "summary": "Binance Thailand’s CEO says it is a “watershed moment” for digital assets in the country, as they are no longer being treated as mere speculative inst",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/thailand-approves-crypto-underlying-assets-derivatives-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 04:49:05 +0000"
     },
     {
-      "title": "BlockFills stoppe les retraits",
+      "title": "Ethereum developers suggest using ZK tech to anonymize AI use",
+      "titleOriginal": "Ethereum developers suggest using ZK tech to anonymize AI use",
+      "summary": "Ethereum co-founder Vitalik Buterin and the Ethereum Foundation’s head of AI have proposed a method to keep users’ AI API calls private while still al",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ethereum-devs-propose-zero-knowledge-ai-api-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 04:25:05 +0000"
+    },
+    {
+      "title": "Crypto lender halted withdrawals during Bitcoin's fall last week",
       "titleOriginal": "Crypto lender halted withdrawals during Bitcoin's fall last week",
-      "summary": "Le prêteur de crypto-monnaies BlockFills a stoppé les retraits pendant la chute du Bitcoin la semaine dernière",
-      "impact": "bearish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à une baisse du prix des crypto-monnaies, car elle indique une perte de confiance dans les prêteurs de crypto-monnaies. Cependant, dans le contexte actuel de peur extrême et de short selling important, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Hedge Funds à 68,9% SHORT, où les investisseurs sont déjà très négatifs sur le marché.",
+      "summary": "Despite the deposit and withdrawal halt, BlockFills customers can still place trades on the platform to open and close positions.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/crypto-lender-blockfills-suspended-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 04:02:27 +0000"
     },
     {
-      "title": "Paxful condamné",
+      "title": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
       "titleOriginal": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
-      "summary": "Le gouvernement américain condamne Paxful à une amende de 4 millions de dollars pour avoir facilité des activités illégales",
-      "impact": "bearish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à une baisse du prix des crypto-monnaies, car elle indique une régulation accrue et une volonté de lutter contre les activités illégales dans le secteur. Cependant, dans le contexte actuel, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de régulation du secteur des crypto-monnaies, où les autorités sont de plus en plus vigilantes.",
+      "summary": "US prosecutors said Paxful marketed itself as a non-KYC platform and presented anti-money laundering policies that it knew “were not implemented or en",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/us-fines-paxful-4m-moving-funds-trafficking-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 03:17:42 +0000"
-    },
-    {
-      "title": "X Money bientôt lancé",
-      "titleOriginal": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
-      "summary": "Le milliardaire Elon Musk annonce que X Money sera lancé en version bêta dans les 1-2 prochains mois",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle représente une nouvelle opportunité pour les investisseurs et les utilisateurs de crypto-monnaies. Dans le contexte actuel de peur extrême, cela pourrait être un catalyseur pour une correction haussière.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs institutionnels sont bullish, et pourrait contribuer à une accumulation forte.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 03:15:33 +0000"
-    },
-    {
-      "title": "Coinbase lance portefeuille AI",
-      "titleOriginal": "Coinbase unveils crypto wallets designed specifically for AI agents",
-      "summary": "Coinbase lance des portefeuilles de crypto-monnaies conçus spécifiquement pour les agents d'IA",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle représente une nouvelle opportunité pour les investisseurs et les utilisateurs de crypto-monnaies. Dans le contexte actuel de peur extrême, cela pourrait être un catalyseur pour une correction haussière.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de développement de la technologie blockchain et de l'IA, et pourrait contribuer à une accumulation forte.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 00:20:50 +0000"
     }
   ]
 }
