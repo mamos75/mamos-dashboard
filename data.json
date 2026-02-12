@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T15:45:03.345Z",
+  "updatedAt": "2026-02-12T16:00:05.198Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,31 +19,31 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.7",
-      "short": "44.3",
-      "ratio": "1.26"
+      "long": "55.6",
+      "short": "44.4",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "64.4",
-      "short": "35.6"
+      "long": "64.0",
+      "short": "36.0"
     },
-    "takerBuySellRatio": "1.09",
+    "takerBuySellRatio": "1.47",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,126",
-    "usd": "5.47B",
-    "change24h": -0.9,
+    "btc": "81,005",
+    "usd": "5.44B",
+    "change24h": -1.1,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "0.0046",
-      "avg24h": "-0.0038"
+      "current": "0.0092",
+      "avg24h": "-0.0041"
     },
-    "eth": "0.0022",
+    "eth": "-0.0041",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67396,
+    "current": 67141,
     "high24h": 68411,
     "low24h": 65876,
-    "change24h": "0.94",
+    "change24h": "0.93",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -181,7 +181,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,396",
+      "currentPrice": "$67,141",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,800",
       "target1": "$68,400",
@@ -211,5 +211,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les gros investisseurs sont plutôt optimistes et ont même investi 145 millions de dollars supplémentaires. C'est comme si le marché était en train de se préparer pour une grosse remontée, mais personne n'ose y croire pour l'instant. Les signaux sont clairs : c'est le moment d'acheter, pas de vendre !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'euphorie de la peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une baisse. C'est comme si tout le monde attendait le feu vert pour foncer, avec des flux d'argent qui rentrent déjà dans les ETF à hauteur de 145 millions de dollars. C'est l'accumulation silencieuse, le signal est fort, il va peut-être bientôt exploser !"
 }

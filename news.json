@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T15:45:03.700Z",
+  "updatedAt": "2026-02-12T16:00:08.747Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 14:07:08 +0000"
-    },
-    {
-      "title": "Is this crypto winter different? Key observers reevaluate Bitcoin",
+      "title": "Hiver crypto différent",
       "titleOriginal": "Is this crypto winter different? Key observers reevaluate Bitcoin",
-      "summary": "The current market downswing could be driven by institutional investors exiting positions, as crypto still presents too much risk for them.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les investisseurs institutionnels pourraient quitter le marché en raison du risque élevé",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la tendance baissière actuelle, mais dans un marché déjà en extrême peur, elle pourrait également contribuer à un rebond si les investisseurs institutionnels sont déjà en train de quitter le marché.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de positionnement short important des hedge funds.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/crypto-winter-different-observers-reevaluate-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 13:59:31 +0000"
     },
     {
-      "title": "Bitcoin miner outflows spike in January, but public sales remain limited",
+      "title": "Sorties de mineurs crypto",
       "titleOriginal": "Bitcoin miner outflows spike in January, but public sales remain limited",
-      "summary": "Onchain data shows nearly 49,000 BTC moved from miner wallets in two days, but public disclosures suggest the transfers do not reflect broad capitulat",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les mineurs de Bitcoin ont transféré 49 000 BTC en deux jours",
+      "impact": "bearish",
+      "priceEffect": "Cependant, les ventes publiques sont limitées, ce qui suggère que les mineurs ne capitulent pas, et dans un marché déjà en extrême peur, cela pourrait être un signe de stabilité.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de signal d'accumulation forte.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/miner-outflows-spike-public-miners-steady-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 13:57:42 +0000"
     },
     {
-      "title": "US credit union regulator proposes stablecoin licensing path",
+      "title": "Licensing stablecoin",
       "titleOriginal": "US credit union regulator proposes stablecoin licensing path",
-      "summary": "The US National Credit Union Administration proposed a federal licensing regime for payment stablecoin issuers operating through credit union subsidia",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "La réglementation des stablecoins progresse aux États-Unis",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une confiance accrue dans les stablecoins et, par extension, dans le marché crypto, ce qui pourrait aider à inverser la tendance baissière actuelle.",
+      "contextLink": "Cette news se connecte au contexte actuel d'accumulation forte et de positionnement bullish des institutions.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ncua-proposal-outlines-licensing-rules-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 12:36:18 +0000"
     },
     {
-      "title": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
+      "title": "OKX Ventures investit",
       "titleOriginal": "OKX Ventures backs RWA stablecoin with Securitize, Hamilton Lane",
-      "summary": "The dual-token structure seeks to sidestep US restrictions on yield-bearing stablecoins by separating returns from the stable unit itself.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "OKX Ventures soutient un nouveau stablecoin avec une structure innovante",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une confiance accrue dans les stablecoins et les projets innovants, ce qui pourrait aider à inverser la tendance baissière actuelle.",
+      "contextLink": "Cette news se connecte au contexte actuel d'accumulation forte et de positionnement bullish des institutions.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/securitize-to-launch-rwa-backed-stablecoin-with-okx-stbl-hamilton-lane?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 11:01:15 +0000"
+    },
+    {
+      "title": "Pilotage obligataire",
+      "titleOriginal": "UK government appoints HSBC for tokenized bond pilot",
+      "summary": "Le gouvernement britannique explore l'utilisation de la blockchain pour les obligations",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une adoption accrue de la technologie blockchain et, par extension, du marché crypto, ce qui pourrait aider à inverser la tendance baissière actuelle.",
+      "contextLink": "Cette news se connecte au contexte actuel d'accumulation forte et de positionnement bullish des institutions.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 10:25:58 +0000"
     }
   ]
 }
