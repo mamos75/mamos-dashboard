@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T03:15:07.054Z",
+  "updatedAt": "2026-02-12T03:30:04.125Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Coinbase lance wallets AI",
+      "title": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
+      "titleOriginal": "US fines Paxful $4M for moving funds tied to trafficking, fraud",
+      "summary": "US prosecutors said Paxful marketed itself as a non-KYC platform and presented anti-money laundering policies that it knew “were not implemented or en",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/us-fines-paxful-4m-moving-funds-trafficking-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 03:17:42 +0000"
+    },
+    {
+      "title": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
+      "titleOriginal": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
+      "summary": "The tech billionaire revealed X Money will launch in limited beta before rolling out globally as part of the firm’s “everything app” strategy.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 03:15:33 +0000"
+    },
+    {
+      "title": "Coinbase unveils crypto wallets designed specifically for AI agents",
       "titleOriginal": "Coinbase unveils crypto wallets designed specifically for AI agents",
-      "summary": "Coinbase propose des wallets pour les agents IA",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle indique une adoption croissante de la technologie blockchain et une confiance accrue dans les échanges de cryptomonnaies. Dans le contexte actuel de peur extrême, cela pourrait être un catalyseur pour un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où les investisseurs sont à la recherche de signaux positifs pour sortir de la peur extrême.",
-      "importance": 4,
+      "summary": "Users can set controls and permissions to allow the AI agent to manage liquidity positions and execute trades at any time of day, Coinbase said.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-launches-crypto-wallets-built-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 00:20:50 +0000"
     },
     {
-      "title": "Chainlink alimente Ondo",
+      "title": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
       "titleOriginal": "Chainlink feeds go live for Ondo tokenized US stocks on Ethereum",
-      "summary": "Chainlink fournit des données de prix pour les actions tokenisées d'Ondo",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance dans les marchés DeFi et encourager les investisseurs à prendre des positions longues, ce qui pourrait contribuer à une hausse des prix. Le contexte actuel de hedge funds à 68,9% SHORT pourrait amplifier cet effet.",
-      "contextLink": "Cette news se connecte au contexte actuel de funding rate à 0,0036%, où les investisseurs sont à la recherche de rendements attractifs dans les marchés DeFi.",
+      "summary": "Price feeds for SPYon, QQQon and TSLAon are now live on Ethereum, allowing the Ondo-issued tokenized equities to be used as collateral in DeFi lending",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ondo-integrates-chainlink-data-feeds-for-tokenized-stocks-on-ethereum-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Wed, 11 Feb 2026 21:59:03 +0000"
     },
     {
-      "title": "Oursons visent 60k$",
-      "titleOriginal": "Bitcoin futures data shows bears gearing up for an assault on $60K",
-      "summary": "Les ours prévoient une baisse du prix du Bitcoin à 60 000$",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait contribuer à une pression baissière sur les prix, mais dans le contexte actuel de hedge funds à 68,9% SHORT, il est possible que les ours aient déjà pris des positions et que le prix soit déjà ajusté. Cela pourrait limiter l'impact de cette news.",
-      "contextLink": "Cette news se connecte au contexte actuel de signal global d'accumulation forte, où les investisseurs pourraient être en train de préparer un rebond.",
+      "title": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
+      "titleOriginal": "Democratic lawmakers slam SEC Chair Atkins over crypto enforcement",
+      "summary": "A House Committee on Financial Services hearing on Wednesday dredged up concerns about the pro-crypto regulatory shift under the Trump administration.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 21:15:02 +0000"
-    },
-    {
-      "title": "BTC volatile",
-      "titleOriginal": "Bitcoin rebound hype fades as range highs crumble: Here’s why BTC is volatile",
-      "summary": "Le prix du Bitcoin est volatile en raison d'une absence de capitaux frais",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait contribuer à une baisse des prix, car l'absence de capitaux frais et la faible confiance des investisseurs pourraient limiter les gains potentiels. Cependant, dans le contexte actuel de peur extrême, il est possible que les prix soient déjà ajustés et que les baisses soient limitées.",
-      "contextLink": "Cette news se connecte au contexte actuel de funding rate à 0,0036%, où les investisseurs sont à la recherche de rendements attractifs et pourraient être sensibles à la volatilité.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-rebound-hype-fades-as-range-highs-crumble-here-s-why-btc-is-volatile?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 19:16:17 +0000"
-    },
-    {
-      "title": "BlackRock entre dans DeFi",
-      "titleOriginal": "BlackRock enters DeFi, taps Uniswap for institutional token trading",
-      "summary": "BlackRock entre dans les marchés DeFi avec Uniswap",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une confiance accrue dans les marchés DeFi et à une adoption croissante des cryptomonnaies par les institutions. Dans le contexte actuel de hedge funds à 68,9% SHORT, cela pourrait être un catalyseur pour un rebond important.",
-      "contextLink": "Cette news se connecte au contexte actuel de signal global d'accumulation forte, où les investisseurs pourraient être en train de préparer un rebond et où les institutions pourraient jouer un rôle clé.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/blackrock-buidl-uniswap-institutional-defi-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Wed, 11 Feb 2026 17:47:08 +0000"
+      "link": "https://cointelegraph.com/news/democrats-slam-sec-chair-atkins-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Wed, 11 Feb 2026 21:46:47 +0000"
     }
   ]
 }
