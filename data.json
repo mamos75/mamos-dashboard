@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T16:30:03.712Z",
+  "updatedAt": "2026-02-12T16:45:02.953Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "63.5",
-      "short": "36.5"
+      "long": "63.4",
+      "short": "36.6"
     },
-    "takerBuySellRatio": "1.23",
+    "takerBuySellRatio": "0.80",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,696",
-    "usd": "5.33B",
-    "change24h": -0.4,
+    "btc": "80,212",
+    "usd": "5.32B",
+    "change24h": -1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66063,
+    "current": 66275,
     "high24h": 68411,
     "low24h": 65876,
-    "change24h": "-0.77",
+    "change24h": "0.21",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -77,7 +77,7 @@
       70500,
       72300
     ],
-    "bias": "bearish",
+    "bias": "bullish",
     "pricePosition": "in_range"
   },
   "cot": {
@@ -138,9 +138,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -181,7 +181,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,063",
+      "currentPrice": "$66,275",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,800",
       "target1": "$68,400",
@@ -211,5 +211,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement très nerveux, avec une peur extrême qui domine. Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un signal positif. Les flux d'argent vers les fonds cryptos sont même en hausse, ce qui montre que les gens placent leur confiance dans le marché. C'est le moment idéal pour acheter, car tout le monde a peur, mais les signes sont là pour une future hausse !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF sont également très positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, les prix sont bas et les gros joueurs sont en train de faire leur shopping !"
 }
