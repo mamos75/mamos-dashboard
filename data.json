@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T09:00:04.025Z",
+  "updatedAt": "2026-02-12T09:15:03.634Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.3",
-      "short": "43.7",
+      "long": "56.4",
+      "short": "43.6",
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "64.6",
-      "short": "35.4"
+      "long": "64.7",
+      "short": "35.3"
     },
-    "takerBuySellRatio": "0.99",
+    "takerBuySellRatio": "0.78",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,923",
-    "usd": "5.50B",
-    "change24h": -0.1,
+    "btc": "82,044",
+    "usd": "5.51B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67141,
+    "current": 67173,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.20",
+    "change24h": "0.40",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,141",
+      "currentPrice": "$67,173",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Malgré ça, de l'argent frais arrive sur le marché, avec 145 millions de dollars injectés récemment. C'est l'heure de l'accumulation, il y a peut-être une bonne occasion à saisir !"
+  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Pourtant, on voit des signes d'accumulation forte, comme si les gens attendaient le bon moment pour frapper. C'est un peu comme si tout le monde retenait son souffle en attendant la prochaine étape !"
 }
