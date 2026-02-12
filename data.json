@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T09:45:03.647Z",
+  "updatedAt": "2026-02-12T10:00:03.882Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.4",
-      "short": "43.6",
+      "long": "56.5",
+      "short": "43.5",
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "64.9",
-      "short": "35.1"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "1.51",
+    "takerBuySellRatio": "2.37",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,936",
-    "usd": "5.52B",
-    "change24h": 0,
+    "btc": "81,997",
+    "usd": "5.54B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67422,
+    "current": 67547,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.85",
+    "change24h": "1.01",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,422",
+      "currentPrice": "$67,547",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF crypto sont également positifs, avec 145 millions de dollars qui entrent sur le marché. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
+  "story": "Le marché est actuellement dominé par la peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un bon signe. Les hedge funds, par contre, sont plutôt négatifs, mais les flux d'argent vers les ETF crypto sont en augmentation, ce qui montre que les gens continuent d'investir. C'est l'heure de l'accumulation, c'est-à-dire que c'est le moment d'acheter avant que le marché ne reparte à la hausse !"
 }
