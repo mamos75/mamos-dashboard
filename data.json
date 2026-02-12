@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T11:30:03.444Z",
+  "updatedAt": "2026-02-12T11:45:03.932Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "0.93",
+    "takerBuySellRatio": "1.02",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,653",
-    "usd": "5.57B",
+    "btc": "81,628",
+    "usd": "5.56B",
     "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68187,
+    "current": 68086,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.79",
+    "change24h": "1.73",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bear": 3,
+      "net": 6
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,187",
+      "currentPrice": "$68,086",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, c'est extrême ! Les grandes investisseurs institutionnels, eux, sont plutôt optimistes et achètent, ce qui est intéressant. Les fonds spéculatifs, par contre, misent sur une baisse, mais les investisseurs continuent de mettre de l'argent dans les cryptos, ce qui pourrait être un signe de renversement. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les hedge funds font des paris contre le marché, mais les grandes institutions restent optimistes, ce qui est plutôt rassurant. Les investisseurs placent même plus d'argent dans les crypto, avec 145 millions de dollars supplémentaires cette semaine. C'est le signe d'une accumulation forte, comme si tout le monde se préparait pour un grand bond en avant !"
 }
