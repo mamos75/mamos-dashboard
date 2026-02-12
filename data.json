@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T09:30:02.893Z",
+  "updatedAt": "2026-02-12T09:45:03.647Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.5",
-      "short": "43.5",
+      "long": "56.4",
+      "short": "43.6",
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "64.9",
+      "short": "35.1"
     },
-    "takerBuySellRatio": "1.12",
+    "takerBuySellRatio": "1.51",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,041",
+    "btc": "81,936",
     "usd": "5.52B",
-    "change24h": 0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67297,
+    "current": 67422,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.47",
+    "change24h": "0.85",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,297",
+      "currentPrice": "$67,422",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont vraiment nerveux ! Les hedge funds misent même contre le marché, mais les institutions sont plutôt optimistes, ce qui est intéressant. Il y a même de l'argent qui rentre dans le marché via les ETF, ce qui pourrait être un signe de renversement de tendance. C'est comme si le marché disait : \"achetez-moi, je suis trop bas !\""
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF crypto sont également positifs, avec 145 millions de dollars qui entrent sur le marché. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
 }

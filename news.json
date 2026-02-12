@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T09:30:03.415Z",
+  "updatedAt": "2026-02-12T09:45:07.232Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
-      "titleOriginal": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
-      "summary": "The American Bankers Association pressed the OCC to delay new national trust bank charters for crypto and stablecoin firms until the GENIUS Act framew",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 09:23:24 +0000"
-    },
-    {
-      "title": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
+      "title": "Binance convertit 1Md$",
       "titleOriginal": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
-      "summary": "Binance completed its $1 billion Bitcoin conversion for its emergency user fund as crypto sentiment hit record lows and smart money traders increased ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Binance a converti 1 milliard de dollars en Bitcoin pour son fonds d'urgence.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que Binance est confiant dans l'avenir du Bitcoin. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear et de hedge funds shorts, où les investisseurs sont déjà prudents, mais les institutions sont bullish.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 09:03:16 +0000"
     },
     {
-      "title": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
+      "title": "ARK Invest achète",
       "titleOriginal": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
-      "summary": "Cathie Wood’s ARK Invest bought nearly $50 million of Robinhood, Bullish and Circle shares as Bitcoin dipped and US spot BTC ETFs saw $276 million in ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "ARK Invest a acheté des actions de Robinhood, Bullish et Circle pour 50 millions de dollars.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que des investisseurs institutionnels sont confiants dans l'avenir des cryptomonnaies. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish et d'ETF Flows positifs, où les investisseurs institutionnels sont confiants dans l'avenir des cryptomonnaies.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 08:37:01 +0000"
     },
     {
-      "title": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
+      "title": "Strategy CEO",
       "titleOriginal": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
-      "summary": "Strategy CEO Phong Le says the company is moving away from issuing and selling common stock to buy Bitcoin and isn't interested in acquiring Bitcoin t",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le CEO de Strategy prévoit d'acheter plus de Bitcoin en utilisant des actions préférées.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que des entreprises sont confiantes dans l'avenir du Bitcoin. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear et de hedge funds shorts, où les investisseurs sont déjà prudents, mais les institutions sont bullish.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 06:20:54 +0000"
     },
     {
-      "title": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
+      "title": "Ether rebondira",
       "titleOriginal": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
-      "summary": "Fundstrat's Tom Lee argues Ether is close to the bottom and says investors should be thinking about opportunities instead of selling.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Tom Lee prévoit un rebond en forme de V pour Ether.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que des experts sont confiants dans l'avenir d'Ether. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear et de hedge funds shorts, où les investisseurs sont déjà prudents, mais les institutions sont bullish.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 05:55:27 +0000"
+    },
+    {
+      "title": "Thaïlande approuve",
+      "titleOriginal": "Thailand approves crypto as underlying assets in derivatives markets",
+      "summary": "La Thaïlande a approuvé les cryptomonnaies comme actifs sous-jacents dans les marchés dérivés.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que les régulateurs sont de plus en plus ouverts aux cryptomonnaies. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish et d'ETF Flows positifs, où les investisseurs institutionnels sont confiants dans l'avenir des cryptomonnaies.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/thailand-approves-crypto-underlying-assets-derivatives-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 04:49:05 +0000"
     }
   ]
 }
