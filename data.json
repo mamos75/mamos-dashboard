@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T15:30:06.934Z",
+  "updatedAt": "2026-02-12T15:45:03.345Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.9",
-      "short": "44.1",
-      "ratio": "1.27"
+      "long": "55.7",
+      "short": "44.3",
+      "ratio": "1.26"
     },
     "accounts": {
-      "long": "64.9",
-      "short": "35.1"
+      "long": "64.4",
+      "short": "35.6"
     },
-    "takerBuySellRatio": "1.19",
+    "takerBuySellRatio": "1.09",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,257",
-    "usd": "5.51B",
-    "change24h": -0.8,
+    "btc": "81,126",
+    "usd": "5.47B",
+    "change24h": -0.9,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67851,
+    "current": 67396,
     "high24h": 68411,
     "low24h": 65876,
-    "change24h": "2.51",
+    "change24h": "0.94",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -181,7 +181,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,851",
+      "currentPrice": "$67,396",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,800",
       "target1": "$68,400",
@@ -211,5 +211,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt confiants et achètent des cryptos, ce qui est une bonne nouvelle. Les hedge funds, par contre, parient contre le marché, ce qui pourrait créer une opportunité pour nous. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les gros investisseurs sont plutôt optimistes et ont même investi 145 millions de dollars supplémentaires. C'est comme si le marché était en train de se préparer pour une grosse remontée, mais personne n'ose y croire pour l'instant. Les signaux sont clairs : c'est le moment d'acheter, pas de vendre !"
 }
