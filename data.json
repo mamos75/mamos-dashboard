@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T07:15:03.671Z",
+  "updatedAt": "2026-02-12T07:30:03.230Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.5",
-      "short": "44.5",
+      "long": "55.6",
+      "short": "44.4",
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "64.6",
-      "short": "35.4"
+      "long": "64.5",
+      "short": "35.5"
     },
-    "takerBuySellRatio": "0.46",
+    "takerBuySellRatio": "0.51",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,955",
-    "usd": "5.49B",
-    "change24h": 0.1,
+    "btc": "82,009",
+    "usd": "5.51B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66992,
+    "current": 67228,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "0.37",
+    "change24h": "0.36",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,992",
+      "currentPrice": "$67,228",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les fonds crypto est en train d'augmenter, ce qui est un bon signe. Tout cela sent l'opportunité d'achat pour ceux qui ont des nerfs solides !"
+  "story": "Le marché est actuellement dominé par la peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et misent sur la hausse. Les flux d'argent vers les fonds cryptos sont même en augmentation, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est en train de vendre à bas prix !"
 }
