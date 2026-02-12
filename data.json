@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T05:45:03.822Z",
+  "updatedAt": "2026-02-12T06:00:04.261Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.7",
-      "short": "44.3",
-      "ratio": "1.26"
+      "long": "55.6",
+      "short": "44.4",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "65.3",
-      "short": "34.7"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "0.49",
+    "takerBuySellRatio": "1.34",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,848",
-    "usd": "5.49B",
+    "btc": "81,872",
+    "usd": "5.50B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67080,
+    "current": 67136,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-0.53",
+    "change24h": "-0.42",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,080",
+      "currentPrice": "$67,136",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les institutions, elles, sont plutôt optimistes et achètent massivement, ce qui pourrait être un signe de rebond. Les hedge funds, par contre, misent gros sur la baisse, ce qui pourrait créer une belle opportunité de contre-attaque. C'est le moment idéal pour accumuler, les prix sont bas et les gros joueurs sont prêts à frapper !"
+  "story": "Le marché est en pleine panique, les gens ont vraiment peur ! Les grandes institutions, par contre, sont plutôt optimistes et achètent massivement. Il y a même de l'argent qui rentre dans le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
 }
