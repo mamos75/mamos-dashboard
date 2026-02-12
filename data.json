@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T01:30:03.696Z",
+  "updatedAt": "2026-02-12T01:45:03.176Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.4",
-      "short": "44.6",
-      "ratio": "1.24"
+      "long": "56.0",
+      "short": "44.0",
+      "ratio": "1.27"
     },
     "accounts": {
-      "long": "65.9",
-      "short": "34.1"
+      "long": "65.5",
+      "short": "34.5"
     },
-    "takerBuySellRatio": "1.71",
-    "trend": "more_short",
+    "takerBuySellRatio": "0.73",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,439",
+    "btc": "80,476",
     "usd": "5.46B",
-    "change24h": -0.3,
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67820,
+    "current": 67861,
     "high24h": 69169,
     "low24h": 65756,
-    "change24h": "-1.67",
+    "change24h": "-1.75",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,820",
+      "currentPrice": "$67,861",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$69,200",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est complètement paniqué, c'est l'extrême peur qui règne ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent massivement, ce qui est un signe positif. Les Hedge Funds, par contre, misent sur une baisse, mais l'argent qui entre dans le marché est en train de changer la donne. C'est le moment idéal pour accumuler, le marché est en train de se retourner !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, sont très négatifs, mais ça pourrait jouer en notre faveur si on regarde les signaux globaux. C'est comme si le marché attendait juste un petit déclic pour exploser !"
 }
