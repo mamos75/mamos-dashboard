@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T13:30:02.872Z",
+  "updatedAt": "2026-02-12T13:45:03.518Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
-      "ratio": "1.31"
+      "long": "56.6",
+      "short": "43.4",
+      "ratio": "1.30"
     },
     "accounts": {
-      "long": "64.9",
-      "short": "35.1"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "0.79",
+    "takerBuySellRatio": "1.13",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,846",
-    "usd": "5.55B",
-    "change24h": -0.2,
+    "btc": "82,007",
+    "usd": "5.59B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67769,
+    "current": 68117,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.15",
+    "change24h": "1.29",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,769",
+      "currentPrice": "$68,117",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde attendait le pire. Mais les gros investisseurs sont plutôt optimistes et mettent leur argent dans les cryptos, ce qui est un bon signe. Les hedge funds, eux, sont plutôt négatifs, mais les flux d'argent dans les ETF sont positifs, ce qui montre que les gens continuent d'acheter. C'est comme si le marché était prêt à exploser, mais personne n'ose y croire encore !"
+  "story": "Le marché est en pleine peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont super négatifs, ce qui crée une tension incroyable. Malgré tout, les gens continuent d'investir massivement, avec plus de 145 millions de dollars qui entrent dans le marché. C'est le signe d'une accumulation forte, et ça sent vraiment le retournement de tendance !"
 }
