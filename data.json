@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T10:00:03.882Z",
+  "updatedAt": "2026-02-12T10:15:03.160Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "65.0",
-      "short": "35.0"
+      "long": "65.1",
+      "short": "34.9"
     },
-    "takerBuySellRatio": "2.37",
-    "trend": "more_short",
+    "takerBuySellRatio": "1.34",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,997",
+    "btc": "82,063",
     "usd": "5.54B",
     "change24h": 0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67547,
+    "current": 67551,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.01",
+    "change24h": "1.20",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,547",
+      "currentPrice": "$67,551",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dominé par la peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un bon signe. Les hedge funds, par contre, sont plutôt négatifs, mais les flux d'argent vers les ETF crypto sont en augmentation, ce qui montre que les gens continuent d'investir. C'est l'heure de l'accumulation, c'est-à-dire que c'est le moment d'acheter avant que le marché ne reparte à la hausse !"
+  "story": "Le marché est actuellement dans un état de peur extrême, avec beaucoup de gens qui ont peur de tout perdre. Mais curieusement, les grandes institutions sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans le marché. Les hedge funds, eux, font le contraire et misent sur la baisse, ce qui pourrait être une erreur coûteuse. C'est le moment parfait pour accumuler, car le marché est en train de se préparer pour un grand bond en avant !"
 }
