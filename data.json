@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T10:30:03.067Z",
+  "updatedAt": "2026-02-12T10:45:03.475Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,10 +24,10 @@
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "65.2",
-      "short": "34.8"
+      "long": "65.1",
+      "short": "34.9"
     },
-    "takerBuySellRatio": "1.70",
+    "takerBuySellRatio": "1.20",
     "trend": "more_long",
     "signal": "dump_possible"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67610,
+    "current": 67666,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.10",
+    "change24h": "1.41",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,610",
+      "currentPrice": "$67,666",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super stressé en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent continue d'arriver dans les coffres, ce qui pourrait être un signe de retournement. C'est l'accumulation silencieuse, les acheteurs attendent leur moment pour frapper !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les fonds spéculatifs, eux, misent contre le marché, mais les flux d'argent dans les ETF montrent que les gens continuent d'investir. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
 }
