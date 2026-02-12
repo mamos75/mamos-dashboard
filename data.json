@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T12:30:03.766Z",
+  "updatedAt": "2026-02-12T12:45:03.163Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
-      "ratio": "1.31"
+      "long": "56.6",
+      "short": "43.4",
+      "ratio": "1.30"
     },
     "accounts": {
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "0.59",
+    "takerBuySellRatio": "1.46",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,135",
-    "usd": "5.58B",
+    "btc": "82,109",
+    "usd": "5.57B",
     "change24h": 0.4,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67975,
+    "current": 67873,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.11",
+    "change24h": "1.18",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,975",
+      "currentPrice": "$67,873",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les grosses institutions sont optimistes, elles placent même de l'argent dans les crypto, plus de 145 millions de dollars cette semaine. Les hedge funds, eux, sont très négatifs, mais c'est souvent un signe que le marché va rebondir. C'est le moment idéal pour acheter, le signal est clair : accumulation forte !"
+  "story": "Le marché est actuellement dans un état de peur extrême, avec beaucoup de gens qui ont peur de tout perdre. Mais les gros investisseurs, eux, sont optimistes et achètent massivement, ce qui est un signal très positif. Les flux d'argent dans les fonds sont même en train d'augmenter, ce qui montre que les gens commencent à voir l'opportunité. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
 }
