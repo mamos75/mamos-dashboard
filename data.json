@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T05:00:04.459Z",
+  "updatedAt": "2026-02-12T05:15:03.339Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.5",
-      "short": "44.5",
+      "long": "55.6",
+      "short": "44.4",
       "ratio": "1.25"
     },
     "accounts": {
       "long": "65.5",
-      "short": "34.4"
+      "short": "34.5"
     },
-    "takerBuySellRatio": "0.77",
+    "takerBuySellRatio": "1.87",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,942",
-    "usd": "5.49B",
-    "change24h": 1,
+    "btc": "81,815",
+    "usd": "5.47B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67018,
+    "current": 66814,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "-0.83",
+    "change24h": "-1.33",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,018",
+      "currentPrice": "$66,814",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont à 68,9% pour vendre. Malgré cela, les gens continuent d'investir de l'argent, avec 145 millions de dollars supplémentaires cette semaine. C'est comme si tout le monde attendait le feu vert pour bondir !"
+  "story": "Le marché est dans un état de peur extrême, c'est comme si tout le monde avait peur de se faire mal. Mais les grosses institutions sont plutôt optimistes, ce qui est intéressant. Les flux d'argent dans les ETF sont même en hausse, ce qui signifie que les gens achètent malgré la peur. C'est le moment idéal pour accumuler, car tout le monde est trop effrayé pour voir les opportunités !"
 }
