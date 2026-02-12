@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T13:00:04.638Z",
+  "updatedAt": "2026-02-12T13:15:03.429Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -21,20 +21,20 @@
     "topTraders": {
       "long": "56.6",
       "short": "43.4",
-      "ratio": "1.30"
+      "ratio": "1.31"
     },
     "accounts": {
       "long": "64.9",
       "short": "35.1"
     },
-    "takerBuySellRatio": "1.61",
+    "takerBuySellRatio": "0.87",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,020",
-    "usd": "5.57B",
-    "change24h": 0.3,
+    "btc": "81,956",
+    "usd": "5.56B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67850,
+    "current": 67843,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.06",
+    "change24h": "1.37",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,850",
+      "currentPrice": "$67,843",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est complètement paniqué en ce moment, c'est l'extrême peur qui prédomine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans le jeu. Les flux d'argent dans les ETF sont également très positifs, ce qui signale une forte accumulation. C'est le moment de saisir l'occasion, car le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont plutôt négatifs, ce qui crée une opportunité intéressante. Les gens placent massivement de l'argent dans les crypto, avec plus de 145 millions de dollars investis récemment. C'est le moment idéal pour accumuler des cryptos, car le marché est prêt à rebondir !"
 }
