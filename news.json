@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T10:45:07.502Z",
+  "updatedAt": "2026-02-12T11:00:05.082Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Royaume-Uni teste obligation tokenisée",
+      "title": "UK government appoints HSBC for tokenized bond pilot",
       "titleOriginal": "UK government appoints HSBC for tokenized bond pilot",
-      "summary": "Le Royaume-Uni explore l'utilisation de la blockchain pour les obligations",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du marché, car elle montre une adoption croissante de la technologie blockchain par les institutions, ce qui pourrait renforcer la confiance des investisseurs dans un contexte de peur extrême.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'adoption croissante de la technologie blockchain par les institutions, ce qui pourrait aller dans le sens de l'accumulation forte signalée.",
-      "importance": 4,
+      "summary": "The UK appointed HSBC Orion for its DIGIT pilot to explore blockchain bonds, aiming to improve efficiency, cut costs and boost security.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 10:25:58 +0000"
     },
     {
-      "title": "Gen Z utilise crypto pour les rendez-vous",
+      "title": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
       "titleOriginal": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
-      "summary": "13% de la génération Z utilise des crypto-monnaies pour payer les rendez-vous",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait avoir un impact positif sur le prix, car elle montre une adoption croissante des crypto-monnaies par les jeunes générations, ce qui pourrait contribuer à une augmentation de la demande et, par conséquent, du prix dans un contexte de fear extrême.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'adoption croissante des crypto-monnaies par les jeunes générations, ce qui pourrait contribuer à l'accumulation forte signalée.",
+      "summary": "An OKX-commissioned Pollfish survey finds 13% of Gen Z have paid for dates with crypto, while many non-users cite a lack of a direct way to do so.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/gen-z-crypto-valentines-date-payments-okx-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 10:06:58 +0000"
     },
     {
-      "title": "Binance convertit 1 milliard de dollars en Bitcoin",
+      "title": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "titleOriginal": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "summary": "The American Bankers Association pressed the OCC to delay new national trust bank charters for crypto and stablecoin firms until the GENIUS Act framew",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 09:23:24 +0000"
+    },
+    {
+      "title": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
       "titleOriginal": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
-      "summary": "Binance a converti 1 milliard de dollars en Bitcoin pour son fonds d'urgence",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait avoir un impact positif sur le prix, car elle montre que Binance, l'une des plus grandes plateformes d'échange de crypto-monnaies, continue à soutenir le marché en achetant du Bitcoin, ce qui pourrait contribuer à une augmentation de la demande et, par conséquent, du prix dans un contexte de fear extrême.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'accumulation forte signalée, car Binance continue à soutenir le marché en achetant du Bitcoin.",
-      "importance": 5,
+      "summary": "Binance completed its $1 billion Bitcoin conversion for its emergency user fund as crypto sentiment hit record lows and smart money traders increased ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 09:03:16 +0000"
     },
     {
-      "title": "ARK Invest achète des actions Robinhood",
+      "title": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
       "titleOriginal": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
-      "summary": "ARK Invest a acheté des actions Robinhood pour 34 millions de dollars",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait avoir un impact positif sur le prix, car elle montre que des investisseurs institutionnels comme ARK Invest continuent à soutenir les entreprises de crypto-monnaies, ce qui pourrait contribuer à une augmentation de la confiance et, par conséquent, du prix dans un contexte de fear extrême.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'accumulation forte signalée, car des investisseurs institutionnels comme ARK Invest continuent à soutenir les entreprises de crypto-monnaies.",
-      "importance": 4,
+      "summary": "Cathie Wood’s ARK Invest bought nearly $50 million of Robinhood, Bullish and Circle shares as Bitcoin dipped and US spot BTC ETFs saw $276 million in ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 08:37:01 +0000"
-    },
-    {
-      "title": "Strategy CEO préfère l'achat de Bitcoin",
-      "titleOriginal": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
-      "summary": "Le CEO de Strategy préfère acheter du Bitcoin plutôt que des actions",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait avoir un impact positif sur le prix, car elle montre que des entreprises comme Strategy préfèrent acheter du Bitcoin plutôt que des actions, ce qui pourrait contribuer à une augmentation de la demande et, par conséquent, du prix dans un contexte de fear extrême.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel par l'accumulation forte signalée, car des entreprises comme Strategy préfèrent acheter du Bitcoin.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 06:20:54 +0000"
     }
   ]
 }

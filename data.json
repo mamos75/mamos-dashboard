@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T10:45:03.475Z",
+  "updatedAt": "2026-02-12T11:00:04.500Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.6",
-      "short": "43.4",
+      "long": "56.5",
+      "short": "43.5",
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "65.1",
-      "short": "34.9"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "1.20",
-    "trend": "more_long",
+    "takerBuySellRatio": "0.89",
+    "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,033",
-    "usd": "5.55B",
+    "btc": "81,992",
+    "usd": "5.58B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67666,
+    "current": 68014,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.41",
+    "change24h": "2.22",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,666",
+      "currentPrice": "$68,014",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les fonds spéculatifs, eux, misent contre le marché, mais les flux d'argent dans les ETF montrent que les gens continuent d'investir. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent contre le marché à 68,9%. C'est comme si tout le monde attendait le feu vert pour plonger, et les flux d'argent dans les ETF montrent que les gens commencent à croire en l'avenir. C'est l'heure de l'accumulation, les choses pourraient bientôt changer !"
 }
