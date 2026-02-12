@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T08:30:06.845Z",
+  "updatedAt": "2026-02-12T08:45:04.485Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Strategy achète Bitcoin",
+      "title": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
+      "titleOriginal": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
+      "summary": "Cathie Wood’s ARK Invest bought nearly $50 million of Robinhood, Bullish and Circle shares as Bitcoin dipped and US spot BTC ETFs saw $276 million in ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 08:37:01 +0000"
+    },
+    {
+      "title": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
       "titleOriginal": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
-      "summary": "Une entreprise achète davantage de Bitcoin en utilisant des actions préférées",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation du prix du Bitcoin, car les institutions sont déjà bullish et les flux d'ETF sont positifs. Dans un marché en fear extrême, cela pourrait être un signal de rebond.",
-      "contextLink": "Les institutions sont déjà bullish, ce qui soutient l'impact positif de cette news",
-      "importance": 4,
+      "summary": "Strategy CEO Phong Le says the company is moving away from issuing and selling common stock to buy Bitcoin and isn't interested in acquiring Bitcoin t",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 06:20:54 +0000"
     },
     {
-      "title": "Ether rebondira",
+      "title": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
       "titleOriginal": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
-      "summary": "Un expert prévoit un rebond en V pour le prix de l'Ethereum",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation du prix de l'Ethereum, car les hedge funds sont déjà très shorts et les institutions sont bullish. Dans un marché en fear extrême, cela pourrait être un signal de rebond.",
-      "contextLink": "Le signal global d'accumulation forte et les institutions bullish soutiennent l'impact positif de cette news",
-      "importance": 5,
+      "summary": "Fundstrat's Tom Lee argues Ether is close to the bottom and says investors should be thinking about opportunities instead of selling.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 05:55:27 +0000"
     },
     {
-      "title": "Thaïlande autorise crypto",
+      "title": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "titleOriginal": "Russia is blocking WhatsApp to push ‘surveillance’ app, company says",
+      "summary": "Russian news outlets reported on Wednesday that WhatsApp’s domain had been completely blocked and was inaccessible without a VPN or another workaround",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/whatsapp-accuses-russia-of-trying-to-block-it-to-push-state-backed-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 05:34:53 +0000"
+    },
+    {
+      "title": "Thailand approves crypto as underlying assets in derivatives markets",
       "titleOriginal": "Thailand approves crypto as underlying assets in derivatives markets",
-      "summary": "La Thaïlande autorise les crypto-monnaies comme actifs sous-jacents dans les marchés dérivés",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation de la confiance dans les crypto-monnaies et à une augmentation de leur adoption, ce qui pourrait avoir un impact positif sur les prix",
-      "contextLink": "Le signal global d'accumulation forte et les institutions bullish soutiennent l'impact positif de cette news",
-      "importance": 4,
+      "summary": "Binance Thailand’s CEO says it is a “watershed moment” for digital assets in the country, as they are no longer being treated as mere speculative inst",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/thailand-approves-crypto-underlying-assets-derivatives-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 04:49:05 +0000"
-    },
-    {
-      "title": "Ethereum anonymise AI",
-      "titleOriginal": "Ethereum developers suggest using ZK tech to anonymize AI use",
-      "summary": "Les développeurs d'Ethereum proposent une méthode pour anonymiser les appels d'API d'intelligence artificielle",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation de la confiance dans l'Ethereum et à une augmentation de son adoption, ce qui pourrait avoir un impact positif sur les prix",
-      "contextLink": "Le signal global d'accumulation forte et les institutions bullish soutiennent l'impact positif de cette news",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ethereum-devs-propose-zero-knowledge-ai-api-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 04:25:05 +0000"
-    },
-    {
-      "title": "X Money bientôt",
-      "titleOriginal": "X Money ‘external beta’ will go live in 1-2 months, Musk says",
-      "summary": "Un nouveau service de paiement basé sur la blockchain sera lancé dans les prochains mois",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait contribuer à une augmentation de la confiance dans les crypto-monnaies et à une augmentation de leur adoption, ce qui pourrait avoir un impact positif sur les prix",
-      "contextLink": "Le signal global d'accumulation forte et les institutions bullish soutiennent l'impact positif de cette news",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/elon-musk-x-money-external-beta-live-next-1-2-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 03:15:33 +0000"
     }
   ]
 }
