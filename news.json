@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T10:15:06.906Z",
+  "updatedAt": "2026-02-12T10:30:03.567Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Gen Z utilise crypto",
+      "title": "UK government appoints HSBC for tokenized bond pilot",
+      "titleOriginal": "UK government appoints HSBC for tokenized bond pilot",
+      "summary": "The UK appointed HSBC Orion for its DIGIT pilot to explore blockchain bonds, aiming to improve efficiency, cut costs and boost security.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/uk-appoint-hsbc-digital-gilt-pilot-digit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 10:25:58 +0000"
+    },
+    {
+      "title": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
       "titleOriginal": "Gen Z flirts with crypto to pay for dates this Valentine’s, survey finds",
-      "summary": "13% de la génération Z utilise des cryptomonnaies pour payer des sorties",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une légère hausse du prix, car elle montre un intérêt croissant des jeunes générations pour les cryptomonnaies, ce qui pourrait être un facteur de rebond dans un marché actuellement en extrême peur.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où tout signe d'intérêt pour les cryptomonnaies pourrait être un facteur de rebond.",
+      "summary": "An OKX-commissioned Pollfish survey finds 13% of Gen Z have paid for dates with crypto, while many non-users cite a lack of a direct way to do so.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/gen-z-crypto-valentines-date-payments-okx-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 10:06:58 +0000"
     },
     {
-      "title": "Binance convertit 1Md$",
+      "title": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "titleOriginal": "Bankers push OCC to slow crypto trust charters until GENIUS rules clarified",
+      "summary": "The American Bankers Association pressed the OCC to delay new national trust bank charters for crypto and stablecoin firms until the GENIUS Act framew",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bankers-push-occ-slow-crypto-trust-bank-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 09:23:24 +0000"
+    },
+    {
+      "title": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
       "titleOriginal": "Binance completes $1B Bitcoin conversion for SAFU emergency fund",
-      "summary": "Binance a converti 1 milliard de dollars en Bitcoin pour son fonds d'urgence",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que Binance est confiant dans l'avenir du Bitcoin et est prêt à investir massivement, ce qui pourrait être un facteur de rebond dans un marché actuellement en extrême peur.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où tout signe de confiance des acteurs importants du marché pourrait être un facteur de rebond.",
-      "importance": 4,
+      "summary": "Binance completed its $1 billion Bitcoin conversion for its emergency user fund as crypto sentiment hit record lows and smart money traders increased ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/binance-completes-1b-bitcoin-safu-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 09:03:16 +0000"
     },
     {
-      "title": "ARK Invest achète",
+      "title": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
       "titleOriginal": "ARK Invest adds $34M Robinhood stake as Bitcoin falls below $66K",
-      "summary": "ARK Invest a acheté des parts de Robinhood et d'autres entreprises de crypto",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que des investisseurs institutionnels comme ARK Invest sont confiants dans l'avenir des cryptomonnaies et sont prêts à investir, ce qui pourrait être un facteur de rebond dans un marché actuellement en extrême peur.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, où les investisseurs institutionnels sont confiants dans l'avenir des cryptomonnaies.",
-      "importance": 4,
+      "summary": "Cathie Wood’s ARK Invest bought nearly $50 million of Robinhood, Bullish and Circle shares as Bitcoin dipped and US spot BTC ETFs saw $276 million in ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-buy-robinhood-34-million-bitcoin-slip-below-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 08:37:01 +0000"
-    },
-    {
-      "title": "Strategy CEO achète",
-      "titleOriginal": "Strategy CEO eyes more preferred stock to fund Bitcoin buys",
-      "summary": "Le CEO de Strategy a déclaré que l'entreprise allait acheter plus de Bitcoin",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que des entreprises sont prêtes à investir massivement dans le Bitcoin, ce qui pourrait être un facteur de rebond dans un marché actuellement en extrême peur.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où tout signe d'intérêt pour les cryptomonnaies pourrait être un facteur de rebond.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/strategy-ceo-preferred-stock-fund-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 06:20:54 +0000"
-    },
-    {
-      "title": "Ether rebondira",
-      "titleOriginal": "Ether set for another ‘V-shaped recovery,’ Tom Lee says",
-      "summary": "Tom Lee pense qu'Ether va rebondir",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que des experts comme Tom Lee sont confiants dans l'avenir d'Ether et pensent qu'il va rebondir, ce qui pourrait être un facteur de rebond dans un marché actuellement en extrême peur.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 5/100, où tout signe de confiance des experts pourrait être un facteur de rebond.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ether-prices-v-shaped-recovery-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 05:55:27 +0000"
     }
   ]
 }

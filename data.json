@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T10:15:03.160Z",
+  "updatedAt": "2026-02-12T10:30:03.067Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.5",
-      "short": "43.5",
+      "long": "56.6",
+      "short": "43.4",
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "65.1",
-      "short": "34.9"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "1.34",
+    "takerBuySellRatio": "1.70",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "82,063",
-    "usd": "5.54B",
-    "change24h": 0.1,
+    "btc": "82,033",
+    "usd": "5.55B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67551,
+    "current": 67610,
     "high24h": 68834,
     "low24h": 65756,
-    "change24h": "1.20",
+    "change24h": "1.10",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,551",
+      "currentPrice": "$67,610",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,800",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, avec beaucoup de gens qui ont peur de tout perdre. Mais curieusement, les grandes institutions sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans le marché. Les hedge funds, eux, font le contraire et misent sur la baisse, ce qui pourrait être une erreur coûteuse. C'est le moment parfait pour accumuler, car le marché est en train de se préparer pour un grand bond en avant !"
+  "story": "Le marché est super stressé en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent continue d'arriver dans les coffres, ce qui pourrait être un signe de retournement. C'est l'accumulation silencieuse, les acheteurs attendent leur moment pour frapper !"
 }
