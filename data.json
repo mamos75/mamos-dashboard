@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T14:45:03.760Z",
+  "updatedAt": "2026-02-12T15:00:04.842Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "64.8",
-      "short": "35.2"
+      "long": "64.9",
+      "short": "35.1"
     },
-    "takerBuySellRatio": "0.73",
+    "takerBuySellRatio": "1.02",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "81,829",
+    "btc": "81,885",
     "usd": "5.54B",
-    "change24h": 0.1,
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67652,
+    "current": 67631,
     "high24h": 68411,
     "low24h": 65756,
-    "change24h": "0.62",
+    "change24h": "1.59",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bear": 3,
+      "net": 6
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,652",
+      "currentPrice": "$67,631",
       "entryZone": "$65,800 - $67,300",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, tout le monde a peur et les gros investisseurs sont même prêts à parier contre les crypto ! Mais attention, les institutions sont optimistes et ont même investi 145 millions de dollars supplémentaires. C'est comme si tout le monde courait à la sortie, mais les \"gros joueurs\" achètent discrètement. C'est l'occasion parfaite de profiter de la peur générale et d'acheter à bas prix !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les gros investisseurs, eux, sont plutôt optimistes et achètent en secret. C'est comme si tout le monde courait vers la sortie, mais les plus malins attendent tranquillement que les prix remontent. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour voir les opportunités !"
 }
