@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T19:15:03.575Z",
+  "updatedAt": "2026-02-12T19:30:05.556Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
-      "ratio": "1.24"
+      "long": "55.2",
+      "short": "44.8",
+      "ratio": "1.23"
     },
     "accounts": {
-      "long": "64.3",
-      "short": "35.7"
+      "long": "64.0",
+      "short": "36.0"
     },
-    "takerBuySellRatio": "1.32",
+    "takerBuySellRatio": "1.19",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,714",
-    "usd": "5.28B",
-    "change24h": -0.1,
+    "btc": "80,531",
+    "usd": "5.30B",
+    "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65469,
+    "current": 65778,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-3.21",
+    "change24h": "-2.45",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,469",
+      "currentPrice": "$65,778",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, les gens sont super nerveux ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait en panique, mais les \"pros\" achètent en douce, ce qui pourrait être un signe de rebond à venir. Les signaux sont clairs : c'est le moment d'acheter, pas de vendre !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, sont en train de parier contre le marché, ce qui pourrait être une bonne opportunité pour nous. C'est le moment idéal pour accumuler, le signal est clair !"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T19:15:03.988Z",
+  "updatedAt": "2026-02-12T19:30:09.500Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Cango raises $75.5M as Bitcoin miner makes AI infrastructure pivot",
+      "title": "Cango lève 75M$",
       "titleOriginal": "Cango raises $75.5M as Bitcoin miner makes AI infrastructure pivot",
-      "summary": "The funding follows a $305 million Bitcoin sale and increases a key investor’s voting power to nearly 50%, as the company restructures its balance she",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Cango, un mineur de Bitcoin, lève 75,5 millions de dollars pour son infrastructure d'IA.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du prix du Bitcoin, car elle montre que les investisseurs sont toujours intéressés par le secteur, même dans un marché en fear extrême. Avec un taux de financement bas et un signal d'accumulation forte, cela pourrait être un signe de retournement.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de hedge funds à 68,9% SHORT, ce qui pourrait indiquer un potentiel rebond.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/cango-raises-75-5m-in-equity-as-bitcoin-miner-pivots-toward-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 18:57:56 +0000"
     },
     {
-      "title": "ETH ETF holders in ‘worse position’ than BTC ETF peers as crypto market looks for bottom",
+      "title": "ETH ETF en difficulté",
       "titleOriginal": "ETH ETF holders in ‘worse position’ than BTC ETF peers as crypto market looks for bottom",
-      "summary": "Bitcoin and Ether spot ETF holders are nursing steep losses as the market continues to search for a local bottom, but data from Bloomberg suggests nei",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Les détenteurs d'ETH ETF sont dans une situation plus difficile que ceux de BTC ETF en raison des pertes importantes.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix de l'ETH, mais dans le contexte actuel de fear extrême, cela pourrait déjà être pris en compte dans les prix. Les institutions étant bullish, cela pourrait limiter la baisse.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de pertes importantes sur les marchés, mais les institutions restent bullish.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-etf-holders-in-worse-position-than-btc-etf-peers-as-crypto-market-looks-for-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 18:45:00 +0000"
     },
     {
-      "title": "Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price",
+      "title": "Consolidation pour BTC",
       "titleOriginal": "Bitcoin analysts predict ‘prolonged’ consolidation phase for BTC price",
-      "summary": "Glassnode analysts said Bitcoin remains stuck between “key cost-basis levels,” and a prolonged consolidation period may lie ahead even if traders are ",
+      "summary": "Les analystes de Glassnode prévoient une phase de consolidation prolongée pour le prix du Bitcoin.",
       "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "priceEffect": "Cette news pourrait signifier que le prix du Bitcoin restera stable ou variera peu dans les prochaines semaines, ce qui pourrait être un signe de consolidation avant un potentiel rebond. Le signal d'accumulation forte pourrait soutenir ce scénario.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de signal d'accumulation forte, ce qui pourrait indiquer une phase de consolidation avant un rebond.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-analysts-predict-prolonged-consolidation-phase-for-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 17:45:00 +0000"
     },
     {
-      "title": "Trump family's WLFI plans FX and remittance platform: Report",
-      "titleOriginal": "Trump family's WLFI plans FX and remittance platform: Report",
-      "summary": "The platform hopes to capture a fraction of the more than $9.6 trillion in daily trading volume in the foreign currency exchange market.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/trump-wlfi-foreign-exchange-remittance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 17:14:11 +0000"
-    },
-    {
-      "title": "The real ‘supercycle’ isn’t crypto, it’s AI infrastructure: Analyst",
+      "title": "Supercycle AI",
       "titleOriginal": "The real ‘supercycle’ isn’t crypto, it’s AI infrastructure: Analyst",
-      "summary": "AI data center spending is eclipsing crypto’s hoped-for supercycle as Bitcoin miners shift capital toward high-performance computing infrastructure.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Un analyste pense que le véritable supercycle est celui de l'infrastructure d'IA, et non des crypto-monnaies.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin à long terme si les investisseurs se tournent vers l'infrastructure d'IA, mais dans le contexte actuel, les institutions restent bullish sur les crypto-monnaies.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de recherche de nouveaux marchés, mais les institutions restent bullish sur les crypto-monnaies.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ai-infrastructure-supercycle-bitcoin-miners-pivot-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 17:12:05 +0000"
+    },
+    {
+      "title": "BTC à 68,3k$",
+      "titleOriginal": "Bitcoin must close week at $68.3K to avoid 'bearish acceleration': Analyst",
+      "summary": "Le Bitcoin doit fermer la semaine à 68,3k$ pour éviter une accélération baissière.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin si celui-ci ne parvient pas à atteindre les 68,3k$ d'ici la fin de la semaine, mais le signal d'accumulation forte et les institutions bullish pourraient limiter la baisse.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de signal d'accumulation forte, ce qui pourrait indiquer un potentiel rebond si le Bitcoin parvient à atteindre les 68,3k$.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-may-close-week-at-68-3k-to-avoid-bearish-acceleration-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 17:00:00 +0000"
     }
   ]
 }
