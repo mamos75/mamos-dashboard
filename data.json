@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T18:15:03.626Z",
+  "updatedAt": "2026-02-12T18:30:03.228Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "64.0",
-      "short": "36.0"
+      "long": "63.8",
+      "short": "36.2"
     },
-    "takerBuySellRatio": "1.09",
+    "takerBuySellRatio": "0.78",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,810",
-    "usd": "5.31B",
-    "change24h": 0,
+    "btc": "80,767",
+    "usd": "5.27B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65692,
+    "current": 65290,
     "high24h": 68411,
-    "low24h": 65375,
-    "change24h": "-1.16",
+    "low24h": 65235,
+    "change24h": "-2.45",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
-      65400,
+      65200,
       60000
     ],
     "resistances": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -180,8 +180,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,692",
-      "entryZone": "$65,400 - $66,900",
+      "currentPrice": "$65,290",
+      "entryZone": "$65,200 - $66,700",
       "invalidation": "$60,000",
       "target1": "$68,400",
       "target2": "$70,500"
@@ -203,12 +203,12 @@
     "invalidationText": "Clôture daily sous $60,000 = scénario bullish invalidé",
     "action": {
       "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $65,400 - $66,900. Ne pas FOMO sur les pumps."
+      "detail": "DCA sur la zone $65,200 - $66,700. Ne pas FOMO sur les pumps."
     },
     "risk": {
       "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont super nerveux et vendent leurs cryptos. Mais attention, les gros investisseurs sont plutôt optimistes et achètent en masse, ce qui pourrait signifier que le marché est sur le point de rebondir. Les flux d'argent dans les ETF montrent même que les gens commencent à investir à nouveau, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché criait : \"Achetez, c'est le moment !\""
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont optimistes et achètent en masse, ce qui est un bon signe. Les hedge funds, eux, misent sur une baisse, mais l'argent qui entre dans les ETF montre que les investisseurs sont confiants. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
 }
