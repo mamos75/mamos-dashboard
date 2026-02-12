@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T22:30:07.658Z",
+  "updatedAt": "2026-02-12T22:45:04.194Z",
   "context": {
     "fearGreed": 5,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Fed: Poids marginaux",
-      "titleOriginal": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "summary": "La Fed propose des poids marginaux pour les dérivés liés aux crypto-monnaies.",
+      "title": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
+      "titleOriginal": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
+      "summary": "Bitcoin appears trapped within a capitulation zone where long-term holders continue to sell, and bearish onchain metrics hint at further downside. Wil",
       "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact direct sur le prix, mais peut influencer la régulation future. Dans le contexte actuel de fear extrême, cela pourrait être considéré comme une news neutre qui ne renforce pas la tendance baissière.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les institutions sont toujours intéressées par la régulation des crypto-monnaies, malgré la peur extrême actuelle.",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 22:30:00 +0000"
+    },
+    {
+      "title": "Fed paper proposes initial margin weights for crypto-linked derivatives",
+      "titleOriginal": "Fed paper proposes initial margin weights for crypto-linked derivatives",
+      "summary": "Traditional risk-weightings and models cannot account for crypto's high volatility or market behavior, according to a Federal Reserve paper.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:05:19 +0000"
     },
     {
-      "title": "Aptos lance stablecoin",
+      "title": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
       "titleOriginal": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
-      "summary": "Aptos lance un stablecoin appelé USDCBL pour servir de collatéral pour les perpétuelles en chaîne.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre l'innovation et la croissance dans l'écosystème des crypto-monnaies. Dans le contexte actuel, cela pourrait contribuer à un rebond potentiel.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les institutions et les projets sont toujours actifs et innovants, malgré la peur extrême actuelle.",
-      "importance": 4,
+      "summary": "The dollar-backed token, USDCBL, will serve as collateral for onchain perps, with cash and Treasury reserves generating yield retained within the prot",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:51:33 +0000"
     },
     {
-      "title": "Funding rate négatif",
+      "title": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
       "titleOriginal": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
-      "summary": "Le funding rate de Bitcoin est resté négatif pendant plusieurs jours, ce qui pourrait indiquer un retournement.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car un funding rate négatif peut indiquer un retournement de tendance. Dans le contexte actuel de fear extrême et de short selling important, cela pourrait contribuer à un rebond potentiel.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les conditions sont réunies pour un retournement de tendance, compte tenu du fear extrême et de la position short importante des hedge funds.",
-      "importance": 5,
+      "summary": "Bitcoin’s daily funding rate has been deeply negative for days, reflecting heavy short positioning, but historical data also suggests that a squeeze o",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:24:16 +0000"
     },
     {
-      "title": "Fiserv lance plateforme",
+      "title": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
       "titleOriginal": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
-      "summary": "Fiserv lance une plateforme de règlement en temps réel pour les entreprises de crypto-monnaies.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre l'adoption croissante des crypto-monnaies par les institutions traditionnelles. Dans le contexte actuel, cela pourrait contribuer à un rebond potentiel.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les institutions traditionnelles sont toujours intéressées par les crypto-monnaies, malgré la peur extrême actuelle.",
-      "importance": 4,
+      "summary": "Fiserv launches a 24/7/365 settlement platform for digital asset companies, aiming to reduce banking friction and improve liquidity in the US dollar.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 20:40:41 +0000"
-    },
-    {
-      "title": "21Shares élargit services",
-      "titleOriginal": "21Shares taps BitGo for expanded regulated staking, custody support across US, Europe",
-      "summary": "21Shares élargit ses services de staking et de custody pour les institutions.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre l'adoption croissante des crypto-monnaies par les institutions. Dans le contexte actuel, cela pourrait contribuer à un rebond potentiel.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les institutions sont toujours intéressées par les crypto-monnaies, malgré la peur extrême actuelle.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitgo-expands-custody-and-staking-partnership-with-21shares-across-us-and-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 19:59:36 +0000"
     }
   ]
 }

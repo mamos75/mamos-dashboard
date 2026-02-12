@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T22:30:03.973Z",
+  "updatedAt": "2026-02-12T22:45:03.895Z",
   "fearGreed": {
     "current": 5,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "68.3",
-      "short": "31.7"
+      "long": "68.4",
+      "short": "31.6"
     },
-    "takerBuySellRatio": "0.93",
+    "takerBuySellRatio": "1.23",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,798",
-    "usd": "5.26B",
-    "change24h": -0.3,
+    "btc": "79,595",
+    "usd": "5.27B",
+    "change24h": -0.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 65964,
+    "current": 66200,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.40",
+    "change24h": "-2.11",
     "weekHigh": 72271,
     "weekLow": 60000,
     "supports": [
@@ -76,7 +76,7 @@
       70500,
       72300
     ],
-    "bias": "bearish",
+    "bias": "bullish",
     "pricePosition": "in_range"
   },
   "cot": {
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,964",
+      "currentPrice": "$66,200",
       "entryZone": "$65,100 - $66,600",
       "invalidation": "$60,000",
       "target1": "$68,400",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui domine les esprits. Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui crée un étrange déséquilibre. Les flux d'argent dans les ETF montrent même que les gens commencent à acheter, ce qui pourrait être un signe de renversement de tendance. C'est comme si le marché retint son souffle, prêt à bondir à tout moment !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les grandes institutions, elles, sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans les ETF. Les hedge funds, par contre, misent sur une baisse, mais les signaux montrent que les investisseurs achètent discrètement, c'est ce qu'on appelle une accumulation forte. C'est le moment idéal pour acheter, car tout le monde a peur, mais les signes sont là, il va y avoir une remontée !"
 }
