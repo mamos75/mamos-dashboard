@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T17:15:03.490Z",
+  "updatedAt": "2026-02-13T17:30:09.071Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
+      "title": "CLARITY Act",
       "titleOriginal": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
-      "summary": "Delaying the CLARITY market structure bill until 2027, after the US midterm elections, may significantly reduce its chances of passage, the Treasury S",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le projet de loi CLARITY pourrait améliorer le sentiment des investisseurs crypto",
+      "impact": "bullish",
+      "priceEffect": "Dans un marché en fear extrême, cette news pourrait contribuer à un rebond potentiel, car une clarification réglementaire pourrait renforcer la confiance des investisseurs. Cependant, le report de la décision jusqu'en 2027 pourrait limiter son impact immédiat.",
+      "contextLink": "Le marché actuel, caractérisé par une peur extrême, pourrait bénéficier d'une clarification réglementaire pour inverser la tendance baissière.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/crypto-sentiment-rise-clarity-passed-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 17:01:06 +0000"
     },
     {
-      "title": "Bitcoin most 'undervalued' since March 2023 at $20K, BTC price metric shows",
+      "title": "Bitcoin sous-évalué",
       "titleOriginal": "Bitcoin most 'undervalued' since March 2023 at $20K, BTC price metric shows",
-      "summary": "Bitcoin onchain analysis eyed a potential end to the BTC price downtrend as its MVRV ratio returned to levels not seen in three years.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le ratio MVRV de Bitcoin indique que le prix est sous-évalué",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait soutenir un rebond du prix de Bitcoin, car un ratio MVRV bas historiquement précède souvent une hausse. Dans le contexte actuel de fear extrême, cela pourrait être un signal d'achat pour les investisseurs.",
+      "contextLink": "Le signal d'accumulation forte du marché actuel est renforcé par cette analyse technique, suggérant que les investisseurs institutionnels pourraient voir une opportunité d'achat.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-most-undervalued-since-march-2023-classic-btc-price-metric-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 16:30:00 +0000"
     },
     {
-      "title": "Bitcoin passes $69K on slower US CPI print, but Fed rate-cut odds stay low",
+      "title": "Bitcoin à 69K",
       "titleOriginal": "Bitcoin passes $69K on slower US CPI print, but Fed rate-cut odds stay low",
-      "summary": "Bitcoin bulls enjoyed a relief rally to $69,000 on the back of soft US CPI inflation data amid hopes of BTC price action making a \"higher low.\"",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le prix de Bitcoin a augmenté à 69 000 $ après la publication des données d'inflation américaines",
+      "impact": "bullish",
+      "priceEffect": "Cette news a déjà eu un impact positif sur le prix de Bitcoin, mais dans le contexte actuel, il est important de surveiller si cette hausse peut se maintenir. Les hedge funds étant majoritairement short, une poursuite de la hausse pourrait les forcer à couvrir leurs positions, renforçant ainsi la tendance haussière.",
+      "contextLink": "La réaction du marché à la nouvelle d'inflation plus faible que prévu et son impact sur les taux d'intérêt à venir est cruciale, car elle pourrait influencer la stratégie des investisseurs institutionnels, actuellement bullish.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-passes-68k-on-slower-us-cpi-print-but-fed-rate-cut-odds-stay-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 15:32:45 +0000"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 14:18:06 +0000"
-    },
-    {
-      "title": "Binance confirms employee targeted as three arrested in France break-in",
+      "title": "Binance ciblée",
       "titleOriginal": "Binance confirms employee targeted as three arrested in France break-in",
-      "summary": "French police arrested three suspects after a break-in targeting a Binance France executive, RTL reported. Binance has confirmed a home invasion invol",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Un employé de Binance a été ciblé lors d'une effraction en France",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur la confiance dans les échanges de crypto, mais dans le contexte actuel de fear extrême, son impact pourrait être limité. Les investisseurs sont déjà prudents, et cette nouvelle ne devrait pas changer significativement leur perception du marché.",
+      "contextLink": "La sécurité des échanges et des portefeuilles est une préoccupation majeure, mais dans le contexte actuel, les investisseurs sont plus sensibles aux signaux de marché et aux réglementations qu'aux incidents de sécurité isolés.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 13:37:11 +0000"
+    },
+    {
+      "title": "Ponzi scheme",
+      "titleOriginal": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
+      "summary": "Un PDG de crypto a été condamné pour une arnaque Ponzi de 200 millions de dollars",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la méfiance envers le marché crypto, mais dans le contexte actuel de fear extrême, son impact pourrait être limité. Les investisseurs sont déjà prudents, et cette nouvelle ne devrait pas changer significativement leur perception du marché.",
+      "contextLink": "Les arnaques et les scandales peuvent affecter la confiance dans le marché crypto, mais dans le contexte actuel, les investisseurs institutionnels et les flux d'ETF positifs suggèrent une perspective plus optimiste à long terme.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 11:29:52 +0000"
     }
   ]
 }

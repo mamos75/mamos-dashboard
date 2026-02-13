@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T17:15:03.121Z",
+  "updatedAt": "2026-02-13T17:30:03.876Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "64.6",
-      "short": "35.4"
+      "long": "64.8",
+      "short": "35.2"
     },
-    "takerBuySellRatio": "0.81",
+    "takerBuySellRatio": "1.38",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,975",
+    "btc": "79,008",
     "usd": "5.45B",
-    "change24h": -0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68987,
+    "current": 68975,
     "high24h": 69483,
     "low24h": 65118,
-    "change24h": "4.94",
+    "change24h": "4.37",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -135,9 +135,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -178,7 +178,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,987",
+      "currentPrice": "$68,975",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$69,500",
@@ -208,5 +208,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui crée une opportunité incroyable pour les acheteurs. Les gros investisseurs institutionnels sont plutôt optimistes, ce qui pourrait faire basculer le marché. Les hedge funds, eux, misent sur une baisse, mais l'argent continue d'affluer dans les fonds liés aux crypto, ce qui est un signal positif. C'est le moment idéal pour accumuler, car le marché est sous-évalué et prêt à rebondir !"
+  "story": "Le marché est actuellement plongé dans la peur, avec un indice de peur et de cupidité extrêmement bas, ce qui signifie que les gens ont vraiment peur. Mais attention, les gros investisseurs institutionnels sont optimistes et mettent leur argent dans le marché, ce qui pourrait être un signe de retournement. Les flux d'argent dans les ETF sont également positifs, ce qui montre que les gens commencent à revenir. C'est l'heure idéale pour acheter, car le marché est en train de se reconstruire en secret !"
 }
