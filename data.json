@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T10:00:04.567Z",
+  "updatedAt": "2026-02-13T10:15:03.633Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.6",
-      "short": "43.4",
+      "long": "56.7",
+      "short": "43.3",
       "ratio": "1.31"
     },
     "accounts": {
       "long": "68.0",
       "short": "32.0"
     },
-    "takerBuySellRatio": "0.52",
+    "takerBuySellRatio": "0.84",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,836",
-    "usd": "5.35B",
-    "change24h": 0.1,
+    "btc": "79,736",
+    "usd": "5.33B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66951,
+    "current": 66905,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.88",
+    "change24h": "-0.95",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,951",
+      "currentPrice": "$66,905",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, les gens sont super nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent même. Les hedge funds, par contre, misent sur une baisse, ce qui pourrait créer une belle opportunité pour nous. C'est le moment idéal pour accumuler, la pression est trop forte, ça va exploser !"
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos. Les flux d'argent sont même positifs, ce qui signifie que les gens placent leur argent dans les ETF crypto. C'est le moment idéal pour acheter, le marché est en train de se renforcer en silence !"
 }
