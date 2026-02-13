@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T19:30:05.639Z",
+  "updatedAt": "2026-02-13T19:45:03.241Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
-      "ratio": "1.26"
+      "long": "54.9",
+      "short": "45.1",
+      "ratio": "1.22"
     },
     "accounts": {
-      "long": "63.5",
-      "short": "36.5"
+      "long": "63.3",
+      "short": "36.6"
     },
-    "takerBuySellRatio": "1.70",
+    "takerBuySellRatio": "0.93",
     "trend": "more_long",
-    "signal": "dump_possible"
+    "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,141",
-    "usd": "5.46B",
-    "change24h": -0.1,
+    "btc": "79,392",
+    "usd": "5.47B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68979,
+    "current": 68942,
     "high24h": 69483,
     "low24h": 65215,
-    "change24h": "4.86",
+    "change24h": "4.48",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
+      "bull": 9,
       "bear": 3,
-      "net": 7
+      "net": 6
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,979",
+      "currentPrice": "$68,942",
       "entryZone": "$65,200 - $66,700",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une baisse. Malgré tout, les gens continuent d'investir massivement, avec 145 millions de dollars injectés dans les ETF. C'est l'heure de l'accumulation, c'est-à-dire que c'est le moment de acheter, selon les signaux globaux !"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de perdre. Mais les grandes institutions sont plutôt optimistes et investissent massivement, avec même 145 millions de dollars injectés dans les ETF ces derniers temps. Les hedge funds, eux, sont plutôt négatifs, mais cela pourrait être une bonne nouvelle pour nous, car souvent, ils se trompent. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
 }

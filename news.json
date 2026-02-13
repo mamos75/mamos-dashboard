@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T19:30:09.544Z",
+  "updatedAt": "2026-02-13T19:45:03.716Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "BTC dépasse 69K",
+      "title": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
       "titleOriginal": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
-      "summary": "Le prix du Bitcoin augmente à 69 000 $ à la suite d'une pression des traders retail sur les positions short.",
-      "impact": "bullish",
-      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond du prix, car les traders retail exercent une pression sur les positions short. Cela pourrait aider à inverser la tendance baissière.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond.",
-      "importance": 4,
+      "summary": "Bitcoin rallies above $69,000 as retail traders apply pressure to short positions and aim to generate a lasting bullish trend change.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 19:21:46 +0000"
     },
     {
-      "title": "BlackRock entre dans DeFi",
+      "title": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
       "titleOriginal": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
-      "summary": "BlackRock entre dans le marché DeFi, ce qui pourrait accélérer l'adoption institutionnelle des crypto-monnaies.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, car l'entrée de BlackRock dans le marché DeFi pourrait attirer davantage d'institutions et d'investisseurs. Cependant, l'effet immédiat pourrait être limité dans le contexte actuel de peur extrême.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, où les ETF Flows 24h sont de +145M$, ce qui suggère que les institutions sont déjà engagées dans le marché crypto.",
-      "importance": 5,
+      "summary": "Bitcoin and Ether rebounded modestly as ETF outflows mounted, while BlackRock entered DeFi and Binance completed its $1 billion Bitcoin reserve shift.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/blackrock-enters-defi-institutional-crypto-push-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 19:00:00 +0000"
     },
     {
-      "title": "Objectif 72K pour BTC",
+      "title": "Anchorage, Kamino let institutions borrow against SOL without moving custody",
+      "titleOriginal": "Anchorage, Kamino let institutions borrow against SOL without moving custody",
+      "summary": "A new framework allows institutions to borrow against staked SOL while the assets remain in qualified custody, as US lawmakers debate DeFi oversight.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/anchorage-kamino-institutions-borrow-against-sol-without-moving-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 17:37:15 +0000"
+    },
+    {
+      "title": "Bitcoin $72K target possible if V-shaped recovery pattern completes",
       "titleOriginal": "Bitcoin $72K target possible if V-shaped recovery pattern completes",
-      "summary": "Le prix du Bitcoin pourrait atteindre 72 000 $ si le modèle de récupération en V se réalise.",
-      "impact": "bullish",
-      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond du prix, car le modèle de récupération en V suggère que le prix pourrait augmenter à court terme. Cependant, l'effet immédiat pourrait être limité si les traders restent prudents.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond.",
-      "importance": 4,
+      "summary": "Bitcoin’s post-CPI rally above $69,000 may help complete the V-shaped recovery chart pattern and also confirm that $60,000 was the sell-off bottom.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-dollar72k-target-possible-if-v-shaped-recovery-pattern-completes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 17:30:00 +0000"
     },
     {
-      "title": "Loi CLARITY pour améliorer le sentiment",
+      "title": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
       "titleOriginal": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
-      "summary": "La loi CLARITY pourrait améliorer le sentiment des investisseurs dans le marché crypto une fois adoptée.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, car la loi CLARITY pourrait apporter plus de clarté et de sécurité aux investisseurs. Cependant, l'effet immédiat pourrait être limité dans le contexte actuel de peur extrême.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont prudents et attendent des signaux positifs pour réinvestir.",
+      "summary": "Delaying the CLARITY market structure bill until 2027, after the US midterm elections, may significantly reduce its chances of passage, the Treasury S",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/crypto-sentiment-rise-clarity-passed-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 17:01:06 +0000"
-    },
-    {
-      "title": "BTC sous-évalué",
-      "titleOriginal": "Bitcoin most 'undervalued' since March 2023 at $20K, BTC price metric shows",
-      "summary": "Le prix du Bitcoin est sous-évalué depuis mars 2023, selon un indicateur de prix.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du prix, car le prix du Bitcoin est considéré comme sous-évalué. Cela pourrait encourager les investisseurs à acheter et à pousser le prix à la hausse.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-most-undervalued-since-march-2023-classic-btc-price-metric-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 16:30:00 +0000"
     }
   ]
 }
