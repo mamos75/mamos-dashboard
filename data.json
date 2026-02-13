@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T09:15:03.642Z",
+  "updatedAt": "2026-02-13T09:30:06.914Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.6",
-      "short": "43.4",
+      "long": "56.7",
+      "short": "43.3",
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "68.1",
+      "long": "68.0",
       "short": "31.9"
     },
-    "takerBuySellRatio": "0.82",
+    "takerBuySellRatio": "0.79",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,720",
-    "usd": "5.32B",
-    "change24h": -0.1,
+    "btc": "79,784",
+    "usd": "5.33B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66676,
+    "current": 66802,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.74",
+    "change24h": "-0.73",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,676",
+      "currentPrice": "$66,802",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui domine ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans le marché via les ETF est en train de contre-balancer cela. C'est comme si le marché était prêt à exploser, il accumule de l'énergie pour un éventuel rebond !"
+  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui règne en maître. Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent énormément sur une baisse. Les gens achètent massivement des crypto via les ETF, ce qui est un signe positif. C'est le moment idéal pour accumuler, les prix sont bas et les gros joueurs sont prêts à frapper !"
 }
