@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T02:30:03.268Z",
+  "updatedAt": "2026-02-13T02:45:03.296Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.3",
-      "short": "43.7",
-      "ratio": "1.29"
+      "long": "56.7",
+      "short": "43.3",
+      "ratio": "1.31"
     },
     "accounts": {
-      "long": "69.7",
-      "short": "30.3"
+      "long": "69.9",
+      "short": "30.1"
     },
-    "takerBuySellRatio": "2.39",
+    "takerBuySellRatio": "1.97",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,423",
+    "btc": "79,407",
     "usd": "5.29B",
     "change24h": 0,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66547,
+    "current": 66570,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.43",
+    "change24h": "-1.73",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,547",
+      "currentPrice": "$66,570",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour nous ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont très négatifs, ce qui crée une tension intéressante. Les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens achètent. C'est le moment idéal pour accumuler, le marché sent que quelque chose de gros va arriver !"
+  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont très pessimistes et misent contre le marché. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
 }
