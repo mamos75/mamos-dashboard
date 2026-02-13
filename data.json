@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T23:30:03.618Z",
+  "updatedAt": "2026-02-13T23:45:03.129Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.9",
-      "short": "45.1",
+      "long": "54.8",
+      "short": "45.2",
       "ratio": "1.21"
     },
     "accounts": {
-      "long": "61.8",
-      "short": "38.2"
+      "long": "61.6",
+      "short": "38.4"
     },
-    "takerBuySellRatio": "0.54",
+    "takerBuySellRatio": "0.52",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,382",
-    "usd": "5.47B",
-    "change24h": 0.2,
+    "btc": "79,300",
+    "usd": "5.46B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68915,
+    "current": 68854,
     "high24h": 69483,
     "low24h": 65872,
-    "change24h": "3.78",
+    "change24h": "3.94",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,915",
+      "currentPrice": "$68,854",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les grandes institutions sont optimistes et mettent de l'argent dans le marché, ce qui est un bon signe ! Les hedge funds, eux, sont plutôt négatifs, mais les investisseurs institutionnels ont confiance. C'est le moment idéal pour acheter, car tout le monde panique, mais les signes sont là : c'est le moment d'accumuler !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'affluer dans les fonds liés aux crypto. C'est le moment idéal pour accumuler, les prix sont bas et les perspectives sont prometteuses !"
 }
