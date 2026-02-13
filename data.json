@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T06:15:03.528Z",
+  "updatedAt": "2026-02-13T06:30:06.859Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "57.1",
-      "short": "42.9",
-      "ratio": "1.33"
+      "long": "56.9",
+      "short": "43.1",
+      "ratio": "1.32"
     },
     "accounts": {
       "long": "69.6",
       "short": "30.4"
     },
-    "takerBuySellRatio": "0.62",
+    "takerBuySellRatio": "1.15",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,365",
-    "usd": "5.26B",
-    "change24h": 0,
+    "btc": "79,428",
+    "usd": "5.25B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66224,
+    "current": 66100,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.35",
+    "change24h": "-1.80",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,224",
+      "currentPrice": "$66,100",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, avec les investisseurs très nerveux. Les gros joueurs, comme les hedge funds, misent plutôt sur une baisse, mais les institutions restent optimistes. C'est comme si tout le monde attendait le signal pour bondir, et les flux d'argent vers les ETF montrent que les gens commencent à se positionner pour une remontée. L'atmosphère est électrique, et je sens que quelque chose de gros va bientôt se passer !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait en même temps, mais les \"gros joueurs\" achètent discrètement, ce qui pourrait être un signe de rebond à venir. L'argent afflue dans les fonds cryptos, c'est le moment de faire son marché !"
 }
