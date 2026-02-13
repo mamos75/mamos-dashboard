@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T20:15:02.897Z",
+  "updatedAt": "2026-02-13T20:30:03.495Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "63.2",
-      "short": "36.8"
+      "long": "62.8",
+      "short": "37.2"
     },
-    "takerBuySellRatio": "1.39",
+    "takerBuySellRatio": "0.98",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,541",
-    "usd": "5.47B",
-    "change24h": 0.1,
+    "btc": "79,650",
+    "usd": "5.48B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68807,
+    "current": 68815,
     "high24h": 69483,
     "low24h": 65215,
-    "change24h": "4.72",
+    "change24h": "5.10",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
+      "bull": 9,
       "bear": 3,
-      "net": 7
+      "net": 6
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,807",
+      "currentPrice": "$68,815",
       "entryZone": "$65,200 - $66,700",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est dans un état de peur extrême, les gens sont super négatifs ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos. C'est une situation parfaite pour acheter, car tout le monde est trop pessimiste et les prix sont bas. C'est le moment idéal pour accumuler et attendre que le marché se redresse !"
+  "story": "Le marché est actuellement très nerveux, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait en panique, mais les \"gros joueurs\" achètent en douce, ce qui pourrait être un signal de rebond. L'argent continue d'affluer, ce qui pourrait être le signe d'une belle remontée !"
 }
