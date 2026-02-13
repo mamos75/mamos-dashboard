@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T14:30:03.609Z",
+  "updatedAt": "2026-02-13T14:45:08.314Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.5",
-      "short": "43.5",
+      "long": "56.4",
+      "short": "43.6",
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "66.2",
-      "short": "33.8"
+      "long": "66.1",
+      "short": "33.9"
     },
-    "takerBuySellRatio": "1.07",
+    "takerBuySellRatio": "1.00",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,417",
-    "usd": "5.42B",
-    "change24h": 0.6,
+    "btc": "80,808",
+    "usd": "5.44B",
+    "change24h": 1.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,17 +61,17 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67338,
-    "high24h": 68283,
+    "current": 67351,
+    "high24h": 68000,
     "low24h": 65118,
-    "change24h": "-0.89",
+    "change24h": "-0.45",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
       65100
     ],
     "resistances": [
-      68300,
+      68000,
       69300,
       72300
     ],
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
+      "bull": 9,
       "bear": 3,
-      "net": 7
+      "net": 6
     },
     "signals": [
       {
@@ -179,10 +179,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,338",
+      "currentPrice": "$67,351",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
-      "target1": "$68,300",
+      "target1": "$68,000",
       "target2": "$69,300"
     },
     "factors": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui crée une opportunité d'achat incroyable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont prêts à parier contre le marché, ce qui pourrait créer une belle surprise. Les flux d'argent vers les ETF sont très positifs, ce qui signifie que les gens achètent massivement. C'est le moment idéal pour accumuler, le marché va bientôt exploser !"
+  "story": "Le marché est dans un état de peur extrême, c'est comme si tout le monde avait peur de tout ! Les grandes institutions sont optimistes, mais les hedge funds misent contre le marché, ce qui crée une tension incroyable. Malgré tout, l'argent continue d'entrer dans le marché, ce qui signale que les investisseurs sont en train de faire le plein. C'est l'heure de l'accumulation, le marché est prêt à exploser !"
 }
