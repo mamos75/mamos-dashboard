@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T14:15:03.648Z",
+  "updatedAt": "2026-02-13T14:30:03.609Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.30"
     },
     "accounts": {
-      "long": "66.5",
-      "short": "33.5"
+      "long": "66.2",
+      "short": "33.8"
     },
-    "takerBuySellRatio": "1.34",
+    "takerBuySellRatio": "1.07",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,108",
-    "usd": "5.38B",
-    "change24h": 0.2,
+    "btc": "80,417",
+    "usd": "5.42B",
+    "change24h": 0.6,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67170,
+    "current": 67338,
     "high24h": 68283,
     "low24h": 65118,
-    "change24h": "-1.22",
+    "change24h": "-0.89",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,170",
+      "currentPrice": "$67,338",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,300",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent contre le marché à 68,9%. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui est un bon signe. C'est comme si le marché était en train de se préparer pour un grand rebond, mais tout le monde a peur de bouger !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui crée une opportunité d'achat incroyable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont prêts à parier contre le marché, ce qui pourrait créer une belle surprise. Les flux d'argent vers les ETF sont très positifs, ce qui signifie que les gens achètent massivement. C'est le moment idéal pour accumuler, le marché va bientôt exploser !"
 }
