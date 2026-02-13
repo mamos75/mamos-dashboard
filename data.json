@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T18:30:03.944Z",
+  "updatedAt": "2026-02-13T18:45:02.957Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.1",
-      "short": "43.9",
-      "ratio": "1.28"
+      "long": "56.4",
+      "short": "43.6",
+      "ratio": "1.29"
     },
     "accounts": {
-      "long": "64.0",
-      "short": "36.0"
+      "long": "63.8",
+      "short": "36.2"
     },
-    "takerBuySellRatio": "1.25",
+    "takerBuySellRatio": "0.83",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,866",
-    "usd": "5.45B",
-    "change24h": -0.2,
+    "btc": "79,017",
+    "usd": "5.47B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,13 +61,14 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 69044,
+    "current": 69272,
     "high24h": 69483,
-    "low24h": 65118,
-    "change24h": "5.75",
+    "low24h": 65215,
+    "change24h": "5.86",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
+      65200,
       65100
     ],
     "resistances": [
@@ -135,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -178,9 +179,9 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,044",
-      "entryZone": "$65,100 - $66,600",
-      "invalidation": null,
+      "currentPrice": "$69,272",
+      "entryZone": "$65,200 - $66,700",
+      "invalidation": "$65,100",
       "target1": "$69,500",
       "target2": "$72,300"
     },
@@ -198,15 +199,15 @@
         "text": "ETF outflows semaine: $-580M - pression vendeuse"
       }
     ],
-    "invalidationText": "Cassure du support principal = invalidation",
+    "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $65,100 - $66,600. Ne pas FOMO sur les pumps."
+      "detail": "DCA sur la zone $65,200 - $66,700. Ne pas FOMO sur les pumps."
     },
     "risk": {
       "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos. Les fonds spéculatifs, par contre, misent gros sur une baisse, mais l'argent qui rentre dans les ETF cryptos montre que les gens ont confiance. C'est le moment idéal pour acheter, le marché est en train de se ressourcer !"
+  "story": "Le marché est actuellement dans un état de peur extrême, mais les gros investisseurs sont optimistes. Les hedge funds, eux, misent sur une baisse, mais l'argent continue d'arriver dans les cryptos. C'est comme si tout le monde était prêt à plonger, mais personne n'a encore sauté. C'est l'accumulation parfaite pour un grand rebond !"
 }
