@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T02:00:06.187Z",
+  "updatedAt": "2026-02-13T02:15:03.505Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.0",
-      "short": "44.0",
+      "long": "56.2",
+      "short": "43.8",
       "ratio": "1.28"
     },
     "accounts": {
       "long": "69.7",
       "short": "30.3"
     },
-    "takerBuySellRatio": "1.49",
+    "takerBuySellRatio": "2.00",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,411",
+    "btc": "79,430",
     "usd": "5.28B",
-    "change24h": -0.5,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66427,
+    "current": 66512,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.88",
+    "change24h": "-1.46",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,427",
+      "currentPrice": "$66,512",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les gros investisseurs, eux, sont optimistes et achètent massivement, ce qui pourrait être un signal de rebond. Les flux d'argent dans les ETF sont également très positifs, avec plus de 145 millions de dollars injectés récemment. C'est comme si tout le monde attendait le feu vert pour se lancer dans une nouvelle vague de croissance !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont plutôt négatifs, ce qui crée une tension intéressante. Les flux d'argent dans les ETF sont positifs, ce qui signale une confiance croissante. C'est le moment idéal pour accumuler, car le marché sent qu'un rebond est imminent !"
 }
