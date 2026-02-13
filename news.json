@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T10:30:07.328Z",
+  "updatedAt": "2026-02-13T10:45:04.235Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Fusion crypto",
+      "title": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
       "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
-      "summary": "Boerse Stuttgart et Tradias fusionnent pour créer un hub crypto européen",
-      "impact": "bullish",
-      "priceEffect": "Dans un marché en extrême peur, cette news pourrait contribuer à un rebond potentiel, car elle montre une volonté d'investissement et de développement dans le secteur crypto. Cela pourrait contrebalancer les positions shorts des hedge funds.",
-      "contextLink": "Cette news se connecte au contexte actuel par son caractère bullish, qui pourrait aider à inverser la tendance baissière actuelle.",
-      "importance": 4,
+      "summary": "Boerse Stuttgart will merge its crypto arm with Tradias, creating a regulated European crypto unit providing services in trading, custody, staking and",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:54:52 +0000"
     },
     {
-      "title": "Bitcoin ETF en baisse",
+      "title": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
+      "titleOriginal": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
+      "summary": "Some community members questioned the size of the $50 million package and warned that the proposed AAVE token grant could concentrate voting power.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/aave-labs-50m-dao-revenue-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 09:18:26 +0000"
+    },
+    {
+      "title": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
       "titleOriginal": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
-      "summary": "Les ETF Bitcoin perdent 410 millions de dollars, Standard Chartered réduit sa cible pour 2026",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la tendance baissière actuelle, car la perte de confiance dans les ETF Bitcoin et la réduction de la cible pour 2026 pourraient décourager les investisseurs. Cependant, dans un marché en extrême peur, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette news se connecte au contexte actuel par sa tendance baissière, qui correspond à la peur extrême actuelle sur le marché.",
+      "summary": "US spot Bitcoin ETFs are on track for a fourth consecutive week of losses as Standard Chartered cut its 2026 Bitcoin target to $100,000.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:04:36 +0000"
     },
     {
-      "title": "ETHZilla tokenise",
+      "title": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
       "titleOriginal": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
-      "summary": "ETHZilla lance un token lié à des locations de moteurs d'avion",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une augmentation de la confiance dans les tokens et la tokenisation, ce qui pourrait avoir un impact positif sur le prix à long terme. Dans le contexte actuel, cela pourrait aider à contrebalancer la peur extrême.",
-      "contextLink": "Cette news se connecte au contexte actuel par son caractère innovant et son potentiel à développer de nouveaux marchés et opportunités pour les investisseurs.",
+      "summary": "Crypto treasury firm ETHZilla recently sold some of its crypto to begin a tokenization push by buying two jet engines leased to a US airline.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ethzilla-tokenized-jet-engines-rwa-ethereum-liquidity-io?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 06:15:26 +0000"
     },
     {
-      "title": "Intérêt pour Bitcoin",
-      "titleOriginal": "Bitcoin open interest hits lows not seen since 2024: Is TradFi abandoning BTC?",
-      "summary": "L'intérêt ouvert pour Bitcoin atteint des bas non vus depuis 2024",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la tendance baissière actuelle, car la perte d'intérêt pour Bitcoin pourrait décourager les investisseurs. Cependant, dans un marché en extrême peur, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette news se connecte au contexte actuel par sa tendance baissière, qui correspond à la peur extrême actuelle sur le marché.",
+      "title": "Crypto use in human trafficking networks surged in 2025: Chainalysis",
+      "titleOriginal": "Crypto use in human trafficking networks surged in 2025: Chainalysis",
+      "summary": "Chainalysis says that despite the rising use of crypto in trafficking networks, the transparency of blockchain may give visibility into the operations",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-open-interest-hits-lows-not-seen-since-2024-is-tradfi-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 03:47:56 +0000"
-    },
-    {
-      "title": "Crash de Bitcoin",
-      "titleOriginal": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst",
-      "summary": "Bitcoin perd 2,3 milliards de dollars dans sa plus grande chute depuis 2021",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la tendance baissière actuelle, car la perte de confiance dans Bitcoin pourrait décourager les investisseurs. Cependant, dans un marché en extrême peur, cela pourrait déjà être pris en compte dans les prix et potentiellement préluder à un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel par sa tendance baissière, qui correspond à la peur extrême actuelle sur le marché et pourrait potentiellement marquer un point de rebond.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-suffers-losses-rivaling-2021-crash-as-capitulation-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 03:29:23 +0000"
+      "link": "https://cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 05:21:28 +0000"
     }
   ]
 }

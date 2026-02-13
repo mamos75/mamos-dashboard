@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T10:30:03.409Z",
+  "updatedAt": "2026-02-13T10:45:03.781Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -20,21 +20,21 @@
   "longShort": {
     "topTraders": {
       "long": "56.8",
-      "short": "43.3",
-      "ratio": "1.31"
+      "short": "43.2",
+      "ratio": "1.32"
     },
     "accounts": {
-      "long": "67.8",
-      "short": "32.2"
+      "long": "67.7",
+      "short": "32.3"
     },
-    "takerBuySellRatio": "1.05",
+    "takerBuySellRatio": "0.85",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,857",
-    "usd": "5.34B",
-    "change24h": 0,
+    "btc": "79,896",
+    "usd": "5.36B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66906,
+    "current": 67030,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.04",
+    "change24h": "-0.94",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,906",
+      "currentPrice": "$67,030",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les Hedge Funds misent même contre le marché, mais les institutions restent optimistes. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui est un bon signe. C'est comme si tout le monde préparait un piège, attendant que le marché explose pour acheter à bas prix !"
+  "story": "Le marché est actuellement plongé dans la peur, avec une note de 9/100, ce qui signifie que les gens sont vraiment effrayés ! Les hedge funds misent même contre le marché à hauteur de 68,9%, mais les institutions restent optimistes. C'est comme si tout le monde vendait en panique, mais les gros investisseurs achètent en silence, ce qui pourrait être un signe de rebond imminent. Le signal est clair : c'est le moment d'accumuler, les prix sont bas et les possibilités sont énormes !"
 }
