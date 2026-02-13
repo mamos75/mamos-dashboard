@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T05:30:06.698Z",
+  "updatedAt": "2026-02-13T05:45:03.808Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "69.6",
       "short": "30.4"
     },
-    "takerBuySellRatio": "1.38",
+    "takerBuySellRatio": "0.77",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,371",
-    "usd": "5.26B",
+    "btc": "79,359",
+    "usd": "5.28B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66313,
+    "current": 66470,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.87",
+    "change24h": "-0.91",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,313",
+      "currentPrice": "$66,470",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, ce qui est un bon signe. Les hedge funds, eux, sont très négatifs, mais les flux d'argent vers les ETF crypto sont en augmentation, ce qui indique que les gens commencent à acheter. C'est le moment idéal pour accumuler, car le marché semble prêt à rebondir !"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait perdu confiance ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent même de l'argent dans le marché. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans le marché est en train de changer la donne. C'est le moment idéal pour acheter, car tout le monde est en train de se préparer pour une remontée !"
 }
