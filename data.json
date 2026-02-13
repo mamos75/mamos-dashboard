@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T09:30:06.914Z",
+  "updatedAt": "2026-02-13T09:45:03.600Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
+      "long": "56.6",
+      "short": "43.4",
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "68.0",
-      "short": "31.9"
+      "long": "68.2",
+      "short": "31.8"
     },
-    "takerBuySellRatio": "0.79",
-    "trend": "more_short",
+    "takerBuySellRatio": "1.51",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,784",
-    "usd": "5.33B",
+    "btc": "79,798",
+    "usd": "5.34B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66802,
+    "current": 66864,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.73",
+    "change24h": "-0.83",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,802",
+      "currentPrice": "$66,864",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui règne en maître. Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent énormément sur une baisse. Les gens achètent massivement des crypto via les ETF, ce qui est un signe positif. C'est le moment idéal pour accumuler, les prix sont bas et les gros joueurs sont prêts à frapper !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont nerveux et vendent leurs cryptos. Mais attention, les grandes institutions sont optimistes et injectent de l'argent dans le marché, ce qui pourrait être un signe de rebond. Les hedge funds, eux, sont majoritairement prêts à vendre, mais l'argent qui entre dans les ETF est un signal positif. C'est le moment idéal pour acheter, car le marché est en train de s'accumuler fortement !"
 }
