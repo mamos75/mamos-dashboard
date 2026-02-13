@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T03:30:03.720Z",
+  "updatedAt": "2026-02-13T03:45:03.327Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -21,18 +21,18 @@
     "topTraders": {
       "long": "57.0",
       "short": "43.0",
-      "ratio": "1.33"
+      "ratio": "1.32"
     },
     "accounts": {
-      "long": "70.2",
-      "short": "29.8"
+      "long": "70.0",
+      "short": "30.0"
     },
-    "takerBuySellRatio": "0.82",
+    "takerBuySellRatio": "1.32",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,337",
+    "btc": "79,344",
     "usd": "5.29B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66679,
+    "current": 66647,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.06",
+    "change24h": "-1.27",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,679",
+      "currentPrice": "$66,647",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde attendait la fin du monde ! Les gros investisseurs institutionnels, par contre, sont optimistes et achètent massivement, ce qui est un très bon signe. Les hedge funds sont à 68,9% sur une position de vente, mais l'argent qui entre dans les ETF crypto est en constante augmentation, +145 millions de dollars récemment ! C'est le moment idéal pour acheter, le signal est clair : accumulation forte !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne opportunité pour acheter. Les gros investisseurs institutionnels sont plutôt optimistes, ce qui contraste avec les hedge funds qui misent sur une baisse. Il y a beaucoup d'argent qui entre dans le marché, ce qui pourrait être un signe de reprise. C'est le moment idéal pour accumuler, tout le monde a peur, mais les signes sont là pour une remontée !"
 }

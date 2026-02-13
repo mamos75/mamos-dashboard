@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T03:30:07.677Z",
+  "updatedAt": "2026-02-13T03:45:03.683Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "CFTC ajoute experts",
+      "title": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation continues: Analyst",
+      "titleOriginal": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation continues: Analyst",
+      "summary": "Bitcoin has seen record realized losses in one of the cryptocurrency’s largest-ever capitulation events as short-term holders sold at steep losses ami",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-suffers-losses-rivaling-2021-crash-as-capitulation-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 03:29:23 +0000"
+    },
+    {
+      "title": "Crypto super PAC earmarks $1.5M to unseat Al Green in Texas",
+      "titleOriginal": "Crypto super PAC earmarks $1.5M to unseat Al Green in Texas",
+      "summary": "Al Green is running against Christian Menefee in the Democratic Party primary elections next month, with Texas one of the first states to vote.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/crypto-pac-spending-against-al-green-texas-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 02:49:38 +0000"
+    },
+    {
+      "title": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
       "titleOriginal": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
-      "summary": "La CFTC ajoute des experts de Coinbase et Ripple à son comité consultatif.",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut être considérée comme positive pour le marché, car elle suggère une collaboration accrue entre les régulateurs et les entreprises de cryptomonnaies. Dans le contexte actuel, cela pourrait contribuer à un potentiel rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel par son impact potentiel sur la régulation et la confiance dans le marché, qui pourrait influencer les décisions d'investissement des institutions.",
-      "importance": 4,
+      "summary": "CFTC chair Mike Selig launched the Innovation Advisory Committee in January, nominating 12 members as charter members before expanding the final list ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/cftc-innovation-advisory-committee-includes-crypto-execs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 02:21:37 +0000"
     },
     {
-      "title": "Coinbase enregistre une perte",
+      "title": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
       "titleOriginal": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
-      "summary": "Coinbase annonce une perte de 667M$ au quatrième trimestre.",
-      "impact": "bearish",
-      "priceEffect": "Cette news peut avoir un impact négatif sur le prix des cryptomonnaies, car elle reflète la santé financière d'une entreprise clé du marché. Cependant, dans le contexte actuel de peur extrême, cette information pourrait déjà être prise en compte par les investisseurs.",
-      "contextLink": "Cette news se connecte au contexte actuel par son impact sur la perception de la santé financière des entreprises de cryptomonnaies, mais son effet pourrait être atténué par le fait que les investisseurs sont déjà très prudents.",
+      "summary": "Coinbase’s fourth-quarter earnings missed Wall Street expectations, with the crypto exchange reporting its first net loss since the third quarter of 2",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:55:03 +0000"
     },
     {
-      "title": "Bitcoin en zone de capitulation",
+      "title": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
       "titleOriginal": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
-      "summary": "Le prix de Bitcoin semble être dans une zone de capitulation où les détenteurs à long terme continuent de vendre.",
-      "impact": "bearish",
-      "priceEffect": "Cette news suggère que le prix de Bitcoin pourrait continuer à baisser, ce qui pourrait être renforcé par le contexte actuel de peur extrême. Cependant, cela pourrait également marquer un point bas pour le prix.",
-      "contextLink": "Cette news se connecte au contexte actuel par son analyse du prix de Bitcoin, qui reflète la peur extrême et la positionnement des investisseurs.",
-      "importance": 5,
+      "summary": "Bitcoin appears trapped within a capitulation zone where long-term holders continue to sell, and bearish onchain metrics tease further downside. Will ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:30:00 +0000"
-    },
-    {
-      "title": "Fed propose des pondérations",
-      "titleOriginal": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "summary": "La Fed propose des pondérations pour les dérivés liés aux cryptomonnaies.",
-      "impact": "neutre",
-      "priceEffect": "Cette news peut avoir un impact à long terme sur la régulation des dérivés cryptomonnaies, mais n'a pas d'impact direct sur le prix actuel. Dans le contexte actuel, cela pourrait contribuer à une plus grande stabilité future.",
-      "contextLink": "Cette news se connecte au contexte actuel par son impact potentiel sur la régulation, qui pourrait influencer la confiance et la stabilité du marché à long terme.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 22:05:19 +0000"
-    },
-    {
-      "title": "Funding négatif pour Bitcoin",
-      "titleOriginal": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
-      "summary": "Le taux de financement négatif pour Bitcoin suggère un commerce à court terme surpeuplé.",
-      "impact": "bullish",
-      "priceEffect": "Cette news suggère que le prix de Bitcoin pourrait rebondir, car les positions courtes sont surpeuplées. Dans le contexte actuel de peur extrême, cela pourrait être un signe de rebond imminent.",
-      "contextLink": "Cette news se connecte au contexte actuel par son analyse du taux de financement, qui reflète la positionnement des investisseurs et pourrait prédire un rebond.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 21:24:16 +0000"
     }
   ]
 }
