@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T22:30:03.472Z",
+  "updatedAt": "2026-02-13T22:45:03.306Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.1",
-      "short": "44.9",
-      "ratio": "1.23"
+      "long": "54.9",
+      "short": "45.1",
+      "ratio": "1.22"
     },
     "accounts": {
       "long": "61.9",
       "short": "38.1"
     },
-    "takerBuySellRatio": "0.70",
+    "takerBuySellRatio": "1.71",
     "trend": "more_short",
-    "signal": "dump_possible"
+    "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,228",
+    "btc": "79,256",
     "usd": "5.46B",
-    "change24h": -0.3,
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68869,
+    "current": 68887,
     "high24h": 69483,
     "low24h": 65872,
-    "change24h": "4.40",
+    "change24h": "4.06",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 2,
+      "net": 8
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,869",
+      "currentPrice": "$68,887",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les grandes institutions, par contre, sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans les marchés. Les fonds spéculatifs font le contraire, mais je pense que c'est une erreur, car les signaux sont clairs : c'est le moment d'acheter ! C'est l'occasion parfaite de faire le contraire de la foule et de profiter de la peur générale."
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de tout ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont très négatifs, mais cela pourrait être une bonne nouvelle pour nous, car souvent, ils se trompent. C'est le moment de profiter de cette peur pour acheter, car le signal est clair : c'est le moment d'accumuler !"
 }

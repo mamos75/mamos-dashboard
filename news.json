@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T22:30:07.599Z",
+  "updatedAt": "2026-02-13T22:45:03.631Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Stablecoin sans crainte",
+      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
       "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Un conseiller de la Maison Blanche pense que les banques ne devraient pas craindre les rendements des stablecoins.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à une légère hausse des prix, car elle réduit les inquiétudes réglementaires et pourrait encourager les investissements dans les stablecoins. Dans le contexte actuel de peur extrême, cela pourrait aider à déclencher un rebond.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs sont très craintifs et à la recherche de signaux positifs pour inverser la tendance.",
+      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:54:56 +0000"
     },
     {
-      "title": "Intérêt ouvert pour ETH",
+      "title": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
       "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
-      "summary": "L'intérêt ouvert pour l'Ether a atteint un plus bas de 3 ans, ce qui pourrait conduire à un squeeze à la hausse.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle suggère que les traders sont sous-estimés et que les prix pourraient augmenter rapidement si les positions courtes sont couvertes. Dans le contexte actuel de Hedge Funds à 68,9% SHORT, cela pourrait déclencher un rebond important.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Hedge Funds très shorts, ce qui pourrait créer un effet de squeeze à la hausse si les prix commencent à monter.",
-      "importance": 5,
+      "summary": "Traders say Ether’s declining open interest and futures funding rates could set the groundwork for a significant short squeeze on bearish leveraged po",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     },
     {
-      "title": "Crise d'identité de Bitcoin",
-      "titleOriginal": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
-      "summary": "La corrélation croissante de Bitcoin avec les actions technologiques remet en question son statut de « or numérique ».",
+      "title": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "titleOriginal": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "summary": "Bitcoin and several major altcoins are attempting a relief rally, signaling that the bulls are trying to form a higher low.",
       "impact": "neutre",
-      "priceEffect": "Cette nouvelle n'a pas d'impact direct sur les prix, mais peut influencer la perception des investisseurs à long terme sur Bitcoin. Dans le contexte actuel de marché, cela pourrait contribuer à la volatilité.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de marché en soulignant les incertitudes entourant l'identité et la valeur de Bitcoin.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/digital-gold-or-tech-stock-bitcoin-s-identity-crisis-deepens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 20:00:00 +0000"
+      "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:30:00 +0000"
     },
     {
-      "title": "Rallye de Bitcoin",
-      "titleOriginal": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
-      "summary": "Les traders de détail poussent les prix de Bitcoin à la hausse en appliquant une pression sur les positions courtes.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle suggère que les prix pourraient continuer à augmenter à court terme, car les traders de détail exercent une pression sur les positions courtes. Dans le contexte actuel de Hedge Funds très shorts, cela pourrait déclencher un rebond important.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Hedge Funds à 68,9% SHORT, ce qui pourrait créer un effet de squeeze à la hausse si les prix commencent à monter.",
-      "importance": 5,
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 19:21:46 +0000"
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:14:37 +0000"
     },
     {
-      "title": "BlackRock entre dans DeFi",
-      "titleOriginal": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
-      "summary": "BlackRock entre dans le marché DeFi, ce qui pourrait accélérer la poussée institutionnelle dans les crypto-monnaies.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à une légère hausse des prix, car les investisseurs institutionnels pourraient être encouragés à investir dans les crypto-monnaies. Dans le contexte actuel de peur extrême, cela pourrait aider à déclencher un rebond.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs sont très craintifs et à la recherche de signaux positifs pour inverser la tendance.",
-      "importance": 4,
+      "title": "Dutch House of Representatives advances controversial 36% tax law",
+      "titleOriginal": "Dutch House of Representatives advances controversial 36% tax law",
+      "summary": "Certain assets, like equity in a qualifying start-up company and physical property used for non-investment, were exempt from the 36% tax.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/blackrock-enters-defi-institutional-crypto-push-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 19:00:00 +0000"
+      "link": "https://cointelegraph.com/news/dutch-house-advances-36-tax-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:05:40 +0000"
     }
   ]
 }
