@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T07:00:04.033Z",
+  "updatedAt": "2026-02-13T07:15:03.621Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.9",
-      "short": "43.1",
-      "ratio": "1.32"
+      "long": "56.8",
+      "short": "43.3",
+      "ratio": "1.31"
     },
     "accounts": {
-      "long": "69.5",
-      "short": "30.5"
+      "long": "69.4",
+      "short": "30.6"
     },
-    "takerBuySellRatio": "0.90",
+    "takerBuySellRatio": "0.70",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,497",
-    "usd": "5.28B",
-    "change24h": 0.2,
+    "btc": "79,510",
+    "usd": "5.29B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66356,
+    "current": 66528,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.13",
+    "change24h": "-0.69",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,356",
+      "currentPrice": "$66,528",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les fonds spéculatifs, par contre, parient contre le marché, ce qui pourrait être une bonne nouvelle pour nous. C'est le moment idéal pour acheter, le signal est clair : c'est le moment d'accumuler !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les grands joueurs comme les institutions sont plutôt optimistes et mettent de l'argent dans le marché. C'est un peu comme si tout le monde courait pour sortir d'une pièce, mais en réalité, c'est peut-être le moment de rentrer. Il y a une forte accumulation en cours, ce qui pourrait signifier que le marché est prêt à rebondir !"
 }
