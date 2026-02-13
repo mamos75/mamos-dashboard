@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T01:45:03.496Z",
+  "updatedAt": "2026-02-13T02:00:06.187Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -21,20 +21,20 @@
     "topTraders": {
       "long": "56.0",
       "short": "44.0",
-      "ratio": "1.27"
+      "ratio": "1.28"
     },
     "accounts": {
       "long": "69.7",
       "short": "30.3"
     },
-    "takerBuySellRatio": "1.39",
+    "takerBuySellRatio": "1.49",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,569",
-    "usd": "5.29B",
-    "change24h": -0.3,
+    "btc": "79,411",
+    "usd": "5.28B",
+    "change24h": -0.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66432,
+    "current": 66427,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.10",
+    "change24h": "-1.88",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,432",
+      "currentPrice": "$66,427",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont très peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent continue d'arriver dans les fonds de cryptos, ce qui est un bon signe. C'est comme si tout le monde se préparait pour un grand rebond, mais personne n'ose y croire !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les gros investisseurs, eux, sont optimistes et achètent massivement, ce qui pourrait être un signal de rebond. Les flux d'argent dans les ETF sont également très positifs, avec plus de 145 millions de dollars injectés récemment. C'est comme si tout le monde attendait le feu vert pour se lancer dans une nouvelle vague de croissance !"
 }
