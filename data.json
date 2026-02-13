@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T01:30:06.732Z",
+  "updatedAt": "2026-02-13T01:45:03.496Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.27"
     },
     "accounts": {
-      "long": "69.6",
-      "short": "30.4"
+      "long": "69.7",
+      "short": "30.3"
     },
-    "takerBuySellRatio": "1.13",
+    "takerBuySellRatio": "1.39",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,615",
-    "usd": "5.27B",
+    "btc": "79,569",
+    "usd": "5.29B",
     "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66247,
+    "current": 66432,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.32",
+    "change24h": "-2.10",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,247",
+      "currentPrice": "$66,432",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, les gens sont extrêmement nerveux ! Les hedge funds misent même contre le marché, mais les institutions restent confiantes et investissent massivement. C'est comme si tout le monde vendait en panique, mais les gros joueurs achètent en silence. C'est le moment idéal pour accumuler, le signal est clair : c'est le moment de passer à l'offensive !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont très peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une baisse, mais l'argent continue d'arriver dans les fonds de cryptos, ce qui est un bon signe. C'est comme si tout le monde se préparait pour un grand rebond, mais personne n'ose y croire !"
 }

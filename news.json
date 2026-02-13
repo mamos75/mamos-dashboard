@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T01:30:10.170Z",
+  "updatedAt": "2026-02-13T01:45:03.829Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Coinbase en déficit",
+      "title": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
       "titleOriginal": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
-      "summary": "Coinbase annonce une perte de 667M$ au quatrième trimestre",
-      "impact": "bearish",
-      "priceEffect": "Cette nouvelle pourrait accentuer la peur et la baisse du marché, mais dans le contexte actuel de peur extrême, elle pourrait déjà être prise en compte dans les prix. L'impact sur le prix pourrait donc être limité.",
-      "contextLink": "La peur extrême du marché actuel pourrait rendre cette nouvelle moins impactante sur le prix",
+      "summary": "Coinbase’s fourth-quarter earnings missed Wall Street expectations, with the crypto exchange reporting its first net loss since the third quarter of 2",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:55:03 +0000"
     },
     {
-      "title": "Bitcoin en zone de capitulation",
+      "title": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
       "titleOriginal": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
-      "summary": "Bitcoin est piégé dans une zone de capitulation où les détenteurs à long terme vendent",
-      "impact": "bearish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à la baisse du prix de Bitcoin, mais le marché est déjà très baissier, donc l'impact pourrait être limité. Cependant, si le prix atteint un plancher, cela pourrait déclencher un rebond.",
-      "contextLink": "Le signal global d'accumulation forte et le taux de financement négatif pourraient indiquer un rebond imminent",
-      "importance": 4,
+      "summary": "Bitcoin appears trapped within a capitulation zone where long-term holders continue to sell, and bearish onchain metrics tease further downside. Will ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:30:00 +0000"
     },
     {
-      "title": "Decibel lance stablecoin",
+      "title": "Fed paper proposes initial margin weights for crypto-linked derivatives",
+      "titleOriginal": "Fed paper proposes initial margin weights for crypto-linked derivatives",
+      "summary": "Traditional risk-weightings and models cannot account for crypto's high volatility or market behavior, according to a Federal Reserve paper.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 22:05:19 +0000"
+    },
+    {
+      "title": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
       "titleOriginal": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
-      "summary": "Decibel lance un stablecoin appelé USDCBL",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à l'adoption et à la confiance dans les stablecoins, ce qui pourrait avoir un impact positif sur le marché. Dans le contexte actuel, cela pourrait aider à inverser la tendance baissière.",
-      "contextLink": "L'adoption de nouvelles technologies et de nouveaux acteurs peut aider à renverser la tendance baissière du marché",
+      "summary": "The dollar-backed token, USDCBL, will serve as collateral for onchain perps, with cash and Treasury reserves generating yield retained within the prot",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:51:33 +0000"
     },
     {
-      "title": "Funding rate négatif",
+      "title": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
       "titleOriginal": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
-      "summary": "Le funding rate de Bitcoin est négatif depuis plusieurs jours",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle suggère que le marché est surpeuplé de positions vendeuses, ce qui pourrait déclencher un squeeze des ours et une remontée du prix. Dans le contexte actuel, cela pourrait être un signal de rebond imminent.",
-      "contextLink": "Le signal global d'accumulation forte et le taux de financement négatif pourraient indiquer un rebond imminent",
-      "importance": 5,
+      "summary": "Bitcoin’s daily funding rate has been deeply negative for days, reflecting heavy short positioning, but historical data also suggests that a squeeze o",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:24:16 +0000"
-    },
-    {
-      "title": "Fiserv lance plateforme",
-      "titleOriginal": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
-      "summary": "Fiserv lance une plateforme de règlement en temps réel pour les entreprises de crypto",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait améliorer la liquidité et réduire les frictions dans le marché des crypto, ce qui pourrait avoir un impact positif sur le prix. Dans le contexte actuel, cela pourrait aider à inverser la tendance baissière.",
-      "contextLink": "L'amélioration de l'infrastructure et de la liquidité peut aider à renverser la tendance baissière du marché",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 20:40:41 +0000"
     }
   ]
 }
