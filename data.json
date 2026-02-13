@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T13:30:06.697Z",
+  "updatedAt": "2026-02-13T13:45:03.750Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
-      "ratio": "1.31"
+      "long": "56.4",
+      "short": "43.6",
+      "ratio": "1.29"
     },
     "accounts": {
       "long": "67.1",
       "short": "32.9"
     },
-    "takerBuySellRatio": "0.88",
+    "takerBuySellRatio": "1.94",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,759",
+    "btc": "79,965",
     "usd": "5.38B",
-    "change24h": -0.3,
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67471,
+    "current": 67325,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.44",
+    "change24h": "-1.16",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,471",
+      "currentPrice": "$67,325",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même contre le marché, mais les institutions sont plutôt optimistes. Malgré tout, les investisseurs continuent de mettre de l'argent dans les crypto, ce qui est un signe plutôt positif. C'est le moment idéal pour acheter, car tout le monde est en train d'accumuler des crypto à bas prix !"
+  "story": "Le marché est actuellement très peur, avec une note de 9/100, ce qui signifie que tout le monde a très peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions, elles, sont optimistes. Malgré cette peur, de l'argent entre dans le marché, avec 145 millions de dollars injectés récemment. C'est le signe d'une accumulation forte, comme si les investisseurs attendaient le moment parfait pour frapper !"
 }

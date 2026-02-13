@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T13:30:10.499Z",
+  "updatedAt": "2026-02-13T13:45:04.163Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,40 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Ponzi Bitcoin",
+      "title": "Three arrested after break-in at Binance France executive home: Report",
+      "titleOriginal": "Three arrested after break-in at Binance France executive home: Report",
+      "summary": "French police arrested three suspects after a break-in targeting a Binance France executive, RTL reported. Binance has confirmed a home invasion invol",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 13:37:11 +0000"
+    },
+    {
+      "title": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
+      "titleOriginal": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
+      "summary": "Post-quantum Bitcoin wallets are already on sale, leaving investors to decide whether they’re buying insurance or paying up fear tax.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/quantum-proof-bitcoin-wallets-insurance-fear-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 13:30:00 +0000"
+    },
+    {
+      "title": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
       "titleOriginal": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
-      "summary": "Un PDG de crypto est condamné à 20 ans de prison pour une arnaque à 200 millions de dollars.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la peur et la méfiance dans le marché, ce qui pourrait accentuer la tendance baissière. Cependant, dans le contexte actuel de peur extrême, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont déjà très prudents.",
+      "summary": "A federal judge sentenced PGI founder Ramil Palafox to 20 years in prison for running a Bitcoin Ponzi scheme that raised over $200 million from custom",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 11:29:52 +0000"
     },
     {
-      "title": "Fusion crypto",
+      "title": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
+      "titleOriginal": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
+      "summary": "The loss was uncovered during an audit launched after a separate 320 Bitcoin custody failure, raising fresh concerns over digital asset management by ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 10:55:19 +0000"
+    },
+    {
+      "title": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
       "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
-      "summary": "Boerse Stuttgart et Tradias fusionnent pour créer un hub crypto européen.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait être perçue comme positive pour le marché, car elle pourrait renforcer la confiance et l'adoption des actifs numériques en Europe. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs cherchent des signaux de rebond.",
-      "importance": 4,
+      "summary": "Boerse Stuttgart will merge its crypto arm with Tradias, creating a regulated European crypto unit providing services in trading, custody, staking and",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:54:52 +0000"
-    },
-    {
-      "title": "Perte ETF Bitcoin",
-      "titleOriginal": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
-      "summary": "Les ETF Bitcoin perdent 410 millions de dollars, tandis que Standard Chartered réduit sa cible pour le Bitcoin à 100 000 dollars.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la tendance baissière, car elle indique une perte de confiance dans les ETF Bitcoin et une révision à la baisse des prévisions pour le prix du Bitcoin. Cependant, dans le contexte actuel de peur extrême, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont déjà très prudents.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 09:04:36 +0000"
     }
   ]
 }
