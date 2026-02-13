@@ -1,66 +1,71 @@
 {
-  "updatedAt": "2026-02-12T23:45:03.628Z",
+  "updatedAt": "2026-02-13T00:00:08.189Z",
   "context": {
-    "fearGreed": 5,
+    "fearGreed": 9,
     "hedgeFundsShort": 68.9,
     "signal": "ACCUMULATION FORTE"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
+      "title": "Coinbase en déficit",
       "titleOriginal": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
-      "summary": "Coinbase’s fourth-quarter earnings missed Wall Street expectations, with the crypto exchange reporting its first net loss since the third quarter of 2",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Coinbase a annoncé une perte nette de 667 millions de dollars au quatrième trimestre.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la tendance baissière à court terme, mais dans le contexte actuel de peur extrême, elle pourrait également contribuer à un rebond potentiel. Le marché a peut-être déjà pris en compte cette information.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont très prudents.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:55:03 +0000"
     },
     {
-      "title": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
+      "title": "Bitcoin en zone de capitulation",
       "titleOriginal": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
-      "summary": "Bitcoin appears trapped within a capitulation zone where long-term holders continue to sell, and bearish onchain metrics tease further downside. Will ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Bitcoin est piégé dans une zone de capitulation où les détenteurs à long terme continuent de vendre.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait maintenir la pression baissière sur le prix de Bitcoin, mais le contexte de peur extrême et les positions shorts élevées pourraient également favoriser un rebond. Le marché attend un signal de retournement.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de positions shorts élevées, ce qui pourrait favoriser un retournement du marché.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:30:00 +0000"
     },
     {
-      "title": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "titleOriginal": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "summary": "Traditional risk-weightings and models cannot account for crypto's high volatility or market behavior, according to a Federal Reserve paper.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 22:05:19 +0000"
-    },
-    {
-      "title": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
+      "title": "Decibel lance une stablecoin",
       "titleOriginal": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
-      "summary": "The dollar-backed token, USDCBL, will serve as collateral for onchain perps, with cash and Treasury reserves generating yield retained within the prot",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Decibel lance une stablecoin appelée USDCBL, qui servira de collatéral pour les perpétuelles en chaîne.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une augmentation de la liquidité et de l'adoption des crypto-monnaies, ce qui pourrait favoriser une hausse des prix. Le contexte actuel de peur extrême pourrait amplifier cet effet.",
+      "contextLink": "Cette news se connecte au contexte actuel d'accumulation forte et d'intérêt institutionnel, ce qui pourrait favoriser une reprise du marché.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:51:33 +0000"
     },
     {
-      "title": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
+      "title": "Signal de rebond pour Bitcoin",
       "titleOriginal": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
-      "summary": "Bitcoin’s daily funding rate has been deeply negative for days, reflecting heavy short positioning, but historical data also suggests that a squeeze o",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le taux de financement négatif de Bitcoin pourrait indiquer un rebond imminent.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait favoriser un rebond de Bitcoin, car les positions shorts élevées pourraient être squeezées. Le contexte actuel de peur extrême et de positions shorts élevées renforce cet effet.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de positions shorts élevées, ce qui pourrait favoriser un retournement du marché.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:24:16 +0000"
+    },
+    {
+      "title": "Fiserv lance une plateforme",
+      "titleOriginal": "TradFi giant Fiserv builds real-time dollar rails for crypto companies",
+      "summary": "Fiserv lance une plateforme de règlement en temps réel pour les entreprises de crypto-monnaies.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à une augmentation de la liquidité et de l'adoption des crypto-monnaies, ce qui pourrait favoriser une hausse des prix. Le contexte actuel d'accumulation forte et d'intérêt institutionnel renforce cet effet.",
+      "contextLink": "Cette news se connecte au contexte actuel d'accumulation forte et d'intérêt institutionnel, ce qui pourrait favoriser une reprise du marché.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/fiserv-settlement-digital-asset-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 20:40:41 +0000"
     }
   ]
 }
