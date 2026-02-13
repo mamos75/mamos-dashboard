@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T07:15:03.952Z",
+  "updatedAt": "2026-02-13T07:30:09.451Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
+      "title": "ETHZilla se diversifie",
       "titleOriginal": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
-      "summary": "Crypto treasury firm ETHZilla recently sold some of its crypto to begin a tokenization push by buying two jet engines leased to a US airline.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "ETHZilla achète des moteurs d'avion pour se diversifier",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle montre que les entreprises crypto sont en train de se diversifier et de trouver de nouvelles opportunités. Dans le contexte actuel de fear extrême, cela pourrait être un signal d'accumulation forte.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et d'accumulation forte, car elle montre que les entreprises crypto sont en train de trouver de nouvelles opportunités pour se développer.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ethzilla-tokenized-jet-engines-rwa-ethereum-liquidity-io?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 06:15:26 +0000"
     },
     {
-      "title": "Crypto use in human trafficking networks surged in 2025: Chainalysis",
-      "titleOriginal": "Crypto use in human trafficking networks surged in 2025: Chainalysis",
-      "summary": "Chainalysis says that despite the rising use of crypto in trafficking networks, the transparency of blockchain may give visibility into the operations",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 05:21:28 +0000"
-    },
-    {
-      "title": "Israel arrests two over Polymarket trades on military operations",
-      "titleOriginal": "Israel arrests two over Polymarket trades on military operations",
-      "summary": "Israeli authorities said a military reservist and a civilian were arrested after allegedly using classified information to place bets related to milit",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/israel-arrests-two-polymarket-trades-militiary-strikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 05:08:59 +0000"
-    },
-    {
-      "title": "Bitcoin open interest hits lows not seen since 2024: Is TradFi abandoning BTC?",
+      "title": "Intérêt ouvert pour Bitcoin",
       "titleOriginal": "Bitcoin open interest hits lows not seen since 2024: Is TradFi abandoning BTC?",
-      "summary": "Bitcoin open interest falls to $34 billion as investor demand dries up and traders’ concerns shift to worrying US macroeconomic data. Is TradFi exitin",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "L'intérêt ouvert pour Bitcoin a atteint un plus bas depuis 2024",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix, car elle montre que les investisseurs sont en train de perdre confiance en Bitcoin. Cependant, dans le contexte actuel de fear extrême et d'accumulation forte, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et d'accumulation forte, car elle montre que les investisseurs sont en train de perdre confiance en Bitcoin, ce qui pourrait être un signal de rebond.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-open-interest-hits-lows-not-seen-since-2024-is-tradfi-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 03:47:56 +0000"
     },
     {
-      "title": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst",
+      "title": "Chute de Bitcoin",
       "titleOriginal": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst",
-      "summary": "Bitcoin has seen record realized losses in one of the cryptocurrency’s largest-ever capitulation events as short-term holders sold at steep losses ami",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Bitcoin a perdu 2,3 milliards de dollars dans sa plus grande chute depuis 2021",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix, car elle montre que les investisseurs sont en train de vendre leurs actifs à perte. Cependant, dans le contexte actuel de fear extrême, cela pourrait déjà être pris en compte par les marchés.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, car elle montre que les investisseurs sont en train de vendre leurs actifs à perte, ce qui pourrait être un signal de capitulation.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-suffers-losses-rivaling-2021-crash-as-capitulation-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 03:29:23 +0000"
+    },
+    {
+      "title": "CFTC ajoute des membres",
+      "titleOriginal": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
+      "summary": "La CFTC a ajouté des membres à son comité consultatif",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle montre que les régulateurs sont en train de travailler avec les acteurs de la crypto pour améliorer la régulation. Dans le contexte actuel de fear extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et d'accumulation forte, car elle montre que les régulateurs sont en train de travailler avec les acteurs de la crypto pour améliorer la régulation.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/cftc-innovation-advisory-committee-includes-crypto-execs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 02:21:37 +0000"
+    },
+    {
+      "title": "Coinbase en déficit",
+      "titleOriginal": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
+      "summary": "Coinbase a annoncé un déficit de 667 millions de dollars pour le quatrième trimestre",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix, car elle montre que les entreprises crypto sont en train de subir des pertes. Cependant, dans le contexte actuel de fear extrême, cela pourrait déjà être pris en compte par les marchés.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême, car elle montre que les entreprises crypto sont en train de subir des pertes, ce qui pourrait être un signal de capitulation.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 22:55:03 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T07:15:03.621Z",
+  "updatedAt": "2026-02-13T07:30:05.841Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -20,21 +20,21 @@
   "longShort": {
     "topTraders": {
       "long": "56.8",
-      "short": "43.3",
+      "short": "43.2",
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "69.4",
-      "short": "30.6"
+      "long": "69.2",
+      "short": "30.8"
     },
-    "takerBuySellRatio": "0.70",
+    "takerBuySellRatio": "1.50",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,510",
+    "btc": "79,576",
     "usd": "5.29B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66528,
+    "current": 66493,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.69",
+    "change24h": "-1.09",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,528",
+      "currentPrice": "$66,493",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les grands joueurs comme les institutions sont plutôt optimistes et mettent de l'argent dans le marché. C'est un peu comme si tout le monde courait pour sortir d'une pièce, mais en réalité, c'est peut-être le moment de rentrer. Il y a une forte accumulation en cours, ce qui pourrait signifier que le marché est prêt à rebondir !"
+  "story": "Le marché est super nerveux en ce moment, c'est comme si tout le monde avait peur de se faire brûler ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Il y a même des signes qui montrent que les gens commencent à acheter en secret, ce qui pourrait faire exploser les prix ! C'est l'occasion parfaite de profiter de la peur des autres pour faire une bonne affaire."
 }
