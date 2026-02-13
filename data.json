@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T17:45:05.126Z",
+  "updatedAt": "2026-02-13T18:00:08.379Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.28"
     },
     "accounts": {
-      "long": "64.5",
-      "short": "35.5"
+      "long": "64.4",
+      "short": "35.6"
     },
-    "takerBuySellRatio": "0.69",
+    "takerBuySellRatio": "0.82",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,895",
-    "usd": "5.45B",
-    "change24h": -0.2,
+    "btc": "79,015",
+    "usd": "5.46B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 69119,
+    "current": 69041,
     "high24h": 69483,
     "low24h": 65118,
-    "change24h": "4.76",
+    "change24h": "5.50",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -178,7 +178,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,119",
+      "currentPrice": "$69,041",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$69,500",
@@ -208,5 +208,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, tandis que les hedge funds sont plutôt négatifs, ce qui pourrait créer une belle opportunité de rebond. Il y a même des signes que les investisseurs commencent à accumuler des cryptos, ce qui est très positif pour l'avenir. C'est le moment d'être courageux et de saisir l'occasion !"
+  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. Malgré tout, de l'argent continue d'entrer sur le marché, ce qui pourrait être un signe de renversement. C'est comme si le marché était prêt à bondir, mais personne n'ose prendre le premier pas !"
 }
