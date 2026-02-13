@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T14:00:08.306Z",
+  "updatedAt": "2026-02-13T14:15:04.049Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Portefeuilles Bitcoin",
+      "title": "Binance confirms employee targeted as three arrested in France break-in",
+      "titleOriginal": "Binance confirms employee targeted as three arrested in France break-in",
+      "summary": "French police arrested three suspects after a break-in targeting a Binance France executive, RTL reported. Binance has confirmed a home invasion invol",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 13:37:11 +0000"
+    },
+    {
+      "title": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
       "titleOriginal": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
-      "summary": "Des portefeuilles Bitcoin 'post-quantique' sont déjà en vente, laissant les investisseurs se demander s'ils achètent une assurance ou paient une taxe de peur.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la peur et l'incertitude sur le marché, mais dans un contexte de fear extrême, elle pourrait également être considérée comme déjà pricée.",
-      "contextLink": "La peur de la technologie quantique affectant la sécurité des cryptomonnaies est présente, mais le marché est déjà en extrême peur.",
+      "summary": "Post-quantum Bitcoin wallets are already on sale, leaving investors to decide whether they’re buying insurance or paying up fear tax.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/quantum-proof-bitcoin-wallets-insurance-fear-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 13:30:00 +0000"
     },
     {
-      "title": "Ponzi Scheme",
+      "title": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
       "titleOriginal": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
-      "summary": "Un PDG de crypto a été condamné à 20 ans de prison pour une arnaque Ponzi de 200 millions de dollars en Bitcoin.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer la méfiance envers les entreprises de crypto, mais dans un marché déjà très baissier, son impact pourrait être limité.",
-      "contextLink": "Les hedge funds sont déjà très shorts, donc cette news bearish pourrait être considérée comme déjà intégrée dans les prix.",
-      "importance": 4,
+      "summary": "A federal judge sentenced PGI founder Ramil Palafox to 20 years in prison for running a Bitcoin Ponzi scheme that raised over $200 million from custom",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 11:29:52 +0000"
     },
     {
-      "title": "Perte de Bitcoin",
+      "title": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
       "titleOriginal": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
-      "summary": "22 Bitcoins d'une valeur de 1,5 million de dollars ont disparu de la custodie de la police de Séoul.",
-      "impact": "bearish",
-      "priceEffect": "Cette news pourrait renforcer les inquiétudes sur la sécurité et la gestion des actifs numériques, mais dans un marché en extrême peur, elle pourrait accélérer un rebond.",
-      "contextLink": "La perte de cryptomonnaies par les autorités soulève des questions sur la sécurité, mais le marché est déjà très pessimiste.",
-      "importance": 4,
+      "summary": "The loss was uncovered during an audit launched after a separate 320 Bitcoin custody failure, raising fresh concerns over digital asset management by ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 10:55:19 +0000"
     },
     {
-      "title": "Fusion Crypto",
+      "title": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
       "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
-      "summary": "Boerse Stuttgart Digital et Tradias fusionnent pour créer un hub crypto européen réglementé.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance dans le développement réglementé du marché crypto, et dans un contexte de fear extrême, elle pourrait contribuer à un rebond.",
-      "contextLink": "Les institutions sont bullish, et cette fusion pourrait être un signe de croissance et de régulation positive pour le marché.",
-      "importance": 5,
+      "summary": "Boerse Stuttgart will merge its crypto arm with Tradias, creating a regulated European crypto unit providing services in trading, custody, staking and",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:54:52 +0000"
-    },
-    {
-      "title": "Demande de Subvention",
-      "titleOriginal": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
-      "summary": "Aave Labs demande une subvention de 50 millions de dollars pour redistribuer les revenus de produits à la DAO.",
-      "impact": "neutre",
-      "priceEffect": "Cette news n'a pas d'impact direct sur le prix, mais pourrait affecter la gouvernance et la distribution de richesse dans l'écosystème AAVE.",
-      "contextLink": "Dans un marché en extrême peur, les décisions de gouvernance interne ont moins d'impact sur le sentiment général.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/aave-labs-50m-dao-revenue-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 09:18:26 +0000"
     }
   ]
 }

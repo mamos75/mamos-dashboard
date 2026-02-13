@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T14:00:04.277Z",
+  "updatedAt": "2026-02-13T14:15:03.648Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.3",
-      "short": "43.7",
-      "ratio": "1.29"
+      "long": "56.5",
+      "short": "43.5",
+      "ratio": "1.30"
     },
     "accounts": {
-      "long": "67.0",
-      "short": "33.0"
+      "long": "66.5",
+      "short": "33.5"
     },
-    "takerBuySellRatio": "1.25",
+    "takerBuySellRatio": "1.34",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,953",
+    "btc": "80,108",
     "usd": "5.38B",
-    "change24h": -0.1,
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,17 +61,17 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67273,
-    "high24h": 68411,
+    "current": 67170,
+    "high24h": 68283,
     "low24h": 65118,
-    "change24h": "-1.64",
+    "change24h": "-1.22",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
       65100
     ],
     "resistances": [
-      68400,
+      68300,
       69300,
       72300
     ],
@@ -179,10 +179,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,273",
+      "currentPrice": "$67,170",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
-      "target1": "$68,400",
+      "target1": "$68,300",
       "target2": "$69,300"
     },
     "factors": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est étonnant. Il y a même de l'argent qui rentre dans le marché, ce qui pourrait être un signe de rebond. C'est comme si tout le monde attendait le feu vert pour se lancer, l'atmosphère est électrique !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent contre le marché à 68,9%. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui est un bon signe. C'est comme si le marché était en train de se préparer pour un grand rebond, mais tout le monde a peur de bouger !"
 }
