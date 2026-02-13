@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T15:15:03.933Z",
+  "updatedAt": "2026-02-13T15:30:03.790Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.3",
-      "short": "43.7",
+      "long": "56.4",
+      "short": "43.6",
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "65.7",
-      "short": "34.3"
+      "long": "65.5",
+      "short": "34.5"
     },
-    "takerBuySellRatio": "0.45",
+    "takerBuySellRatio": "1.72",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,296",
-    "usd": "5.49B",
-    "change24h": -0.6,
+    "btc": "79,846",
+    "usd": "5.50B",
+    "change24h": -1.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,22 +61,22 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68408,
-    "high24h": 68598,
+    "current": 68909,
+    "high24h": 68909,
     "low24h": 65118,
-    "change24h": "1.44",
+    "change24h": "1.57",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
       65100
     ],
     "resistances": [
-      68600,
+      68900,
       69300,
       72300
     ],
-    "bias": "bearish",
-    "pricePosition": "in_range"
+    "bias": "bullish",
+    "pricePosition": "above_resistance"
   },
   "cot": {
     "asOf": "2026-02-03",
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,10 +179,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,408",
+      "currentPrice": "$68,909",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
-      "target1": "$68,600",
+      "target1": "$68,900",
       "target2": "$69,300"
     },
     "factors": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un bon signe. Les flux d'argent vers les fonds cryptos sont également positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour accumuler, les prix sont bas et les pros achètent !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grandes institutions sont optimistes, mais les hedge funds misent gros sur une baisse. Malgré cela, les gens continuent d'investir de l'argent dans les cryptos, ce qui est un signe positif. C'est comme si tout le monde attendait le feu vert pour se lancer, et ça pourrait être explosif !"
 }
