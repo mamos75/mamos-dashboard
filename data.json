@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T00:45:03.851Z",
+  "updatedAt": "2026-02-13T01:00:07.829Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
-      "ratio": "1.26"
+      "long": "56.0",
+      "short": "44.0",
+      "ratio": "1.27"
     },
     "accounts": {
       "long": "69.4",
       "short": "30.6"
     },
-    "takerBuySellRatio": "1.11",
+    "takerBuySellRatio": "1.00",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,782",
+    "btc": "79,830",
     "usd": "5.26B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -49,22 +49,22 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "990",
+    "current": "1098",
     "unit": "EH/s",
-    "trend": "falling",
+    "trend": "rising",
     "peak": "1115",
-    "change24h": 10.4,
-    "change7d": -2.2,
-    "changeFromPeak": -11.3,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
-    "signal": "neutral"
+    "change24h": 11,
+    "change7d": 8.5,
+    "changeFromPeak": -1.5,
+    "interpretation": "🟢 Hashrate en hausse (+11.0% 24h). Mineurs confiants.",
+    "priceImpact": "✅ <strong>Signal positif :</strong> Les mineurs investissent dans du matériel → ils croient que le BTC vaudra plus cher à l'avenir. Réseau plus sécurisé = fondamentaux solides.",
+    "signal": "bullish"
   },
   "priceData": {
-    "current": 65962,
+    "current": 65933,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-2.40",
+    "change24h": "-2.27",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$65,962",
+      "currentPrice": "$65,933",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, mais c'est justement ce qui pourrait être une bonne nouvelle pour nous ! Les gros investisseurs institutionnels sont plutôt optimistes, et les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens commencent à acheter. Les hedge funds, par contre, sont très négatifs, mais cela pourrait être une opportunité pour nous de profiter d'une remontée. C'est le moment idéal pour accumuler et attendre la prochaine hausse !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont en train de parier contre le marché, mais les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens achètent. C'est le moment idéal pour acheter, le signal est clair : c'est le temps de l'accumulation !"
 }
