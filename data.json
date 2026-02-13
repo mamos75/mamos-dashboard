@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T15:00:06.235Z",
+  "updatedAt": "2026-02-13T15:15:03.933Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "66.0",
-      "short": "34.0"
+      "long": "65.7",
+      "short": "34.3"
     },
-    "takerBuySellRatio": "0.70",
+    "takerBuySellRatio": "0.45",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,769",
-    "usd": "5.48B",
-    "change24h": 1,
+    "btc": "80,296",
+    "usd": "5.49B",
+    "change24h": -0.6,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,17 +61,17 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67818,
-    "high24h": 68028,
+    "current": 68408,
+    "high24h": 68598,
     "low24h": 65118,
-    "change24h": "0.29",
+    "change24h": "1.44",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
       65100
     ],
     "resistances": [
-      68000,
+      68600,
       69300,
       72300
     ],
@@ -179,10 +179,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,818",
+      "currentPrice": "$68,408",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
-      "target1": "$68,000",
+      "target1": "$68,600",
       "target2": "$69,300"
     },
     "factors": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, et les flux d'argent dans les ETF sont positifs, ce qui montre qu'ils croient en l'avenir. Les hedge funds, eux, sont très pessimistes, mais cela peut être un signe que le marché est prêt à rebondir. C'est le moment idéal pour accumuler, car tout le monde a peur, mais les signes sont là pour un retour en force !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un bon signe. Les flux d'argent vers les fonds cryptos sont également positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour accumuler, les prix sont bas et les pros achètent !"
 }
