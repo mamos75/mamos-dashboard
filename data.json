@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T11:15:03.363Z",
+  "updatedAt": "2026-02-13T11:30:06.068Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "68.0",
-      "short": "32.0"
+      "long": "67.8",
+      "short": "32.2"
     },
-    "takerBuySellRatio": "1.81",
+    "takerBuySellRatio": "1.20",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,797",
-    "usd": "5.34B",
+    "btc": "79,826",
+    "usd": "5.35B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66885,
+    "current": 66983,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.47",
+    "change24h": "-1.77",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,885",
+      "currentPrice": "$66,983",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, c'est comme si tout le monde attendait la fin du monde ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent massivement, ce qui est plutôt rassurant. Les flux d'argent dans les ETF sont également positifs, ce qui signifie que les gens placent leur argent dans les cryptos. C'est l'heure de l'accumulation, il semble que les sages préparent leur porte-monnaie pour un énorme rebound !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne occasion d'acheter. Les gros investisseurs sont plutôt optimistes, et on voit même de l'argent frais entrer dans le marché. Les choses sont tellement négatives que ça devient presque trop beau pour être vrai, c'est comme si tout le monde attendait le signal pour bondir. C'est le moment idéal pour accumuler, tout le monde est trop pessimiste !"
 }

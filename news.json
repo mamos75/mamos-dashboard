@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T11:15:03.812Z",
+  "updatedAt": "2026-02-13T11:30:10.756Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
+      "title": "BTC volés",
       "titleOriginal": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
-      "summary": "The loss was uncovered during an audit launched after a separate 320 Bitcoin custody failure, raising fresh concerns over digital asset management by ",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "22 Bitcoins valant 1,5M$ ont disparu de la garde de la police de Séoul",
+      "impact": "bearish",
+      "priceEffect": "Cette nouvelle pourrait accentuer la méfiance envers la sécurité des actifs numériques, mais dans le contexte actuel de peur extrême, son impact sur le prix pourrait être limité car les investisseurs sont déjà très prudents. Le marché pourrait déjà avoir pris en compte de telles préoccupations.",
+      "contextLink": "Cette nouvelle s'inscrit dans un contexte de fear extrême, où les investisseurs sont déjà très méfiants, ce qui pourrait limiter son impact.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 10:55:19 +0000"
     },
     {
-      "title": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
+      "title": "Fusion crypto",
       "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
-      "summary": "Boerse Stuttgart will merge its crypto arm with Tradias, creating a regulated European crypto unit providing services in trading, custody, staking and",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Boerse Stuttgart Digital et Tradias fusionnent pour créer un hub crypto européen",
+      "impact": "bullish",
+      "priceEffect": "Cette fusion pourrait renforcer la confiance dans le marché crypto en Europe, ce qui pourrait contribuer à un rebond dans un contexte de peur extrême. Les institutions bullish pourraient voir cela comme une opportunité de croissance.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel par le signal d'accumulation forte et l'optimisme des institutions, ce qui pourrait soutenir un rebond.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:54:52 +0000"
     },
     {
-      "title": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
-      "titleOriginal": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
-      "summary": "Some community members questioned the size of the $50 million package and warned that the proposed AAVE token grant could concentrate voting power.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/aave-labs-50m-dao-revenue-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 09:18:26 +0000"
-    },
-    {
-      "title": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
+      "title": "ETF BTC perdent",
       "titleOriginal": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
-      "summary": "US spot Bitcoin ETFs are on track for a fourth consecutive week of losses as Standard Chartered cut its 2026 Bitcoin target to $100,000.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Les ETF Bitcoin perdent 410M$ alors que Standard Chartered réduit sa cible pour 2026",
+      "impact": "bearish",
+      "priceEffect": "Cette perte pour les ETF Bitcoin et la révision à la baisse de la cible pour 2026 par Standard Chartered pourraient accentuer la pression baissière sur le prix du Bitcoin. Cependant, dans un contexte où les hedge funds sont déjà très shorts, cette nouvelle pourrait déjà être prise en compte par le marché.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de fear extrême et de positions shorts élevées, ce qui suggère que le marché pourrait déjà avoir intégré ces informations.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:04:36 +0000"
     },
     {
-      "title": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
+      "title": "ETHZilla tokenise",
       "titleOriginal": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
-      "summary": "Crypto treasury firm ETHZilla recently sold some of its crypto to begin a tokenization push by buying two jet engines leased to a US airline.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "ETHZilla propose un jeton lié à des locations de moteurs d'avion dans le cadre d'une stratégie de tokenisation",
+      "impact": "bullish",
+      "priceEffect": "Cette initiative de tokenisation par ETHZilla pourrait contribuer à l'adoption et à la diversification des actifs numériques, ce qui pourrait soutenir un rebond dans un marché qui cherche des opportunités de croissance. Les institutions bullish pourraient voir cela comme un signe de maturité du marché.",
+      "contextLink": "Cette nouvelle se relie au contexte d'accumulation forte et au signal positif des institutions, qui pourraient voir cela comme une étape vers une plus grande adoption des crypto-monnaies.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ethzilla-tokenized-jet-engines-rwa-ethereum-liquidity-io?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 06:15:26 +0000"
+    },
+    {
+      "title": "Crypto dans trafic",
+      "titleOriginal": "Crypto use in human trafficking networks surged in 2025: Chainalysis",
+      "summary": "L'utilisation de la crypto dans les réseaux de trafic humain a augmenté en 2025 selon Chainalysis",
+      "impact": "bearish",
+      "priceEffect": "Cette augmentation de l'utilisation de la crypto dans les activités illégales pourrait renforcer les préoccupations réglementaires et la méfiance envers les actifs numériques. Cependant, dans le contexte actuel, les investisseurs sont déjà très prudents, ce qui pourrait limiter l'impact de cette nouvelle.",
+      "contextLink": "Cette nouvelle s'inscrit dans un contexte de fear extrême, où les investisseurs sont déjà sensibles aux risques et aux préoccupations réglementaires.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/crypto-use-in-human-trafficking-networks-surged-in-2025-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 05:21:28 +0000"
     }
   ]
 }
