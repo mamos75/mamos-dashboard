@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T18:00:08.379Z",
+  "updatedAt": "2026-02-13T18:15:04.202Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.1",
-      "short": "43.9",
-      "ratio": "1.28"
+      "long": "56.0",
+      "short": "44.0",
+      "ratio": "1.27"
     },
     "accounts": {
-      "long": "64.4",
-      "short": "35.6"
+      "long": "64.1",
+      "short": "35.9"
     },
-    "takerBuySellRatio": "0.82",
+    "takerBuySellRatio": "0.49",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,015",
-    "usd": "5.46B",
-    "change24h": 0,
+    "btc": "78,883",
+    "usd": "5.44B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 69041,
+    "current": 69007,
     "high24h": 69483,
     "low24h": 65118,
-    "change24h": "5.50",
+    "change24h": "5.05",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -178,7 +178,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,041",
+      "currentPrice": "$69,007",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$69,500",
@@ -208,5 +208,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. Malgré tout, de l'argent continue d'entrer sur le marché, ce qui pourrait être un signe de renversement. C'est comme si le marché était prêt à bondir, mais personne n'ose prendre le premier pas !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont nerveux et vendent leurs cryptos. Mais attention, les gros investisseurs sont plutôt optimistes et mettent leur argent dans les ETF, ce qui pourrait être un signal de rebond. Les fonds spéculatifs sont même à 68,9% pour la vente, ce qui pourrait être une erreur de leur part. C'est le moment idéal pour accumuler, le marché semble prêt à exploser !"
 }
