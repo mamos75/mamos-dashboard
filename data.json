@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T00:00:04.465Z",
+  "updatedAt": "2026-02-13T00:15:03.512Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.6",
-      "short": "44.4",
-      "ratio": "1.25"
+      "long": "55.7",
+      "short": "44.3",
+      "ratio": "1.26"
     },
     "accounts": {
       "long": "69.3",
-      "short": "30.7"
+      "short": "30.6"
     },
-    "takerBuySellRatio": "0.75",
+    "takerBuySellRatio": "0.72",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,781",
+    "btc": "79,636",
     "usd": "5.29B",
-    "change24h": 0,
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -51,20 +51,20 @@
   "hashrate": {
     "current": "990",
     "unit": "EH/s",
-    "trend": "rising",
+    "trend": "falling",
     "peak": "1115",
     "change24h": 10.4,
-    "change7d": 8.6,
+    "change7d": -2.2,
     "changeFromPeak": -11.3,
-    "interpretation": "🟢 Hashrate en hausse (+10.4% 24h). Mineurs confiants.",
-    "priceImpact": "✅ <strong>Signal positif :</strong> Les mineurs investissent dans du matériel → ils croient que le BTC vaudra plus cher à l'avenir. Réseau plus sécurisé = fondamentaux solides.",
-    "signal": "bullish"
+    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
+    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "signal": "neutral"
   },
   "priceData": {
-    "current": 66269,
+    "current": 66375,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.22",
+    "change24h": "-1.45",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -132,13 +132,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
+      "bull": 8,
       "bear": 4,
-      "net": 5
+      "net": 4
     },
     "signals": [
       {
@@ -172,14 +172,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,269",
+      "currentPrice": "$66,375",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -201,13 +201,13 @@
     ],
     "invalidationText": "Cassure du support principal = invalidation",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $65,100 - $66,600. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $65,100 - $66,600 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les gros investisseurs institutionnels sont optimistes, et les flux d'argent dans les ETF sont positifs, ce qui signale une confiance grandissante. Les hedge funds, par contre, sont très négatifs, ce qui pourrait créer une opportunité de rebond. C'est le moment idéal pour accumuler, car le marché est prêt à exploser !"
+  "story": "Le marché est super peur, c'est comme si tout le monde attendait la fin du monde ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui rentre dans les ETFs montre que les gens ont confiance. C'est une zone d'accumulation parfaite, il faut peut-être saisir l'occasion !"
 }
