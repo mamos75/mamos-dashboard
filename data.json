@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T07:45:03.091Z",
+  "updatedAt": "2026-02-13T08:00:04.613Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,26 +24,26 @@
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "69.1",
-      "short": "30.9"
+      "long": "68.8",
+      "short": "31.2"
     },
-    "takerBuySellRatio": "0.85",
+    "takerBuySellRatio": "1.75",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,675",
-    "usd": "5.27B",
-    "change24h": 0.2,
+    "btc": "79,732",
+    "usd": "5.28B",
+    "change24h": 0.3,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "0.0003",
+      "current": "-0.0050",
       "avg24h": "-0.0042"
     },
-    "eth": "-0.0107",
+    "eth": "-0.0029",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66139,
+    "current": 66213,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.44",
+    "change24h": "-1.50",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 10,
+      "bear": 3,
+      "net": 7
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,139",
+      "currentPrice": "$66,213",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super tendu en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. C'est comme si tout le monde vendait, mais les pros achètent en secret, c'est une belle occasion d'accumuler. L'argent rentre même dans les fonds, c'est le signal que les choses pourraient bientôt s'accélérer !"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de se faire mal. Mais les gros joueurs, comme les institutions, sont plutôt optimistes et achètent discrètement. C'est une bonne nouvelle, car cela signifie que le marché est peut-être prêt à rebondir. Les investisseurs institutionnels misent gros sur une remontée, et les flux d'argent dans les ETF le confirment !"
 }
