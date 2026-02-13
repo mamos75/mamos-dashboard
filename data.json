@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T12:15:03.353Z",
+  "updatedAt": "2026-02-13T12:30:10.167Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.8",
-      "short": "43.2",
+      "long": "56.9",
+      "short": "43.1",
       "ratio": "1.32"
     },
     "accounts": {
       "long": "67.7",
       "short": "32.3"
     },
-    "takerBuySellRatio": "0.75",
+    "takerBuySellRatio": "0.94",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,927",
-    "usd": "5.35B",
+    "btc": "79,947",
+    "usd": "5.36B",
     "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66986,
+    "current": 67097,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.53",
+    "change24h": "-1.31",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,986",
+      "currentPrice": "$67,097",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, les gens sont vraiment nerveux ! Les gros investisseurs sont même prêts à parier contre la crypto, mais les institutions restent optimistes. Malgré cette peur, de l'argent frais entre dans le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est en train d'accumuler discrètement !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'arriver dans les ETF, ce qui montre qu'il y a encore de l'espoir. C'est comme si tout le monde retenait son souffle, attendant de voir ce qui va se passer !"
 }
