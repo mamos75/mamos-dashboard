@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T15:30:03.790Z",
+  "updatedAt": "2026-02-13T15:45:04.042Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,18 +24,18 @@
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "65.5",
-      "short": "34.5"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "1.72",
+    "takerBuySellRatio": "1.17",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,846",
-    "usd": "5.50B",
-    "change24h": -1.1,
-    "trend": "stable",
+    "btc": "79,025",
+    "usd": "5.43B",
+    "change24h": -2.2,
+    "trend": "decreasing",
     "signal": "normal"
   },
   "funding": {
@@ -61,22 +61,21 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68909,
-    "high24h": 68909,
+    "current": 68763,
+    "high24h": 69310,
     "low24h": 65118,
-    "change24h": "1.57",
+    "change24h": "2.05",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
       65100
     ],
     "resistances": [
-      68900,
       69300,
       72300
     ],
     "bias": "bullish",
-    "pricePosition": "above_resistance"
+    "pricePosition": "in_range"
   },
   "cot": {
     "asOf": "2026-02-03",
@@ -179,11 +178,11 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,909",
+      "currentPrice": "$68,763",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
-      "target1": "$68,900",
-      "target2": "$69,300"
+      "target1": "$69,300",
+      "target2": "$72,300"
     },
     "factors": [
       {
@@ -209,5 +208,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les grandes institutions sont optimistes, mais les hedge funds misent gros sur une baisse. Malgré cela, les gens continuent d'investir de l'argent dans les cryptos, ce qui est un signe positif. C'est comme si tout le monde attendait le feu vert pour se lancer, et ça pourrait être explosif !"
+  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, mais les gens continuent d'acheter, ce qui montre qu'il y a une forte accumulation. C'est le moment idéal pour acheter, car tout le monde a peur, mais les signes sont positifs !"
 }
