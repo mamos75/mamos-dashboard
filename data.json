@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T06:00:04.774Z",
+  "updatedAt": "2026-02-13T06:15:03.528Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.33"
     },
     "accounts": {
-      "long": "69.7",
-      "short": "30.3"
+      "long": "69.6",
+      "short": "30.4"
     },
-    "takerBuySellRatio": "1.01",
+    "takerBuySellRatio": "0.62",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
     "btc": "79,365",
-    "usd": "5.25B",
+    "usd": "5.26B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66204,
+    "current": 66224,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.39",
+    "change24h": "-1.35",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,204",
+      "currentPrice": "$66,224",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec des investisseurs très inquiets. Mais attention, les gros joueurs sont optimistes et continuent d'acheter, ce qui pourrait être un signal de rebond. Les flux d'argent dans les ETF sont également positifs, ce qui montre que les investisseurs institutionnels ont confiance. C'est le moment idéal pour acheter, car le marché est en train de se ressourcer avant une potentielle hausse."
+  "story": "Le marché est actuellement dans un état de peur extrême, avec les investisseurs très nerveux. Les gros joueurs, comme les hedge funds, misent plutôt sur une baisse, mais les institutions restent optimistes. C'est comme si tout le monde attendait le signal pour bondir, et les flux d'argent vers les ETF montrent que les gens commencent à se positionner pour une remontée. L'atmosphère est électrique, et je sens que quelque chose de gros va bientôt se passer !"
 }
