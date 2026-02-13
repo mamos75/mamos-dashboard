@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T17:00:04.666Z",
+  "updatedAt": "2026-02-13T17:15:03.121Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "64.9",
-      "short": "35.1"
+      "long": "64.6",
+      "short": "35.4"
     },
-    "takerBuySellRatio": "0.60",
+    "takerBuySellRatio": "0.81",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,026",
+    "btc": "78,975",
     "usd": "5.45B",
-    "change24h": 0.4,
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68964,
+    "current": 68987,
     "high24h": 69483,
     "low24h": 65118,
-    "change24h": "4.68",
+    "change24h": "4.94",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -178,7 +178,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,964",
+      "currentPrice": "$68,987",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$69,500",
@@ -208,5 +208,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui crée une opportunité incroyable pour les acheteurs. Les gros investisseurs institutionnels sont plutôt optimistes, ce qui pourrait faire basculer le marché. Les hedge funds, eux, misent sur une baisse, mais l'argent continue d'affluer dans les fonds liés aux crypto, ce qui est un signal positif. C'est le moment idéal pour accumuler, car le marché est sous-évalué et prêt à rebondir !"
 }
