@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T04:45:04.139Z",
+  "updatedAt": "2026-02-13T05:00:09.131Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Bitcoin open interest hits lows not seen since 2024: Is TradFi abandoning BTC?",
+      "title": "Intérêt pour BTC en baisse",
       "titleOriginal": "Bitcoin open interest hits lows not seen since 2024: Is TradFi abandoning BTC?",
-      "summary": "Bitcoin open interest falls to $34 billion as investor demand dries up and traders’ concerns shift to worrying US macroeconomic data. Is TradFi exitin",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "L'intérêt ouvert pour le Bitcoin atteint un plus bas depuis 2024",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait accentuer la tendance baissière, mais dans le contexte actuel de peur extrême, cela pourrait également être un signe de capitulation, laissant place à un potentiel rebond. Le marché est déjà très short, ce qui pourrait limiter l’impact négatif.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positionnement short important des hedge funds, ce qui pourrait indiquer une survente et un potentiel rebond.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-open-interest-hits-lows-not-seen-since-2024-is-tradfi-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 03:47:56 +0000"
     },
     {
-      "title": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst",
+      "title": "Crash BTC : 2,3M$ perdus",
       "titleOriginal": "Bitcoin loses $2.3B in biggest crash since 2021 as capitulation intensifies: Analyst",
-      "summary": "Bitcoin has seen record realized losses in one of the cryptocurrency’s largest-ever capitulation events as short-term holders sold at steep losses ami",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le Bitcoin subit une des plus grandes pertes réalisées de son histoire",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait amplifier la peur et la vente, mais dans un marché déjà très baissier et avec un signal global d’accumulation forte, cela pourrait également être un signe que le fond est proche. Les pertes sont déjà fortes, ce qui pourrait limiter les ventes supplémentaires.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de capitulation, ce qui pourrait indiquer que le marché est proche d’un point de rebond.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-suffers-losses-rivaling-2021-crash-as-capitulation-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 03:29:23 +0000"
     },
     {
-      "title": "Crypto super PAC earmarks $1.5M to unseat Al Green in Texas",
-      "titleOriginal": "Crypto super PAC earmarks $1.5M to unseat Al Green in Texas",
-      "summary": "Al Green is running against Christian Menefee in the Democratic Party primary elections next month, with Texas one of the first states to vote.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-pac-spending-against-al-green-texas-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 02:49:38 +0000"
-    },
-    {
-      "title": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
+      "title": "CFTC ajoute des experts",
       "titleOriginal": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
-      "summary": "CFTC chair Mike Selig launched the Innovation Advisory Committee in January, nominating 12 members as charter members before expanding the final list ",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "La CFTC ajoute des exécutifs de Coinbase et Ripple à son comité consultatif",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait être perçue comme positive pour le marché, car elle indique une volonté de collaboration entre les régulateurs et l’industrie. Cela pourrait contribuer à une perception plus positive des cryptomonnaies et soutenir les prix. Dans le contexte actuel de peur, cela pourrait aider à inverser la tendance.",
+      "contextLink": "Cette news se connecte au contexte actuel d’accumulation forte et d’optimisme institutionnel, ce qui pourrait indiquer une confiance accrue dans le marché.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/cftc-innovation-advisory-committee-includes-crypto-execs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 02:21:37 +0000"
     },
     {
-      "title": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
+      "title": "Coinbase en déficit",
       "titleOriginal": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
-      "summary": "Coinbase’s fourth-quarter earnings missed Wall Street expectations, with the crypto exchange reporting its first net loss since the third quarter of 2",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Coinbase annonce un déficit de 667M$ au quatrième trimestre",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin et des autres cryptomonnaies, car elle indique des difficultés financières pour une des principales plateformes d’échange. Cependant, dans le contexte actuel, les mauvaises nouvelles pourraient déjà être prises en compte par les investisseurs.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de positionnement short important, ce qui pourrait limiter l’impact négatif de cette annonce.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:55:03 +0000"
+    },
+    {
+      "title": "BTC en zone de capitulation",
+      "titleOriginal": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
+      "summary": "Le Bitcoin semble piégé dans une zone de capitulation",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait indiquer que le marché est proche d’un point de rebond, car les zones de capitulation sont souvent suivies de retournements haussiers. Dans le contexte actuel de fear extrême et de positionnement short important, cela pourrait être un signal de rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel de fear extrême et de capitulation, ce qui pourrait indiquer que le fond est proche et que les investisseurs pourraient bientôt reprendre confiance.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 22:30:00 +0000"
     }
   ]
 }

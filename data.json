@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T04:45:03.823Z",
+  "updatedAt": "2026-02-13T05:00:04.479Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.34"
     },
     "accounts": {
-      "long": "69.7",
-      "short": "30.3"
+      "long": "69.6",
+      "short": "30.4"
     },
-    "takerBuySellRatio": "0.55",
+    "takerBuySellRatio": "0.86",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,355",
-    "usd": "5.27B",
+    "btc": "79,330",
+    "usd": "5.26B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66358,
+    "current": 66356,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.27",
+    "change24h": "-0.98",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,358",
+      "currentPrice": "$66,356",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, ce qui est un bon signe. Les hedge funds, eux, sont majoritairement prêts à vendre, mais l'argent continue d'affluer dans les fonds liés aux crypto. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'euphorie de la peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds font le contraire, ils misent sur une baisse. Malgré tout, les gens continuent d'investir massivement, avec plus de 145 millions de dollars qui entrent dans le marché. C'est le signal d'une accumulation forte, ça veut dire que les prix pourraient exploser bientôt !"
 }
