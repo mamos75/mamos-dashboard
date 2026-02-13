@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T16:15:04.266Z",
+  "updatedAt": "2026-02-13T16:30:07.333Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,52 @@
   "narrative": null,
   "news": [
     {
-      "title": "Bitcoin passes $69K on slower US CPI print, but Fed rate-cut odds stay low",
+      "title": "Bitcoin passe 69k$",
       "titleOriginal": "Bitcoin passes $69K on slower US CPI print, but Fed rate-cut odds stay low",
-      "summary": "Bitcoin bulls enjoyed a relief rally to $69,000 on the back of soft US CPI inflation data amid hopes of BTC price action making a \"higher low.\"",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le prix du Bitcoin a augmenté à 69 000 $ après une publication de données d'inflation US plus faible que prévu.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du prix du Bitcoin, car le marché est actuellement dans un état de peur extrême et les hedge funds sont majoritairement short. Le prix pourrait donc augmenter pour atteindre un nouveau 'higher low'.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de positionnement short des hedge funds, ce qui pourrait conduire à un rebond du prix.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-passes-68k-on-slower-us-cpi-print-but-fed-rate-cut-odds-stay-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 15:32:45 +0000"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 14:18:06 +0000"
-    },
-    {
-      "title": "Binance confirms employee targeted as three arrested in France break-in",
-      "titleOriginal": "Binance confirms employee targeted as three arrested in France break-in",
-      "summary": "French police arrested three suspects after a break-in targeting a Binance France executive, RTL reported. Binance has confirmed a home invasion invol",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 13:37:11 +0000"
-    },
-    {
-      "title": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
-      "titleOriginal": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
-      "summary": "Post-quantum Bitcoin wallets are already on sale, leaving investors to decide whether they’re buying insurance or paying up fear tax.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/quantum-proof-bitcoin-wallets-insurance-fear-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 13:30:00 +0000"
-    },
-    {
-      "title": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
+      "title": "Ponzi scheme Bitcoin",
       "titleOriginal": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
-      "summary": "A federal judge sentenced PGI founder Ramil Palafox to 20 years in prison for running a Bitcoin Ponzi scheme that raised over $200 million from custom",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Un PDG de crypto a été condamné à 20 ans de prison pour avoir dirigé un système Ponzi basé sur le Bitcoin.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin, car elle soulève des inquiétudes sur la sécurité et la régulation des actifs numériques. Cependant, dans le contexte actuel de peur extrême, cet impact pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont déjà nerveux, et pourrait donc avoir un impact limité sur le prix.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 11:29:52 +0000"
+    },
+    {
+      "title": "Perte de Bitcoin",
+      "titleOriginal": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
+      "summary": "22 Bitcoins (valeur 1,5 million $) ont disparu des coffres de la police de Séoul.",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix du Bitcoin, car elle soulève des inquiétudes sur la sécurité et la gestion des actifs numériques. Cependant, dans le contexte actuel de peur extrême, cet impact pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême, où les investisseurs sont déjà nerveux, et pourrait donc avoir un impact limité sur le prix.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 10:55:19 +0000"
+    },
+    {
+      "title": "Fusion Boerse Stuttgart",
+      "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
+      "summary": "Boerse Stuttgart va fusionner son bras crypto avec Tradias pour créer un hub européen de crypto réglementé.",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix du Bitcoin, car elle souligne l'intérêt croissant des institutions pour les actifs numériques et la régulation. Dans le contexte actuel, cela pourrait contribuer à un rebond du prix.",
+      "contextLink": "Cette news se connecte au contexte actuel de peur extrême et de positionnement short des hedge funds, ce qui pourrait conduire à un rebond du prix.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 09:54:52 +0000"
     }
   ]
 }
