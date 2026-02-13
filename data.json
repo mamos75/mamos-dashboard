@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T16:00:04.085Z",
+  "updatedAt": "2026-02-13T16:15:03.873Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,23 +19,23 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.5",
-      "short": "43.5",
-      "ratio": "1.30"
+      "long": "56.4",
+      "short": "43.6",
+      "ratio": "1.29"
     },
     "accounts": {
-      "long": "65.4",
-      "short": "34.6"
+      "long": "65.2",
+      "short": "34.8"
     },
-    "takerBuySellRatio": "1.82",
+    "takerBuySellRatio": "0.62",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,682",
-    "usd": "5.41B",
-    "change24h": -2.6,
-    "trend": "decreasing",
+    "btc": "79,352",
+    "usd": "5.48B",
+    "change24h": 0.8,
+    "trend": "stable",
     "signal": "normal"
   },
   "funding": {
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68702,
+    "current": 69054,
     "high24h": 69310,
     "low24h": 65118,
-    "change24h": "2.35",
+    "change24h": "3.81",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -135,9 +135,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -178,7 +178,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,702",
+      "currentPrice": "$69,054",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$69,300",
@@ -208,5 +208,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les flux d'argent vers les ETF montrent même que les gens achètent massivement. C'est le moment idéal pour acheter, car tout le monde est en train de se mettre en position pour une future explosion !"
+  "story": "Le marché est dans un état de peur extrême, les gens ont vraiment la frousse ! Les hedge funds misent contre le marché, mais les grosses institutions sont plutôt optimistes. Il y a même de l'argent qui rentre dans les ETF, ce qui est un bon signe. C'est comme si tout le monde attendait un signal pour se lancer, et ça pourrait être le début d'une belle remontée !"
 }
