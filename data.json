@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T14:45:08.314Z",
+  "updatedAt": "2026-02-13T15:00:06.235Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.4",
-      "short": "43.6",
-      "ratio": "1.30"
+      "long": "56.3",
+      "short": "43.7",
+      "ratio": "1.29"
     },
     "accounts": {
-      "long": "66.1",
-      "short": "33.9"
+      "long": "66.0",
+      "short": "34.0"
     },
-    "takerBuySellRatio": "1.00",
+    "takerBuySellRatio": "0.70",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,808",
-    "usd": "5.44B",
-    "change24h": 1.1,
+    "btc": "80,769",
+    "usd": "5.48B",
+    "change24h": 1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67351,
-    "high24h": 68000,
+    "current": 67818,
+    "high24h": 68028,
     "low24h": 65118,
-    "change24h": "-0.45",
+    "change24h": "0.29",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 3,
-      "net": 6
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,351",
+      "currentPrice": "$67,818",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,000",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est dans un état de peur extrême, c'est comme si tout le monde avait peur de tout ! Les grandes institutions sont optimistes, mais les hedge funds misent contre le marché, ce qui crée une tension incroyable. Malgré tout, l'argent continue d'entrer dans le marché, ce qui signale que les investisseurs sont en train de faire le plein. C'est l'heure de l'accumulation, le marché est prêt à exploser !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, et les flux d'argent dans les ETF sont positifs, ce qui montre qu'ils croient en l'avenir. Les hedge funds, eux, sont très pessimistes, mais cela peut être un signe que le marché est prêt à rebondir. C'est le moment idéal pour accumuler, car tout le monde a peur, mais les signes sont là pour un retour en force !"
 }

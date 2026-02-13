@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T14:45:08.714Z",
+  "updatedAt": "2026-02-13T15:00:10.803Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 14:18:06 +0000"
-    },
-    {
-      "title": "Binance confirms employee targeted as three arrested in France break-in",
+      "title": "Binance : tentative de cambriolage",
       "titleOriginal": "Binance confirms employee targeted as three arrested in France break-in",
-      "summary": "French police arrested three suspects after a break-in targeting a Binance France executive, RTL reported. Binance has confirmed a home invasion invol",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Une tentative de cambriolage a visé un employé de Binance en France",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la peur et l'incertitude sur le marché, potentiellement exerçant une pression à la baisse sur les prix. Cependant, dans le contexte actuel où les hedge funds sont déjà très shorts, l'impact pourrait être limité.",
+      "contextLink": "Cette news se connecte au contexte actuel en ajoutant à la peur et à l'incertitude du marché, mais son impact pourrait être atténué par la position déjà très short des hedge funds.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/binance-france-exec-home-invasion-arrests-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 13:37:11 +0000"
     },
     {
-      "title": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
-      "titleOriginal": "Are quantum-proof Bitcoin wallets insurance or a fear tax?",
-      "summary": "Post-quantum Bitcoin wallets are already on sale, leaving investors to decide whether they’re buying insurance or paying up fear tax.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/quantum-proof-bitcoin-wallets-insurance-fear-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 13:30:00 +0000"
-    },
-    {
-      "title": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
+      "title": "CEO condamné pour Ponzi",
       "titleOriginal": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
-      "summary": "A federal judge sentenced PGI founder Ramil Palafox to 20 years in prison for running a Bitcoin Ponzi scheme that raised over $200 million from custom",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Un CEO a été condamné à 20 ans de prison pour un schéma Ponzi Bitcoin",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la méfiance envers le marché crypto, potentiellement exerçant une pression à la baisse sur les prix. Cependant, dans un marché déjà caractérisé par une peur extrême, l'impact pourrait être limité car les investisseurs sont déjà prudentes.",
+      "contextLink": "Cette news se connecte au contexte actuel en renforçant la perception négative du marché, mais son impact pourrait être atténué par le niveau déjà élevé de peur et de prudence des investisseurs.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 11:29:52 +0000"
     },
     {
-      "title": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
+      "title": "Perte de Bitcoins",
       "titleOriginal": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
-      "summary": "The loss was uncovered during an audit launched after a separate 320 Bitcoin custody failure, raising fresh concerns over digital asset management by ",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "22 Bitcoins ont disparu de la custodie de la police de Séoul",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait accroître les inquiétudes sur la sécurité et la gestion des actifs numériques, potentiellement influençant négativement les prix. Dans le contexte actuel, cela pourrait contribuer à la peur et à l'incertitude, mais l'impact pourrait être limité par la position short déjà établie des hedge funds.",
+      "contextLink": "Cette news se connecte au contexte actuel en soulignant les risques de sécurité et de gestion dans l'industrie crypto, ce qui pourrait renforcer la prudence des investisseurs dans un marché déjà caractérisé par la peur.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 10:55:19 +0000"
+    },
+    {
+      "title": "Fusion pour hub crypto",
+      "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
+      "summary": "Boerse Stuttgart et Tradias fusionnent pour créer un hub crypto européen",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait être perçue comme un développement positif pour l'industrie crypto, potentiellement apportant de la confiance et soutenant les prix. Dans le contexte actuel de peur extrême et de positionnement short important des hedge funds, cela pourrait contribuer à un rebond potentiel.",
+      "contextLink": "Cette news se connecte au contexte actuel en offrant un contrepoint positif à la peur et à l'incertitude dominantes, ce qui pourrait aider à stabiliser ou à renverser la tendance baissière.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 09:54:52 +0000"
+    },
+    {
+      "title": "Perte pour les ETF Bitcoin",
+      "titleOriginal": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
+      "summary": "Les ETF Bitcoin perdent 410 millions de dollars",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait renforcer la tendance baissière et accroître la pression sur les prix. Cependant, dans le contexte actuel où les hedge funds sont déjà très shorts et le sentiment est extrêmement négatif, l'impact pourrait être limité car beaucoup de ces facteurs négatifs sont déjà pris en compte dans les prix.",
+      "contextLink": "Cette news se connecte au contexte actuel en confirmant la tendance baissière et la perte de confiance dans les ETF Bitcoin, mais son impact pourrait être atténué par le niveau déjà élevé de peur et de short sur le marché.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 09:04:36 +0000"
     }
   ]
 }
