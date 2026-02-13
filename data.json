@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T02:45:03.296Z",
+  "updatedAt": "2026-02-13T03:00:03.908Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
-      "ratio": "1.31"
+      "long": "56.9",
+      "short": "43.1",
+      "ratio": "1.32"
     },
     "accounts": {
-      "long": "69.9",
-      "short": "30.1"
+      "long": "70.1",
+      "short": "29.9"
     },
-    "takerBuySellRatio": "1.97",
+    "takerBuySellRatio": "0.47",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,407",
-    "usd": "5.29B",
+    "btc": "79,415",
+    "usd": "5.30B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66570,
+    "current": 66695,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.73",
+    "change24h": "-1.10",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,570",
+      "currentPrice": "$66,695",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, sont très pessimistes et misent contre le marché. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent même plus d'actions. Les flux d'argent entrent dans le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est trop prudent et les prix sont bas !"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T02:45:03.684Z",
+  "updatedAt": "2026-02-13T03:00:08.268Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
+      "title": "CFTC élargit comité",
       "titleOriginal": "CFTC adds Coinbase, Ripple execs to 35-member advisory committee",
-      "summary": "CFTC chair Mike Selig launched the Innovation Advisory Committee in January, nominating 12 members as charter members before expanding the final list ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "La CFTC ajoute des dirigeants de Coinbase et Ripple à son comité consultatif",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère une plus grande implication des institutions dans le marché crypto. Dans le contexte actuel, cela pourrait contribuer à un rebond potentiel.",
+      "contextLink": "Cette news se connecte au contexte actuel par son alignment avec la tendance bullish des institutions, qui pourraient contribuer à contrebalancer la peur extrême du marché.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/cftc-innovation-advisory-committee-includes-crypto-execs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 02:21:37 +0000"
     },
     {
-      "title": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
+      "title": "Coinbase enregistre une perte",
       "titleOriginal": "Coinbase misses Q4 earnings with $667M loss as crypto markets fell",
-      "summary": "Coinbase’s fourth-quarter earnings missed Wall Street expectations, with the crypto exchange reporting its first net loss since the third quarter of 2",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Coinbase rapporte une perte nette de 667M$ au quatrième trimestre",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un impact négatif sur le prix, car elle reflète la fragilité des entreprises crypto face à la volatilité du marché. Cependant, dans le contexte actuel de peur extrême et de positionnement short important, cela pourrait déjà être pris en compte par les prix.",
+      "contextLink": "Cette news se connecte au contexte actuel par son illustration de la vulnérabilité des entreprises crypto, mais son impact pourrait être atténué par le fait que les hedge funds sont déjà fortement positionnés à la vente.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/coinbase-667m-loss-q4-earnings-miss-crypto-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:55:03 +0000"
     },
     {
-      "title": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
+      "title": "Bitcoin en zone de capitulation",
       "titleOriginal": "Bitcoin in ‘capitulation zone’ as traders debate when BTC price will bottom",
-      "summary": "Bitcoin appears trapped within a capitulation zone where long-term holders continue to sell, and bearish onchain metrics tease further downside. Will ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le prix de Bitcoin semble être dans une zone de capitulation",
+      "impact": "bearish",
+      "priceEffect": "Cette news suggère que le prix de Bitcoin pourrait continuer à baisser, mais dans le contexte actuel de peur extrême et de positionnement short important, cela pourrait également indiquer un potentiel rebond si les investisseurs commencent à acheter à des prix considérés comme bas.",
+      "contextLink": "Cette news se connecte au contexte actuel par son illustration de la peur extrême du marché, qui pourrait être à un point de rebond si les investisseurs commencent à voir des opportunités d'achat.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-in-capitulation-zone-as-traders-debate-when-btc-price-will-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 22:30:00 +0000"
     },
     {
-      "title": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "titleOriginal": "Fed paper proposes initial margin weights for crypto-linked derivatives",
-      "summary": "Traditional risk-weightings and models cannot account for crypto's high volatility or market behavior, according to a Federal Reserve paper.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/fed-initial-margin-crypto-derivative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Thu, 12 Feb 2026 22:05:19 +0000"
-    },
-    {
-      "title": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
+      "title": "Decibel lance stablecoin",
       "titleOriginal": "Aptos-incubated Decibel to launch protocol-native stablecoin ahead of mainnet",
-      "summary": "The dollar-backed token, USDCBL, will serve as collateral for onchain perps, with cash and Treasury reserves generating yield retained within the prot",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Decibel lance un stablecoin appelé USDCBL",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère une innovation et une expansion dans l'écosystème crypto. Dans le contexte actuel, cela pourrait contribuer à un rebond potentiel en offrant de nouvelles opportunités aux investisseurs.",
+      "contextLink": "Cette news se connecte au contexte actuel par son illustration de l'innovation continue dans le secteur crypto, qui pourrait aider à contrebalancer la peur extrême du marché.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/aptos-incubated-decibel-to-launch-protocol-native-stablecoin-via-stripe-owned-bridge-ahead-of-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Thu, 12 Feb 2026 21:51:33 +0000"
+    },
+    {
+      "title": "Signal de rebond possible",
+      "titleOriginal": "Multi-day negative Bitcoin funding signals ‘overcrowded’ short trade: Reversal coming?",
+      "summary": "Le taux de financement négatif de Bitcoin suggère un potentiel rebond",
+      "impact": "bullish",
+      "priceEffect": "Cette news suggère que le marché pourrait être sur le point de rebondir, car les positions short sont très importantes et pourraient être squeezées. Dans le contexte actuel de peur extrême, cela pourrait être un signal fort pour les investisseurs.",
+      "contextLink": "Cette news se connecte au contexte actuel par son illustration de la possibilité d'un rebond, étant donné les conditions actuelles de peur extrême et de positionnement short important.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/multi-day-negative-bitcoin-funding-signals-overcrowded-short-trade-time-for-a-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Thu, 12 Feb 2026 21:24:16 +0000"
     }
   ]
 }
