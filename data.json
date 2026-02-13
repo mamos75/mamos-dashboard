@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T08:15:03.423Z",
+  "updatedAt": "2026-02-13T08:30:04.466Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "68.6",
       "short": "31.4"
     },
-    "takerBuySellRatio": "1.54",
+    "takerBuySellRatio": "0.67",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,690",
-    "usd": "5.28B",
+    "btc": "79,628",
+    "usd": "5.29B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66276,
+    "current": 66404,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.43",
+    "change24h": "-0.80",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,276",
+      "currentPrice": "$66,404",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en pleine panique, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont optimistes et achètent, ce qui est un signe positif. Les investisseurs institutionnels mettent même de l'argent dans les ETF, ce qui montre qu'ils croient en l'avenir. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les fonds cryptos est en train de monter, ce qui pourrait changer la donne. C'est le moment idéal pour accumulation, les prix sont bas et les chances de rebond sont élevées !"
 }
