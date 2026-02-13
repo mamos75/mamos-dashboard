@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T22:00:05.017Z",
+  "updatedAt": "2026-02-13T22:15:03.019Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
-      "ratio": "1.24"
+      "long": "55.2",
+      "short": "44.8",
+      "ratio": "1.23"
     },
     "accounts": {
-      "long": "62.2",
-      "short": "37.8"
+      "long": "62.1",
+      "short": "37.9"
     },
-    "takerBuySellRatio": "0.69",
+    "takerBuySellRatio": "0.75",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,429",
-    "usd": "5.47B",
-    "change24h": 0,
+    "btc": "79,198",
+    "usd": "5.44B",
+    "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68902,
+    "current": 68737,
     "high24h": 69483,
     "low24h": 65643,
-    "change24h": "4.68",
+    "change24h": "4.44",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,902",
+      "currentPrice": "$68,737",
       "entryZone": "$65,600 - $67,100",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est quasi la peur panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent plutôt sur une baisse. Il y a même plus de 145 millions de dollars qui ont été investis dans les cryptos via des fonds négociés en bourse, ce qui est un bon signe. C'est l'heure de l'accumulation, les prix bas pourraient être une super opportunité !"
+  "story": "Le marché est actuellement plongé dans la peur, les gens sont extrêmement nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent contre le marché, mais l'argent frais qui entre dans les ETF montre que les gens commencent à revenir. C'est le moment parfait pour accumuler, le marché est prêt à rebondir !"
 }

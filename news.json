@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T22:00:10.273Z",
+  "updatedAt": "2026-02-13T22:15:03.327Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Banques & Stablecoins",
+      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
       "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Un conseiller de la Maison Blanche pense que les banques ne devraient pas craindre les rendements des stablecoins.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait contribuer à une légère hausse des prix, car elle réduit les inquiétudes réglementaires et favorise l'adoption des stablecoins. Dans le contexte actuel de peur extrême, cela pourrait aider à amorcer un rebond.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel en réduisant les inquiétudes réglementaires, ce qui pourrait contribuer à l'accumulation forte signalée par le marché.",
+      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:54:56 +0000"
     },
     {
-      "title": "ETH : Intérêt ouvert",
+      "title": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
       "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
-      "summary": "L'intérêt ouvert pour l'ETH est à son plus bas niveau en 3 ans, ce qui pourrait conduire à un squeeze à la hausse.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait conduire à une hausse significative des prix de l'ETH, car un squeeze à la hausse pourrait être déclenché par la fermeture de positions courtes. Dans le contexte actuel, cela pourrait amplifier le mouvement haussier potentiel.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel en renforçant le signal d'accumulation forte et en augmentant les chances d'un squeeze à la hausse, étant donné le niveau élevé de positions courtes.",
-      "importance": 5,
+      "summary": "Traders say Ether’s declining open interest and futures funding rates could set the groundwork for a significant short squeeze on bearish leveraged po",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     },
     {
-      "title": "Prévisions de prix",
+      "title": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
       "titleOriginal": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Les prix du Bitcoin et des altcoins majeurs tentent de former un plus haut plancher, signalant une tentative de rebond.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle suggère que les prix pourraient continuer à augmenter, car les bulls tentent de former un plus haut plancher. Dans le contexte actuel de peur extrême, cela pourrait indiquer un rebond imminent.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel en renforçant le signal d'accumulation forte et en suggérant que les bulls commencent à reprendre le contrôle du marché.",
-      "importance": 4,
+      "summary": "Bitcoin and several major altcoins are attempting a relief rally, signaling that the bulls are trying to form a higher low.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 20:30:00 +0000"
     },
     {
-      "title": "Loi fiscale hollandaise",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:14:37 +0000"
+    },
+    {
+      "title": "Dutch House of Representatives advances controversial 36% tax law",
       "titleOriginal": "Dutch House of Representatives advances controversial 36% tax law",
-      "summary": "La Chambre des représentants des Pays-Bas a adopté une loi fiscale controversée qui pourrait avoir un impact sur les investisseurs crypto.",
-      "impact": "bearish",
-      "priceEffect": "Cette nouvelle pourrait avoir un impact négatif sur les prix, car les investisseurs pourraient être découragés par les changements fiscaux. Cependant, dans le contexte actuel de peur extrême, cela pourrait déjà être pris en compte dans les prix.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel en introduisant une incertitude réglementaire, mais son impact pourrait être limité étant donné le niveau élevé de positions courtes et la peur extrême du marché.",
+      "summary": "Certain assets, like equity in a qualifying start-up company and physical property used for non-investment, were exempt from the 36% tax.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/dutch-house-advances-36-tax-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 20:05:40 +0000"
-    },
-    {
-      "title": "Bulls Bitcoin",
-      "titleOriginal": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
-      "summary": "Les bulls Bitcoin poussent le prix au-dessus de 69 000 $, tandis que les traders de détail exercent une pression sur les positions courtes.",
-      "impact": "bullish",
-      "priceEffect": "Cette nouvelle pourrait conduire à une poursuite de la hausse des prix, car les bulls semblent prendre le contrôle. Dans le contexte actuel, cela pourrait amplifier le mouvement haussier potentiel et contribuer à un rebond.",
-      "contextLink": "Cette nouvelle se connecte au contexte actuel en renforçant le signal d'accumulation forte et en suggérant que les bulls commencent à reprendre le contrôle du marché, poussant les prix à la hausse.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 19:21:46 +0000"
     }
   ]
 }
