@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T13:45:03.750Z",
+  "updatedAt": "2026-02-13T14:00:04.277Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.4",
-      "short": "43.6",
+      "long": "56.3",
+      "short": "43.7",
       "ratio": "1.29"
     },
     "accounts": {
-      "long": "67.1",
-      "short": "32.9"
+      "long": "67.0",
+      "short": "33.0"
     },
-    "takerBuySellRatio": "1.94",
+    "takerBuySellRatio": "1.25",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,965",
+    "btc": "79,953",
     "usd": "5.38B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67325,
+    "current": 67273,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.16",
+    "change24h": "-1.64",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,325",
+      "currentPrice": "$67,273",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement très peur, avec une note de 9/100, ce qui signifie que tout le monde a très peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions, elles, sont optimistes. Malgré cette peur, de l'argent entre dans le marché, avec 145 millions de dollars injectés récemment. C'est le signe d'une accumulation forte, comme si les investisseurs attendaient le moment parfait pour frapper !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est étonnant. Il y a même de l'argent qui rentre dans le marché, ce qui pourrait être un signe de rebond. C'est comme si tout le monde attendait le feu vert pour se lancer, l'atmosphère est électrique !"
 }
