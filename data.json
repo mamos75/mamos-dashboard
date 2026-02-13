@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T11:00:03.992Z",
+  "updatedAt": "2026-02-13T11:15:03.363Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.8",
-      "short": "43.2",
+      "long": "56.7",
+      "short": "43.3",
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "67.9",
-      "short": "32.1"
+      "long": "68.0",
+      "short": "32.0"
     },
-    "takerBuySellRatio": "1.33",
+    "takerBuySellRatio": "1.81",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,719",
+    "btc": "79,797",
     "usd": "5.34B",
-    "change24h": -0.1,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66990,
+    "current": 66885,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.51",
+    "change24h": "-1.47",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,990",
+      "currentPrice": "$66,885",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui prévaut ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. Malgré tout, de l'argent frais entre dans le marché, ce qui pourrait être un signe de renversement. C'est comme si tout le monde retenait son souffle en attendant la prochaine étape !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, c'est comme si tout le monde attendait la fin du monde ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent massivement, ce qui est plutôt rassurant. Les flux d'argent dans les ETF sont également positifs, ce qui signifie que les gens placent leur argent dans les cryptos. C'est l'heure de l'accumulation, il semble que les sages préparent leur porte-monnaie pour un énorme rebound !"
 }
