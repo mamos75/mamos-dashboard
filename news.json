@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T20:30:08.764Z",
+  "updatedAt": "2026-02-13T20:45:04.120Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Loi fiscale hollandaise",
+      "title": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "titleOriginal": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "summary": "Bitcoin and several major altcoins are attempting a relief rally, signaling that the bulls are trying to form a higher low.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:30:00 +0000"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:14:37 +0000"
+    },
+    {
+      "title": "Dutch House of Representatives advances controversial 36% tax law",
       "titleOriginal": "Dutch House of Representatives advances controversial 36% tax law",
-      "summary": "La Chambre des représentants néerlandaise adopte une loi fiscale de 36%",
-      "impact": "bearish",
-      "priceEffect": "Cette loi fiscale pourrait décourager les investisseurs, mais dans le contexte actuel de peur extrême, son impact pourrait être déjà pris en compte dans les prix. Les hedge funds à 68,9% SHORT pourraient amplifier l'effet bearish.",
-      "contextLink": "Cette news se connecte au contexte actuel en soulignant les défis réglementaires auxquels le marché crypto est confronté, mais son impact est modéré par la position déjà très short des hedge funds.",
+      "summary": "Certain assets, like equity in a qualifying start-up company and physical property used for non-investment, were exempt from the 36% tax.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/dutch-house-advances-36-tax-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 20:05:40 +0000"
     },
     {
-      "title": "Crise d'identité de Bitcoin",
+      "title": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
       "titleOriginal": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
-      "summary": "La corrélation de Bitcoin avec les actions tech remet en question son statut de 'digital gold'",
-      "impact": "bearish",
-      "priceEffect": "Cette crise d'identité pourrait affaiblir la confiance dans Bitcoin, mais dans le contexte actuel, les investisseurs institutionnels restent bullish, ce qui pourrait contrebalancer l'effet bearish. L'accumulation forte pourrait également soutenir les prix.",
-      "contextLink": "Cette news se connecte au contexte actuel en mettant en lumière les débats sur la nature fondamentale de Bitcoin, influençant potentiellement la perception des investisseurs à long terme.",
-      "importance": 4,
+      "summary": "Bitcoin’s growing correlation with tech stocks challenges its digital gold narrative, as Ether treasuries, BlackRock and Polymarket make bold moves.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/digital-gold-or-tech-stock-bitcoin-s-identity-crisis-deepens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 20:00:00 +0000"
     },
     {
-      "title": "Bulls poussent Bitcoin",
+      "title": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
       "titleOriginal": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
-      "summary": "Les traders retail poussent Bitcoin au-dessus de 69 000$",
-      "impact": "bullish",
-      "priceEffect": "Cette poussée bullish pourrait marquer un changement de tendance durable, surtout dans le contexte actuel de peur extrême et de positionnement short élevé des hedge funds. L'effet de rebond pourrait être significatif.",
-      "contextLink": "Cette news se connecte directement au contexte actuel, où les conditions sont favorables à un rebond suite à la pression exercée par les traders retail sur les positions short.",
-      "importance": 5,
+      "summary": "Bitcoin rallies above $69,000 as retail traders apply pressure to short positions and aim to generate a lasting bullish trend change.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 19:21:46 +0000"
-    },
-    {
-      "title": "BlackRock entre dans DeFi",
-      "titleOriginal": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
-      "summary": "BlackRock entre sur le marché DeFi, accélérant la poussée institutionnelle",
-      "impact": "bullish",
-      "priceEffect": "L'entrée de BlackRock dans DeFi pourrait renforcer la confiance institutionnelle dans le marché crypto, soutenant ainsi les prix. Dans le contexte actuel, cela pourrait contribuer à inverser la tendance baissière et à confirmer l'accumulation forte.",
-      "contextLink": "Cette news se connecte au contexte actuel en soulignant la poussée institutionnelle dans le marché crypto, qui pourrait contrebalancer les positions short des hedge funds et renforcer la tendance haussière.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/blackrock-enters-defi-institutional-crypto-push-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 19:00:00 +0000"
-    },
-    {
-      "title": "Institutions empruntent contre SOL",
-      "titleOriginal": "Anchorage, Kamino let institutions borrow against SOL without moving custody",
-      "summary": "Nouveau cadre pour emprunter contre SOL sans déplacer la custodie",
-      "impact": "bullish",
-      "priceEffect": "Cette innovation pourrait accroître la liquidité et la confiance dans le marché, soutenant les prix. Dans le contexte actuel, cela pourrait aider à maintenir la pression haussière sur les prix, renforçant l'accumulation.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant comment les institutions cherchent à interagir avec le marché crypto de manière plus fluide, ce qui pourrait contribuer à la stabilité et à la croissance à long terme.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/anchorage-kamino-institutions-borrow-against-sol-without-moving-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 17:37:15 +0000"
     }
   ]
 }
