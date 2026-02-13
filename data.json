@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T03:00:03.908Z",
+  "updatedAt": "2026-02-13T03:15:03.041Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.9",
-      "short": "43.1",
+      "long": "57.0",
+      "short": "43.0",
       "ratio": "1.32"
     },
     "accounts": {
       "long": "70.1",
       "short": "29.9"
     },
-    "takerBuySellRatio": "0.47",
-    "trend": "more_short",
+    "takerBuySellRatio": "0.53",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,415",
-    "usd": "5.30B",
-    "change24h": 0,
+    "btc": "79,304",
+    "usd": "5.28B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66695,
+    "current": 66528,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.10",
+    "change24h": "-1.43",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,695",
+      "currentPrice": "$66,528",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent même plus d'actions. Les flux d'argent entrent dans le marché, ce qui est un bon signe. C'est le moment idéal pour acheter, car tout le monde est trop prudent et les prix sont bas !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, par contre, misent sur une baisse, ce qui pourrait créer une opportunité pour nous. C'est le moment de prendre une grande respiration et de profiter de cette peur excessive pour acheter à bas prix !"
 }
