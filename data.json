@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T08:00:04.613Z",
+  "updatedAt": "2026-02-13T08:15:03.423Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
+      "long": "56.6",
+      "short": "43.4",
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "68.8",
-      "short": "31.2"
+      "long": "68.6",
+      "short": "31.4"
     },
-    "takerBuySellRatio": "1.75",
+    "takerBuySellRatio": "1.54",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,732",
+    "btc": "79,690",
     "usd": "5.28B",
-    "change24h": 0.3,
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66213,
+    "current": 66276,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.50",
+    "change24h": "-1.43",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,213",
+      "currentPrice": "$66,276",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de se faire mal. Mais les gros joueurs, comme les institutions, sont plutôt optimistes et achètent discrètement. C'est une bonne nouvelle, car cela signifie que le marché est peut-être prêt à rebondir. Les investisseurs institutionnels misent gros sur une remontée, et les flux d'argent dans les ETF le confirment !"
+  "story": "Le marché est en pleine panique, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont optimistes et achètent, ce qui est un signe positif. Les investisseurs institutionnels mettent même de l'argent dans les ETF, ce qui montre qu'ils croient en l'avenir. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
 }
