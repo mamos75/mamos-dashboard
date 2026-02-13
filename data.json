@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T09:45:03.600Z",
+  "updatedAt": "2026-02-13T10:00:04.567Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "68.2",
-      "short": "31.8"
+      "long": "68.0",
+      "short": "32.0"
     },
-    "takerBuySellRatio": "1.51",
+    "takerBuySellRatio": "0.52",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,798",
-    "usd": "5.34B",
-    "change24h": 0,
+    "btc": "79,836",
+    "usd": "5.35B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66864,
+    "current": 66951,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-0.83",
+    "change24h": "-0.88",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 10,
-      "bear": 3,
-      "net": 7
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,864",
+      "currentPrice": "$66,951",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont nerveux et vendent leurs cryptos. Mais attention, les grandes institutions sont optimistes et injectent de l'argent dans le marché, ce qui pourrait être un signe de rebond. Les hedge funds, eux, sont majoritairement prêts à vendre, mais l'argent qui entre dans les ETF est un signal positif. C'est le moment idéal pour acheter, car le marché est en train de s'accumuler fortement !"
+  "story": "Le marché est actuellement plongé dans la peur, les gens sont super nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent même. Les hedge funds, par contre, misent sur une baisse, ce qui pourrait créer une belle opportunité pour nous. C'est le moment idéal pour accumuler, la pression est trop forte, ça va exploser !"
 }
