@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T02:15:03.505Z",
+  "updatedAt": "2026-02-13T02:30:03.268Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.2",
-      "short": "43.8",
-      "ratio": "1.28"
+      "long": "56.3",
+      "short": "43.7",
+      "ratio": "1.29"
     },
     "accounts": {
       "long": "69.7",
       "short": "30.3"
     },
-    "takerBuySellRatio": "2.00",
+    "takerBuySellRatio": "2.39",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,430",
-    "usd": "5.28B",
+    "btc": "79,423",
+    "usd": "5.29B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 66512,
+    "current": 66547,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.46",
+    "change24h": "-1.43",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$66,512",
+      "currentPrice": "$66,547",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont plutôt négatifs, ce qui crée une tension intéressante. Les flux d'argent dans les ETF sont positifs, ce qui signale une confiance croissante. C'est le moment idéal pour accumuler, car le marché sent qu'un rebond est imminent !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour nous ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont très négatifs, ce qui crée une tension intéressante. Les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens achètent. C'est le moment idéal pour accumuler, le marché sent que quelque chose de gros va arriver !"
 }
