@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T13:00:03.639Z",
+  "updatedAt": "2026-02-13T13:15:03.554Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -20,21 +20,21 @@
   "longShort": {
     "topTraders": {
       "long": "56.8",
-      "short": "43.2",
-      "ratio": "1.32"
+      "short": "43.3",
+      "ratio": "1.31"
     },
     "accounts": {
       "long": "67.4",
       "short": "32.6"
     },
-    "takerBuySellRatio": "0.90",
+    "takerBuySellRatio": "0.91",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,022",
-    "usd": "5.37B",
-    "change24h": -0.1,
+    "btc": "80,000",
+    "usd": "5.36B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 67077,
+    "current": 66974,
     "high24h": 68411,
     "low24h": 65118,
-    "change24h": "-1.15",
+    "change24h": "-1.28",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$67,077",
+      "currentPrice": "$66,974",
       "entryZone": "$65,100 - $66,600",
       "invalidation": null,
       "target1": "$68,400",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. Malgré tout, l'argent continue de rentrer dans le marché, ce qui est un bon signe. C'est comme si tout le monde attendait le feu vert pour bondir et faire exploser les prix !"
+  "story": "Le marché est actuellement dominé par la peur, avec beaucoup de gens très inquiets. Mais les grandes institutions restent optimistes et injectent de l'argent dans les cryptos, ce qui est un signe positif. Les hedge funds, eux, parient contre le marché, mais cela pourrait être une erreur, car les signaux indiquent une forte accumulation. C'est le moment idéal pour acheter, car tout le monde vend et les prix sont bas !"
 }
