@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T20:00:11.558Z",
+  "updatedAt": "2026-02-13T20:15:02.897Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.1",
-      "short": "44.9",
-      "ratio": "1.23"
+      "long": "55.5",
+      "short": "44.5",
+      "ratio": "1.25"
     },
     "accounts": {
       "long": "63.2",
       "short": "36.8"
     },
-    "takerBuySellRatio": "1.29",
+    "takerBuySellRatio": "1.39",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,496",
-    "usd": "5.48B",
-    "change24h": 0.4,
+    "btc": "79,541",
+    "usd": "5.47B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bullish"
   },
   "priceData": {
-    "current": 68939,
+    "current": 68807,
     "high24h": 69483,
     "low24h": 65215,
-    "change24h": "4.75",
+    "change24h": "4.72",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,939",
+      "currentPrice": "$68,807",
       "entryZone": "$65,200 - $66,700",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des crypto, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF crypto est en train de monter, ce qui pourrait inverser la tendance. C'est le moment de se préparer à une possible remontée, le signal est clair : c'est le temps d'accumuler !"
+  "story": "Le marché est dans un état de peur extrême, les gens sont super négatifs ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos. C'est une situation parfaite pour acheter, car tout le monde est trop pessimiste et les prix sont bas. C'est le moment idéal pour accumuler et attendre que le marché se redresse !"
 }

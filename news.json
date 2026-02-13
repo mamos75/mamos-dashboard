@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T20:00:16.258Z",
+  "updatedAt": "2026-02-13T20:15:03.252Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Bulls BTC $69K",
+      "title": "Dutch House of Representatives advances controversial 36% tax law",
+      "titleOriginal": "Dutch House of Representatives advances controversial 36% tax law",
+      "summary": "Certain assets, like equity in a qualifying start-up company and physical property used for non-investment, were exempt from the 36% tax.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/dutch-house-advances-36-tax-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:05:40 +0000"
+    },
+    {
+      "title": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
+      "titleOriginal": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
+      "summary": "Bitcoin’s growing correlation with tech stocks challenges its digital gold narrative, as Ether treasuries, BlackRock and Polymarket make bold moves.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/digital-gold-or-tech-stock-bitcoin-s-identity-crisis-deepens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:00:00 +0000"
+    },
+    {
+      "title": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
       "titleOriginal": "Bitcoin bulls blitz $69K as retail traders pressure short positioning",
-      "summary": "Les traders retail poussent le prix du Bitcoin à $69 000 en réduisant les positions courtes.",
-      "impact": "bullish",
-      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond du prix du Bitcoin, car les traders institutionnels sont déjà bullish et les flux d'ETF sont positifs. Le prix pourrait continuer à augmenter si les traders retail maintiennent leur pression sur les positions courtes.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond.",
-      "importance": 4,
+      "summary": "Bitcoin rallies above $69,000 as retail traders apply pressure to short positions and aim to generate a lasting bullish trend change.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-bulls-blitz-dollar69k-as-retail-traders-pressure-short-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 19:21:46 +0000"
     },
     {
-      "title": "BlackRock entre dans DeFi",
+      "title": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
       "titleOriginal": "BlackRock enters DeFi as institutional crypto push accelerates: Finance Redefined",
-      "summary": "BlackRock entre dans le marché DeFi, ce qui pourrait accélérer l'adoption institutionnelle des cryptomonnaies.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance des investisseurs institutionnels dans le marché des cryptomonnaies, ce qui pourrait à son tour soutenir les prix à long terme. Cependant, l'impact immédiat sur le prix pourrait être limité en raison de la peur extrême actuelle.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish et de flux d'ETF positifs, ce qui suggère que les investisseurs institutionnels sont de plus en plus intéressés par les cryptomonnaies.",
-      "importance": 5,
+      "summary": "Bitcoin and Ether rebounded modestly as ETF outflows mounted, while BlackRock entered DeFi and Binance completed its $1 billion Bitcoin reserve shift.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/blackrock-enters-defi-institutional-crypto-push-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 19:00:00 +0000"
     },
     {
-      "title": "Objectif $72K",
-      "titleOriginal": "Bitcoin $72K target possible if V-shaped recovery pattern completes",
-      "summary": "Le prix du Bitcoin pourrait atteindre $72 000 si le modèle de récupération en V se confirme.",
-      "impact": "bullish",
-      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond du prix du Bitcoin, car les traders retail et institutionnels sont déjà bullish. Le prix pourrait continuer à augmenter si le modèle de récupération en V se confirme.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-dollar72k-target-possible-if-v-shaped-recovery-pattern-completes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 17:30:00 +0000"
-    },
-    {
-      "title": "Loi CLARITY",
-      "titleOriginal": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
-      "summary": "La loi CLARITY pourrait améliorer la confiance des investisseurs dans le marché des cryptomonnaies.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif à long terme sur le prix du Bitcoin, car une réglementation claire pourrait attirer davantage d'investisseurs institutionnels. Cependant, l'impact immédiat sur le prix pourrait être limité en raison de la peur extrême actuelle.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, ce qui suggère que les investisseurs institutionnels sont de plus en plus intéressés par les cryptomonnaies et les produits dérivés.",
+      "title": "Anchorage, Kamino let institutions borrow against SOL without moving custody",
+      "titleOriginal": "Anchorage, Kamino let institutions borrow against SOL without moving custody",
+      "summary": "A new framework allows institutions to borrow against staked SOL while the assets remain in qualified custody, as US lawmakers debate DeFi oversight.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/crypto-sentiment-rise-clarity-passed-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 17:01:06 +0000"
-    },
-    {
-      "title": "BTC sous-évalué",
-      "titleOriginal": "Bitcoin most 'undervalued' since March 2023 at $20K, BTC price metric shows",
-      "summary": "Le prix du Bitcoin est sous-évalué selon un indicateur technique.",
-      "impact": "bullish",
-      "priceEffect": "Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un rebond du prix du Bitcoin, car les traders retail et institutionnels sont déjà bullish. Le prix pourrait continuer à augmenter si les investisseurs réalisent que le prix est sous-évalué.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les hedge funds sont à 68,9% SHORT, ce qui pourrait amplifier l'effet de rebond.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-most-undervalued-since-march-2023-classic-btc-price-metric-shows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 16:30:00 +0000"
+      "link": "https://cointelegraph.com/news/anchorage-kamino-institutions-borrow-against-sol-without-moving-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 17:37:15 +0000"
     }
   ]
 }
