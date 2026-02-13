@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T12:30:15.124Z",
+  "updatedAt": "2026-02-13T12:45:04.258Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,52 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Perte de Bitcoin",
+      "title": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
+      "titleOriginal": "Crypto CEO gets 20 years for $200M Bitcoin Ponzi scheme",
+      "summary": "A federal judge sentenced PGI founder Ramil Palafox to 20 years in prison for running a Bitcoin Ponzi scheme that raised over $200 million from custom",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/pgi-ceo-20-year-sentence-200m-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 11:29:52 +0000"
+    },
+    {
+      "title": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
       "titleOriginal": "22 Bitcoin worth $1.5M vanish from Seoul police custody",
-      "summary": "22 Bitcoin valant 1,5 million de dollars ont disparu de la garde de la police de Séoul.",
-      "impact": "bearish",
-      "priceEffect": "Cette perte pourrait accroître les inquiétudes sur la sécurité des actifs numériques, mais dans le contexte actuel, le marché est peut-être déjà trop négatif pour que cela ait un impact significatif sur le prix. Les investisseurs pourraient être plus prudents, mais l'effet pourrait être temporaire.",
-      "contextLink": "Cette news pourrait renforcer la méfiance envers les institutions, mais les flux d'ETF sont positifs, indiquant un certain appétit pour les actifs numériques.",
+      "summary": "The loss was uncovered during an audit launched after a separate 320 Bitcoin custody failure, raising fresh concerns over digital asset management by ",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/seoul-police-22-bitcoin-missing-cold-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 10:55:19 +0000"
     },
     {
-      "title": "Fusion crypto",
+      "title": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
       "titleOriginal": "Boerse Stuttgart Digital, Tradias agree merger to build European crypto hub",
-      "summary": "Boerse Stuttgart Digital et Tradias fusionnent pour créer un hub crypto européen réglementé.",
-      "impact": "bullish",
-      "priceEffect": "Cette fusion pourrait être un signe positif pour l'adoption et la régulation des cryptomonnaies en Europe, ce qui pourrait soutenir les prix à long terme. Dans le contexte actuel de peur extrême, cette news pourrait contribuer à un potentiel rebond.",
-      "contextLink": "Cette news se connecte au signal d'accumulation forte, suggérant que malgré la peur actuelle, les fondamentaux sont solides.",
-      "importance": 4,
+      "summary": "Boerse Stuttgart will merge its crypto arm with Tradias, creating a regulated European crypto unit providing services in trading, custody, staking and",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-agree-merger-to-build-european-crypto-hub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:54:52 +0000"
     },
     {
-      "title": "Retraite des ETF",
+      "title": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
+      "titleOriginal": "Aave Labs seeks $50M grant to redirect product revenue to DAO",
+      "summary": "Some community members questioned the size of the $50 million package and warned that the proposed AAVE token grant could concentrate voting power.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/aave-labs-50m-dao-revenue-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 09:18:26 +0000"
+    },
+    {
+      "title": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
       "titleOriginal": "Bitcoin ETFs bleed $410M as Standard Chartered slashes BTC target",
-      "summary": "Les ETF Bitcoin perdent 410 millions de dollars alors que Standard Chartered réduit sa cible pour le Bitcoin à 100 000 dollars pour 2026.",
-      "impact": "bearish",
-      "priceEffect": "Cette retraite des ETF et la révision à la baisse de la cible pour le Bitcoin pourraient renforcer la tendance baissière à court terme, mais dans le contexte de peur extrême, le marché pourrait déjà avoir intégré ces informations. Les institutions restent bullish, ce qui pourrait contrebalancer les ventes.",
-      "contextLink": "Cette news s'inscrit dans le contexte de peur extrême, mais les flux d'ETF positifs et l'optimisme des institutions pourraient limiter la chute.",
+      "summary": "US spot Bitcoin ETFs are on track for a fourth consecutive week of losses as Standard Chartered cut its 2026 Bitcoin target to $100,000.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-etf-410-million-outflows-standard-chartered-cut-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 09:04:36 +0000"
-    },
-    {
-      "title": "Tokenisation",
-      "titleOriginal": "ETHZilla offers token tied to jet engine leases amid tokenization pivot",
-      "summary": "ETHZilla propose un jeton lié à des locations de moteurs d'avion dans le cadre d'une stratégie de tokenisation.",
-      "impact": "bullish",
-      "priceEffect": "Cette initiative pourrait montrer la diversification et l'innovation dans l'espace des cryptomonnaies, ce qui pourrait avoir un effet positif sur la confiance et les prix à long terme. Cela pourrait contribuer à un rebond dans un marché actuellement très négatif.",
-      "contextLink": "Cette news se connecte au signal d'accumulation forte, indiquant que malgré la peur actuelle, il y a des développements positifs dans l'écosystème.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ethzilla-tokenized-jet-engines-rwa-ethereum-liquidity-io?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 06:15:26 +0000"
     }
   ]
 }
