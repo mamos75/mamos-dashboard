@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T22:30:03.459Z",
+  "updatedAt": "2026-02-14T22:45:02.759Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -21,20 +21,20 @@
     "topTraders": {
       "long": "54.9",
       "short": "45.1",
-      "ratio": "1.21"
+      "ratio": "1.22"
     },
     "accounts": {
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "0.67",
+    "takerBuySellRatio": "0.55",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,946",
+    "btc": "77,806",
     "usd": "5.45B",
-    "change24h": 0.1,
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69942,
+    "current": 69988,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.56",
+    "change24h": "1.60",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,942",
+      "currentPrice": "$69,988",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement sous tension, avec une peur extrême qui domine. Les gros investisseurs sont plutôt optimistes, mais les hedge funds misent plutôt sur une baisse. Il y a même eu un afflux de 145 millions de dollars dans les ETF crypto, ce qui est un signal positif. C'est la zone parfaite pour investir, car tout le monde a peur, mais les signes sont Rather bons !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, parient contre le marché, ce qui pourrait être une bonne occasion pour nous. C'est une zone d'accumulation, c'est-à-dire que c'est le moment de acheter, pas de vendre !"
 }

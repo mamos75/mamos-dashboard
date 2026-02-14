@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T22:30:07.372Z",
+  "updatedAt": "2026-02-14T22:45:06.989Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,25 +8,25 @@
   "narrative": null,
   "news": [
     {
-      "title": "Buterin réinvente les marchés",
+      "title": "Buterin sur les marchés prédictifs",
       "titleOriginal": "Prediction markets should become hedging platforms, says Buterin",
-      "summary": "Buterin propose de transformer les marchés de prédiction en instruments de stabilité des prix",
+      "summary": "Buterin suggère que les marchés prédictifs devraient devenir des instruments de stabilité des prix",
       "impact": "bullish",
-      "priceEffect": "Dans un marché en peur extrême, cette news pourrait contribuer à un potentiel rebond, car elle suggère une utilisation plus stable et mature des crypto-monnaies. Cela pourrait renforcer la confiance des investisseurs à long terme.",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs sont à la recherche de signaux de stabilité et de maturité dans le marché.",
+      "priceEffect": "Cela pourrait contribuer à une perception plus positive du marché, potentiellement entraînant un rebond dans un contexte de peur extrême. Les investisseurs institutionnels, déjà bullish, pourraient trouver cela encourageant.",
+      "contextLink": "Cette news se connecte au contexte actuel en offrant une perspective positive sur l'évolution des marchés prédictifs, qui pourrait influencer les décisions d'investissement.",
       "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 22:16:34 +0000"
     },
     {
-      "title": "X lance le trading in-app",
+      "title": "X lance le trading en app",
       "titleOriginal": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-      "summary": "X va lancer une fonctionnalité de trading directement dans l'application",
+      "summary": "X annoncera le trading en application dans quelques semaines",
       "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère une adoption accrue des crypto-monnaies et une expérience utilisateur plus fluide. Cela pourrait attirer de nouveaux investisseurs et renforcer la demande.",
-      "contextLink": "Cette news se connecte au contexte actuel d'ETF Flows à +$145M, où les investisseurs institutionnels montrent un intérêt croissant pour les crypto-monnaies.",
-      "importance": 3,
+      "priceEffect": "Cela pourrait attirer de nouveaux investisseurs et augmenter l'activité sur le marché, contribuant potentiellement à un rebond dans le contexte actuel. Les flux d'ETF positifs pourraient être renforcés par de telles annonces.",
+      "contextLink": "Cette news se connecte au contexte actuel en offrant une perspective d'expansion des services de trading, qui pourrait contrebalancer les positions short des hedge funds.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 21:00:30 +0000"
@@ -34,38 +34,38 @@
     {
       "title": "Avantages sociaux en chaîne",
       "titleOriginal": "All social program benefits can be distributed onchain: Compliance exec",
-      "summary": "Les avantages sociaux pourraient être distribués en chaîne",
+      "summary": "Les avantages sociaux peuvent être distribués en chaîne",
       "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix à long terme, car elle suggère une adoption accrue des technologies blockchain dans les secteurs traditionnels. Cela pourrait ouvrir de nouvelles opportunités pour les crypto-monnaies.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, où les investisseurs institutionnels cherchent à utiliser les technologies blockchain pour améliorer les services publics.",
+      "priceEffect": "Cela pourrait ouvrir de nouvelles opportunités pour l'adoption de la technologie blockchain, renforçant la confiance dans le marché à long terme. Les institutions, déjà bullish, pourraient voir cela comme un signe de maturité du marché.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant les progrès de l'adoption de la technologie blockchain dans les programmes sociaux, ce qui pourrait encourager les investisseurs institutionnels.",
       "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 18:20:21 +0000"
     },
     {
-      "title": "ARK Invest relance Coinbase",
+      "title": "Figure Technology victime d'une faille",
+      "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
+      "summary": "Figure Technology a subi une faille de sécurité, exposant des données personnelles",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait renforcer la peur et la méfiance dans le marché, mais dans le contexte actuel de peur extrême, l'impact pourrait être déjà pris en compte. Les investisseurs pourraient être plus sensibles aux risques de sécurité.",
+      "contextLink": "Cette news se connecte au contexte actuel en soulignant les risques de sécurité dans l'espace crypto, ce qui pourrait renforcer les positions short des hedge funds.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 12:57:59 +0000"
+    },
+    {
+      "title": "ARK Invest achète des actions Coinbase",
       "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-      "summary": "ARK Invest a acheté des actions de Coinbase",
+      "summary": "ARK Invest a acheté 15 millions d'actions Coinbase",
       "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère que les investisseurs institutionnels ont confiance dans le potentiel de Coinbase. Cela pourrait renforcer la demande et attirer de nouveaux investisseurs.",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, où les investisseurs institutionnels montrent un intérêt croissant pour les crypto-monnaies et les entreprises de services financiers décentralisés.",
-      "importance": 4,
+      "priceEffect": "Cela pourrait signaler une confiance accrue dans le marché, particulièrement dans les entreprises de trading comme Coinbase, et potentiellement contrebalancer les positions short. Les flux d'ETF positifs pourraient être renforcés par de telles annonces.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant que les investisseurs institutionnels comme ARK Invest sont prêts à prendre des positions longues, ce qui pourrait influencer les autres investisseurs.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 10:19:56 +0000"
-    },
-    {
-      "title": "Trump Media lance des ETF",
-      "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "Trump Media a déposé une demande pour lancer des ETF liés aux crypto-monnaies",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix, car elle suggère une adoption accrue des crypto-monnaies et une reconnaissance accrue de leur valeur. Cela pourrait attirer de nouveaux investisseurs et renforcer la demande.",
-      "contextLink": "Cette news se connecte au contexte actuel d'ETF Flows à +$145M, où les investisseurs institutionnels montrent un intérêt croissant pour les crypto-monnaies et les produits financiers dérivés.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     }
   ]
 }
