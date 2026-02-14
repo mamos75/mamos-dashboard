@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T14:00:04.043Z",
+  "updatedAt": "2026-02-14T14:15:03.071Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "62.3",
-      "short": "37.7"
+      "long": "62.2",
+      "short": "37.8"
     },
-    "takerBuySellRatio": "0.71",
+    "takerBuySellRatio": "1.03",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,245",
-    "usd": "5.57B",
-    "change24h": -0.2,
+    "btc": "80,394",
+    "usd": "5.58B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69460,
+    "current": 69468,
     "high24h": 70560,
     "low24h": 66867,
-    "change24h": "3.25",
+    "change24h": "3.43",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,460",
+      "currentPrice": "$69,468",
       "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes. Les hedge funds, eux, misent sur une baisse, mais les flux d'argent vers les ETF crypto sont plutôt positifs. C'est une zone d'accumulation parfaite pour acheter, si tu as le courage !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont optimistes et achètent des cryptos, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, ce qui crée une tension intéressante. C'est une zone d'accumulation parfaite pour acheter, si tu as le courage de faire le contraire de la foule !"
 }
