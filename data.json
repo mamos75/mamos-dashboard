@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T00:15:03.849Z",
+  "updatedAt": "2026-02-14T00:30:03.199Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.9",
-      "short": "45.1",
+      "long": "55.0",
+      "short": "45.0",
       "ratio": "1.22"
     },
     "accounts": {
-      "long": "61.4",
-      "short": "38.6"
+      "long": "61.2",
+      "short": "38.8"
     },
-    "takerBuySellRatio": "0.65",
+    "takerBuySellRatio": "0.96",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,240",
+    "btc": "79,316",
     "usd": "5.46B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 68885,
+    "current": 68898,
     "high24h": 69483,
     "low24h": 65872,
-    "change24h": "3.78",
+    "change24h": "4.30",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 8,
-      "bear": 3,
-      "net": 5
+      "bear": 2,
+      "net": 6
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,885",
+      "currentPrice": "$68,898",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et les hedge funds misent contre nous à 68,9% ! Mais les institutions, elles, sont plutôt optimistes et injectent de l'argent dans les ETF, ça donne plus de 145 millions de dollars. C'est comme si tout le monde attendait le feu vert pour bondir, l'accumulation est forte et ça sent la reprise imminente ! Les investisseurs sont prêts à faire face à la peur et à profiter de l'opportunité."
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont nerveux et ont peur de perdre de l'argent. Mais les institutions, elles, sont optimistes et misent sur une hausse. Les investisseurs institutionnels injectent même de l'argent dans le marché, avec plus de 145 millions de dollars d'investissements récents. C'est le moment idéal pour les acheteurs patients de profiter de cette peur irrationnelle et d'accumuler des actifs à bas prix !"
 }
