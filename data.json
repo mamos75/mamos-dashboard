@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T17:45:03.819Z",
+  "updatedAt": "2026-02-14T18:00:04.605Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.5",
-      "short": "45.5",
-      "ratio": "1.20"
+      "long": "54.7",
+      "short": "45.3",
+      "ratio": "1.21"
     },
     "accounts": {
-      "long": "62.3",
-      "short": "37.7"
+      "long": "62.6",
+      "short": "37.4"
     },
-    "takerBuySellRatio": "1.17",
+    "takerBuySellRatio": "1.69",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,285",
-    "usd": "5.53B",
-    "change24h": -0.3,
+    "btc": "79,197",
+    "usd": "5.52B",
+    "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,7 +61,7 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69808,
+    "current": 69733,
     "high24h": 70560,
     "low24h": 68683,
     "change24h": "1.00",
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,808",
+      "currentPrice": "$69,733",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'investir. C'est le moment idéal pour accumuler, le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les gros investisseurs sont optimistes, tandis que les hedge funds sont très négatifs, ce qui crée une opportunité intéressante. L'argent continue d'entrer dans le marché, avec plus de 145 millions de dollars injectés récemment. C'est le moment idéal pour accumuler, car le marché semble prêt à rebondir !"
 }
