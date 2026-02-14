@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T18:00:04.605Z",
+  "updatedAt": "2026-02-14T18:15:03.976Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.21"
     },
     "accounts": {
-      "long": "62.6",
-      "short": "37.4"
+      "long": "62.7",
+      "short": "37.3"
     },
-    "takerBuySellRatio": "1.69",
+    "takerBuySellRatio": "0.98",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,197",
+    "btc": "79,065",
     "usd": "5.52B",
-    "change24h": -0.4,
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69733,
+    "current": 69761,
     "high24h": 70560,
     "low24h": 68683,
-    "change24h": "1.00",
+    "change24h": "1.09",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -132,13 +132,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
+      "bull": 8,
       "bear": 4,
-      "net": 5
+      "net": 4
     },
     "signals": [
       {
@@ -172,14 +172,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,733",
+      "currentPrice": "$69,761",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -201,13 +201,13 @@
     ],
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $68,700 - $70,200. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les gros investisseurs sont optimistes, tandis que les hedge funds sont très négatifs, ce qui crée une opportunité intéressante. L'argent continue d'entrer dans le marché, avec plus de 145 millions de dollars injectés récemment. C'est le moment idéal pour accumuler, car le marché semble prêt à rebondir !"
+  "story": "Le marché est actuellement plongé dans la peur, les gens sont super nerveux ! Les grandes institutions, elles, restent optimistes et continuent d'investir, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse, mais les flux d'argent dans les ETF montrent que les investisseurs individuels sont toujours dans le jeu. On dirait que l'on est dans une zone où les prix sont bas et que c'est peut-être le moment d'acheter !"
 }
