@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T10:45:03.725Z",
+  "updatedAt": "2026-02-14T11:00:04.834Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "61.2",
-      "short": "38.8"
+      "long": "61.3",
+      "short": "38.7"
     },
-    "takerBuySellRatio": "0.58",
+    "takerBuySellRatio": "1.51",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,622",
-    "usd": "5.54B",
-    "change24h": -0.3,
+    "btc": "79,667",
+    "usd": "5.55B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69608,
+    "current": 69676,
     "high24h": 69900,
     "low24h": 66783,
-    "change24h": "3.85",
+    "change24h": "4.03",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,608",
+      "currentPrice": "$69,676",
       "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
       "target1": "$69,900",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les institutions, elles, sont plutôt optimistes et achètent, ce qui pourrait être un signal pour nous. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF montre que les investisseurs sont toujours intéressés. On dirait que le marché est en train de se préparer pour une remontée, mais pour l'instant, c'est la peur qui domine !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et sont très prudents. Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, eux, misent contre le marché, mais l'argent qui entre dans les fonds cryptos est en augmentation, ce qui pourrait être le début d'un retournement. On dirait que l'on est en zone d'accumulation, c'est-à-dire que c'est le moment de acheter avant que les prix ne repartent à la hausse !"
 }
