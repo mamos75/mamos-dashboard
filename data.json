@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T19:30:02.867Z",
+  "updatedAt": "2026-02-14T19:45:03.265Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.20"
     },
     "accounts": {
-      "long": "63.3",
-      "short": "36.7"
+      "long": "63.2",
+      "short": "36.8"
     },
-    "takerBuySellRatio": "1.12",
+    "takerBuySellRatio": "1.08",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,873",
+    "btc": "78,843",
     "usd": "5.51B",
     "change24h": 0,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69840,
+    "current": 69855,
     "high24h": 70560,
     "low24h": 68683,
-    "change24h": "1.23",
+    "change24h": "1.32",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,840",
+      "currentPrice": "$69,855",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs ! Les gros investisseurs institutionnels sont optimistes, et les flux d'argent dans les ETF sont en hausse, ce qui signale une forte accumulation. Les hedge funds, eux, sont très négatifs, mais cela pourrait être une opportunité pour nous, car ils sont souvent contre les tendances. C'est le moment de faire le contraire de la foule et de saisir l'occasion !"
+  "story": "Le marché est actuellement plongé dans la peur, avec une note de 9 sur 100, c'est extrême ! Les gros investisseursinstitutionnels sont par contre optimistes, ce qui pourrait être un signe de rebond. Les flux d'argent vers les ETF sont également positifs, avec 145 millions de dollars injectés. C'est le moment idéal pour acheter, le marché est en train de se ressourcer fortement !"
 }
