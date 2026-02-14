@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T01:15:03.681Z",
+  "updatedAt": "2026-02-14T01:30:02.813Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.4",
-      "short": "44.6",
-      "ratio": "1.24"
+      "long": "55.5",
+      "short": "44.5",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.3",
-      "short": "38.7"
+      "long": "61.4",
+      "short": "38.6"
     },
-    "takerBuySellRatio": "4.09",
+    "takerBuySellRatio": "0.45",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,143",
+    "btc": "79,270",
     "usd": "5.47B",
-    "change24h": -0.1,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69075,
+    "current": 69041,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "4.24",
+    "change24h": "4.22",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,075",
+      "currentPrice": "$69,041",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. C'est comme si tout le monde vendait en panique, mais les \"gros joueurs\" achètent discrètement. C'est la définition d'une zone d'accumulation, où les sages profitent de la peur des autres !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont cependant optimistes, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est comme si le marché était en train de se préparer pour un grand rebond, mais pour l'instant, tout le monde retient son souffle !"
 }
