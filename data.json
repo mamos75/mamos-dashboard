@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T03:30:02.721Z",
+  "updatedAt": "2026-02-14T03:45:02.926Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "61.2",
+      "long": "61.3",
       "short": "38.8"
     },
-    "takerBuySellRatio": "0.71",
+    "takerBuySellRatio": "0.72",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,172",
+    "btc": "79,184",
     "usd": "5.46B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68932,
+    "current": 68950,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.38",
+    "change24h": "3.46",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,932",
+      "currentPrice": "$68,950",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. Il y a même plus de 145 millions de dollars qui entrent dans les ETF crypto, ce qui est un bon signe. C'est comme si le marché était en train de se préparer pour un gros rebond !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont super nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent des cryptos, ce qui est plutôt rassurant. Les hedge funds, par contre, misent sur une baisse du marché, mais l'argent qui entre dans les ETF cryptos montre que les gens continuent d'y croire. C'est la zone parfaite pour acheter, car tout le monde est trop effrayé pour investir !"
 }
