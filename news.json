@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T08:15:03.827Z",
+  "updatedAt": "2026-02-14T08:30:11.235Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "title": "Trump lance 2 nouveaux ETF crypto",
       "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "US spot Bitcoin ETFs recorded four straight weeks of net outflows, with about $360 million withdrawn in the latest week.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Trump Media dépose deux nouvelles demandes d'ETF liés à Bitcoin, Ether et Cronos",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait entraîner une augmentation de la confiance des investisseurs institutionnels et donc une hausse des prix, notamment dans un marché actuel caractérisé par une peur extrême et des flux d'ETF positifs",
+      "contextLink": "Les institutions sont déjà bullish, cette news pourrait renforcer leur confiance",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     },
     {
-      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
+      "title": "Capitulation des memecoins",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le marché des memecoins montre des signes de capitulation classique selon Santiment",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait indiquer un point bas pour les memecoins et une opportunité de rebond, notamment dans un marché en zone d'accumulation",
+      "contextLink": "La zone d'accumulation actuelle pourrait être un point de rebond pour les memecoins",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
     },
     {
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Antho",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 03:38:20 +0000"
-    },
-    {
-      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
+      "title": "Ether tient à 2000$",
       "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
+      "summary": "Ether maintient son prix à 2000$ malgré un flux de sortie de 242M$ pour l'ETF spot ETH",
       "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "priceEffect": "Cela pourrait indiquer une résistance à la baisse pour Ether, mais les tensions géopolitiques et les résultats des entreprises pourraient exercer une pression à la baisse",
+      "contextLink": "Les hedge funds sont déjà à 68,9% short, ce qui pourrait limiter la baisse potentielle",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 23:37:49 +0000"
     },
     {
-      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
+      "title": "Stablecoins : pas de peur pour les banques",
       "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Un conseiller de la Maison Blanche pense que les banques ne devraient pas craindre les rendements des stablecoins",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait améliorer la confiance dans les stablecoins et les cryptomonnaies en général, ce qui pourrait avoir un effet positif sur les prix",
+      "contextLink": "Cela pourrait soutenir les prix des cryptomonnaies dans un marché caractérisé par une peur extrême",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:54:56 +0000"
+    },
+    {
+      "title": "Intérêt ouvert pour ETH à un plus bas de 3 ans",
+      "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
+      "summary": "L'intérêt ouvert pour Ether est à son plus bas niveau en 3 ans",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait indiquer un potentiel de squeeze à la hausse pour Ether, notamment dans un marché où les hedge funds sont déjà à 68,9% short",
+      "contextLink": "La combinaison de l'intérêt ouvert bas et des hedge funds à 68,9% short pourrait créer un environnement propice à un rebond",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     }
   ]
 }
