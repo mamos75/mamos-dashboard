@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T11:15:03.442Z",
+  "updatedAt": "2026-02-14T11:30:03.451Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "61.3",
       "short": "38.7"
     },
-    "takerBuySellRatio": "1.33",
+    "takerBuySellRatio": "1.53",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,559",
-    "usd": "5.57B",
-    "change24h": -0.1,
+    "btc": "78,908",
+    "usd": "5.54B",
+    "change24h": -1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 70071,
-    "high24h": 70165,
+    "current": 70186,
+    "high24h": 70488,
     "low24h": 66783,
-    "change24h": "4.76",
+    "change24h": "4.78",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -72,7 +72,7 @@
       65100
     ],
     "resistances": [
-      70200,
+      70500,
       72300
     ],
     "bias": "bullish",
@@ -179,10 +179,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,071",
+      "currentPrice": "$70,186",
       "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
-      "target1": "$70,200",
+      "target1": "$70,500",
       "target2": "$72,300"
     },
     "factors": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'euphorie de la peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent gros sur une baisse. C'est comme si tout le monde attendait le feu vert pour se lancer, et les flux d'argent dans les ETF montrent que les gens commencent à se positionner. C'est la zone parfaite pour accumuler des crypto, il faut juste avoir le courage de prendre le contre-pied de la foule !"
+  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent plutôt sur une baisse. C'est comme si tout le monde retenait son souffle, attendant de voir ce qui va se passer. Les signes sont là, on entre peut-être dans une zone où il va falloir acheter, pas vendre !"
 }
