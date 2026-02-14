@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T07:15:03.564Z",
+  "updatedAt": "2026-02-14T07:30:03.828Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "0.97",
+    "takerBuySellRatio": "2.45",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,109",
-    "usd": "5.45B",
-    "change24h": 0,
+    "btc": "79,186",
+    "usd": "5.46B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68900,
+    "current": 68957,
     "high24h": 69483,
     "low24h": 66050,
-    "change24h": "3.56",
+    "change24h": "3.71",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
+      "bull": 9,
       "bear": 5,
-      "net": 3
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,900",
+      "currentPrice": "$68,957",
       "entryZone": "$66,100 - $67,600",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui règne ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'arriver dans les ETF crypto. C'est comme si tout le monde retenait son souffle, attendant de voir ce qui va se passer !"
+  "story": "Le marché est super peur, c'est presque paralysant ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont très négatifs, ce qui crée une tension incroyable. Malgré cela, les gens continuent d'investir dans les crypto, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais pour l'instant, c'est la peur qui domine."
 }
