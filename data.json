@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T20:15:02.922Z",
+  "updatedAt": "2026-02-14T20:30:04.131Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,10 +24,10 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "62.8",
-      "short": "37.2"
+      "long": "62.5",
+      "short": "37.5"
     },
-    "takerBuySellRatio": "0.74",
+    "takerBuySellRatio": "1.69",
     "trend": "more_short",
     "signal": "neutral"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69828,
+    "current": 69830,
     "high24h": 70560,
     "low24h": 68683,
-    "change24h": "1.48",
+    "change24h": "1.47",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -132,13 +132,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "strong_accumulation",
+    "label": "ACCUMULATION FORTE",
+    "emoji": "🚀",
     "score": {
-      "bull": 8,
-      "bear": 5,
-      "net": 3
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -172,14 +172,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Modéré"
+      "strength": "Fort"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,828",
+      "currentPrice": "$69,830",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -201,13 +201,13 @@
     ],
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
+      "recommendation": "Accumulation progressive",
+      "detail": "DCA sur la zone $68,700 - $70,200. Ne pas FOMO sur les pumps."
     },
     "risk": {
-      "maxPosition": "1-2%",
+      "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont super nerveux ! Les hedge funds parient même à 68,9% que les prix vont baisser, mais les institutions, elles, sont plutôt optimistes. Malgré tout, les investisseurs continuent de mettre de l'argent dans les cryptos, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché attendait juste le bon moment pour rebondir !"
+  "story": "Le marché est actuellement très peureux, avec une majorité des investisseurs ayant une vision négative. Mais les choses sont peut-être sur le point de changer, car les grandes institutions sont plutôt optimistes et investissent massivement, avec plus de 145 millions de dollars injectés ces derniers jours. Les \"gros joueurs\" du marché, comme les hedge funds, sont en train de parier contre la crypto, mais cela pourrait être une erreur, car les signaux montrent que les investisseurs commencent à accumuler des crypto-monnaies. C'est une situation explosive qui pourrait déclencher une hausse soudaine !"
 }
