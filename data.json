@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T02:00:04.092Z",
+  "updatedAt": "2026-02-14T02:15:02.941Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.6",
-      "short": "44.4",
-      "ratio": "1.25"
+      "long": "55.2",
+      "short": "44.8",
+      "ratio": "1.23"
     },
     "accounts": {
-      "long": "61.1",
-      "short": "38.9"
+      "long": "61.4",
+      "short": "38.6"
     },
-    "takerBuySellRatio": "3.77",
-    "trend": "more_long",
+    "takerBuySellRatio": "0.28",
+    "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,344",
+    "btc": "79,282",
     "usd": "5.47B",
-    "change24h": 0.2,
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68948,
+    "current": 68983,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.81",
+    "change24h": "3.71",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,948",
+      "currentPrice": "$68,983",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone d'extrême peur, c'est comme si tout le monde avait peur de perdre son chemin. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent contre le marché, mais l'argent qui entre dans les ETF est un signe de confiance. C'est le moment idéal pour acheter, car tout le monde est trop peur pour voir les opportunités !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont vraiment nerveux et ont peur de perdre de l'argent. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et pensent que les choses vont s'améliorer. C'est comme si tout le monde vendait ses biens, mais les \"gros joueurs\" achètent discrètement, ce qui pourrait être un signal de rebond. Il semblerait que nous soyons dans une zone où les prix sont bas et que les investisseurs avertis commencent à acheter."
 }
