@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T21:15:03.541Z",
+  "updatedAt": "2026-02-14T21:30:04.008Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "62.6",
       "short": "37.4"
     },
-    "takerBuySellRatio": "3.11",
-    "trend": "more_short",
+    "takerBuySellRatio": "1.34",
+    "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,511",
-    "usd": "5.51B",
-    "change24h": -0.1,
+    "btc": "78,262",
+    "usd": "5.48B",
+    "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 70212,
+    "current": 70001,
     "high24h": 70560,
     "low24h": 68726,
-    "change24h": "1.75",
+    "change24h": "1.59",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,212",
+      "currentPrice": "$70,001",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, eux, sont en train de parier contre le marché, mais les flux d'argent dans les ETF montrent que les gens achètent massivement. C'est une bonne occasion d'accumuler, le signal est clair !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Les hedge funds, eux, sont en train de parier contre le marché, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est comme si tout le monde se préparait pour une grande remontée, mais personne n'ose y croire !"
 }
