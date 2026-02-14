@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T02:45:03.234Z",
+  "updatedAt": "2026-02-14T03:00:08.379Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "61.3",
       "short": "38.7"
     },
-    "takerBuySellRatio": "1.11",
+    "takerBuySellRatio": "1.33",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,260",
+    "btc": "79,274",
     "usd": "5.46B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68934,
+    "current": 68877,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.55",
+    "change24h": "3.27",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,934",
+      "currentPrice": "$68,877",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions restent optimistes, ce qui est plutôt rassurant. Les investisseurs achètent même pour 145 millions de dollars en fonds négociés en bourse, ce qui montre qu'il y a encore de l'espoir. On dirait que c'est le moment idéal pour accumuler, avant que les choses ne repartent à la hausse !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un bon signe. Les flux d'argent vers les ETF crypto sont également positifs, avec 145 millions de dollars injectés récemment. C'est la zone parfaite pour accumuler des cryptos à bas prix !"
 }
