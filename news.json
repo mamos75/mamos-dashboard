@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T05:45:03.888Z",
+  "updatedAt": "2026-02-14T06:00:08.574Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,52 @@
   "narrative": null,
   "news": [
     {
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
+      "title": "Bitcoin testé",
       "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Antho",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Anthony Pompliano pense que Bitcoin deviendra plus valué que jamais après la fin de la déflation",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond potentiel du prix de Bitcoin, car les investisseurs institutionnels sont déjà bullish et les flux d'ETF sont positifs. Dans un marché en extreme peur, cette nouvelle pourrait aider à inverser la tendance baissière.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs sont très pessimistes, mais les institutions sont bullish.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 03:38:20 +0000"
     },
     {
-      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
+      "title": "Ether sous pression",
       "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le prix d'Ether pourrait rester sous pression en raison des sorties d'ETF et des tensions mondiales",
+      "impact": "bearish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à une poursuite de la tendance baissière d'Ether, mais dans un marché où les hedge funds sont déjà très short, il est possible que cette nouvelle soit déjà prise en compte dans les prix. Le signal global de zone d'accumulation pourrait limiter la baisse.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Hedge Funds à 68,9% short, où les investisseurs sont déjà très pessimistes sur le marché.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 23:37:49 +0000"
     },
     {
-      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 21:54:56 +0000"
-    },
-    {
-      "title": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
+      "title": "Ether prêt à rebondir",
       "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
-      "summary": "Traders say Ether’s declining open interest and futures funding rates could set the groundwork for a significant short squeeze on bearish leveraged po",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "L'intérêt ouvert pour Ether est à son plus bas niveau en 3 ans, ce qui pourrait déclencher un rebond",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond potentiel du prix d'Ether, car l'intérêt ouvert bas et les taux de financement des futures bas pourraient créer un effet de squeeze à la hausse. Dans un marché en extreme peur, cette nouvelle pourrait aider à inverser la tendance baissière.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100 et de Hedge Funds à 68,9% short, où les investisseurs sont très pessimistes et les conditions sont réunies pour un rebond.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     },
     {
-      "title": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "titleOriginal": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Bitcoin and several major altcoins are attempting a relief rally, signaling that the bulls are trying to form a higher low.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "title": "Identité de Bitcoin",
+      "titleOriginal": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
+      "summary": "La corrélation de Bitcoin avec les actions de technologie remet en question son statut de réserve de valeur",
+      "impact": "bearish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à une perte de confiance dans Bitcoin en tant que réserve de valeur, ce qui pourrait avoir un impact négatif sur les prix. Cependant, dans un marché en extreme peur, les investisseurs pourraient être plus sensibles aux signaux de rebond qu'aux questions sur l'identité de Bitcoin.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs sont très pessimistes et ont besoin de signaux positifs pour rétablir la confiance.",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 20:30:00 +0000"
+      "link": "https://cointelegraph.com/news/digital-gold-or-tech-stock-bitcoin-s-identity-crisis-deepens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:00:00 +0000"
     }
   ]
 }
