@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T04:45:03.005Z",
+  "updatedAt": "2026-02-14T05:00:04.060Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
+      "long": "55.4",
+      "short": "44.6",
       "ratio": "1.24"
     },
     "accounts": {
-      "long": "61.2",
-      "short": "38.8"
+      "long": "61.4",
+      "short": "38.6"
     },
-    "takerBuySellRatio": "1.13",
+    "takerBuySellRatio": "1.20",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,183",
-    "usd": "5.45B",
-    "change24h": 0,
+    "btc": "79,130",
+    "usd": "5.44B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68852,
+    "current": 68790,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.76",
+    "change24h": "3.66",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,852",
+      "currentPrice": "$68,790",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les hedge funds parient même contre le marché, mais les grandes institutions restent optimistes. Malgré tout, on voit de l'argent qui entre dans les ETF, ce qui est un bon signe. C'est comme si le marché était en train de se ressourcer pour un éventuel rebond."
+  "story": "Le marché est actuellement dans une zone d'extrême peur, avec beaucoup d'investisseurs qui ont peur de perdre de l'argent. Mais attention, les grandes institutions sont plutôt optimistes et ont même investi 145 millions de dollars supplémentaires dans les cryptos. Les hedge funds, eux, sont très négatifs, mais cela pourrait être une bonne occasion d'acheter pour nous. C'est le moment parfait pour faire le contraire de la foule et acheter pendant que les prix sont bas !"
 }
