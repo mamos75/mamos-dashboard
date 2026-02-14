@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T10:00:05.194Z",
+  "updatedAt": "2026-02-14T10:15:03.457Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "61.4",
-      "short": "38.6"
+      "long": "61.2",
+      "short": "38.8"
     },
-    "takerBuySellRatio": "0.74",
+    "takerBuySellRatio": "0.54",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,828",
-    "usd": "5.57B",
+    "btc": "79,774",
+    "usd": "5.56B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69713,
+    "current": 69648,
     "high24h": 69900,
     "low24h": 66783,
-    "change24h": "4.13",
+    "change24h": "4.10",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,713",
+      "currentPrice": "$69,648",
       "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
       "target1": "$69,900",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont nerveux et les hedge funds misent contre la crypto. Mais les institutions, elles, sont optimistes et investissent massivement, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché était en train de créer une opportunité en or pour ceux qui osent investir. C'est le moment idéal pour acheter, car tout le monde est trop occupé à avoir peur pour voir les signes de reprise !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et injectent de l'argent dans les cryptos. C'est comme si tout le monde vendait à tout prix, mais les plus intelligents achètent en douce. C'est la définition parfaite d'une zone d'accumulation, où les sages profitent de la panique générale !"
 }
