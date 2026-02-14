@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T15:00:09.118Z",
+  "updatedAt": "2026-02-14T15:15:04.007Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Figure Tech victime d'une faille",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 13:04:42 +0000"
+    },
+    {
+      "title": "Figure Technology suffers data breach, exposing personal customer details",
       "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
-      "summary": "Une entreprise de technologie a subi une faille de sécurité, exposant des données personnelles",
-      "impact": "bearish",
-      "priceEffect": "Cette news peut renforcer la méfiance envers les entreprises de crypto et les technologies liées, ce qui pourrait exercer une pression à la baisse sur les prix. Cependant, dans un marché déjà en fear extrême, l'impact pourrait être limité.",
-      "contextLink": "Cette news se connecte au contexte actuel en soulignant les risques de sécurité dans le secteur crypto, ce qui pourrait influencer la confiance des investisseurs.",
+      "summary": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 12:57:59 +0000"
     },
     {
-      "title": "ARK Invest rachète Coinbase",
+      "title": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
       "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-      "summary": "ARK Invest a acheté des actions de Coinbase pour 15 millions de dollars",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut soutenir le prix de Coinbase et avoir un effet positif sur le marché crypto dans son ensemble, particulièrement dans un contexte où les hedge funds sont majoritairement short. Cela pourrait contribuer à un potentiel rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les institutions comme ARK Invest sont bullish sur certaines entreprises de crypto, ce qui peut contrebalancer les positions short des hedge funds.",
-      "importance": 4,
+      "summary": "Cathie Wood’s ARK Invest added nearly $15.2 million in Coinbase stock across three ETFs, reversing course days after offloading more than $39 million ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 10:19:56 +0000"
     },
     {
-      "title": "Trump Media dépose des ETF crypto",
+      "title": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
       "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "Trump Media a déposé des demandes pour deux nouveaux ETF liés à Bitcoin, Ether et Cronos",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut indiquer une augmentation de la demande institutionnelle pour les produits crypto, ce qui pourrait soutenir les prix à long terme. Cependant, les sorties nettes récentes des ETF Bitcoin pourraient tempérer cet effet.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant l'intérêt croissant des institutions pour les produits crypto, malgré les sorties nettes récentes des ETF Bitcoin.",
-      "importance": 4,
+      "summary": "US spot Bitcoin ETFs recorded four straight weeks of net outflows, with about $360 million withdrawn in the latest week.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     },
     {
-      "title": "Marché des memecoins en capitulation",
+      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "Le marché des memecoins montre des signes de capitulation, selon Santiment",
-      "impact": "bullish",
-      "priceEffect": "Cette news suggère que le marché des memecoins pourrait être proche d'un point bas, ce qui pourrait indiquer un potentiel rebond. Dans un marché en fear extrême, cela pourrait être un signal d'achat pour les traders à la recherche de opportunités de rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel en fournissant un signal technique qui pourrait indiquer une opportunité de rebond dans un marché déjà très baissier.",
-      "importance": 4,
+      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
-    },
-    {
-      "title": "Pompliano : Bitcoin plus valu",
-      "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Anthony Pompliano pense que Bitcoin deviendra plus valable que jamais",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut renforcer la confiance à long terme dans Bitcoin, mais son impact sur le prix à court terme pourrait être limité. Dans un marché en fear extrême, les déclarations positives des entrepreneurs et des investisseurs peuvent contribuer à stabiliser les prix.",
-      "contextLink": "Cette news se connecte au contexte actuel en fournissant une perspective à long terme positive sur Bitcoin, ce qui peut aider à contrebalancer les sentiments négatifs actuels.",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 03:38:20 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T15:00:04.438Z",
+  "updatedAt": "2026-02-14T15:15:03.645Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
-      "ratio": "1.26"
+      "long": "56.0",
+      "short": "44.0",
+      "ratio": "1.27"
     },
     "accounts": {
-      "long": "62.0",
-      "short": "38.0"
+      "long": "62.9",
+      "short": "37.1"
     },
-    "takerBuySellRatio": "0.78",
+    "takerBuySellRatio": "2.25",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,478",
+    "btc": "80,550",
     "usd": "5.61B",
-    "change24h": 0.3,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69707,
+    "current": 69608,
     "high24h": 70560,
-    "low24h": 67692,
-    "change24h": "2.75",
+    "low24h": 68130,
+    "change24h": "1.77",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      67700,
+      68100,
       65100
     ],
     "resistances": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,707",
-      "entryZone": "$67,700 - $69,200",
+      "currentPrice": "$69,608",
+      "entryZone": "$68,100 - $69,600",
       "invalidation": "$65,100",
       "target1": "$70,600",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $67,700 - $69,200 pour position."
+      "detail": "Attendre un repli vers $68,100 - $69,600 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais les gens continuent d'investir dans les cryptos, ce qui est un bon signe. On dirait que c'est le moment idéal pour acheter, le marché est en zone d'accumulation !"
+  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les grandes institutions sont pourtant optimistes, ce qui est intéressant. Les investisseurs institutionnels mettent même de l'argent dans les crypto, plus de 145 millions de dollars cette semaine ! C'est comme si le marché était en train de se préparer pour un grand rebond."
 }
