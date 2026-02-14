@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T02:30:03.203Z",
+  "updatedAt": "2026-02-14T02:45:03.234Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "61.3",
       "short": "38.7"
     },
-    "takerBuySellRatio": "1.47",
+    "takerBuySellRatio": "1.11",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,290",
+    "btc": "79,260",
     "usd": "5.46B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68903,
+    "current": 68934,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.54",
+    "change24h": "3.55",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,903",
+      "currentPrice": "$68,934",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une chute, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais tout le monde a peur de sauter le premier !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même à 68,9% sur une baisse, mais les institutions restent optimistes, ce qui est plutôt rassurant. Les investisseurs achètent même pour 145 millions de dollars en fonds négociés en bourse, ce qui montre qu'il y a encore de l'espoir. On dirait que c'est le moment idéal pour accumuler, avant que les choses ne repartent à la hausse !"
 }
