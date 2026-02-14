@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T20:45:03.992Z",
+  "updatedAt": "2026-02-14T21:00:07.203Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.7",
-      "short": "45.3",
+      "long": "54.8",
+      "short": "45.2",
       "ratio": "1.21"
     },
     "accounts": {
-      "long": "62.5",
-      "short": "37.5"
+      "long": "62.6",
+      "short": "37.4"
     },
-    "takerBuySellRatio": "2.72",
+    "takerBuySellRatio": "1.50",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,407",
-    "usd": "5.48B",
-    "change24h": -0.6,
+    "btc": "78,569",
+    "usd": "5.50B",
+    "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69954,
+    "current": 70023,
     "high24h": 70560,
-    "low24h": 68683,
-    "change24h": "1.64",
+    "low24h": 68726,
+    "change24h": "1.81",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,954",
+      "currentPrice": "$70,023",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur la baisse, mais l'argent qui entre dans les fonds cryptos est en augmentation, ce qui montre que les gens ont confiance. C'est le moment idéal pour acheter, car tout le monde est en train de s'approvisionner en cryptos à bas prix !"
+  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent sur une baisse. Malgré tout, les gens continuent d'investir, avec 145 millions de dollars supplémentaires dans les ETF crypto. C'est comme si tout le monde retenait son souffle, mais les signes sont là : les gens accumulent discrètement, c'est le moment de faire attention !"
 }
