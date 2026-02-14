@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T04:30:03.655Z",
+  "updatedAt": "2026-02-14T04:45:03.005Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.24"
     },
     "accounts": {
-      "long": "61.1",
-      "short": "38.9"
+      "long": "61.2",
+      "short": "38.8"
     },
-    "takerBuySellRatio": "2.67",
+    "takerBuySellRatio": "1.13",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,229",
-    "usd": "5.46B",
-    "change24h": 0.1,
+    "btc": "79,183",
+    "usd": "5.45B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68908,
+    "current": 68852,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.70",
+    "change24h": "3.76",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,908",
+      "currentPrice": "$68,852",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec une note de 9/100, ce qui signifie que tout le monde a très peur ! Les grandes institutions, par contre, sont plutôt optimistes et investissent massivement, avec 145 millions de dollars injectés ces derniers temps. Les hedge funds, eux, misent sur une baisse, mais cela pourrait être une opportunité pour nous. C'est une zone d'accumulation parfaite, où les sages investisseurs achètent à bas prix !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les hedge funds parient même contre le marché, mais les grandes institutions restent optimistes. Malgré tout, on voit de l'argent qui entre dans les ETF, ce qui est un bon signe. C'est comme si le marché était en train de se ressourcer pour un éventuel rebond."
 }
