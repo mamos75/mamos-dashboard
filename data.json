@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T22:00:04.223Z",
+  "updatedAt": "2026-02-14T22:15:03.158Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.22"
     },
     "accounts": {
-      "long": "62.4",
-      "short": "37.6"
+      "long": "62.5",
+      "short": "37.5"
     },
-    "takerBuySellRatio": "0.89",
+    "takerBuySellRatio": "0.35",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,846",
-    "usd": "5.44B",
-    "change24h": -0.9,
+    "btc": "77,872",
+    "usd": "5.45B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69933,
+    "current": 70007,
     "high24h": 70560,
-    "low24h": 68726,
-    "change24h": "1.50",
+    "low24h": 68730,
+    "change24h": "1.85",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,933",
+      "currentPrice": "$70,007",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, tout le monde a peur et veut vendre. Mais les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les fonds cryptos est en train d'augmenter, ce qui pourrait être un signal de renversement. On dirait que l'on est en train de toucher le fond, c'est peut-être le moment d'acheter !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent, ce qui est un bon signe. Les flux d'argent vers les ETF crypto sont même en hausse, ce qui montre que les gens commencent à voir le potentiel. C'est comme si le marché était en train de se préparer pour un grand rebond, mais pour l'instant, c'est la peur qui domine !"
 }
