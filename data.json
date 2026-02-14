@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T01:45:03.237Z",
+  "updatedAt": "2026-02-14T02:00:04.092Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.5",
-      "short": "44.5",
+      "long": "55.6",
+      "short": "44.4",
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.2",
-      "short": "38.8"
+      "long": "61.1",
+      "short": "38.9"
     },
-    "takerBuySellRatio": "4.26",
+    "takerBuySellRatio": "3.77",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,367",
-    "usd": "5.48B",
+    "btc": "79,344",
+    "usd": "5.47B",
     "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68997,
+    "current": 68948,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.86",
+    "change24h": "3.81",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,997",
+      "currentPrice": "$68,948",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent contre le marché. Il y a même plus d'argent qui rentre dans les cryptos que qui en sort, ce qui est un bon signe. C'est comme si tout le monde attendait le feu vert pour se lancer !"
+  "story": "Le marché est actuellement dans une zone d'extrême peur, c'est comme si tout le monde avait peur de perdre son chemin. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent contre le marché, mais l'argent qui entre dans les ETF est un signe de confiance. C'est le moment idéal pour acheter, car tout le monde est trop peur pour voir les opportunités !"
 }
