@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T17:15:03.215Z",
+  "updatedAt": "2026-02-14T17:30:03.951Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.20"
     },
     "accounts": {
-      "long": "62.4",
-      "short": "37.6"
+      "long": "62.2",
+      "short": "37.8"
     },
-    "takerBuySellRatio": "0.85",
+    "takerBuySellRatio": "0.58",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,412",
-    "usd": "5.55B",
-    "change24h": -0.1,
+    "btc": "79,267",
+    "usd": "5.53B",
+    "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69853,
+    "current": 69815,
     "high24h": 70560,
     "low24h": 68683,
-    "change24h": "1.25",
+    "change24h": "1.22",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,853",
+      "currentPrice": "$69,815",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros joueurs sont même prêts à parier contre le marché, mais les institutions sont plutôt optimistes. Il y a même de l'argent qui rentre dans les fonds, ce qui est un bon signe. On dirait que c'est le moment idéal pour acheter, le marché est en mode \"achats intelligents\" !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont super peur ! Les hedge funds misent même contre le marché, mais les grosses institutions restent optimistes. Il y a même des investisseurs qui mettent de l'argent dans les crypto, ce qui est un bon signe. C'est comme si le marché était en train de se préparer pour un grand rebond !"
 }
