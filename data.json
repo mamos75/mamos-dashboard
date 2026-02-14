@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T22:15:03.158Z",
+  "updatedAt": "2026-02-14T22:30:03.459Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -21,20 +21,20 @@
     "topTraders": {
       "long": "54.9",
       "short": "45.1",
-      "ratio": "1.22"
+      "ratio": "1.21"
     },
     "accounts": {
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "0.35",
+    "takerBuySellRatio": "0.67",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,872",
+    "btc": "77,946",
     "usd": "5.45B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 70007,
+    "current": 69942,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.85",
+    "change24h": "1.56",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,007",
+      "currentPrice": "$69,942",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent, ce qui est un bon signe. Les flux d'argent vers les ETF crypto sont même en hausse, ce qui montre que les gens commencent à voir le potentiel. C'est comme si le marché était en train de se préparer pour un grand rebond, mais pour l'instant, c'est la peur qui domine !"
+  "story": "Le marché est actuellement sous tension, avec une peur extrême qui domine. Les gros investisseurs sont plutôt optimistes, mais les hedge funds misent plutôt sur une baisse. Il y a même eu un afflux de 145 millions de dollars dans les ETF crypto, ce qui est un signal positif. C'est la zone parfaite pour investir, car tout le monde a peur, mais les signes sont Rather bons !"
 }
