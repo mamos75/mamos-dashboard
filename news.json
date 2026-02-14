@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T06:45:03.881Z",
+  "updatedAt": "2026-02-14T07:00:07.828Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,52 @@
   "narrative": null,
   "news": [
     {
-      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
+      "title": "Capitulation des memecoins",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le marché des memecoins montre des signes de capitulation classique",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait indiquer un rebond potentiel dans le marché des memecoins, car les signes de capitulation sont souvent suivis d'une hausse. Dans le contexte actuel de fear extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les hedge funds sont à 68,9% SHORT, ce qui pourrait indiquer un rebond imminent.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
     },
     {
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
+      "title": "Bitcoin et inflation",
       "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Antho",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Anthony Pompliano pense que Bitcoin deviendra plus valuable que jamais après la fin de la déflation",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait avoir un impact positif sur le prix de Bitcoin, car elle suggère que la valeur de Bitcoin augmentera à long terme. Cependant, dans le contexte actuel, cela pourrait ne pas avoir un impact immédiat sur le prix.",
+      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les institutions sont bullish, ce qui pourrait indiquer que les investisseurs institutionnels ont confiance en la valeur à long terme de Bitcoin.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 03:38:20 +0000"
     },
     {
-      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 23:37:49 +0000"
-    },
-    {
-      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 21:54:56 +0000"
-    },
-    {
-      "title": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
+      "title": "Intérêt ouvert pour l'Éther",
       "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
-      "summary": "Traders say Ether’s declining open interest and futures funding rates could set the groundwork for a significant short squeeze on bearish leveraged po",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "L'intérêt ouvert pour l'Éther est à son plus bas niveau en 3 ans",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait indiquer un potentiel rebond pour l'Éther, car un intérêt ouvert bas peut signifier que les investisseurs sont sous-investis et prêts à acheter. Dans le contexte actuel de fear extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les hedge funds sont à 68,9% SHORT, ce qui pourrait indiquer un rebond imminent.",
+      "importance": 5,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:30:00 +0000"
+    },
+    {
+      "title": "Prévisions de prix",
+      "titleOriginal": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
+      "summary": "Les prévisions de prix pour les cryptomonnaies majeures suggèrent une tentative de rebond",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait indiquer un potentiel rebond pour les cryptomonnaies, car les prévisions de prix suggèrent que les investisseurs sont optimistes. Dans le contexte actuel de fear extrême, cela pourrait être un signal de rebond.",
+      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les institutions sont bullish, ce qui pourrait indiquer que les investisseurs institutionnels ont confiance en la valeur à long terme des cryptomonnaies.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:30:00 +0000"
     }
   ]
 }

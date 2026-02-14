@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T06:45:03.573Z",
+  "updatedAt": "2026-02-14T07:00:03.865Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "0.70",
+    "takerBuySellRatio": "0.59",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,105",
+    "btc": "79,098",
     "usd": "5.45B",
     "change24h": 0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68876,
+    "current": 68937,
     "high24h": 69483,
     "low24h": 66050,
-    "change24h": "4.21",
+    "change24h": "3.89",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,876",
+      "currentPrice": "$68,937",
       "entryZone": "$66,100 - $67,600",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peureux en ce moment, les gens ont vraiment la frousse ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais personne n'ose y croire pour l'instant !"
+  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une baisse. C'est comme si tout le monde attendait le feu vert pour acheter, avec déjà 145 millions de dollars injectés dans les ETF. On est clairement en zone d'accumulation, c'est le moment de faire son shopping !"
 }
