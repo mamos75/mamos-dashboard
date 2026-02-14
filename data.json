@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T06:00:04.188Z",
+  "updatedAt": "2026-02-14T06:15:03.585Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.24"
     },
     "accounts": {
-      "long": "61.3",
-      "short": "38.7"
+      "long": "61.4",
+      "short": "38.6"
     },
-    "takerBuySellRatio": "1.31",
+    "takerBuySellRatio": "0.61",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,036",
+    "btc": "79,072",
     "usd": "5.44B",
-    "change24h": -0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68773,
+    "current": 68783,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.92",
+    "change24h": "3.86",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,773",
+      "currentPrice": "$68,783",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds sont à 68,9% contre nous, ce qui crée une tension incroyable. Malgré tout, les gens continuent d'investir, avec 145 millions de dollars qui entrent dans les ETF, c'est un signe de confiance. On est clairement dans une zone d'accumulation, il va falloir voir comment ça évolue !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont optimistes et achètent, ce qui est un bon signe ! Les hedge funds, eux, sont en train de parier contre le marché, ce qui pourrait créer une belle opportunité de rebond. C'est comme si le marché était en train de se préparer pour un grand saut, mais personne n'ose encore faire le premier pas !"
 }
