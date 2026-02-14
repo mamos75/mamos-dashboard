@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T06:15:03.585Z",
+  "updatedAt": "2026-02-14T06:30:03.721Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
-      "ratio": "1.24"
+      "long": "55.7",
+      "short": "44.3",
+      "ratio": "1.26"
     },
     "accounts": {
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "0.61",
+    "takerBuySellRatio": "1.15",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,072",
-    "usd": "5.44B",
+    "btc": "79,067",
+    "usd": "5.45B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68783,
+    "current": 68897,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.86",
+    "change24h": "4.24",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,783",
+      "currentPrice": "$68,897",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les grandes institutions sont optimistes et achètent, ce qui est un bon signe ! Les hedge funds, eux, sont en train de parier contre le marché, ce qui pourrait créer une belle opportunité de rebond. C'est comme si le marché était en train de se préparer pour un grand saut, mais personne n'ose encore faire le premier pas !"
+  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent à 68,9% que les prix vont baisser. Malgré tout, de l'argent frais entre sur le marché, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, on est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et les investisseurs intelligents achètent !"
 }
