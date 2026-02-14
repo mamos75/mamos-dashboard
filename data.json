@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T23:30:03.239Z",
+  "updatedAt": "2026-02-14T23:45:03.452Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.9",
-      "short": "45.1",
+      "long": "55.0",
+      "short": "45.0",
       "ratio": "1.22"
     },
     "accounts": {
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "2.09",
+    "takerBuySellRatio": "1.69",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,724",
+    "btc": "77,734",
     "usd": "5.43B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69828,
+    "current": 69822,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.33",
+    "change24h": "1.41",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,828",
+      "currentPrice": "$69,822",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment la trouille ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, ce qui contraste avec les hedge funds qui misent sur une baisse. Les gens continuent d'investir de l'argent dans les cryptos, ce qui montre une confiance croissante. C'est le moment idéal pour accumuler, car le marché est prêt à rebondir !"
 }
