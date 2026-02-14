@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T17:00:07.561Z",
+  "updatedAt": "2026-02-14T17:15:03.215Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.20"
     },
     "accounts": {
-      "long": "62.8",
-      "short": "37.2"
+      "long": "62.4",
+      "short": "37.6"
     },
-    "takerBuySellRatio": "0.58",
+    "takerBuySellRatio": "0.85",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,496",
-    "usd": "5.54B",
-    "change24h": -1.1,
+    "btc": "79,412",
+    "usd": "5.55B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69736,
+    "current": 69853,
     "high24h": 70560,
-    "low24h": 68636,
-    "change24h": "1.11",
+    "low24h": 68683,
+    "change24h": "1.25",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      68600,
+      68700,
       65100
     ],
     "resistances": [
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,736",
-      "entryZone": "$68,600 - $70,100",
+      "currentPrice": "$69,853",
+      "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $68,600 - $70,100 pour position."
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une opportunité pour acheter. Les gros investisseurs institutionnels sont plutôt optimistes, et les flux d'argent vers les ETF crypto sont en augmentation, ce qui est un bon signe. Les hedge funds, quant à eux, sont très négatifs, mais cela peut être une erreur de leur part. C'est une zone d'accumulation parfaite pour investir à long terme !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros joueurs sont même prêts à parier contre le marché, mais les institutions sont plutôt optimistes. Il y a même de l'argent qui rentre dans les fonds, ce qui est un bon signe. On dirait que c'est le moment idéal pour acheter, le marché est en mode \"achats intelligents\" !"
 }
