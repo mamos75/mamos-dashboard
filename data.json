@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T13:00:04.101Z",
+  "updatedAt": "2026-02-14T13:15:03.159Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,23 +19,23 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.7",
+      "long": "55.8",
       "short": "44.3",
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "62.9",
-      "short": "37.0"
+      "long": "62.8",
+      "short": "37.2"
     },
-    "takerBuySellRatio": "0.57",
+    "takerBuySellRatio": "0.52",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,372",
-    "usd": "5.59B",
-    "change24h": 2.2,
-    "trend": "increasing",
+    "btc": "80,110",
+    "usd": "5.58B",
+    "change24h": -0.3,
+    "trend": "stable",
     "signal": "normal"
   },
   "funding": {
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69636,
+    "current": 69715,
     "high24h": 70560,
     "low24h": 66867,
-    "change24h": "3.82",
+    "change24h": "4.10",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,636",
+      "currentPrice": "$69,715",
       "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les gros investisseurs sont optimistes et mettent de l'argent dans les ETF, ce qui pourrait être un signe de rebond. Les hedge funds, eux, misent sur une baisse, mais parfois, c'est le moment de contrer la tendance. On entre peut-être dans une zone d'accumulation, où les prix sont bas et les opportunités sont là, il faut rester vigilant !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans le jeu. Les hedge funds, par contre, misent contre le marché, ce qui pourrait créer une belle opportunité pour nous. C'est comme si tout le monde attendait que quelque chose se passe, et on est peut-être à la veille d'un grand retournement !"
 }
