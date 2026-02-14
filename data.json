@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T13:30:03.711Z",
+  "updatedAt": "2026-02-14T13:45:03.592Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -20,20 +20,20 @@
   "longShort": {
     "topTraders": {
       "long": "55.8",
-      "short": "44.2",
+      "short": "44.3",
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "62.5",
-      "short": "37.5"
+      "long": "62.4",
+      "short": "37.6"
     },
-    "takerBuySellRatio": "1.28",
+    "takerBuySellRatio": "1.36",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,213",
-    "usd": "5.56B",
+    "btc": "80,205",
+    "usd": "5.57B",
     "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69271,
+    "current": 69448,
     "high24h": 70560,
     "low24h": 66867,
-    "change24h": "2.66",
+    "change24h": "3.15",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,271",
+      "currentPrice": "$69,448",
       "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est assez paradoxal. Les hedge funds, par contre, misent sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est comme si le marché était en train de se préparer pour un grand rebond !"
+  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. C'est un peu paradoxal, mais les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens continuent d'investir. On dirait que le marché est en train de créer une zone d'accumulation, c'est-à-dire qu'il se prépare pour un éventuel rebond !"
 }
