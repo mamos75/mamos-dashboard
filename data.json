@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T12:30:03.406Z",
+  "updatedAt": "2026-02-14T12:45:03.426Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
+      "long": "55.7",
+      "short": "44.3",
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "62.5",
-      "short": "37.5"
+      "long": "62.7",
+      "short": "37.3"
     },
-    "takerBuySellRatio": "0.98",
-    "trend": "more_short",
+    "takerBuySellRatio": "0.90",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,603",
-    "usd": "5.53B",
-    "change24h": 0,
+    "btc": "79,198",
+    "usd": "5.55B",
+    "change24h": 0.7,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 70353,
+    "current": 70093,
     "high24h": 70560,
     "low24h": 66867,
-    "change24h": "4.85",
+    "change24h": "4.47",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 5,
-      "net": 3
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,353",
+      "currentPrice": "$70,093",
       "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent contre le marché à 68,9%. Malgré cela, les gens continuent d'investir, avec 145 millions de dollars qui entrent dans les ETF. C'est le moment idéal pour acheter, on est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que c'est le moment de saisir l'occasion !"
+  "story": "Le marché est actuellement plongé dans la peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une chute. C'est une situation explosive, avec de l'argent qui rentre dans les ETF, mais les taux de financement sont très bas, ce qui pourrait signifier que les prix sont prêts à rebondir. On est clairement dans une zone d'accumulation, c'est-à-dire que les acheteurs attendent le bon moment pour frapper !"
 }
