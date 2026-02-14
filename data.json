@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T13:45:03.592Z",
+  "updatedAt": "2026-02-14T14:00:04.043Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
+      "long": "55.7",
       "short": "44.3",
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "62.4",
-      "short": "37.6"
+      "long": "62.3",
+      "short": "37.7"
     },
-    "takerBuySellRatio": "1.36",
+    "takerBuySellRatio": "0.71",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,205",
+    "btc": "80,245",
     "usd": "5.57B",
     "change24h": -0.2,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69448,
+    "current": 69460,
     "high24h": 70560,
     "low24h": 66867,
-    "change24h": "3.15",
+    "change24h": "3.25",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,448",
+      "currentPrice": "$69,460",
       "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. C'est un peu paradoxal, mais les flux d'argent dans les ETF sont positifs, ce qui signifie que les gens continuent d'investir. On dirait que le marché est en train de créer une zone d'accumulation, c'est-à-dire qu'il se prépare pour un éventuel rebond !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes. Les hedge funds, eux, misent sur une baisse, mais les flux d'argent vers les ETF crypto sont plutôt positifs. C'est une zone d'accumulation parfaite pour acheter, si tu as le courage !"
 }

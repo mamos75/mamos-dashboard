@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T13:45:03.965Z",
+  "updatedAt": "2026-02-14T14:00:09.274Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 13:04:42 +0000"
-    },
-    {
-      "title": "Figure Technology suffers data breach, exposing personal customer details",
-      "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
-      "summary": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 12:57:59 +0000"
-    },
-    {
-      "title": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
+      "title": "ARK Invest : bullish",
       "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-      "summary": "Cathie Wood’s ARK Invest added nearly $15.2 million in Coinbase stock across three ETFs, reversing course days after offloading more than $39 million ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "ARK Invest réinvestit 15 millions de dollars dans Coinbase",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait contribuer à un rebond du prix de Coinbase et potentiellement du marché crypto dans son ensemble, notamment dans un contexte où les institutions sont bullish et les ETF Flows sont positifs.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant que les institutions comme ARK Invest restent optimistes sur le marché crypto malgré la peur extrême actuelle.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 10:19:56 +0000"
     },
     {
-      "title": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "title": "Trump Media : ETF crypto",
       "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "US spot Bitcoin ETFs recorded four straight weeks of net outflows, with about $360 million withdrawn in the latest week.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Trump Media dépose une demande pour deux nouveaux ETF crypto",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait indiquer une augmentation de la demande institutionnelle pour les actifs crypto, ce qui pourrait soutenir les prix à long terme. Dans le contexte actuel, cela pourrait contribuer à une stabilisation ou à un rebond.",
+      "contextLink": "Cette news se connecte au contexte actuel en montrant l'intérêt continu des institutions pour les actifs crypto, malgré les sorties nettes récentes des ETF Bitcoin.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     },
     {
-      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
+      "title": "Memecoin : signal",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le marché des memecoins montre un signal classique de capitulation",
+      "impact": "bullish",
+      "priceEffect": "Cela suggère que le marché des memecoins pourrait être proche d'un point bas, ce qui pourrait indiquer un potentiel rebond. Dans le contexte actuel de peur extrême, cela pourrait être un signal de buying opportunity.",
+      "contextLink": "Cette news se connecte au contexte actuel en fournissant un signal technique qui pourrait indiquer la fin de la tendance baissière pour les memecoins.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
+    },
+    {
+      "title": "Pompliano : Bitcoin",
+      "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
+      "summary": "Anthony Pompliano pense que Bitcoin deviendra plus valué que jamais",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait renforcer la confiance des investisseurs dans le potentiel à long terme de Bitcoin, contribuant potentiellement à un rebond du prix dans un contexte de peur extrême.",
+      "contextLink": "Cette news se connecte au contexte actuel en fournissant une perspective optimiste sur l'avenir de Bitcoin, qui pourrait contrer les sentiments négatifs actuels.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 03:38:20 +0000"
+    },
+    {
+      "title": "Stablecoin : conseiller",
+      "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
+      "summary": "Un conseiller de la Maison Blanche pense que les banques ne devraient pas craindre les rendements des stablecoins",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait contribuer à une régulation plus favorable pour les stablecoins et le marché crypto dans son ensemble, ce qui pourrait soutenir les prix à long terme. Dans le contexte actuel, cela pourrait être un signal positif pour les investisseurs.",
+      "contextLink": "Cette news se connecte au contexte actuel en indiquant un soutien potentiel pour les stablecoins et les actifs crypto de la part des régulateurs, ce qui pourrait aider à renverser la tendance baissière actuelle.",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 21:54:56 +0000"
     }
   ]
 }
