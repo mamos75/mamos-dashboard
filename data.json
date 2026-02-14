@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T03:00:08.379Z",
+  "updatedAt": "2026-02-14T03:15:02.961Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "61.3",
       "short": "38.7"
     },
-    "takerBuySellRatio": "1.33",
+    "takerBuySellRatio": "1.94",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,274",
+    "btc": "79,199",
     "usd": "5.46B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68877,
+    "current": 68911,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.27",
+    "change24h": "3.58",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,877",
+      "currentPrice": "$68,911",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent, ce qui est un bon signe. Les flux d'argent vers les ETF crypto sont également positifs, avec 145 millions de dollars injectés récemment. C'est la zone parfaite pour accumuler des cryptos à bas prix !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, restent optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse du marché, mais l'argent qui entre dans les ETF cryptos est en train de changer la donne. On dirait que c'est le moment idéal pour acheter, le marché est en zone d'accumulation !"
 }

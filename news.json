@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T03:00:12.275Z",
+  "updatedAt": "2026-02-14T03:15:03.231Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,64 +8,59 @@
   "narrative": null,
   "news": [
     {
-      "title": "Ether tient $2K",
+      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
       "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "L'Ether maintient son prix au-dessus de 2000 dollars malgré des sorties de fonds importants.",
-      "impact": "bearish",
-      "priceEffect": "Dans le contexte actuel de fear extrême, cette news pourrait être déjà prise en compte par les marchés, mais les sorties de fonds importants pourraient exercer une pression à la baisse sur le prix. Cependant, l'accumulation en cours pourrait limiter les pertes.",
-      "contextLink": "La news se connecte au contexte actuel de fear extrême et d'accumulation, où les investisseurs institutionnels sont bullish.",
-      "importance": 4,
+      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 23:37:49 +0000"
     },
     {
-      "title": "Stablecoin sans risque",
+      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
       "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Un conseiller de la Maison Blanche estime que les banques ne devraient pas craindre les rendements des stablecoins.",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait renforcer la confiance dans les stablecoins et les cryptomonnaies en général, ce qui pourrait soutenir les prix dans un contexte de fear extrême où les investisseurs cherchent des opportunités de rebond.",
-      "contextLink": "La news se connecte au contexte actuel de fear extrême, où les investisseurs cherchent des signaux positifs pour rentrer sur le marché.",
+      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:54:56 +0000"
     },
     {
-      "title": "Intérêt ouvert en baisse",
+      "title": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
       "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
-      "summary": "L'intérêt ouvert pour l'Ether est à son plus bas niveau en trois ans.",
-      "impact": "bullish",
-      "priceEffect": "Cette baisse de l'intérêt ouvert pourrait indiquer un potentiel short squeeze, ce qui pourrait faire monter le prix de l'Ether, notamment dans un contexte où les hedge funds sont fortement short.",
-      "contextLink": "La news se connecte au contexte actuel de hedge funds très short et de fear extrême, où un short squeeze pourrait déclencher un rebond significatif.",
-      "importance": 5,
+      "summary": "Traders say Ether’s declining open interest and futures funding rates could set the groundwork for a significant short squeeze on bearish leveraged po",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     },
     {
-      "title": "Prévisions de prix",
+      "title": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
       "titleOriginal": "Price predictions 2/13: BTC, ETH, BNB, XRP, SOL, DOGE, BCH, HYPE, ADA, XMR",
-      "summary": "Les prévisions de prix pour les principales cryptomonnaies suggèrent une tentative de rallye.",
-      "impact": "bullish",
-      "priceEffect": "Ces prévisions pourraient renforcer la confiance des investisseurs et soutenir les prix, notamment dans un contexte où les investisseurs institutionnels sont bullish et où les flux d'ETF sont positifs.",
-      "contextLink": "La news se connecte au contexte actuel d'accumulation et de flux d'ETF positifs, où les investisseurs cherchent des signaux pour rentrer sur le marché.",
-      "importance": 4,
+      "summary": "Bitcoin and several major altcoins are attempting a relief rally, signaling that the bulls are trying to form a higher low.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/price-predictions-2-13-btc-eth-bnb-xrp-sol-doge-bch-hype-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 20:30:00 +0000"
     },
     {
-      "title": "Crise d'identité de Bitcoin",
-      "titleOriginal": "Digital gold or tech stock? Bitcoin’s identity crisis deepens",
-      "summary": "La corrélation croissante de Bitcoin avec les actions technologiques remet en question son statut de réserve de valeur numérique.",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
       "impact": "neutre",
-      "priceEffect": "Cette crise d'identité pourrait influencer la perception à long terme de Bitcoin, mais son impact sur le prix dans le contexte actuel est difficile à évaluer.",
-      "contextLink": "La news se connecte au contexte actuel de manière générale, car la perception de Bitcoin influence les décisions d'investissement.",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/digital-gold-or-tech-stock-bitcoin-s-identity-crisis-deepens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 20:00:00 +0000"
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 20:14:37 +0000"
     }
   ]
 }
