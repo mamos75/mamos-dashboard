@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T15:45:03.370Z",
+  "updatedAt": "2026-02-14T16:00:11.153Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,31 +19,31 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.9",
-      "short": "44.1",
+      "long": "56.0",
+      "short": "44.0",
       "ratio": "1.27"
     },
     "accounts": {
-      "long": "63.6",
-      "short": "36.4"
+      "long": "63.7",
+      "short": "36.3"
     },
-    "takerBuySellRatio": "1.88",
+    "takerBuySellRatio": "1.76",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,428",
-    "usd": "5.62B",
+    "btc": "80,374",
+    "usd": "5.61B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "-0.0135",
-      "avg24h": "-0.0032"
+      "current": "-0.0152",
+      "avg24h": "-0.0028"
     },
-    "eth": "0.0014",
+    "eth": "-0.0019",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69868,
+    "current": 69778,
     "high24h": 70560,
-    "low24h": 68380,
-    "change24h": "1.63",
+    "low24h": 68541,
+    "change24h": "1.58",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      68400,
+      68500,
       65100
     ],
     "resistances": [
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,868",
-      "entryZone": "$68,400 - $69,900",
+      "currentPrice": "$69,778",
+      "entryZone": "$68,500 - $70,000",
       "invalidation": "$65,100",
       "target1": "$70,600",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $68,400 - $69,900 pour position."
+      "detail": "Attendre un repli vers $68,500 - $70,000 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les gros investisseurs sont optimistes et mettent de l'argent dans les ETF, ce qui pourrait être un signe de rebond. Les hedge funds, eux, sont prêts à parier contre le marché, mais c'est peut-être justement le moment de les contredire. On est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que c'est peut-être le moment d'acheter !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les flux d'argent entrant dans les ETF sont même positifs, ce qui veut dire que les gens achètent. C'est comme si le marché était en train de se préparer pour un énorme rebond, mais pour l'instant, c'est la peur qui domine !"
 }
