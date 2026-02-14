@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T11:30:03.451Z",
+  "updatedAt": "2026-02-14T11:45:04.031Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "61.3",
-      "short": "38.7"
+      "long": "61.5",
+      "short": "38.5"
     },
-    "takerBuySellRatio": "1.53",
+    "takerBuySellRatio": "3.07",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,908",
+    "btc": "78,787",
     "usd": "5.54B",
-    "change24h": -1,
+    "change24h": -1.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 70186,
+    "current": 70311,
     "high24h": 70488,
-    "low24h": 66783,
-    "change24h": "4.78",
+    "low24h": 66867,
+    "change24h": "4.94",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      66800,
+      66900,
       65100
     ],
     "resistances": [
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,186",
-      "entryZone": "$66,800 - $68,300",
+      "currentPrice": "$70,311",
+      "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,500",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $66,800 - $68,300 pour position."
+      "detail": "Attendre un repli vers $66,900 - $68,400 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent plutôt sur une baisse. C'est comme si tout le monde retenait son souffle, attendant de voir ce qui va se passer. Les signes sont là, on entre peut-être dans une zone où il va falloir acheter, pas vendre !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont vraiment anxieux et vendent leurs crypto. Mais attention, c'est justement dans ces moments-là que les grandes institutions achètent en silence, ce qui pourrait être un signal pour nous. Les flux d'argent dans les ETF sont également positifs, ce qui indique que les investisseurs institutionnels sont optimistes. On dirait que le marché est en train de se préparer pour un rebond !"
 }
