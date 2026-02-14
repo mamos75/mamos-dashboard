@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T12:45:03.426Z",
+  "updatedAt": "2026-02-14T13:00:04.101Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,18 +24,18 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "62.7",
-      "short": "37.3"
+      "long": "62.9",
+      "short": "37.0"
     },
-    "takerBuySellRatio": "0.90",
+    "takerBuySellRatio": "0.57",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,198",
-    "usd": "5.55B",
-    "change24h": 0.7,
-    "trend": "stable",
+    "btc": "80,372",
+    "usd": "5.59B",
+    "change24h": 2.2,
+    "trend": "increasing",
     "signal": "normal"
   },
   "funding": {
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 70093,
+    "current": 69636,
     "high24h": 70560,
     "low24h": 66867,
-    "change24h": "4.47",
+    "change24h": "3.82",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,093",
+      "currentPrice": "$69,636",
       "entryZone": "$66,900 - $68,400",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, c'est presque palpable ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une chute. C'est une situation explosive, avec de l'argent qui rentre dans les ETF, mais les taux de financement sont très bas, ce qui pourrait signifier que les prix sont prêts à rebondir. On est clairement dans une zone d'accumulation, c'est-à-dire que les acheteurs attendent le bon moment pour frapper !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais attention, les gros investisseurs sont optimistes et mettent de l'argent dans les ETF, ce qui pourrait être un signe de rebond. Les hedge funds, eux, misent sur une baisse, mais parfois, c'est le moment de contrer la tendance. On entre peut-être dans une zone d'accumulation, où les prix sont bas et les opportunités sont là, il faut rester vigilant !"
 }

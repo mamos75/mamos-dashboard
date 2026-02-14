@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T12:45:03.760Z",
+  "updatedAt": "2026-02-14T13:00:08.469Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
+      "title": "ARK Invest relance Coinbase",
       "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-      "summary": "Cathie Wood’s ARK Invest added nearly $15.2 million in Coinbase stock across three ETFs, reversing course days after offloading more than $39 million ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "ARK Invest a acheté des actions de Coinbase pour 15 millions de dollars",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait soutenir le prix de Coinbase et avoir un effet positif sur le marché crypto dans son ensemble, en particulier dans un contexte où les hedge funds sont majoritairement short. L'achat d'ARK Invest pourrait être vu comme un signal de confiance.",
+      "contextLink": "La news se connecte au contexte actuel de Hedge Funds à 68,9% short, ce qui suggère que le marché est prêt pour un rebond.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 10:19:56 +0000"
     },
     {
-      "title": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "title": "Trump Media lance des ETF crypto",
       "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "US spot Bitcoin ETFs recorded four straight weeks of net outflows, with about $360 million withdrawn in the latest week.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Trump Media a déposé une demande pour lancer des ETF liés à Bitcoin, Ether et Cronos",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait être positive pour le marché crypto, car elle suggère une augmentation de la demande institutionnelle pour les actifs crypto. Cependant, les sorties nettes de fonds des ETF Bitcoin pourraient limiter l'impact à court terme.",
+      "contextLink": "La news se connecte au contexte actuel d'institutions bullish, ce qui suggère que la demande pour les actifs crypto est en train de croître.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     },
     {
-      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
+      "title": "Les memecoins montrent des signes de capitulation",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le marché des memecoins a chuté de 34% au cours du dernier mois",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait être un signal de rebond pour les memecoins, car la capitulation est souvent suivie d'une reprise. Dans un marché en extrême peur, cela pourrait être un signal de buying opportunity.",
+      "contextLink": "La news se connecte au contexte actuel de Fear & Greed extrême, où les investisseurs sont déjà très prudents et les prix sont bas.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
     },
     {
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Antho",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 03:38:20 +0000"
-    },
-    {
-      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
+      "title": "Ether tient à 2 000 $, mais pour combien de temps ?",
       "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le prix d'Ether est actuellement à 2 000 $, mais pourrait être sous pression à cause des sorties d'ETF",
+      "impact": "bearish",
+      "priceEffect": "Cette news pourrait avoir un effet négatif sur le prix d'Ether à court terme, car les sorties d'ETF pourraient limiter la demande. Cependant, dans un marché en extrême peur, cela pourrait être un signal de buying opportunity.",
+      "contextLink": "La news se connecte au contexte actuel de Fear & Greed extrême, où les investisseurs sont déjà très prudents et les prix sont bas.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 23:37:49 +0000"
+    },
+    {
+      "title": "L'intérêt ouvert pour l'Ether atteint un plus bas de 3 ans",
+      "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
+      "summary": "L'intérêt ouvert pour l'Ether a atteint un plus bas de 3 ans, ce qui pourrait être un signal de rebond",
+      "impact": "bullish",
+      "priceEffect": "Cette news pourrait être un signal de rebond pour l'Ether, car l'intérêt ouvert bas suggère que les investisseurs sont sous-investis dans l'actif. Dans un marché en extrême peur, cela pourrait être un signal de buying opportunity.",
+      "contextLink": "La news se connecte au contexte actuel de Fear & Greed extrême, où les investisseurs sont déjà très prudents et les prix sont bas.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     }
   ]
 }
