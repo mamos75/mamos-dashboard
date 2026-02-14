@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T08:00:06.800Z",
+  "updatedAt": "2026-02-14T08:15:03.504Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.5",
-      "short": "38.5"
+      "long": "61.6",
+      "short": "38.4"
     },
-    "takerBuySellRatio": "1.80",
+    "takerBuySellRatio": "0.94",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,486",
-    "usd": "5.50B",
-    "change24h": 0.5,
+    "btc": "79,827",
+    "usd": "5.55B",
+    "change24h": 0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69219,
-    "high24h": 69483,
-    "low24h": 66192,
-    "change24h": "4.54",
+    "current": 69584,
+    "high24h": 69780,
+    "low24h": 66211,
+    "change24h": "4.99",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -72,7 +72,7 @@
       65100
     ],
     "resistances": [
-      69500,
+      69800,
       72300
     ],
     "bias": "bullish",
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,10 +179,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,219",
+      "currentPrice": "$69,584",
       "entryZone": "$66,200 - $67,700",
       "invalidation": "$65,100",
-      "target1": "$69,500",
+      "target1": "$69,800",
       "target2": "$72,300"
     },
     "factors": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone d'extrême peur, c'est comme si tout le monde attendait le pire ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est étrange. Les flux d'argent dans les ETF sont même en hausse, ce qui signifie que les gens continuent d'acheter. C'est le moment idéal pour acheter, car on est dans une zone d'accumulation, où les prix sont bas et les opportunités sont grandes !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont nerveux et ont peur de perdre de l'argent. Mais attention, les grandes institutions sont optimistes et investissent massivement, avec plus de 145 millions de dollars qui entrent dans les marchés. Les hedge funds, eux, sont plutôt pessimistes, mais c'est peut-être justement le moment de saisir l'occasion. On dirait que le marché est prêt à rebondir, c'est une zone d'accumulation parfaite pour investir !"
 }
