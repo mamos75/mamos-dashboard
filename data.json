@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T04:00:03.619Z",
+  "updatedAt": "2026-02-14T04:15:03.617Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.1",
-      "short": "44.9",
+      "long": "55.2",
+      "short": "44.8",
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "61.3",
-      "short": "38.8"
+      "long": "61.2",
+      "short": "38.9"
     },
-    "takerBuySellRatio": "0.64",
+    "takerBuySellRatio": "1.57",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,187",
+    "btc": "79,224",
     "usd": "5.46B",
-    "change24h": -0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68982,
+    "current": 68892,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.65",
+    "change24h": "3.57",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,982",
+      "currentPrice": "$68,892",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, avec une peur extrême qui domine. Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent gros sur une baisse. C'est comme si tout le monde attendait le signal pour bondir, avec 145 millions de dollars qui viennent d'entrer sur le marché. C'est la zone parfaite pour acheter, mais il faut avoir des nerfs solides !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont super peur ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent à 68,9% sur une baisse. Il y a même eu un afflux de 145 millions de dollars dans les ETF crypto, ce qui montre qu'il y a encore de l'intérêt. On dirait qu'on est dans une zone où les gens achètent en attendant que ça remonte !"
 }
