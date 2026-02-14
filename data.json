@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T16:15:03.348Z",
+  "updatedAt": "2026-02-14T16:30:03.799Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.28"
     },
     "accounts": {
-      "long": "63.3",
-      "short": "36.6"
+      "long": "63.1",
+      "short": "36.9"
     },
-    "takerBuySellRatio": "1.55",
+    "takerBuySellRatio": "1.26",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,197",
-    "usd": "5.59B",
-    "change24h": -0.2,
+    "btc": "79,963",
+    "usd": "5.55B",
+    "change24h": -0.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69687,
+    "current": 69402,
     "high24h": 70560,
     "low24h": 68636,
-    "change24h": "0.92",
+    "change24h": "0.48",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,687",
+      "currentPrice": "$69,402",
       "entryZone": "$68,600 - $70,100",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent plutôt sur une baisse. C'est comme si tout le monde attendait que quelque chose se passe, et les flux d'argent vers les ETF montrent que les gens commencent à acheter. On est dans une zone d'accumulation, c'est-à-dire que c'est le moment de se préparer pour une possible remontée !"
+  "story": "Le marché est actuellement dans une zone de peur extrême, les gens sont vraiment nerveux ! Les hedge funds misent même contre le marché, mais les institutions restent optimistes. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui pourrait être un signe de rebond. C'est comme si le marché était prêt à exploser, mais personne n'ose y croire !"
 }
