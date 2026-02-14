@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T14:45:02.782Z",
+  "updatedAt": "2026-02-14T15:00:04.438Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,15 +24,15 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "61.9",
-      "short": "38.1"
+      "long": "62.0",
+      "short": "38.0"
     },
-    "takerBuySellRatio": "0.70",
+    "takerBuySellRatio": "0.78",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "80,503",
+    "btc": "80,478",
     "usd": "5.61B",
     "change24h": 0.3,
     "trend": "stable",
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69674,
+    "current": 69707,
     "high24h": 70560,
-    "low24h": 67337,
-    "change24h": "3.47",
+    "low24h": 67692,
+    "change24h": "2.75",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      67300,
+      67700,
       65100
     ],
     "resistances": [
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,674",
-      "entryZone": "$67,300 - $68,800",
+      "currentPrice": "$69,707",
+      "entryZone": "$67,700 - $69,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $67,300 - $68,800 pour position."
+      "detail": "Attendre un repli vers $67,700 - $69,200 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les hedge funds misent même contre le marché, mais les institutions sont optimistes, ce qui est étrange. Il y a même des investisseurs qui mettent de l'argent dans les crypto, environ 145 millions de dollars cette semaine ! C'est comme si le marché était prêt à rebondir, mais tout le monde a peur de se lancer."
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais les gens continuent d'investir dans les cryptos, ce qui est un bon signe. On dirait que c'est le moment idéal pour acheter, le marché est en zone d'accumulation !"
 }
