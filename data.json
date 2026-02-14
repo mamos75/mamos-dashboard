@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T06:30:03.721Z",
+  "updatedAt": "2026-02-14T06:45:03.573Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "1.15",
+    "takerBuySellRatio": "0.70",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,067",
+    "btc": "79,105",
     "usd": "5.45B",
-    "change24h": 0,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68897,
+    "current": 68876,
     "high24h": 69483,
-    "low24h": 66003,
-    "change24h": "4.24",
+    "low24h": 66050,
+    "change24h": "4.21",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      66000,
+      66100,
       65100
     ],
     "resistances": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,897",
-      "entryZone": "$66,000 - $67,500",
+      "currentPrice": "$68,876",
+      "entryZone": "$66,100 - $67,600",
       "invalidation": "$65,100",
       "target1": "$69,500",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $66,000 - $67,500 pour position."
+      "detail": "Attendre un repli vers $66,100 - $67,600 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super peur, c'est presque panique ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent à 68,9% que les prix vont baisser. Malgré tout, de l'argent frais entre sur le marché, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, on est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et les investisseurs intelligents achètent !"
+  "story": "Le marché est super peureux en ce moment, les gens ont vraiment la frousse ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais personne n'ose y croire pour l'instant !"
 }
