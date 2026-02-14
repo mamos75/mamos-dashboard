@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T23:15:04.091Z",
+  "updatedAt": "2026-02-14T23:30:03.239Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "0.53",
+    "takerBuySellRatio": "2.09",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,844",
-    "usd": "5.45B",
-    "change24h": 0,
+    "btc": "77,724",
+    "usd": "5.43B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69970,
+    "current": 69828,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.51",
+    "change24h": "1.33",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -132,13 +132,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "strong_accumulation",
+    "label": "ACCUMULATION FORTE",
+    "emoji": "🚀",
     "score": {
-      "bull": 8,
-      "bear": 5,
-      "net": 3
+      "bull": 9,
+      "bear": 4,
+      "net": 5
     },
     "signals": [
       {
@@ -172,14 +172,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Modéré"
+      "strength": "Fort"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,970",
+      "currentPrice": "$69,828",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -201,13 +201,13 @@
     ],
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
+      "recommendation": "Accumulation progressive",
+      "detail": "DCA sur la zone $68,700 - $70,200. Ne pas FOMO sur les pumps."
     },
     "risk": {
-      "maxPosition": "1-2%",
+      "maxPosition": "3-5%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les gros investisseurs institutionnels sont plutôt optimistes et mettent de l'argent dans les ETF, ce qui est un bon signe. Les hedge funds, eux, misent contre le marché, mais cela pourrait être une erreur, car on est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que c'est un bon moment pour acheter. C'est le moment de rester calme et de réfléchir à long terme !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens ont vraiment la trouille ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
 }
