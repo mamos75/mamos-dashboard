@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T10:30:03.494Z",
+  "updatedAt": "2026-02-14T10:45:03.725Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "61.2",
       "short": "38.8"
     },
-    "takerBuySellRatio": "3.35",
+    "takerBuySellRatio": "0.58",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,691",
-    "usd": "5.55B",
-    "change24h": -0.2,
+    "btc": "79,622",
+    "usd": "5.54B",
+    "change24h": -0.3,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69620,
+    "current": 69608,
     "high24h": 69900,
     "low24h": 66783,
-    "change24h": "4.06",
+    "change24h": "3.85",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,620",
+      "currentPrice": "$69,608",
       "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
       "target1": "$69,900",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, sont très sceptiques et misent contre le marché. C'est comme si tout le monde attendait que quelque chose se passe, et ça crée une ambiance électrique !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les institutions, elles, sont plutôt optimistes et achètent, ce qui pourrait être un signal pour nous. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF montre que les investisseurs sont toujours intéressés. On dirait que le marché est en train de se préparer pour une remontée, mais pour l'instant, c'est la peur qui domine !"
 }
