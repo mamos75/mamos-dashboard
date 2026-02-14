@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T07:00:03.865Z",
+  "updatedAt": "2026-02-14T07:15:03.564Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.7",
-      "short": "44.3",
-      "ratio": "1.26"
+      "long": "55.6",
+      "short": "44.4",
+      "ratio": "1.25"
     },
     "accounts": {
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "0.59",
+    "takerBuySellRatio": "0.97",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,098",
+    "btc": "79,109",
     "usd": "5.45B",
-    "change24h": 0.1,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68937,
+    "current": 68900,
     "high24h": 69483,
     "low24h": 66050,
-    "change24h": "3.89",
+    "change24h": "3.56",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -137,8 +137,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,937",
+      "currentPrice": "$68,900",
       "entryZone": "$66,100 - $67,600",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds, eux, misent à 68,9% sur une baisse. C'est comme si tout le monde attendait le feu vert pour acheter, avec déjà 145 millions de dollars injectés dans les ETF. On est clairement en zone d'accumulation, c'est le moment de faire son shopping !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui règne ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'arriver dans les ETF crypto. C'est comme si tout le monde retenait son souffle, attendant de voir ce qui va se passer !"
 }
