@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-02-13T23:45:03.129Z",
+  "updatedAt": "2026-02-14T00:00:06.147Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
-    "change24h": 4,
-    "change7d": 3,
-    "change30d": -52,
+    "change24h": 0,
+    "change7d": 2,
+    "change30d": -40,
     "trend": "improving",
     "history7d": [
+      9,
       9,
       5,
       11,
       9,
       14,
-      7,
-      6
+      7
     ]
   },
   "longShort": {
@@ -27,23 +27,23 @@
       "long": "61.6",
       "short": "38.4"
     },
-    "takerBuySellRatio": "0.52",
+    "takerBuySellRatio": "0.62",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "79,300",
-    "usd": "5.46B",
-    "change24h": 0.1,
+    "btc": "79,200",
+    "usd": "5.45B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "-0.0016",
-      "avg24h": "-0.0041"
+      "current": "-0.0137",
+      "avg24h": "-0.0039"
     },
-    "eth": "0.0043",
+    "eth": "-0.0003",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -64,7 +64,7 @@
     "current": 68854,
     "high24h": 69483,
     "low24h": 65872,
-    "change24h": "3.94",
+    "change24h": "3.92",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui pourrait être une bonne occasion d'acheter. Les gros investisseurs institutionnels sont optimistes, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'affluer dans les fonds liés aux crypto. C'est le moment idéal pour accumuler, les prix sont bas et les perspectives sont prometteuses !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les flux d'argent dans les ETF montrent également que les gens placent leur argent, ce qui pourrait faire remonter les prix. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
 }
