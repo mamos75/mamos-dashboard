@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T09:00:04.631Z",
+  "updatedAt": "2026-02-14T09:15:03.320Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "1.40",
+    "takerBuySellRatio": "1.69",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,922",
-    "usd": "5.58B",
-    "change24h": 0.5,
+    "btc": "79,851",
+    "usd": "5.57B",
+    "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69759,
-    "high24h": 69871,
-    "low24h": 66613,
-    "change24h": "4.62",
+    "current": 69709,
+    "high24h": 69900,
+    "low24h": 66628,
+    "change24h": "4.54",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,759",
+      "currentPrice": "$69,709",
       "entryZone": "$66,600 - $68,100",
       "invalidation": "$65,100",
       "target1": "$69,900",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais les flux d'argent dans les ETF montrent que les gens continuent d'investir. C'est une zone d'accumulation, ce qui signifie que c'est peut-être le moment de se positionner pour une future hausse !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. C'est comme si tout le monde attendait le feu vert pour se lancer, avec des flux d'argent qui entrent déjà dans les ETF. On est dans une zone d'accumulation, c'est-à-dire que c'est peut-être le moment de se positionner pour une remontée !"
 }
