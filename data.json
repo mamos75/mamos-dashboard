@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T20:00:07.253Z",
+  "updatedAt": "2026-02-14T20:15:02.922Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "63.0",
-      "short": "37.0"
+      "long": "62.8",
+      "short": "37.2"
     },
-    "takerBuySellRatio": "1.55",
+    "takerBuySellRatio": "0.74",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,839",
-    "usd": "5.51B",
-    "change24h": -0.1,
+    "btc": "78,746",
+    "usd": "5.50B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69871,
+    "current": 69828,
     "high24h": 70560,
     "low24h": 68683,
-    "change24h": "1.35",
+    "change24h": "1.48",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -132,13 +132,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 8,
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -172,14 +172,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,871",
+      "currentPrice": "$69,828",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,100",
       "target1": "$70,600",
@@ -201,13 +201,13 @@
     ],
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $68,700 - $70,200. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent leur argent dans les cryptos. Les fonds spéculatifs, par contre, sont à 68,9% pour vendre, ce qui crée une opportunité intéressante pour les acheteurs. C'est le moment idéal pour accumuler, le signal est clair !"
+  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont super nerveux ! Les hedge funds parient même à 68,9% que les prix vont baisser, mais les institutions, elles, sont plutôt optimistes. Malgré tout, les investisseurs continuent de mettre de l'argent dans les cryptos, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché attendait juste le bon moment pour rebondir !"
 }
