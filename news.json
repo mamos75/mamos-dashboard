@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-14T21:30:08.192Z",
+  "updatedAt": "2026-02-14T21:45:03.748Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "X lance trading",
+      "title": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
       "titleOriginal": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-      "summary": "La plateforme X va lancer une fonctionnalité de trading en application dans quelques semaines",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à un rebond du marché, car elle offre une nouvelle opportunité d'investissement et pourrait attirer de nouveaux utilisateurs. Dans le contexte actuel de peur extrême, cela pourrait aider à inverser la tendance baissière",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs cherchent des opportunités de rebond",
-      "importance": 4,
+      "summary": "An announcement in January teased the potential in-app trading feature, fueling online speculation about X's upcoming Smart Cashtags.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 21:00:30 +0000"
     },
     {
-      "title": "Avantages sociaux sur blockchain",
+      "title": "All social program benefits can be distributed onchain: Compliance exec",
       "titleOriginal": "All social program benefits can be distributed onchain: Compliance exec",
-      "summary": "Certains pays explorant la possibilité de distribuer des avantages sociaux sur la blockchain",
-      "impact": "bullish",
-      "priceEffect": "Cette adoption potentielle de la technologie blockchain par les gouvernements pourrait renforcer la confiance dans le marché et contribuer à une hausse des prix. Les institutions, déjà bullish, pourraient être encore plus encouragées à investir",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish, qui pourraient voir cette adoption comme un signe de validation de la technologie",
+      "summary": "Hong Kong, Thailand, and the Marshall Islands are exploring tokenized debt instruments and administering social benefit programs onchain.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 18:20:21 +0000"
     },
     {
-      "title": "ARK Invest achète Coinbase",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 13:04:42 +0000"
+    },
+    {
+      "title": "Figure Technology suffers data breach, exposing personal customer details",
+      "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
+      "summary": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 12:57:59 +0000"
+    },
+    {
+      "title": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
       "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-      "summary": "La société ARK Invest a acheté des actions de Coinbase pour 15 millions de dollars",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une hausse des prix, car elle montre que les investisseurs institutionnels comme ARK Invest ont confiance dans le secteur crypto. Les flux d'ETF à 145 millions de dollars en 24 heures soutiennent également cette tendance",
-      "contextLink": "Cette news se connecte au contexte actuel d'institutions bullish et de flux d'ETF positifs, qui pourraient contribuer à une accumulation forte",
-      "importance": 5,
+      "summary": "Cathie Wood’s ARK Invest added nearly $15.2 million in Coinbase stock across three ETFs, reversing course days after offloading more than $39 million ",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 10:19:56 +0000"
-    },
-    {
-      "title": "Trump Media lance ETF crypto",
-      "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "La société Trump Media a déposé une demande pour lancer deux nouveaux ETF crypto",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait contribuer à une hausse des prix, car elle offre de nouvelles opportunités d'investissement dans le secteur crypto. Cependant, les sorties nettes d'ETF à 360 millions de dollars dans la semaine dernière pourraient avoir déjà pris en compte cette news",
-      "contextLink": "Cette news se connecte au contexte actuel de flux d'ETF, qui pourraient être affectés par cette nouvelle offre",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 07:47:53 +0000"
-    },
-    {
-      "title": "Memecoin en capitulation",
-      "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "Le marché des memecoins montre des signes de capitulation, selon Santiment",
-      "impact": "bullish",
-      "priceEffect": "Cette news pourrait signaler un rebond potentiel du marché, car la capitulation peut être un signe de fin de la tendance baissi��re. Dans le contexte actuel de peur extrême, cela pourrait être un signal d'achat",
-      "contextLink": "Cette news se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs cherchent des opportunités de rebond",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 06:24:14 +0000"
     }
   ]
 }
