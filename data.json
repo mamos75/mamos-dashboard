@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T09:45:03.892Z",
+  "updatedAt": "2026-02-14T10:00:05.194Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "61.4",
       "short": "38.6"
     },
-    "takerBuySellRatio": "2.19",
-    "trend": "more_short",
+    "takerBuySellRatio": "0.74",
+    "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,835",
+    "btc": "79,828",
     "usd": "5.57B",
     "change24h": -0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69727,
+    "current": 69713,
     "high24h": 69900,
     "low24h": 66783,
-    "change24h": "4.28",
+    "change24h": "4.13",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,727",
+      "currentPrice": "$69,713",
       "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
       "target1": "$69,900",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment la frousse ! Les gros investisseurs institutionnels, par contre, sont plutôt optimistes et mettent leur argent dans les cryptos. Il y a même des signes qui montrent que les gens commencent à acheter en masse, ce qui pourrait être le début d'une belle remontée. C'est le moment idéal pour acheter, car tout le monde a peur, mais les signes sont là pour une accumulation de capitaux !"
+  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont nerveux et les hedge funds misent contre la crypto. Mais les institutions, elles, sont optimistes et investissent massivement, avec plus de 145 millions de dollars injectés récemment. C'est comme si le marché était en train de créer une opportunité en or pour ceux qui osent investir. C'est le moment idéal pour acheter, car tout le monde est trop occupé à avoir peur pour voir les signes de reprise !"
 }

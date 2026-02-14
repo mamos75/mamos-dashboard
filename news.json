@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T09:45:04.191Z",
+  "updatedAt": "2026-02-14T10:00:08.660Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,52 @@
   "narrative": null,
   "news": [
     {
-      "title": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "title": "Trump lance 2 nouveaux ETF",
       "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "US spot Bitcoin ETFs recorded four straight weeks of net outflows, with about $360 million withdrawn in the latest week.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Trump Media dépose deux nouvelles demandes d'ETF liés à Bitcoin, Ether et Cronos",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait entraîner une augmentation de la demande pour les actifs sous-jacents, ce qui pourrait soutenir les prix dans un marché actuellement en zone d'accumulation. Les institutions sont déjà bullish, ce qui pourrait amplifier l'effet.",
+      "contextLink": "Les institutions sont déjà bullish, ce qui pourrait amplifier l'effet de cette news",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     },
     {
-      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
+      "title": "Capitulation des memecoins",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Le marché des memecoins montre des signes de capitulation classique selon Santiment",
+      "impact": "bullish",
+      "priceEffect": "Cette capitulation pourrait marquer un point bas pour les memecoins, ce qui pourrait entraîner un rebond dans un marché qui est déjà en extreme fear. Les hedge funds sont majoritairement short, ce qui pourrait amplifier un potentiel rebond.",
+      "contextLink": "Le marché est en extreme fear, ce qui pourrait rendre un rebond plus probable",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
     },
     {
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Antho",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 03:38:20 +0000"
-    },
-    {
-      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
+      "title": "Ether tient à 2 000$",
       "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Ether tient à 2 000$ malgré un outflow de 242M$ dans les ETF",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait entraîner une pression à la baisse sur le prix d'Ether, mais dans un marché qui est déjà en extreme fear et avec des hedge funds majoritairement short, cela pourrait être déjà pricé.",
+      "contextLink": "Le marché est en extreme fear et les hedge funds sont majoritairement short, ce qui pourrait rendre cet effet moins important",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 23:37:49 +0000"
     },
     {
-      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "title": "Open interest d'Ether",
+      "titleOriginal": "ETH open interest falls to 3-year low: What does it mean for Ether price?",
+      "summary": "L'open interest d'Ether est à son plus bas en 3 ans",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait entraîner un short squeeze et une rallie de 2 500$ pour Ether, ce qui pourrait être amplifié par le fait que les hedge funds sont majoritairement short.",
+      "contextLink": "Les hedge funds sont majoritairement short, ce qui pourrait amplifier l'effet de cette news",
+      "importance": 5,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 21:54:56 +0000"
+      "link": "https://cointelegraph.com/news/eth-open-interest-falls-to-3-year-low-what-does-it-mean-for-ether-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Fri, 13 Feb 2026 21:30:00 +0000"
     }
   ]
 }
