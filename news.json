@@ -1,66 +1,71 @@
 {
-  "updatedAt": "2026-02-14T23:00:07.520Z",
+  "updatedAt": "2026-02-14T23:15:07.955Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 22:31:39 +0000"
-    },
-    {
-      "title": "Prediction markets should become hedging platforms, says Buterin",
+      "title": "Buterin Prédit Stabilité",
       "titleOriginal": "Prediction markets should become hedging platforms, says Buterin",
-      "summary": "Prediction markets should pivot from short-term betting and move toward becoming price stability instruments for consumers, Buterin argued.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Buterin propose d'utiliser les marchés de prédiction pour stabiliser les prix",
+      "impact": "bullish",
+      "priceEffect": "Cette idée pourrait contribuer à une perception plus positive du marché, potentiellement favorisant un rebond dans un contexte de peur extrême.",
+      "contextLink": "Cette news pourrait contrebalancer légèrement le sentiment de peur extrême actuel et la position short des hedge funds.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 22:16:34 +0000"
     },
     {
-      "title": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
+      "title": "X Introduit Trading",
       "titleOriginal": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-      "summary": "An announcement in January teased the potential in-app trading feature, fueling online speculation about X's upcoming Smart Cashtags.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "X va lancer un trading en application dans quelques semaines",
+      "impact": "bullish",
+      "priceEffect": "Cette annonce pourrait attirer davantage d'utilisateurs et d'investisseurs, ce qui pourrait soutenir les prix dans un marché actuellement défavorable.",
+      "contextLink": "Cette news pourrait renforcer le signal d'accumulation actuel et contrebalancer partiellement les positions short des hedge funds.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 21:00:30 +0000"
     },
     {
-      "title": "All social program benefits can be distributed onchain: Compliance exec",
+      "title": "Avantages Sociaux On-Chain",
       "titleOriginal": "All social program benefits can be distributed onchain: Compliance exec",
-      "summary": "Hong Kong, Thailand, and the Marshall Islands are exploring tokenized debt instruments and administering social benefit programs onchain.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Certains pays explorent la distribution d'avantages sociaux sur la blockchain",
+      "impact": "bullish",
+      "priceEffect": "Cette adoption potentielle de la technologie blockchain dans les programmes sociaux pourrait renforcer la confiance dans le marché crypto, favorisant un rebond.",
+      "contextLink": "Cette news s'inscrit dans le contexte d'institutions bullish et pourrait contribuer à une perception plus positive du marché à long terme.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 18:20:21 +0000"
     },
     {
-      "title": "Figure Technology suffers data breach, exposing personal customer details",
-      "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
-      "summary": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "title": "ARK Invest Achète",
+      "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
+      "summary": "ARK Invest achète des actions de Coinbase pour 15 millions de dollars",
+      "impact": "bullish",
+      "priceEffect": "Cette acquisition pourrait signaler une confiance accrue dans le marché crypto, particulièrement dans les entreprises établies comme Coinbase, et favoriser un rebond.",
+      "contextLink": "Cette news s'aligne sur le signal d'accumulation actuel et la position bullish des institutions, renforçant potentiellement la tendance haussière.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 10:19:56 +0000"
+    },
+    {
+      "title": "Trump Media ETF",
+      "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "summary": "Trump Media dépose deux nouvelles demandes d'ETF liés à Bitcoin, Ether et Cronos",
+      "impact": "bullish",
+      "priceEffect": "Ces demandes d'ETF pourraient indiquer une demande accrue pour les produits dérivés de crypto, soutenant les prix à long terme, mais l'impact immédiat pourrait être limité par le contexte actuel de peur.",
+      "contextLink": "Cette news pourrait contribuer à une perception plus positive du marché à long terme, mais son impact immédiat pourrait être atténué par le sentiment de peur extrême actuel.",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 12:57:59 +0000"
+      "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     }
   ]
 }
