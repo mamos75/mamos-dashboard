@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T00:30:03.199Z",
+  "updatedAt": "2026-02-14T00:45:02.914Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.0",
-      "short": "45.0",
-      "ratio": "1.22"
+      "long": "55.1",
+      "short": "44.9",
+      "ratio": "1.23"
     },
     "accounts": {
       "long": "61.2",
       "short": "38.8"
     },
-    "takerBuySellRatio": "0.96",
+    "takerBuySellRatio": "1.15",
     "trend": "more_short",
-    "signal": "neutral"
+    "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,316",
-    "usd": "5.46B",
+    "btc": "79,286",
+    "usd": "5.47B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 68898,
+    "current": 69020,
     "high24h": 69483,
     "low24h": 65872,
-    "change24h": "4.30",
+    "change24h": "4.64",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,8 +136,8 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 8,
-      "bear": 2,
+      "bull": 9,
+      "bear": 3,
       "net": 6
     },
     "signals": [
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,898",
+      "currentPrice": "$69,020",
       "entryZone": "$65,900 - $67,400",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont nerveux et ont peur de perdre de l'argent. Mais les institutions, elles, sont optimistes et misent sur une hausse. Les investisseurs institutionnels injectent même de l'argent dans le marché, avec plus de 145 millions de dollars d'investissements récents. C'est le moment idéal pour les acheteurs patients de profiter de cette peur irrationnelle et d'accumuler des actifs à bas prix !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs cryptos. Mais les gros investisseurs institutionnels, eux, sont optimistes et achètent massivement. C'est comme si tout le monde courait vers la sortie, mais les \"gros poissons\" font le contraire, ce qui pourrait être un signal intéressant. Il y a une forte accumulation en cours, ce qui pourrait signifier que le marché est prêt à rebondir !"
 }
