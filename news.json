@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T10:15:03.802Z",
+  "updatedAt": "2026-02-14T10:30:07.397Z",
   "context": {
     "fearGreed": 9,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "title": "ARK rachète Coinbase",
+      "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
+      "summary": "ARK Invest achète des actions de Coinbase après une vente massive",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à un rebond du prix de Coinbase, car ARK Invest est un investisseur influent. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond pour le marché.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs institutionnels sont bullish, ce qui pourrait amplifier l'impact de cette nouvelle.",
+      "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 10:19:56 +0000"
+    },
+    {
+      "title": "Nouveaux ETF crypto",
       "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
-      "summary": "US spot Bitcoin ETFs recorded four straight weeks of net outflows, with about $360 million withdrawn in the latest week.",
+      "summary": "Trump Media dépose des demandes pour deux nouveaux ETF liés à Bitcoin et Ether",
       "impact": "neutre",
-      "priceEffect": "",
+      "priceEffect": "Cette nouvelle pourrait avoir un impact limité sur le prix à court terme, car les investisseurs sont déjà prudents en raison de la peur extrême. Cependant, cela pourrait être un signal de confiance à long terme pour le marché des ETF crypto.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de sorties nettes de fonds des ETF Bitcoin, ce qui pourrait indiquer une certaine prudence des investisseurs.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     },
     {
-      "title": "Memecoin market showing 'classic capitulation signal': Santiment",
+      "title": "Capitulation des memecoins",
       "titleOriginal": "Memecoin market showing 'classic capitulation signal': Santiment",
-      "summary": "The total memecoin market capitalization has dropped roughly 34% over the past month as the broader market sold off, but Santiment suggests the slump ",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Le marché des memecoins montre des signes de capitulation classique",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait indiquer que le marché des memecoins est prêt à rebondir, car la capitulation est souvent suivie d'une reprise. Dans le contexte actuel de peur extrême, cela pourrait être un signal de rebond pour le marché des cryptomonnaies.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs sont très prudents, ce qui pourrait amplifier l'impact de cette nouvelle.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/memecoin-season-crypto-social-media-sentiment-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 06:24:14 +0000"
     },
     {
-      "title": "Bitcoin holders are being tested as inflation eases: Pompliano",
+      "title": "Bitcoin et inflation",
       "titleOriginal": "Bitcoin holders are being tested as inflation eases: Pompliano",
-      "summary": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Antho",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Anthony Pompliano pense que Bitcoin deviendra plus valuable que jamais après la fin de la déflation",
+      "impact": "bullish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à une reprise du prix de Bitcoin à long terme, car Pompliano est un investisseur influent. Dans le contexte actuel de peur extrême, cela pourrait être un signal de confiance pour les investisseurs.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de Fear & Greed à 9/100, où les investisseurs institutionnels sont bullish, ce qui pourrait amplifier l'impact de cette nouvelle.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/bitcoin-holders-inflation-data-valuation-us-dollar-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 03:38:20 +0000"
     },
     {
-      "title": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
+      "title": "Ether sous pression",
       "titleOriginal": "Ether holds $2K, but will $242M spot ETH ETF outflow reignite price downside?",
-      "summary": "Ether holds $2,000, but may remain under pressure as traders watch corporate earnings, US government debt and growing global tensions.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Ether est sous pression en raison des sorties nettes de fonds des ETF et des tensions géopolitiques",
+      "impact": "bearish",
+      "priceEffect": "Cette nouvelle pourrait contribuer à une baisse du prix d'Ether à court terme, car les investisseurs sont déjà prudents en raison de la peur extrême. Cependant, cela pourrait être déjà pris en compte par les investisseurs, ce qui limiterait l'impact de cette nouvelle.",
+      "contextLink": "Cette nouvelle se connecte au contexte actuel de sorties nettes de fonds des ETF Ether, ce qui pourrait indiquer une certaine prudence des investisseurs.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/ether-holds-dollar2k-but-will-dollar242m-spot-eth-etf-outflow-reignite-price-downside?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Fri, 13 Feb 2026 23:37:49 +0000"
-    },
-    {
-      "title": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "titleOriginal": "White House crypto adviser says banks shouldn't fear stablecoin yield",
-      "summary": "Crypto companies and platforms that provide stablecoin rewards have become a major point of contention in the CLARITY crypto market structure bill.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/white-house-banks-shouldnt-fear-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Fri, 13 Feb 2026 21:54:56 +0000"
     }
   ]
 }

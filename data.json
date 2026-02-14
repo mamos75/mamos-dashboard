@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T10:15:03.457Z",
+  "updatedAt": "2026-02-14T10:30:03.494Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "61.2",
       "short": "38.8"
     },
-    "takerBuySellRatio": "0.54",
+    "takerBuySellRatio": "3.35",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,774",
-    "usd": "5.56B",
-    "change24h": -0.1,
+    "btc": "79,691",
+    "usd": "5.55B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69648,
+    "current": 69620,
     "high24h": 69900,
     "low24h": 66783,
-    "change24h": "4.10",
+    "change24h": "4.06",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,648",
+      "currentPrice": "$69,620",
       "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
       "target1": "$69,900",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, restent optimistes et injectent de l'argent dans les cryptos. C'est comme si tout le monde vendait à tout prix, mais les plus intelligents achètent en douce. C'est la définition parfaite d'une zone d'accumulation, où les sages profitent de la panique générale !"
+  "story": "Le marché est super nerveux en ce moment, c'est presque la panique ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les hedge funds, par contre, sont très sceptiques et misent contre le marché. C'est comme si tout le monde attendait que quelque chose se passe, et ça crée une ambiance électrique !"
 }
