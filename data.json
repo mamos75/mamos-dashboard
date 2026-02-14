@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T01:30:02.813Z",
+  "updatedAt": "2026-02-14T01:45:03.237Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.4",
-      "short": "38.6"
+      "long": "61.2",
+      "short": "38.8"
     },
-    "takerBuySellRatio": "0.45",
+    "takerBuySellRatio": "4.26",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,270",
-    "usd": "5.47B",
-    "change24h": 0.1,
+    "btc": "79,367",
+    "usd": "5.48B",
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69041,
+    "current": 68997,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "4.22",
+    "change24h": "3.86",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,041",
+      "currentPrice": "$68,997",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans une phase de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont cependant optimistes, ce qui est un bon signe. Les flux d'argent dans les ETF sont également positifs, avec 145 millions de dollars injectés récemment. C'est comme si le marché était en train de se préparer pour un grand rebond, mais pour l'instant, tout le monde retient son souffle !"
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur ! Les gros investisseurs institutionnels sont optimistes, mais les hedge funds misent contre le marché. Il y a même plus d'argent qui rentre dans les cryptos que qui en sort, ce qui est un bon signe. C'est comme si tout le monde attendait le feu vert pour se lancer !"
 }
