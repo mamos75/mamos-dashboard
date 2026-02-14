@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T02:15:02.941Z",
+  "updatedAt": "2026-02-14T02:30:03.203Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.23"
     },
     "accounts": {
-      "long": "61.4",
-      "short": "38.6"
+      "long": "61.3",
+      "short": "38.7"
     },
-    "takerBuySellRatio": "0.28",
+    "takerBuySellRatio": "1.47",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,282",
-    "usd": "5.47B",
+    "btc": "79,290",
+    "usd": "5.46B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 68983,
+    "current": 68903,
     "high24h": 69483,
     "low24h": 66003,
-    "change24h": "3.71",
+    "change24h": "3.54",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bull": 9,
+      "bear": 5,
+      "net": 4
     },
     "signals": [
       {
@@ -179,7 +179,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,983",
+      "currentPrice": "$68,903",
       "entryZone": "$66,000 - $67,500",
       "invalidation": "$65,100",
       "target1": "$69,500",
@@ -209,5 +209,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui signifie que les gens sont vraiment nerveux et ont peur de perdre de l'argent. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et pensent que les choses vont s'améliorer. C'est comme si tout le monde vendait ses biens, mais les \"gros joueurs\" achètent discrètement, ce qui pourrait être un signal de rebond. Il semblerait que nous soyons dans une zone où les prix sont bas et que les investisseurs avertis commencent à acheter."
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent gros sur une chute, mais les flux d'argent dans les ETF montrent que les gens continuent d'acheter. C'est comme si le marché était en train de se préparer pour un grand bond en avant, mais tout le monde a peur de sauter le premier !"
 }
