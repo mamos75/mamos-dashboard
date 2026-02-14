@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T09:15:03.320Z",
+  "updatedAt": "2026-02-14T09:30:04.305Z",
   "fearGreed": {
     "current": 9,
     "label": "Extreme Fear",
@@ -24,16 +24,16 @@
       "ratio": "1.26"
     },
     "accounts": {
-      "long": "61.4",
-      "short": "38.6"
+      "long": "61.5",
+      "short": "38.5"
     },
-    "takerBuySellRatio": "1.69",
+    "takerBuySellRatio": "0.64",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "79,851",
-    "usd": "5.57B",
+    "btc": "79,809",
+    "usd": "5.55B",
     "change24h": -0.1,
     "trend": "stable",
     "signal": "normal"
@@ -61,14 +61,14 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69709,
+    "current": 69595,
     "high24h": 69900,
-    "low24h": 66628,
-    "change24h": "4.54",
+    "low24h": 66769,
+    "change24h": "4.18",
     "weekHigh": 72271,
     "weekLow": 65118,
     "supports": [
-      66600,
+      66800,
       65100
     ],
     "resistances": [
@@ -136,9 +136,9 @@
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 5,
-      "net": 4
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -179,8 +179,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,709",
-      "entryZone": "$66,600 - $68,100",
+      "currentPrice": "$69,595",
+      "entryZone": "$66,800 - $68,300",
       "invalidation": "$65,100",
       "target1": "$69,900",
       "target2": "$72,300"
@@ -202,12 +202,12 @@
     "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $66,600 - $68,100 pour position."
+      "detail": "Attendre un repli vers $66,800 - $68,300 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels sont plutôt optimistes, mais les hedge funds misent sur une baisse. C'est comme si tout le monde attendait le feu vert pour se lancer, avec des flux d'argent qui entrent déjà dans les ETF. On est dans une zone d'accumulation, c'est-à-dire que c'est peut-être le moment de se positionner pour une remontée !"
+  "story": "Le marché est super nerveux en ce moment, c'est l'extrême peur qui règne ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent à 68,9% sur une baisse, mais les investisseurs continuent de mettre de l'argent dans les cryptos, avec 145 millions de dollars qui entrent dans les ETF. C'est une zone d'accumulation, l'occasion parfaite pour acheter à bas prix !"
 }
