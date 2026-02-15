@@ -946,8 +946,7 @@
                 </div>
             </div>
             <div class="battle-insight" id="battle-insight">
-                Les <strong>🦈 Hedge Funds</strong> parient massivement contre Bitcoin.<br>
-                Mais les <strong>🐋 Institutions</strong> accumulent en silence...
+                Chargement de l'analyse COT...
             </div>
         </div>
     </section>
@@ -955,7 +954,7 @@
     <!-- SIGNAL -->
     <section class="signal-section">
         <div class="section-title">Le Signal Smart Money</div>
-        <div class="signal-box accumulation" id="signal-box">
+        <div class="signal-box neutral" id="signal-box">
             <div class="signal-icon" id="signal-icon">🎯</div>
             <div class="signal-label" id="signal-label">CHARGEMENT...</div>
             <div class="signal-explanation" id="signal-explanation">
@@ -1636,23 +1635,43 @@
             const icon = document.getElementById('action-icon');
             const text = document.getElementById('action-text');
             
+            // Use trading plan action if available (most accurate)
+            if (data.tradingPlan?.action) {
+                const plan = data.tradingPlan;
+                const direction = plan.bias?.direction || '';
+                
+                if (direction === 'ACHAT') {
+                    box.className = 'action-box buy';
+                    icon.textContent = '🎯';
+                } else if (direction === 'PRUDENCE') {
+                    box.className = 'action-box caution';
+                    icon.textContent = '⚠️';
+                } else if (direction === 'VENTE') {
+                    box.className = 'action-box caution';
+                    icon.textContent = '🔴';
+                } else {
+                    box.className = 'action-box wait';
+                    icon.textContent = '⏳';
+                }
+                
+                // Use the actual action detail from trading plan
+                text.textContent = plan.action.recommendation + '. ' + plan.action.detail;
+                return;
+            }
+            
+            // Fallback to analysis signal
             if (!data.analysis) return;
             
             const signal = data.analysis.signal;
-            const fg = data.fearGreed?.current || 50;
             
-            if (signal.includes('strong_accumulation') || (signal.includes('accumulation') && fg < 20)) {
+            if (signal.includes('accumulation')) {
                 box.className = 'action-box buy';
                 icon.textContent = '🎯';
-                text.textContent = 'Zone d\'opportunité. Les smart money accumulent.';
-            } else if (signal.includes('accumulation')) {
-                box.className = 'action-box buy';
-                icon.textContent = '👀';
-                text.textContent = 'Intéressant. Commence à observer de près.';
+                text.textContent = data.analysis.label || 'Zone d\'opportunité.';
             } else if (signal.includes('distribution')) {
                 box.className = 'action-box caution';
                 icon.textContent = '⚠️';
-                text.textContent = 'Prudence. Les signaux sont mitigés.';
+                text.textContent = data.analysis.label || 'Prudence recommandée.';
             } else {
                 box.className = 'action-box wait';
                 icon.textContent = '⏳';
