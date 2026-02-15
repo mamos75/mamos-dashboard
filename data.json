@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T22:15:30.726Z",
+  "updatedAt": "2026-02-15T23:00:04.846Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.6",
-      "short": "44.4",
-      "ratio": "1.25"
+      "long": "55.7",
+      "short": "44.3",
+      "ratio": "1.26"
     },
     "accounts": {
-      "long": "63.1",
-      "short": "36.9"
+      "long": "63.2",
+      "short": "36.8"
     },
-    "takerBuySellRatio": "1.14",
+    "takerBuySellRatio": "1.32",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "76,991",
+    "btc": "76,850",
     "usd": "5.30B",
-    "change24h": 0,
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -52,19 +52,19 @@
     "current": "1039",
     "unit": "EH/s",
     "trend": "falling",
-    "peak": "1107",
-    "change24h": 9.9,
-    "change7d": -2.4,
-    "changeFromPeak": -6.2,
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
     "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
     "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 68864,
+    "current": 68966,
     "high24h": 70983,
     "low24h": 68000,
-    "change24h": "-1.63",
+    "change24h": "-1.41",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -157,15 +157,15 @@
   },
   "hyperliquid": {
     "btc": {
-      "openInterest": 18234,
+      "openInterest": 18231,
       "openInterestUSD": "1.26B",
       "funding": "0.0013",
-      "volume24h": "1.43B",
-      "markPrice": "68838"
+      "volume24h": "1.44B",
+      "markPrice": "68942"
     },
     "eth": {
-      "openInterest": 485426,
-      "funding": "0.0010"
+      "openInterest": 488021,
+      "funding": "0.0013"
     },
     "signal": "neutral",
     "interpretation": "✅ Funding neutre (0.001%) - Marché équilibré."
@@ -239,7 +239,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,864",
+      "currentPrice": "$68,966",
       "entryZone": "$68,000 - $69,500",
       "invalidation": "$65,900",
       "target1": "$71,000",
