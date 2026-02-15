@@ -771,8 +771,10 @@ async function main() {
   ]);
   
   console.log('📊 Fetching COT data...');
-  const cot = await fetchCOTData();
-  const etf = getETFFlows();
+  const [cot, etf] = await Promise.all([
+    fetchCOTData(),
+    fetchETFFlows()
+  ]);
   
   const data = { fearGreed, longShort, openInterest, funding, liquidations, hashrate, priceData, cot, etf };
   

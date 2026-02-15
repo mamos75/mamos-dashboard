@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:30:10.317Z",
+  "updatedAt": "2026-02-15T02:30:18.825Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -33,7 +33,7 @@
   },
   "openInterest": {
     "btc": "78,090",
-    "usd": "5.42B",
+    "usd": "5.43B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -49,19 +49,14 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69465,
+    "current": 69470,
     "high24h": 70560,
     "low24h": 68730,
     "change24h": "0.82",
@@ -82,14 +77,15 @@
   "cot": {
     "asOf": "2026-02-10",
     "nextUpdate": "2026-02-20",
+    "openInterest": 24157,
     "categories": {
       "dealers": {
         "name": "Dealers",
         "icon": "🏦",
         "long": 5746,
-        "longPct": 27.3,
+        "longPct": 47.7,
         "short": 2470,
-        "shortPct": 9.7,
+        "shortPct": 10.1,
         "net": 3276,
         "signal": "bullish"
       },
@@ -97,9 +93,9 @@
         "name": "Institutions",
         "icon": "🐋",
         "long": 946,
-        "longPct": 4.5,
+        "longPct": 7.9,
         "short": 7476,
-        "shortPct": 29.4,
+        "shortPct": 30.5,
         "net": -6530,
         "signal": "bearish"
       },
@@ -107,9 +103,9 @@
         "name": "Hedge Funds",
         "icon": "🦈",
         "long": 972,
-        "longPct": 4.6,
+        "longPct": 8.1,
         "short": 697,
-        "shortPct": 2.7,
+        "shortPct": 2.8,
         "net": 275,
         "signal": "neutral"
       },
@@ -117,11 +113,11 @@
         "name": "Other",
         "icon": "🦐",
         "long": 4372,
-        "longPct": 20.8,
+        "longPct": 0,
         "short": 13871,
-        "shortPct": 54.6,
+        "shortPct": 0,
         "net": -9499,
-        "signal": "bearish"
+        "signal": "neutral"
       }
     }
   },
@@ -175,7 +171,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,465",
+      "currentPrice": "$69,470",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -201,5 +197,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de tout ! Les grandes institutions et les hedge funds sont même prêts à parier contre le marché, ce qui montre à quel point ils sont négatifs. Mais malgré tout, il y a encore des investisseurs qui mettent de l'argent dans les crypto, ce qui pourrait être un signe de rebond. C'est une zone d'accumulation, ce qui signifie que c'est peut-être le moment de acheter avant que les prix ne remontent !"
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
 }
