@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T06:15:20.663Z",
+  "updatedAt": "2026-02-15T06:30:20.810Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "62.3",
-      "short": "37.7"
+      "long": "62.2",
+      "short": "37.8"
     },
-    "takerBuySellRatio": "0.67",
+    "takerBuySellRatio": "0.71",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,542",
-    "usd": "5.51B",
-    "change24h": -0.2,
+    "btc": "78,678",
+    "usd": "5.54B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70214,
+    "current": 70381,
     "high24h": 70560,
-    "low24h": 68783,
-    "change24h": "2.08",
+    "low24h": 68853,
+    "change24h": "2.15",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
-      68800,
+      68900,
       65900,
       65100
     ],
@@ -178,7 +178,7 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.67)"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.71)"
       }
     ]
   },
@@ -193,8 +193,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,214",
-      "entryZone": "$68,800 - $70,300",
+      "currentPrice": "$70,381",
+      "entryZone": "$68,900 - $70,400",
       "invalidation": "$65,900",
       "target1": "$70,600",
       "target2": "$71,500"
@@ -219,5 +219,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- F&G (Fond et Gestion) : 8 signifie que ce marché crypto a une note élevée de 8 sur 10, ce qui est positif.\n- Signal : PATIENCE signifie que l'analyse recommande de rester patient et de ne pas agir vite, car le marché est encore instable.\n- ETF (Échange-Traded Fund) : +15.1M signifie que l'investissement a connu une augmentation de 15,1 millions de dollars, ce qui est un résultat positif."
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
 }
