@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T04:15:49.138Z",
+  "updatedAt": "2026-02-15T04:30:03.789Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
-      "ratio": "1.19"
+      "long": "54.2",
+      "short": "45.8",
+      "ratio": "1.18"
     },
     "accounts": {
-      "long": "62.7",
-      "short": "37.3"
+      "long": "62.6",
+      "short": "37.4"
     },
-    "takerBuySellRatio": "0.70",
+    "takerBuySellRatio": "1.72",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,573",
-    "usd": "5.53B",
-    "change24h": 1.5,
+    "btc": "78,475",
+    "usd": "5.51B",
+    "change24h": 1.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -52,19 +52,19 @@
     "current": "1039",
     "unit": "EH/s",
     "trend": "falling",
-    "peak": "1107",
-    "change24h": 9.9,
-    "change7d": -2.4,
-    "changeFromPeak": -6.2,
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
     "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
     "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70405,
+    "current": 70208,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "2.18",
+    "change24h": "1.89",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -82,15 +82,14 @@
   "cot": {
     "asOf": "2026-02-10",
     "nextUpdate": "2026-02-20",
-    "openInterest": 24157,
     "categories": {
       "dealers": {
         "name": "Dealers",
         "icon": "🏦",
         "long": 5746,
-        "longPct": 47.7,
+        "longPct": 27.3,
         "short": 2470,
-        "shortPct": 10.1,
+        "shortPct": 9.7,
         "net": 3276,
         "signal": "bullish"
       },
@@ -98,9 +97,9 @@
         "name": "Institutions",
         "icon": "🐋",
         "long": 946,
-        "longPct": 7.9,
+        "longPct": 4.5,
         "short": 7476,
-        "shortPct": 30.5,
+        "shortPct": 29.4,
         "net": -6530,
         "signal": "bearish"
       },
@@ -108,9 +107,9 @@
         "name": "Hedge Funds",
         "icon": "🦈",
         "long": 972,
-        "longPct": 8.1,
+        "longPct": 4.6,
         "short": 697,
-        "shortPct": 2.8,
+        "shortPct": 2.7,
         "net": 275,
         "signal": "neutral"
       },
@@ -118,11 +117,11 @@
         "name": "Other",
         "icon": "🦐",
         "long": 4372,
-        "longPct": 0,
+        "longPct": 20.8,
         "short": 13871,
-        "shortPct": 0,
+        "shortPct": 54.6,
         "net": -9499,
-        "signal": "neutral"
+        "signal": "bearish"
       }
     }
   },
@@ -156,13 +155,13 @@
     "source": "farside"
   },
   "analysis": {
-    "signal": "neutral",
-    "label": "PATIENCE",
-    "emoji": "⏳",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 3,
-      "bear": 3,
-      "net": 0
+      "bull": 4,
+      "bear": 2,
+      "net": 2
     },
     "signals": [
       {
@@ -176,24 +175,24 @@
         "reason": "ETF outflows sur la semaine ($-360M)"
       },
       {
-        "type": "bearish",
+        "type": "bullish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.70)"
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
   "tradingPlan": {
     "bias": {
-      "direction": "NEUTRE",
-      "emoji": "⚪",
-      "strength": "Attente"
+      "direction": "ACHAT",
+      "emoji": "🟢",
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,405",
+      "currentPrice": "$70,208",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -211,13 +210,13 @@
     ],
     "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Attendre",
-      "detail": "Pas de signal clair. Rester en cash ou position réduite."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
+  "story": "Voici une explication simple :\n\n- F&G (probabilité de grimper ou de baisser) est à 8, ce qui signifie qu'il y a une forte probabilité que les prix augmentent.\n- Le signal indique que les prix sont en train d'accumuler de la valeur, ce qui peut être un bon signe pour les investisseurs.\n- L'ETF (fonds indexé) a gagné +15,1 millions, ce qui montre que les investissements dans ce marché crypto sont rentables actuellement."
 }
