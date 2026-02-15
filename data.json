@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:45:02.828Z",
+  "updatedAt": "2026-02-15T03:00:04.248Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "0.77",
-    "trend": "more_long",
+    "takerBuySellRatio": "1.16",
+    "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,145",
+    "btc": "78,159",
     "usd": "5.43B",
     "change24h": 0.1,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69511,
+    "current": 69480,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.84",
+    "change24h": "0.88",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -126,22 +126,42 @@
     }
   },
   "etf": {
-    "date": "2026-02-14",
-    "daily": -48,
-    "weekly": -651,
-    "total": 39500,
-    "trend": "negative_daily",
-    "source": "manual",
-    "note": "Source: farside.co.uk - MàJ manuelle quotidienne"
+    "date": "13 Feb 2026",
+    "daily": 15.1,
+    "weekly": -360,
+    "dailyHistory": [
+      {
+        "date": "09 Feb 2026",
+        "flow": 144.9
+      },
+      {
+        "date": "10 Feb 2026",
+        "flow": 166.5
+      },
+      {
+        "date": "11 Feb 2026",
+        "flow": -276.3
+      },
+      {
+        "date": "12 Feb 2026",
+        "flow": -410.2
+      },
+      {
+        "date": "13 Feb 2026",
+        "flow": 15.1
+      }
+    ],
+    "trend": "positive_daily",
+    "source": "farside"
   },
   "analysis": {
-    "signal": "neutral",
-    "label": "PATIENCE",
-    "emoji": "⏳",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 3,
-      "bear": 3,
-      "net": 0
+      "bull": 4,
+      "bear": 2,
+      "net": 2
     },
     "signals": [
       {
@@ -152,27 +172,27 @@
       {
         "type": "bearish",
         "weight": 2,
-        "reason": "ETF outflows sur la semaine ($-651M)"
+        "reason": "ETF outflows sur la semaine ($-360M)"
       },
       {
-        "type": "bearish",
+        "type": "bullish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.77)"
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
   "tradingPlan": {
     "bias": {
-      "direction": "NEUTRE",
-      "emoji": "⚪",
-      "strength": "Attente"
+      "direction": "ACHAT",
+      "emoji": "🟢",
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,511",
+      "currentPrice": "$69,480",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -185,18 +205,18 @@
       },
       {
         "level": "ATTENTION",
-        "text": "ETF outflows semaine: $-651M - pression vendeuse"
+        "text": "ETF outflows semaine: $-360M - pression vendeuse"
       }
     ],
     "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Attendre",
-      "detail": "Pas de signal clair. Rester en cash ou position réduite."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
+  "story": "Voici une explication simple :\n\n- F&G (Fond et Gestion) fait référence à une entreprise qui gère des fonds d'investissement, il est à 8, ce qui signifie qu'il a baissé.\n- Signal : Zone d'accumulation, c'est un terme qui désigne une période où le prix d'une cryptoactif ou d'un actif financier reste stable ou augmente lentement, car les acheteurs sont plus nombreux que les vendeurs.\n- ETF (Exchange-Traded Fund) est un type de fonds qui permet de s'assurer contre des pertes, il a gagné 15,1 millions de dollars."
 }
