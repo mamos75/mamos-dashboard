@@ -1363,27 +1363,73 @@
                     document.getElementById('battle-insight').innerHTML = insight;
                 }
                 
-                // Signal
-                if (data.smartMoneySignal) {
-                    const signal = data.smartMoneySignal;
-                    const box = document.getElementById('signal-box');
+                // Signal Smart Money - Calculé depuis COT pour cohérence
+                if (data.cot?.categories) {
+                    const cot = data.cot.categories;
+                    const instNet = cot.assetManagers.net || 0;
+                    const hfNet = cot.leveragedFunds.net || 0;
+                    const instBullish = instNet > 0;
+                    const hfBullish = hfNet > 0;
+                    const fg = data.fearGreed?.current || 50;
                     
-                    if (signal.signal.includes('accumulation')) {
-                        box.className = 'signal-box accumulation';
-                        document.getElementById('signal-icon').textContent = '🎯';
-                        document.getElementById('signal-label').textContent = 'ZONE D\'ACCUMULATION';
-                        document.getElementById('signal-explanation').textContent = 'Quand tout le monde a peur et que les institutions achètent, c\'est souvent le moment où les fortunes se construisent.';
-                    } else if (signal.signal.includes('distribution')) {
-                        box.className = 'signal-box distribution';
-                        document.getElementById('signal-icon').textContent = '⚠️';
-                        document.getElementById('signal-label').textContent = 'ZONE DE PRUDENCE';
-                        document.getElementById('signal-explanation').textContent = 'Les indicateurs suggèrent la prudence. Les smart money semblent prendre leurs profits.';
-                    } else {
-                        box.className = 'signal-box neutral';
-                        document.getElementById('signal-icon').textContent = '⏳';
-                        document.getElementById('signal-label').textContent = 'PATIENCE';
-                        document.getElementById('signal-explanation').textContent = 'Pas de signal clair pour le moment. Le marché est en attente d\'un catalyseur.';
+                    const box = document.getElementById('signal-box');
+                    let icon, label, explanation, boxClass;
+                    
+                    if (instBullish && !hfBullish) {
+                        // BEST CASE: Institutions buy, HF short = Squeeze setup
+                        boxClass = 'accumulation';
+                        icon = '🔥';
+                        label = 'CONFIGURATION EXPLOSIVE';
+                        explanation = `Les institutions accumulent (+${Math.abs(instNet).toLocaleString()} contrats) pendant que les Hedge Funds parient contre. C'est le setup classique d'un short squeeze : si le prix monte, les HF devront racheter en urgence, propulsant le prix encore plus haut.`;
                     }
+                    else if (!instBullish && hfBullish) {
+                        // WORST CASE: Institutions sell, HF buy = Smart money exits
+                        boxClass = 'distribution';
+                        icon = '⚠️';
+                        label = 'PRUDENCE - SMART MONEY VEND';
+                        explanation = `Les institutions réduisent leur exposition (-${Math.abs(instNet).toLocaleString()} contrats) pendant que les spéculateurs achètent. Historiquement, quand les "smart money" vendent et les retardataires achètent, une correction suit souvent.`;
+                    }
+                    else if (!instBullish && !hfBullish) {
+                        // BOTH BEARISH - Contrarian signal if Fear is high
+                        if (fg < 30) {
+                            boxClass = 'accumulation';
+                            icon = '🎯';
+                            label = 'ZONE CONTRARIANTE';
+                            explanation = `Tout le monde est pessimiste : institutions ET hedge funds sont vendeurs. Avec un Fear & Greed à ${fg}/100, c'est historiquement le genre de moment où les bottoms se forment. Les fortunes se construisent quand le sang coule dans les rues.`;
+                        } else {
+                            boxClass = 'distribution';
+                            icon = '🔴';
+                            label = 'CONSENSUS BAISSIER';
+                            explanation = `Institutions et Hedge Funds sont tous deux en position vendeuse. Le marché anticipe une baisse. Prudence maximale tant que ce consensus persiste.`;
+                        }
+                    }
+                    else {
+                        // BOTH BULLISH - Euphoria warning
+                        if (fg > 70) {
+                            boxClass = 'distribution';
+                            icon = '🚨';
+                            label = 'EUPHORIE - ATTENTION';
+                            explanation = `Tout le monde est acheteur et le Fear & Greed est à ${fg}/100. Quand le consensus est trop fort et l'euphorie s'installe, on est souvent proche d'un sommet. Ne pas FOMO.`;
+                        } else {
+                            boxClass = 'accumulation';
+                            icon = '🚀';
+                            label = 'TENDANCE HAUSSIÈRE';
+                            explanation = `Institutions et Hedge Funds sont tous deux acheteurs. Le biais est clairement haussier. Mais reste vigilant : surveille le Fear & Greed (actuellement ${fg}) pour détecter l'euphorie.`;
+                        }
+                    }
+                    
+                    box.className = 'signal-box ' + boxClass;
+                    document.getElementById('signal-icon').textContent = icon;
+                    document.getElementById('signal-label').textContent = label;
+                    document.getElementById('signal-explanation').textContent = explanation;
+                }
+                // Fallback si pas de COT
+                else if (data.analysis) {
+                    const box = document.getElementById('signal-box');
+                    box.className = 'signal-box neutral';
+                    document.getElementById('signal-icon').textContent = '⏳';
+                    document.getElementById('signal-label').textContent = 'DONNÉES COT INDISPONIBLES';
+                    document.getElementById('signal-explanation').textContent = 'Le rapport COT n\'est pas disponible. Le signal sera mis à jour dès que les données seront accessibles.';
                 }
                 
                 // Metrics
