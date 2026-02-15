@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T04:00:04.182Z",
+  "updatedAt": "2026-02-15T04:00:22.329Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -33,7 +33,7 @@
   },
   "openInterest": {
     "btc": "77,403",
-    "usd": "5.41B",
+    "usd": "5.42B",
     "change24h": -1,
     "trend": "stable",
     "signal": "normal"
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69955,
+    "current": 69976,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.41",
+    "change24h": "1.44",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -192,7 +192,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,955",
+      "currentPrice": "$69,976",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -218,5 +218,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- F&G signifie que le graphique de la crypto-monnaie est en forme de \"8\", ce qui peut être un signe positif.\n- Signal : PATIENCE veut dire que l'on doit avoir de la patience avant de prendre une décision, car la situation actuelle n'est peut-être pas stable.\n- ETF (+15.1M) indique que l'on voit un grand flux d'argent entrant dans cette crypto-monnaie, ce qui peut être un signe de croissance."
+  "story": "Voici une explication simple :\n\n- F&G (Fonds et Gestion) fait référence à une évaluation des performances d'un fonds ou d'une société de gestion.\n- Le signal \"PATIENCE\" suggère que l'on doit attendre un peu avant de prendre une décision, ce qui est une stratégie prudente.\n- L'augmentation de +15,1 millions dans l'ETF (Échange Traded Fund) indique que l'investissement a connu une forte croissance financière."
 }
