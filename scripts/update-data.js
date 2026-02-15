@@ -371,9 +371,20 @@ async function fetchLiquidations() {
 // COT Report - Fetch from CFTC (updates weekly on Friday)
 async function fetchCOTData() {
   try {
-    // Fetch disaggregated financial futures data
-    const response = await fetch('https://www.cftc.gov/dea/newcot/FinFutWk.txt');
-    const text = typeof response === 'string' ? response : await response;
+    // Use curl for reliability (Node https sometimes fails on certain servers)
+    const { execSync } = require('child_process');
+    let text;
+    
+    try {
+      text = execSync('curl -s "https://www.cftc.gov/dea/newcot/FinFutWk.txt"', { 
+        encoding: 'utf8',
+        timeout: 30000 
+      });
+    } catch (curlErr) {
+      // Fallback to Node https
+      const response = await fetch('https://www.cftc.gov/dea/newcot/FinFutWk.txt');
+      text = typeof response === 'string' ? response : String(response);
+    }
     
     // Find Bitcoin CME line
     const lines = text.split('\n');

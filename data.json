@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T14:45:03.696Z",
+  "updatedAt": "2026-02-15T14:45:19.321Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -52,10 +52,10 @@
     "current": "1039",
     "unit": "EH/s",
     "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
+    "peak": "1107",
+    "change24h": 9.9,
+    "change7d": -2.4,
+    "changeFromPeak": -6.2,
     "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
     "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
@@ -82,14 +82,15 @@
   "cot": {
     "asOf": "2026-02-10",
     "nextUpdate": "2026-02-20",
+    "openInterest": 24157,
     "categories": {
       "dealers": {
         "name": "Dealers",
         "icon": "🏦",
         "long": 5746,
-        "longPct": 27.3,
+        "longPct": 47.7,
         "short": 2470,
-        "shortPct": 9.7,
+        "shortPct": 10.1,
         "net": 3276,
         "signal": "bullish"
       },
@@ -97,9 +98,9 @@
         "name": "Institutions",
         "icon": "🐋",
         "long": 946,
-        "longPct": 4.5,
+        "longPct": 7.9,
         "short": 7476,
-        "shortPct": 29.4,
+        "shortPct": 30.5,
         "net": -6530,
         "signal": "bearish"
       },
@@ -107,9 +108,9 @@
         "name": "Hedge Funds",
         "icon": "🦈",
         "long": 972,
-        "longPct": 4.6,
+        "longPct": 8.1,
         "short": 697,
-        "shortPct": 2.7,
+        "shortPct": 2.8,
         "net": 275,
         "signal": "neutral"
       },
@@ -117,11 +118,11 @@
         "name": "Other",
         "icon": "🦐",
         "long": 4372,
-        "longPct": 20.8,
+        "longPct": 0,
         "short": 13871,
-        "shortPct": 54.6,
+        "shortPct": 0,
         "net": -9499,
-        "signal": "bearish"
+        "signal": "neutral"
       }
     }
   },
@@ -228,5 +229,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- F&G (Fond et Gestion) : 8, c'est un score qui montre la performance du marché des cryptomonnaies, qui est en baisse.\n- Signal : Zone de prudence, c'est un avertissement qui suggère de prendre garde et de ne pas investir trop d'argent dans les cryptomonnaies.\n- ETF (+15.1M) : C'est un indicateur qui montre que les investissements dans les cryptomonnaies ont augmenté de 15,1 millions d'euros, ce qui est une bonne nouvelle, mais il faut rester prudent."
+  "story": "Voici une explication simple :\n\n- F&G fait référence à des performances financières, qui sont en baisse à 8%.\n- Le signal \"ZONE DE PRUDENCE\" signifie qu'il est prudent de rester prudent et de ne pas prendre de risques excessifs.\n- L'ETF a augmenté de 15,1 millions de dollars, ce qui est une bonne nouvelle, mais il faut faire attention aux autres indicateurs avant de prendre une décision."
 }
