@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:30:18.825Z",
+  "updatedAt": "2026-02-15T02:32:44.774Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,9 +19,9 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.5",
-      "short": "45.5",
-      "ratio": "1.20"
+      "long": "54.4",
+      "short": "45.6",
+      "ratio": "1.19"
     },
     "accounts": {
       "long": "62.8",
@@ -32,9 +32,9 @@
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,090",
-    "usd": "5.43B",
-    "change24h": 0,
+    "btc": "78,113",
+    "usd": "5.42B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -56,10 +56,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69470,
+    "current": 69448,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.82",
+    "change24h": "0.80",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -122,36 +122,27 @@
     }
   },
   "etf": {
-    "date": "2026-02-10",
-    "daily": 145,
-    "weekly": -580,
-    "total": 40200,
-    "trend": "positive_daily"
+    "date": "2026-02-15",
+    "daily": 0,
+    "weekly": 0,
+    "total": 40000,
+    "trend": "unknown",
+    "unavailable": true
   },
   "analysis": {
     "signal": "accumulation",
     "label": "ZONE D'ACCUMULATION",
     "emoji": "🎯",
     "score": {
-      "bull": 5,
-      "bear": 2,
-      "net": 3
+      "bull": 4,
+      "bear": 0,
+      "net": 4
     },
     "signals": [
       {
         "type": "bullish",
         "weight": 3,
         "reason": "Extreme Fear historique - zone d'achat"
-      },
-      {
-        "type": "bullish",
-        "weight": 1,
-        "reason": "ETF inflows positifs (+$145M)"
-      },
-      {
-        "type": "bearish",
-        "weight": 2,
-        "reason": "ETF outflows sur la semaine ($-580M)"
       },
       {
         "type": "bullish",
@@ -171,7 +162,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,470",
+      "currentPrice": "$69,448",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -181,10 +172,6 @@
       {
         "level": "PRINCIPAL",
         "text": "Fear & Greed extrême (8) - historiquement zone d'achat"
-      },
-      {
-        "level": "ATTENTION",
-        "text": "ETF outflows semaine: $-580M - pression vendeuse"
       }
     ],
     "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
@@ -197,5 +184,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
+  "story": "D'accord, je vais essayer de t'expliquer ce qui se passe sur le marché crypto en 3 phrases simples :\n\n- Le marché semble être en stand-by, car la tendance (F&G) est neutre et la signalisation (Signal) indique qu'il est en phase de récupération.\n- Les investisseurs attendent probablement une stabilité avant de reprendre leurs investissements, car la zone d'accumulation (ZONE D'ACCUMULATION) est souvent un moment où les prix sont bas et où les investisseurs achètent à des prix bas, espérant une reprise.\n- En attendant, les prix restent stables, comme le montre l"
 }

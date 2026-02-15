@@ -431,14 +431,33 @@ function getNextFriday() {
   return nextFriday.toISOString().split('T')[0];
 }
 
-// ETF Flows (cached, updates daily)
-function getETFFlows() {
+// ETF Flows - Auto-fetch (updates when called)
+async function fetchETFFlows() {
+  try {
+    // Try CoinGlass API
+    const data = await fetch('https://open-api.coinglass.com/public/v2/etf/bitcoin_flows');
+    if (data?.data) {
+      const flows = data.data;
+      return {
+        date: new Date().toISOString().split('T')[0],
+        daily: Math.round((flows.netFlow24h || 0) / 1e6),
+        weekly: Math.round((flows.netFlow7d || 0) / 1e6),
+        total: Math.round((flows.totalNetAssets || 0) / 1e6),
+        trend: (flows.netFlow24h || 0) > 0 ? 'positive_daily' : 'negative_daily'
+      };
+    }
+  } catch (e) {
+    console.log('ETF fetch error:', e.message);
+  }
+  
+  // Fallback - static but with today's date
   return {
-    date: '2026-02-10',
-    daily: 145,
-    weekly: -580,
-    total: 40200,
-    trend: 'positive_daily'
+    date: new Date().toISOString().split('T')[0],
+    daily: 0,
+    weekly: 0,
+    total: 40000,
+    trend: 'unknown',
+    unavailable: true
   };
 }
 
@@ -556,38 +575,30 @@ function generateAnalysis(data) {
   };
 }
 
-// Generate story with Groq AI
+// Generate story - USE AI SPARINGLY (only every hour or when signal changes)
 async function generateStory(data, analysis) {
-  if (!GROQ_API_KEY) {
+  // Check if we should use AI or fallback
+  const shouldUseAI = shouldRegenerateStory(data, analysis);
+  
+  if (!shouldUseAI || !GROQ_API_KEY) {
+    console.log('📝 Using cached/fallback story (saving tokens)');
     return generateFallbackStory(data, analysis);
   }
   
+  console.log('🤖 Generating AI story (signal changed or hourly refresh)');
+  
   try {
-    const prompt = `Tu es un analyste crypto qui parle à des débutants. Écris 3-4 phrases COURTES et PERCUTANTES pour expliquer la situation du marché.
-
-DONNÉES:
-- Fear & Greed: ${data.fearGreed?.current}/100 (${data.fearGreed?.label})
-- Hedge Funds: ${data.cot?.categories.leveragedFunds.shortPct}% SHORT
-- Institutions: ${data.cot?.categories.assetManagers.signal}
-- ETF Flows: ${data.etf?.daily > 0 ? '+' : ''}$${data.etf?.daily}M
-- Funding: ${data.funding?.btc.current}%
-- Signal global: ${analysis.label}
-
-RÈGLES:
-- Parle comme si tu expliquais à un ami
-- Utilise des mots simples
-- Pas de jargon technique
-- Fais RESSENTIR l'émotion du marché
-- Maximum 4 phrases
-
-Réponds uniquement avec le texte, sans introduction.`;
+    // OPTIMIZED: Shorter prompt, smaller model
+    const prompt = `Marché crypto - Explique en 3 phrases simples:
+F&G: ${data.fearGreed?.current}, Signal: ${analysis.label}, ETF: ${data.etf?.daily > 0 ? '+' : ''}${data.etf?.daily}M
+Style: ami qui explique, émotionnel, pas de jargon.`;
 
     const response = await new Promise((resolve, reject) => {
       const reqData = JSON.stringify({
-        model: 'llama-3.3-70b-versatile',
+        model: 'llama-3.1-8b-instant', // SMALLER MODEL = less tokens
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
-        max_tokens: 300
+        max_tokens: 150 // REDUCED from 300
       });
       
       const req = https.request({
@@ -605,11 +616,48 @@ Réponds uniquement avec le texte, sans introduction.`;
       req.end();
     });
     
-    return response.choices[0].message.content.trim();
+    const story = response.choices?.[0]?.message?.content?.trim();
+    if (story) {
+      // Cache the result
+      saveStoryCache(data, analysis, story);
+      return story;
+    }
+    return generateFallbackStory(data, analysis);
   } catch (e) {
     console.error('Story generation error:', e.message);
     return generateFallbackStory(data, analysis);
   }
+}
+
+// Check if we should regenerate story (signal changed or >1 hour since last AI story)
+function shouldRegenerateStory(data, analysis) {
+  try {
+    const cachePath = path.join(__dirname, '..', '.story-cache.json');
+    if (!fs.existsSync(cachePath)) return true;
+    
+    const cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+    const hourAgo = Date.now() - 60 * 60 * 1000;
+    
+    // Regenerate if signal changed OR more than 1 hour old
+    if (cache.signal !== analysis.label) return true;
+    if (cache.timestamp < hourAgo) return true;
+    
+    return false;
+  } catch (e) {
+    return true;
+  }
+}
+
+function saveStoryCache(data, analysis, story) {
+  try {
+    const cachePath = path.join(__dirname, '..', '.story-cache.json');
+    fs.writeFileSync(cachePath, JSON.stringify({
+      signal: analysis.label,
+      fearGreed: data.fearGreed?.current,
+      story,
+      timestamp: Date.now()
+    }));
+  } catch (e) {}
 }
 
 function generateFallbackStory(data, analysis) {

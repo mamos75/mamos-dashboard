@@ -110,10 +110,10 @@ Réponds en JSON valide uniquement:
   try {
     const response = await new Promise((resolve, reject) => {
       const data = JSON.stringify({
-        model: 'llama-3.3-70b-versatile',
+        model: 'llama-3.1-8b-instant', // SMALLER MODEL = less tokens
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.4,
-        max_tokens: 2500
+        max_tokens: 1500 // REDUCED from 2500
       });
       
       const req = https.request({
@@ -194,10 +194,10 @@ Réponds uniquement avec le paragraphe, sans introduction.`;
   try {
     const response = await new Promise((resolve, reject) => {
       const data = JSON.stringify({
-        model: 'llama-3.3-70b-versatile',
+        model: 'llama-3.1-8b-instant', // SMALLER MODEL
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.7,
-        max_tokens: 400
+        max_tokens: 250 // REDUCED from 400
       });
       
       const req = https.request({
@@ -222,8 +222,37 @@ Réponds uniquement avec le paragraphe, sans introduction.`;
   }
 }
 
+// Check if we should use AI (every 2 hours max)
+function shouldUseAI() {
+  try {
+    const cachePath = path.join(__dirname, '..', '.news-cache.json');
+    if (!fs.existsSync(cachePath)) return true;
+    
+    const cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+    const twoHoursAgo = Date.now() - 2 * 60 * 60 * 1000;
+    
+    return cache.timestamp < twoHoursAgo;
+  } catch (e) {
+    return true;
+  }
+}
+
+function saveNewsCache() {
+  try {
+    const cachePath = path.join(__dirname, '..', '.news-cache.json');
+    fs.writeFileSync(cachePath, JSON.stringify({ timestamp: Date.now() }));
+  } catch (e) {}
+}
+
 async function main() {
   console.log('📰 Fetching news...');
+  
+  const useAI = shouldUseAI();
+  if (!useAI) {
+    console.log('⏭️ Skipping AI analysis (cache valid, saving tokens)');
+    console.log('✅ News update skipped (will refresh in < 2h)');
+    return;
+  }
   
   // Fetch from multiple sources
   const sources = [
@@ -242,9 +271,9 @@ async function main() {
     }
   }
   
-  // Sort by date, take top 8
+  // Sort by date, take top 5 (REDUCED from 8)
   allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
-  allNews = allNews.slice(0, 8);
+  allNews = allNews.slice(0, 5);
   
   console.log(`📊 Got ${allNews.length} news, analyzing with market context...`);
   
@@ -260,9 +289,15 @@ async function main() {
   // Filter by importance
   const important = analyzed.filter(n => n.importance >= 3).slice(0, 5);
   
-  // Generate narrative
-  console.log('📝 Generating market narrative...');
-  const narrative = await generateNarrative(important, context);
+  // Generate narrative (skip if no important news)
+  let narrative = null;
+  if (important.length >= 2) {
+    console.log('📝 Generating market narrative...');
+    narrative = await generateNarrative(important, context);
+  }
+  
+  // Save cache timestamp
+  saveNewsCache();
   
   // Save output
   const output = {
