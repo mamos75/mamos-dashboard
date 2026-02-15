@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T00:30:03.695Z",
+  "updatedAt": "2026-02-15T00:45:03.509Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.2",
-      "short": "44.8",
-      "ratio": "1.23"
+      "long": "55.0",
+      "short": "45.0",
+      "ratio": "1.22"
     },
     "accounts": {
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "2.89",
+    "takerBuySellRatio": "1.93",
     "trend": "more_long",
-    "signal": "dump_possible"
+    "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,914",
+    "btc": "77,927",
     "usd": "5.43B",
     "change24h": 0.2,
     "trend": "stable",
@@ -49,22 +49,22 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "946",
+    "current": "1039",
     "unit": "EH/s",
-    "trend": "dropping",
+    "trend": "falling",
     "peak": "1098",
-    "change24h": -13.8,
-    "change7d": -10.3,
-    "changeFromPeak": -13.8,
-    "interpretation": "📉 Hashrate en baisse (-13.8% 24h, -13.8% depuis le pic). Les mineurs ralentissent.",
-    "priceImpact": "🤔 <strong>Pourquoi ça baisse ?</strong> Soit les mineurs les moins rentables éteignent leurs machines (coûts > revenus), soit maintenance temporaire après le pic. <br><br>📊 <strong>Scénarios possibles :</strong><br>• Si le prix continue de baisser → plus de mineurs arrêtent → capitulation = souvent proche d'un bottom<br>• Si le prix rebondit → hashrate repart → situation saine",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
+    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
+    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69679,
+    "current": 69634,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.13",
+    "change24h": "0.89",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🚀",
     "score": {
       "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bear": 2,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,679",
+      "currentPrice": "$69,634",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, mais c'est justement ce genre de situation qui peut être une bonne opportunité pour investir. Les gros investisseurs sont plutôt optimistes, ce qui est un bon signe. Les flux d'argent vers les fonds cryptos sont également en hausse, ce qui indique une confiance croissante. C'est le moment idéal pour acheter, car tout le monde est trop effrayé pour le faire !"
+  "story": "Le marché est super peur, les gens sont vraiment nerveux ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes et mettent de l'argent dans les cryptos. Les fonds spéculatifs, par contre, misent sur une baisse, mais l'argent qui rentre dans les ETF montre que les gens ont confiance. C'est le moment idéal pour acheter, le marché est en train de se recharger pour une grosse remontée !"
 }
