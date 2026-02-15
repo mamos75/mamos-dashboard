@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T13:00:20.067Z",
+  "updatedAt": "2026-02-15T14:00:21.007Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.8",
-      "short": "44.2",
-      "ratio": "1.26"
+      "long": "55.6",
+      "short": "44.4",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "62.1",
-      "short": "37.9"
+      "long": "61.7",
+      "short": "38.3"
     },
-    "takerBuySellRatio": "0.99",
+    "takerBuySellRatio": "1.47",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,889",
-    "usd": "5.40B",
-    "change24h": -1.3,
+    "btc": "77,569",
+    "usd": "5.35B",
+    "change24h": -0.4,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,14 +61,14 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69385,
+    "current": 68941,
     "high24h": 70983,
-    "low24h": 69065,
-    "change24h": "-0.34",
+    "low24h": 68772,
+    "change24h": "-0.73",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
-      69100,
+      68800,
       65900,
       65100
     ],
@@ -160,9 +160,9 @@
     "label": "PATIENCE",
     "emoji": "⏳",
     "score": {
-      "bull": 3,
+      "bull": 4,
       "bear": 3,
-      "net": 0
+      "net": 1
     },
     "signals": [
       {
@@ -179,6 +179,11 @@
         "type": "bearish",
         "weight": 1,
         "reason": "Retail très long - risque de dump"
+      },
+      {
+        "type": "bullish",
+        "weight": 1,
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
@@ -193,8 +198,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,385",
-      "entryZone": "$69,100 - $70,600",
+      "currentPrice": "$68,941",
+      "entryZone": "$68,800 - $70,300",
       "invalidation": "$65,900",
       "target1": "$71,000",
       "target2": "$71,500"
@@ -219,5 +224,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
+  "story": "Voici une explication simple :\n\nF&G et Signal sont des indicateurs qui analysent les marchés crypto, et ils donnent un avertissement : il faut être patient (PATIENCE). \nCela signifie que la situation actuelle n'est pas idéale pour investir ou vendre, il est préférable de attendre un peu avant de prendre une décision.\nDe plus, il y a une forte tendance positive (+15.1M) dans certains ETF (fonds d'investissement), ce qui peut être un signe encourageant pour les investisseurs."
 }
