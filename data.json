@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T14:45:19.321Z",
+  "updatedAt": "2026-02-15T16:00:23.416Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,31 +19,31 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.6",
-      "short": "44.4",
+      "long": "55.5",
+      "short": "44.5",
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.5",
-      "short": "38.5"
+      "long": "61.1",
+      "short": "38.9"
     },
-    "takerBuySellRatio": "1.86",
+    "takerBuySellRatio": "0.54",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,616",
-    "usd": "5.37B",
-    "change24h": 0.1,
+    "btc": "77,085",
+    "usd": "5.33B",
+    "change24h": -0.6,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "-0.0029",
+      "current": "-0.0034",
       "avg24h": "-0.0017"
     },
-    "eth": "0.0062",
+    "eth": "-0.0076",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69173,
+    "current": 69093,
     "high24h": 70983,
     "low24h": 68772,
-    "change24h": "-0.72",
+    "change24h": "-0.98",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -81,7 +81,7 @@
   },
   "cot": {
     "asOf": "2026-02-10",
-    "nextUpdate": "2026-02-20",
+    "nextUpdate": "2026-02-19",
     "openInterest": 24157,
     "categories": {
       "dealers": {
@@ -160,9 +160,9 @@
     "label": "ZONE DE PRUDENCE",
     "emoji": "⚠️",
     "score": {
-      "bull": 4,
-      "bear": 6,
-      "net": -2
+      "bull": 3,
+      "bear": 7,
+      "net": -4
     },
     "signals": [
       {
@@ -186,9 +186,9 @@
         "reason": "Retail très long - risque de dump"
       },
       {
-        "type": "bullish",
+        "type": "bearish",
         "weight": 1,
-        "reason": "Plus d'acheteurs que de vendeurs"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.54)"
       }
     ]
   },
@@ -203,7 +203,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,173",
+      "currentPrice": "$69,093",
       "entryZone": "$68,800 - $70,300",
       "invalidation": "$65,900",
       "target1": "$71,000",
@@ -229,5 +229,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- F&G fait référence à des performances financières, qui sont en baisse à 8%.\n- Le signal \"ZONE DE PRUDENCE\" signifie qu'il est prudent de rester prudent et de ne pas prendre de risques excessifs.\n- L'ETF a augmenté de 15,1 millions de dollars, ce qui est une bonne nouvelle, mais il faut faire attention aux autres indicateurs avant de prendre une décision."
+  "story": "F&G est à 8, ce qui signifie que le prix de l'actif est à 8, peut-être un peu bas ou élevé. Le signal \"ZONE DE PRUDENCE\" indique que les experts recommandent de prendre soin et d'être prudent avec les investissements. L'ETF (un type d'instrument financier) a gagné 15.1 millions, ce qui est une bonne nouvelle pour les investisseurs."
 }
