@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T04:00:22.329Z",
+  "updatedAt": "2026-02-15T04:15:02.463Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "62.7",
       "short": "37.3"
     },
-    "takerBuySellRatio": "0.89",
+    "takerBuySellRatio": "0.70",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,403",
-    "usd": "5.42B",
-    "change24h": -1,
+    "btc": "78,570",
+    "usd": "5.53B",
+    "change24h": 1.5,
     "trend": "stable",
     "signal": "normal"
   },
@@ -52,19 +52,19 @@
     "current": "1039",
     "unit": "EH/s",
     "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
+    "peak": "1107",
+    "change24h": 9.9,
+    "change7d": -2.4,
+    "changeFromPeak": -6.2,
     "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
     "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69976,
+    "current": 70432,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.44",
+    "change24h": "2.23",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -177,7 +177,7 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.89)"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.70)"
       }
     ]
   },
@@ -192,7 +192,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,976",
+      "currentPrice": "$70,432",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -218,5 +218,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- F&G (Fonds et Gestion) fait référence à une évaluation des performances d'un fonds ou d'une société de gestion.\n- Le signal \"PATIENCE\" suggère que l'on doit attendre un peu avant de prendre une décision, ce qui est une stratégie prudente.\n- L'augmentation de +15,1 millions dans l'ETF (Échange Traded Fund) indique que l'investissement a connu une forte croissance financière."
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
 }
