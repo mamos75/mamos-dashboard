@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:25:20.046Z",
+  "updatedAt": "2026-02-15T02:30:10.317Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "2.41",
+    "takerBuySellRatio": "2.35",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,075",
+    "btc": "78,090",
     "usd": "5.42B",
     "change24h": 0,
     "trend": "stable",
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69411,
+    "current": 69465,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.79",
+    "change24h": "0.82",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -175,7 +175,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,411",
+      "currentPrice": "$69,465",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -201,5 +201,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de tout ! Les grandes institutions et les hedge funds sont même prêts à parier contre le marché, ce qui montre à quel point ils sont négatifs. Mais malgré tout, il y a encore des investisseurs qui mettent de l'argent dans les crypto, ce qui pourrait être un signe de rebond. C'est une zone d'accumulation, ce qui signifie que c'est peut-être le moment de acheter avant que les prix ne remontent !"
 }
