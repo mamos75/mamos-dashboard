@@ -49,10 +49,15 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1000",
+    "current": "1039",
     "unit": "EH/s",
-    "trend": "unknown",
-    "interpretation": "⚪ Données hashrate indisponibles",
+    "trend": "falling",
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
+    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
+    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
