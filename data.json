@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T01:30:54.596Z",
+  "updatedAt": "2026-02-15T01:45:03.402Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.7",
-      "short": "45.3",
-      "ratio": "1.21"
+      "long": "54.3",
+      "short": "45.7",
+      "ratio": "1.19"
     },
     "accounts": {
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "2.42",
+    "takerBuySellRatio": "0.47",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,775",
+    "btc": "77,970",
     "usd": "5.41B",
-    "change24h": -0.3,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -49,17 +49,22 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1000",
+    "current": "1039",
     "unit": "EH/s",
-    "trend": "unknown",
-    "interpretation": "⚪ Données hashrate indisponibles",
+    "trend": "falling",
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
+    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
+    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69592,
+    "current": 69417,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.86",
+    "change24h": "0.61",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -132,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 2,
-      "net": 7
+      "bull": 8,
+      "bear": 3,
+      "net": 5
     },
     "signals": [
       {
@@ -175,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,592",
+      "currentPrice": "$69,417",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -205,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les grosses institutions sont optimistes et achètent, ce qui est un bon signe. Les investisseurs institutionnels ont même mis 145 millions de dollars dans les crypto via les ETF, c'est énorme ! Le signal est clair : c'est le moment d'acheter, pas de vendre."
+  "story": "Le marché est en plein chaos, les gens ont peur et vendent tout ! Les gros investisseurs institutionnels, eux, sont confiants et achètent en masse, ce qui est un signe très positif. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui entre dans les ETF crypto est en train de monter en flèche. C'est le moment idéal pour acheter, car tout le monde est en train de paniquer !"
 }
