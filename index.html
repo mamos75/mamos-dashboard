@@ -432,6 +432,46 @@
         
         .takeaway-text strong {
             color: var(--text-primary);
+            font-size: 15px;
+        }
+        
+        .takeaway-summary {
+            color: var(--text-secondary);
+            font-size: 14px;
+            margin: 8px 0;
+            line-height: 1.4;
+        }
+        
+        .takeaway-impact {
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid var(--border);
+        }
+        
+        .impact-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-right: 8px;
+        }
+        
+        .impact-badge.bullish {
+            background: rgba(34, 197, 94, 0.2);
+            color: var(--green);
+        }
+        
+        .impact-badge.bearish {
+            background: rgba(239, 68, 68, 0.2);
+            color: var(--red);
+        }
+        
+        .impact-badge.neutre {
+            background: rgba(156, 163, 175, 0.2);
+            color: var(--text-secondary);
         }
         
         /* ACTION SECTION */
@@ -1411,12 +1451,14 @@
                         .slice(0, 3)
                         .map(n => {
                             const icon = n.impact === 'bullish' ? '🟢' : n.impact === 'bearish' ? '🔴' : '⚪';
+                            const impactLabel = n.impact === 'bullish' ? 'Bullish' : n.impact === 'bearish' ? 'Bearish' : 'Neutre';
                             return `
                                 <div class="takeaway-item">
                                     <span class="takeaway-icon">${icon}</span>
                                     <div class="takeaway-text">
-                                        <strong>${n.title}</strong><br>
-                                        ${n.priceEffect || n.summary}
+                                        <strong>${n.title || n.titleFr}</strong>
+                                        <div class="takeaway-summary">${n.summary}</div>
+                                        <div class="takeaway-impact"><span class="impact-badge ${n.impact}">${impactLabel}</span> ${n.priceEffect || ''}</div>
                                     </div>
                                 </div>
                             `;

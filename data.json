@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:15:03.958Z",
+  "updatedAt": "2026-02-15T02:19:44.251Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,20 +19,20 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.4",
-      "short": "45.6",
+      "long": "54.3",
+      "short": "45.7",
       "ratio": "1.19"
     },
     "accounts": {
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "1.40",
+    "takerBuySellRatio": "0.40",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,081",
+    "btc": "78,073",
     "usd": "5.43B",
     "change24h": 0,
     "trend": "stable",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69548,
+    "current": 69590,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.82",
+    "change24h": "0.90",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -137,9 +132,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 9,
-      "bear": 2,
-      "net": 7
+      "bull": 8,
+      "bear": 3,
+      "net": 5
     },
     "signals": [
       {
@@ -180,7 +175,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,548",
+      "currentPrice": "$69,590",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +205,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en plein chaos, les gens ont peur et vendent tout, c'est l'occasion parfaite pour acheter ! Les gros investisseurs sont même prêts à parier contre le marché, mais les institutions sont optimistes. Il y a beaucoup d'argent qui rentre dans les cryptos, c'est un signal fort que les choses vont bientôt s'améliorer. C'est le moment idéal pour accumuler, les prix sont bas et les perspectives sont prometteuses !"
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
 }
