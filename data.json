@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T17:00:04.011Z",
+  "updatedAt": "2026-02-15T22:15:30.726Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.3",
-      "short": "44.7",
-      "ratio": "1.24"
+      "long": "55.6",
+      "short": "44.4",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.2",
-      "short": "38.8"
+      "long": "63.1",
+      "short": "36.9"
     },
-    "takerBuySellRatio": "0.97",
+    "takerBuySellRatio": "1.14",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,171",
-    "usd": "5.33B",
-    "change24h": 0.1,
+    "btc": "76,991",
+    "usd": "5.30B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -52,23 +52,23 @@
     "current": "1039",
     "unit": "EH/s",
     "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
+    "peak": "1107",
+    "change24h": 9.9,
+    "change7d": -2.4,
+    "changeFromPeak": -6.2,
     "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
     "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69032,
+    "current": 68864,
     "high24h": 70983,
-    "low24h": 68658,
-    "change24h": "-1.01",
+    "low24h": 68000,
+    "change24h": "-1.63",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
-      68700,
+      68000,
       65900,
       65100
     ],
@@ -81,7 +81,7 @@
   },
   "cot": {
     "asOf": "2026-02-10",
-    "nextUpdate": "2026-02-20",
+    "nextUpdate": "2026-02-19",
     "openInterest": 24157,
     "categories": {
       "dealers": {
@@ -155,14 +155,50 @@
     "trend": "positive_daily",
     "source": "farside"
   },
+  "hyperliquid": {
+    "btc": {
+      "openInterest": 18234,
+      "openInterestUSD": "1.26B",
+      "funding": "0.0013",
+      "volume24h": "1.43B",
+      "markPrice": "68838"
+    },
+    "eth": {
+      "openInterest": 485426,
+      "funding": "0.0010"
+    },
+    "signal": "neutral",
+    "interpretation": "✅ Funding neutre (0.001%) - Marché équilibré."
+  },
+  "whales": {
+    "longPct": "66.5",
+    "shortPct": "33.5",
+    "ratio": "1.98",
+    "trend": "more_short",
+    "cvd": "0.6",
+    "cvdSignal": "balanced",
+    "signal": "extreme_long",
+    "interpretation": "⚠️ 66% des top traders sont LONG - Euphorie ? Attention au dump."
+  },
+  "mvrv": {
+    "value": "1.27",
+    "signal": "undervalued",
+    "interpretation": "🟢 MVRV 1.27 - Sous-évalué. Zone d'accumulation.",
+    "zones": {
+      "current": "1.27",
+      "buyZone": "< 1.5",
+      "sellZone": "> 3.0",
+      "extremeSell": "> 3.5"
+    }
+  },
   "analysis": {
     "signal": "distribution",
     "label": "ZONE DE PRUDENCE",
     "emoji": "⚠️",
     "score": {
-      "bull": 3,
+      "bull": 4,
       "bear": 6,
-      "net": -3
+      "net": -2
     },
     "signals": [
       {
@@ -184,6 +220,11 @@
         "type": "bearish",
         "weight": 1,
         "reason": "Retail très long - risque de dump"
+      },
+      {
+        "type": "bullish",
+        "weight": 1,
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
@@ -198,8 +239,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,032",
-      "entryZone": "$68,700 - $70,200",
+      "currentPrice": "$68,864",
+      "entryZone": "$68,000 - $69,500",
       "invalidation": "$65,900",
       "target1": "$71,000",
       "target2": "$71,500"

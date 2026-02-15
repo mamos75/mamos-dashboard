@@ -1046,6 +1046,93 @@
         </div>
     </section>
     
+    <!-- ADVANCED INDICATORS -->
+    <section class="metrics-section" id="advanced-indicators">
+        <div class="section-title" style="text-align: center; margin-bottom: 30px;">🔬 Indicateurs Avancés</div>
+        
+        <!-- Hyperliquid -->
+        <div style="max-width: 900px; margin: 0 auto 30px auto;">
+            <div style="background: var(--bg-card); border-radius: 16px; padding: 25px; margin-bottom: 20px;">
+                <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+                    <span style="font-size: 24px;">🌊</span>
+                    <span style="font-weight: 700;">Hyperliquid</span>
+                    <span style="color: var(--text-secondary); font-size: 12px;">(DEX perpétuels #1)</span>
+                </div>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 15px;">
+                    <div style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; text-align: center;">
+                        <div style="color: var(--text-secondary); font-size: 11px; margin-bottom: 5px;">Open Interest BTC</div>
+                        <div id="hl-oi" style="font-size: 20px; font-weight: 700;">--</div>
+                    </div>
+                    <div style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; text-align: center;">
+                        <div style="color: var(--text-secondary); font-size: 11px; margin-bottom: 5px;">Funding Rate</div>
+                        <div id="hl-funding" style="font-size: 20px; font-weight: 700;">--</div>
+                    </div>
+                    <div style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; text-align: center;">
+                        <div style="color: var(--text-secondary); font-size: 11px; margin-bottom: 5px;">Volume 24h</div>
+                        <div id="hl-volume" style="font-size: 20px; font-weight: 700;">--</div>
+                    </div>
+                </div>
+                <div id="hl-interpretation" style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; font-size: 14px; line-height: 1.6;">
+                    Chargement...
+                </div>
+            </div>
+            
+            <!-- Whale Positions + CVD -->
+            <div style="background: var(--bg-card); border-radius: 16px; padding: 25px; margin-bottom: 20px;">
+                <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+                    <span style="font-size: 24px;">🐋</span>
+                    <span style="font-weight: 700;">Positions des Whales</span>
+                    <span style="color: var(--text-secondary); font-size: 12px;">(Top Traders Binance)</span>
+                </div>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 15px;">
+                    <div style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; text-align: center;">
+                        <div style="color: var(--text-secondary); font-size: 11px; margin-bottom: 5px;">% LONG</div>
+                        <div id="whale-long" style="font-size: 24px; font-weight: 700; color: var(--green);">--</div>
+                    </div>
+                    <div style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; text-align: center;">
+                        <div style="color: var(--text-secondary); font-size: 11px; margin-bottom: 5px;">% SHORT</div>
+                        <div id="whale-short" style="font-size: 24px; font-weight: 700; color: var(--red);">--</div>
+                    </div>
+                    <div style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; text-align: center;">
+                        <div style="color: var(--text-secondary); font-size: 11px; margin-bottom: 5px;">CVD 24h</div>
+                        <div id="whale-cvd" style="font-size: 20px; font-weight: 700;">--</div>
+                    </div>
+                </div>
+                <div id="whale-interpretation" style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; font-size: 14px; line-height: 1.6;">
+                    Chargement...
+                </div>
+            </div>
+            
+            <!-- MVRV -->
+            <div style="background: var(--bg-card); border-radius: 16px; padding: 25px;">
+                <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+                    <span style="font-size: 24px;">📊</span>
+                    <span style="font-weight: 700;">MVRV Ratio</span>
+                    <span style="color: var(--text-secondary); font-size: 12px;">(On-Chain : Surévaluation)</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 15px;">
+                    <div style="background: var(--bg-secondary); padding: 20px 30px; border-radius: 10px; text-align: center;">
+                        <div id="mvrv-value" style="font-size: 36px; font-weight: 800;">--</div>
+                        <div style="color: var(--text-secondary); font-size: 12px;">Valeur actuelle</div>
+                    </div>
+                    <div style="flex: 1;">
+                        <div style="background: linear-gradient(to right, var(--green), var(--orange), var(--red)); height: 20px; border-radius: 10px; position: relative; margin-bottom: 10px;">
+                            <div id="mvrv-indicator" style="position: absolute; width: 4px; height: 30px; background: white; top: -5px; border-radius: 2px; box-shadow: 0 0 10px rgba(255,255,255,0.5); transition: left 0.5s;"></div>
+                        </div>
+                        <div style="display: flex; justify-content: space-between; font-size: 11px; color: var(--text-secondary);">
+                            <span>🟢 &lt;1.5 Sous-évalué</span>
+                            <span>⚪ 1.5-3 Neutre</span>
+                            <span>🔴 &gt;3 Suracheté</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="mvrv-interpretation" style="background: var(--bg-secondary); padding: 15px; border-radius: 10px; font-size: 14px; line-height: 1.6;">
+                    Chargement...
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <!-- TRADING PLAN -->
     <section class="trading-plan-section" id="trading-plan-section">
         <div class="trading-plan-container">
@@ -1483,8 +1570,59 @@
                 // Update trading plan
                 updateTradingPlan(data);
                 
+                // Update advanced indicators
+                updateAdvancedIndicators(data);
+                
             } catch (e) {
                 console.error('Smart money fetch error:', e);
+            }
+        }
+        
+        function updateAdvancedIndicators(data) {
+            // Hyperliquid
+            if (data.hyperliquid?.btc) {
+                const hl = data.hyperliquid;
+                document.getElementById('hl-oi').textContent = hl.btc.openInterest.toLocaleString() + ' BTC';
+                document.getElementById('hl-funding').textContent = hl.btc.funding + '%';
+                document.getElementById('hl-funding').style.color = parseFloat(hl.btc.funding) > 0.01 ? 'var(--orange)' : parseFloat(hl.btc.funding) < -0.005 ? 'var(--green)' : 'var(--text-primary)';
+                document.getElementById('hl-volume').textContent = '$' + hl.btc.volume24h;
+                document.getElementById('hl-interpretation').innerHTML = hl.interpretation || 'Données Hyperliquid chargées.';
+            }
+            
+            // Whale positions
+            if (data.whales) {
+                const w = data.whales;
+                document.getElementById('whale-long').textContent = w.longPct + '%';
+                document.getElementById('whale-short').textContent = w.shortPct + '%';
+                
+                const cvd = parseFloat(w.cvd);
+                document.getElementById('whale-cvd').textContent = (cvd >= 0 ? '+' : '') + w.cvd + '%';
+                document.getElementById('whale-cvd').style.color = cvd > 5 ? 'var(--green)' : cvd < -5 ? 'var(--red)' : 'var(--text-primary)';
+                
+                // Interpretation with CVD explanation
+                let interp = w.interpretation;
+                if (w.cvdSignal === 'buyers_dominate') {
+                    interp += `<br><br>📈 <strong>CVD positif (+${w.cvd}%)</strong> : Les acheteurs dominent. Plus de volume d'achat que de vente sur 24h.`;
+                } else if (w.cvdSignal === 'sellers_dominate') {
+                    interp += `<br><br>📉 <strong>CVD négatif (${w.cvd}%)</strong> : Les vendeurs dominent. Pression vendeuse sur 24h.`;
+                } else {
+                    interp += `<br><br>⚖️ <strong>CVD neutre (${w.cvd}%)</strong> : Équilibre entre acheteurs et vendeurs.`;
+                }
+                document.getElementById('whale-interpretation').innerHTML = interp;
+            }
+            
+            // MVRV
+            if (data.mvrv) {
+                const m = data.mvrv;
+                const val = parseFloat(m.value);
+                document.getElementById('mvrv-value').textContent = m.value;
+                document.getElementById('mvrv-value').style.color = val < 1.5 ? 'var(--green)' : val > 3 ? 'var(--red)' : 'var(--text-primary)';
+                
+                // Position indicator (0-100% based on MVRV 0-5 range)
+                const pct = Math.min(Math.max((val / 5) * 100, 0), 100);
+                document.getElementById('mvrv-indicator').style.left = pct + '%';
+                
+                document.getElementById('mvrv-interpretation').innerHTML = m.interpretation || 'MVRV chargé.';
             }
         }
         

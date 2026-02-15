@@ -553,6 +553,197 @@ async function fetchETFFlows() {
   };
 }
 
+// ============ NEW INDICATORS ============
+
+// Hyperliquid Data (OI + Funding)
+async function fetchHyperliquid() {
+  console.log('📊 Fetching Hyperliquid data...');
+  try {
+    const response = await new Promise((resolve, reject) => {
+      const req = https.request({
+        hostname: 'api.hyperliquid.xyz',
+        path: '/info',
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' }
+      }, (res) => {
+        let data = '';
+        res.on('data', chunk => data += chunk);
+        res.on('end', () => {
+          try { resolve(JSON.parse(data)); } 
+          catch { reject(new Error('JSON parse error')); }
+        });
+      });
+      req.on('error', reject);
+      req.write(JSON.stringify({ type: 'metaAndAssetCtxs' }));
+      req.end();
+    });
+    
+    if (Array.isArray(response) && response.length > 1) {
+      const btcData = response[1][0]; // BTC is first
+      const ethData = response[1][1]; // ETH is second
+      
+      const btcOI = parseFloat(btcData.openInterest);
+      const btcFunding = parseFloat(btcData.funding) * 100;
+      const btcVolume = parseFloat(btcData.dayNtlVlm) / 1e9;
+      
+      const ethOI = parseFloat(ethData.openInterest);
+      const ethFunding = parseFloat(ethData.funding) * 100;
+      
+      // Determine signal from funding
+      let signal = 'neutral';
+      let interpretation = '';
+      
+      if (btcFunding > 0.01) {
+        signal = 'overleveraged_long';
+        interpretation = `⚠️ Funding élevé (${btcFunding.toFixed(3)}%) - Les longs payent cher. Correction possible.`;
+      } else if (btcFunding < -0.005) {
+        signal = 'overleveraged_short';
+        interpretation = `🔥 Funding négatif (${btcFunding.toFixed(3)}%) - Les shorts payent. Squeeze possible !`;
+      } else {
+        interpretation = `✅ Funding neutre (${btcFunding.toFixed(3)}%) - Marché équilibré.`;
+      }
+      
+      console.log(`Hyperliquid: BTC OI=${btcOI.toFixed(0)} BTC, Funding=${btcFunding.toFixed(4)}%`);
+      
+      return {
+        btc: {
+          openInterest: Math.round(btcOI),
+          openInterestUSD: (btcOI * parseFloat(btcData.markPx) / 1e9).toFixed(2) + 'B',
+          funding: btcFunding.toFixed(4),
+          volume24h: btcVolume.toFixed(2) + 'B',
+          markPrice: parseFloat(btcData.markPx).toFixed(0)
+        },
+        eth: {
+          openInterest: Math.round(ethOI),
+          funding: ethFunding.toFixed(4)
+        },
+        signal,
+        interpretation
+      };
+    }
+  } catch (e) {
+    console.error('Hyperliquid error:', e.message);
+  }
+  return null;
+}
+
+// Binance Long/Short Ratio for Top Traders (Whales)
+async function fetchWhalePositions() {
+  console.log('🐋 Fetching whale positions...');
+  try {
+    const [topTraders, takerRatio] = await Promise.all([
+      fetch('https://fapi.binance.com/futures/data/topLongShortAccountRatio?symbol=BTCUSDT&period=1h&limit=24'),
+      fetch('https://fapi.binance.com/futures/data/takerlongshortRatio?symbol=BTCUSDT&period=1h&limit=24')
+    ]);
+    
+    if (Array.isArray(topTraders) && topTraders.length > 0) {
+      const current = topTraders[0];
+      const h24Ago = topTraders[topTraders.length - 1];
+      
+      const longPct = parseFloat(current.longAccount) * 100;
+      const shortPct = parseFloat(current.shortAccount) * 100;
+      const ratio = parseFloat(current.longShortRatio);
+      const ratioH24Ago = parseFloat(h24Ago.longShortRatio);
+      
+      // Calculate CVD from taker data
+      let cvd = 0;
+      let cvdSignal = 'neutral';
+      if (Array.isArray(takerRatio) && takerRatio.length > 0) {
+        // Sum up buy vs sell volumes
+        let totalBuyVol = 0, totalSellVol = 0;
+        takerRatio.forEach(r => {
+          totalBuyVol += parseFloat(r.buyVol);
+          totalSellVol += parseFloat(r.sellVol);
+        });
+        cvd = ((totalBuyVol - totalSellVol) / totalSellVol * 100).toFixed(1);
+        cvdSignal = cvd > 5 ? 'buyers_dominate' : cvd < -5 ? 'sellers_dominate' : 'balanced';
+      }
+      
+      // Determine signal
+      let signal = 'neutral';
+      let interpretation = '';
+      
+      if (longPct > 65) {
+        signal = 'extreme_long';
+        interpretation = `⚠️ ${longPct.toFixed(0)}% des top traders sont LONG - Euphorie ? Attention au dump.`;
+      } else if (shortPct > 55) {
+        signal = 'squeeze_setup';
+        interpretation = `🔥 ${shortPct.toFixed(0)}% des top traders sont SHORT - Short squeeze possible !`;
+      } else {
+        interpretation = `📊 Équilibre: ${longPct.toFixed(0)}% longs / ${shortPct.toFixed(0)}% shorts`;
+      }
+      
+      // Trend
+      const trend = ratio > ratioH24Ago * 1.05 ? 'more_long' : 
+                    ratio < ratioH24Ago * 0.95 ? 'more_short' : 'stable';
+      
+      console.log(`Whales: ${longPct.toFixed(0)}%L / ${shortPct.toFixed(0)}%S, CVD: ${cvd}%`);
+      
+      return {
+        longPct: longPct.toFixed(1),
+        shortPct: shortPct.toFixed(1),
+        ratio: ratio.toFixed(2),
+        trend,
+        cvd,
+        cvdSignal,
+        signal,
+        interpretation
+      };
+    }
+  } catch (e) {
+    console.error('Whale positions error:', e.message);
+  }
+  return null;
+}
+
+// MVRV from CoinMetrics Community API (free)
+async function fetchMVRV() {
+  console.log('📈 Fetching MVRV...');
+  try {
+    const data = await fetch('https://community-api.coinmetrics.io/v4/timeseries/asset-metrics?assets=btc&metrics=CapMVRVCur&frequency=1d&page_size=1');
+    
+    if (data?.data && data.data.length > 0) {
+      const mvrv = parseFloat(data.data[0].CapMVRVCur);
+      
+      let signal = 'neutral';
+      let interpretation = '';
+      
+      if (mvrv > 3.5) {
+        signal = 'extreme_overvalued';
+        interpretation = `🔴 MVRV ${mvrv.toFixed(2)} - Zone de TOP historique ! Prudence maximale.`;
+      } else if (mvrv > 2.5) {
+        signal = 'overvalued';
+        interpretation = `🟠 MVRV ${mvrv.toFixed(2)} - Marché suracheté. Prendre des profits.`;
+      } else if (mvrv < 1) {
+        signal = 'extreme_undervalued';
+        interpretation = `🟢 MVRV ${mvrv.toFixed(2)} - Zone de BOTTOM ! Opportunité historique.`;
+      } else if (mvrv < 1.5) {
+        signal = 'undervalued';
+        interpretation = `🟢 MVRV ${mvrv.toFixed(2)} - Sous-évalué. Zone d'accumulation.`;
+      } else {
+        interpretation = `⚪ MVRV ${mvrv.toFixed(2)} - Zone neutre.`;
+      }
+      
+      console.log(`MVRV: ${mvrv.toFixed(2)} - ${signal}`);
+      
+      return {
+        value: mvrv.toFixed(2),
+        signal,
+        interpretation,
+        zones: {
+          current: mvrv.toFixed(2),
+          buyZone: '< 1.5',
+          sellZone: '> 3.0',
+          extremeSell: '> 3.5'
+        }
+      };
+    }
+  } catch (e) {
+    console.error('MVRV error:', e.message);
+  }
+  return null;
+}
+
 // ============ SMART ANALYSIS ENGINE ============
 
 function generateAnalysis(data) {
@@ -961,13 +1152,16 @@ async function main() {
     fetchPriceData()
   ]);
   
-  console.log('📊 Fetching COT data...');
-  const [cot, etf] = await Promise.all([
+  console.log('📊 Fetching COT + new indicators...');
+  const [cot, etf, hyperliquid, whales, mvrv] = await Promise.all([
     fetchCOTData(),
-    fetchETFFlows()
+    fetchETFFlows(),
+    fetchHyperliquid(),
+    fetchWhalePositions(),
+    fetchMVRV()
   ]);
   
-  const data = { fearGreed, longShort, openInterest, funding, liquidations, hashrate, priceData, cot, etf };
+  const data = { fearGreed, longShort, openInterest, funding, liquidations, hashrate, priceData, cot, etf, hyperliquid, whales, mvrv };
   
   console.log('🧠 Generating analysis...');
   const analysis = generateAnalysis(data);
