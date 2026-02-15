@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T00:00:05.617Z",
+  "updatedAt": "2026-02-15T00:15:02.955Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.1",
-      "short": "44.9",
+      "long": "55.2",
+      "short": "44.8",
       "ratio": "1.23"
     },
     "accounts": {
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "0.87",
+    "takerBuySellRatio": "0.58",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,776",
-    "usd": "5.43B",
-    "change24h": -0.1,
+    "btc": "77,765",
+    "usd": "5.42B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -51,20 +51,20 @@
   "hashrate": {
     "current": "946",
     "unit": "EH/s",
-    "trend": "crashing",
-    "peak": "1115",
+    "trend": "dropping",
+    "peak": "1098",
     "change24h": -13.8,
-    "change7d": -15.1,
-    "changeFromPeak": -15.1,
-    "interpretation": "🔴 Hashrate en chute libre (-15.1% depuis le pic). Mineurs en grande difficulté.",
-    "priceImpact": "⚠️ <strong>Impact prix :</strong> Les mineurs vendent du BTC pour payer leurs factures → pression vendeuse à court terme. MAIS historiquement, la capitulation des mineurs marque souvent un <strong>point bas</strong>. Si tu crois au long terme, c'est potentiellement une opportunité.",
-    "signal": "bearish"
+    "change7d": -10.3,
+    "changeFromPeak": -13.8,
+    "interpretation": "📉 Hashrate en baisse (-13.8% 24h, -13.8% depuis le pic). Les mineurs ralentissent.",
+    "priceImpact": "🤔 <strong>Pourquoi ça baisse ?</strong> Soit les mineurs les moins rentables éteignent leurs machines (coûts > revenus), soit maintenance temporaire après le pic. <br><br>📊 <strong>Scénarios possibles :</strong><br>• Si le prix continue de baisser → plus de mineurs arrêtent → capitulation = souvent proche d'un bottom<br>• Si le prix rebondit → hashrate repart → situation saine",
+    "signal": "neutral"
   },
   "priceData": {
-    "current": 69812,
+    "current": 69689,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.39",
+    "change24h": "1.17",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -138,8 +138,8 @@
     "emoji": "🎯",
     "score": {
       "bull": 8,
-      "bear": 6,
-      "net": 2
+      "bear": 5,
+      "net": 3
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,812",
+      "currentPrice": "$69,689",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement plongé dans la peur, avec une note de 8/100, ce qui signifie que les gens sont vraiment nerveux ! Les fonds spéculatifs misent même contre le marché à hauteur de 68,9%, mais les institutions restent confiantes. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui pourrait être un signe de renversement. C'est une zone d'accumulation, il faut rester calme et voir comment les choses évoluent !"
+  "story": "Le marché est super nerveux en ce moment, tout le monde a peur et vend ses crypto. Mais attention, les gros investisseurs sont plutôt optimistes et mettent de l'argent dans les ETF, ce qui pourrait être un signe de rebond. Les hedge funds, eux, sont plutôt négatifs, mais parfois, c'est justement le moment de saisir les occasions. Le marché est en zone d'accumulation, c'est-à-dire qu'il est prêt à repartir à la hausse !"
 }
