@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T01:30:04.375Z",
+  "updatedAt": "2026-02-15T01:30:54.596Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -32,7 +32,7 @@
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,756",
+    "btc": "77,775",
     "usd": "5.41B",
     "change24h": -0.3,
     "trend": "stable",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69529,
+    "current": 69592,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.72",
+    "change24h": "0.86",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -180,7 +175,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,529",
+      "currentPrice": "$69,592",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +205,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, avec la plupart des gens ayant peur de tout perdre. Mais attention, les gros investisseurs sont plutôt optimistes et ont même mis 145 millions de dollars dans les cryptos cette semaine ! Les hedge funds, eux, sont plutôt négatifs, mais ça pourrait être une bonne nouvelle pour nous. C'est le moment idéal pour acheter, car tout le monde est en train d'accumuler des cryptos en secret !"
+  "story": "Le marché est vraiment tendu en ce moment, les gens ont peur et vendent leurs crypto. Mais les grosses institutions sont optimistes et achètent, ce qui est un bon signe. Les investisseurs institutionnels ont même mis 145 millions de dollars dans les crypto via les ETF, c'est énorme ! Le signal est clair : c'est le moment d'acheter, pas de vendre."
 }
