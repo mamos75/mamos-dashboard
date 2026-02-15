@@ -1019,9 +1019,9 @@
                 <div class="metric-label">Funding Rate</div>
             </div>
             <div class="metric-card">
-                <div class="metric-icon">💥</div>
-                <div class="metric-value" id="liq-display">$89M</div>
-                <div class="metric-label">Liquidations 24h</div>
+                <div class="metric-icon">🐋</div>
+                <div class="metric-value" id="whale-ratio-display">--</div>
+                <div class="metric-label">Long/Short Whales</div>
             </div>
             <div class="metric-card">
                 <div class="metric-icon">📈</div>
@@ -1529,8 +1529,11 @@
                     document.getElementById('funding-display').textContent = data.funding.btc.current + '%';
                 }
                 
-                if (data.liquidations) {
-                    document.getElementById('liq-display').textContent = '$' + data.liquidations.h24.total + 'M';
+                // Whale Long/Short Ratio
+                if (data.whales) {
+                    const longPct = parseFloat(data.whales.longPct);
+                    document.getElementById('whale-ratio-display').textContent = longPct.toFixed(0) + '% L';
+                    document.getElementById('whale-ratio-display').style.color = longPct > 60 ? 'var(--green)' : longPct < 40 ? 'var(--red)' : 'var(--text-primary)';
                 }
                 
                 if (data.openInterest) {
