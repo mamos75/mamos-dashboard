@@ -557,14 +557,33 @@ function generateAnalysis(data) {
     else if (fg >= 65) { signals.push({ type: 'bearish', weight: 2, reason: 'Greed élevée - attention' }); bearScore += 2; }
   }
   
-  // COT Analysis
+  // COT Analysis - Check institutional positioning
   const cot = data.cot;
-  if (cot) {
-    if (cot.categories.leveragedFunds.shortPct > 60) {
-      signals.push({ type: 'bullish', weight: 2, reason: 'Hedge Funds très short - squeeze possible' }); bullScore += 2;
+  if (cot?.categories) {
+    const instNet = cot.categories.assetManagers.net || 0;
+    const hfNet = cot.categories.leveragedFunds.net || 0;
+    const instBullish = instNet > 0;
+    const hfBullish = hfNet > 0;
+    
+    // Scenario: Institutions LONG + HF SHORT = Squeeze setup (VERY bullish)
+    if (instBullish && !hfBullish) {
+      signals.push({ type: 'bullish', weight: 3, reason: 'Setup Short Squeeze - Institutions accumulent, HF short' }); 
+      bullScore += 3;
     }
-    if (cot.categories.assetManagers.signal === 'bullish') {
-      signals.push({ type: 'bullish', weight: 2, reason: 'Institutions accumulent' }); bullScore += 2;
+    // Scenario: Institutions SHORT + HF LONG = Smart money sells (VERY bearish)
+    else if (!instBullish && hfBullish) {
+      signals.push({ type: 'bearish', weight: 3, reason: 'Smart Money vend - Institutions réduisent, spéculateurs achètent' }); 
+      bearScore += 3;
+    }
+    // Scenario: Both bullish = Consensus (neutral-ish, watch for euphoria)
+    else if (instBullish && hfBullish) {
+      signals.push({ type: 'bullish', weight: 1, reason: 'Consensus haussier - Institutions et HF accumulent' }); 
+      bullScore += 1;
+    }
+    // Scenario: Both bearish = Consensus bearish (but could be contrarian buy)
+    else if (!instBullish && !hfBullish) {
+      signals.push({ type: 'bearish', weight: 2, reason: 'Consensus baissier - Tout le monde vend' }); 
+      bearScore += 2;
     }
   }
   
@@ -786,9 +805,32 @@ function generateTradingPlan(data, analysis) {
   const fg = data.fearGreed?.current || 50;
   const netScore = analysis.score.net;
   
-  // Determine bias
+  // Check COT positioning for override
+  const cot = data.cot?.categories;
+  const instNet = cot?.assetManagers?.net || 0;
+  const hfNet = cot?.leveragedFunds?.net || 0;
+  const instBullish = instNet > 0;
+  const hfBullish = hfNet > 0;
+  const smartMoneySells = !instBullish && hfBullish; // Institutions SHORT + HF LONG
+  const squeezeSetup = instBullish && !hfBullish; // Institutions LONG + HF SHORT
+  
+  // Determine bias - COT can override score
   let bias, biasEmoji, biasStrength;
-  if (netScore >= 5) {
+  
+  // COT override: Smart Money selling = PRUDENCE regardless of score
+  if (smartMoneySells) {
+    bias = 'PRUDENCE';
+    biasEmoji = '🟡';
+    biasStrength = 'Smart Money vend';
+  }
+  // COT override: Squeeze setup = ACHAT signal
+  else if (squeezeSetup && netScore >= 0) {
+    bias = 'ACHAT';
+    biasEmoji = '🟢';
+    biasStrength = 'Setup Squeeze';
+  }
+  // Normal score-based logic
+  else if (netScore >= 5) {
     bias = 'ACHAT';
     biasEmoji = '🟢';
     biasStrength = 'Fort';
@@ -853,9 +895,18 @@ function generateTradingPlan(data, analysis) {
   if (bias === 'ACHAT' && biasStrength === 'Fort') {
     action = 'Accumulation progressive';
     actionDetail = `DCA sur la zone ${entryZone}. Ne pas FOMO sur les pumps.`;
+  } else if (bias === 'ACHAT' && biasStrength === 'Setup Squeeze') {
+    action = 'Surveiller le squeeze';
+    actionDetail = `Les institutions accumulent, les HF sont short. Entrée possible sur ${entryZone} avec stop serré.`;
   } else if (bias === 'ACHAT') {
     action = 'Observer pour entrée';
     actionDetail = `Attendre un repli vers ${entryZone} pour position.`;
+  } else if (bias === 'PRUDENCE' && smartMoneySells) {
+    action = 'Éviter les achats';
+    actionDetail = 'Les institutions vendent pendant que les spéculateurs achètent. Historiquement, mauvais timing pour entrer. Attendre un retournement du COT.';
+  } else if (bias === 'PRUDENCE') {
+    action = 'Prudence';
+    actionDetail = 'Signaux mitigés. Réduire la taille des positions ou attendre.';
   } else if (bias === 'VENTE') {
     action = 'Réduire exposition';
     actionDetail = 'Prendre des profits partiels. Éviter les nouveaux achats.';
