@@ -1,71 +1,66 @@
 {
-  "updatedAt": "2026-02-14T23:45:08.139Z",
+  "updatedAt": "2026-02-15T00:00:06.881Z",
   "context": {
-    "fearGreed": 9,
+    "fearGreed": 8,
     "hedgeFundsShort": 68.9,
-    "signal": "ACCUMULATION FORTE"
+    "signal": "ZONE D'ACCUMULATION"
   },
   "narrative": null,
   "news": [
     {
-      "title": "Buterin défend les marchés prédictifs",
+      "title": "Here’s what happened in crypto today",
+      "titleOriginal": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 22:31:39 +0000"
+    },
+    {
+      "title": "Prediction markets should become hedging platforms, says Buterin",
       "titleOriginal": "Prediction markets should become hedging platforms, says Buterin",
-      "summary": "Buterin pense que les marchés prédictifs devraient devenir des instruments de stabilité des prix",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait renforcer la confiance dans les marchés prédictifs et, par extension, dans le marché crypto en général, contribuant potentiellement à un rebond dans un marché actuellement en peur extrême. L'accent sur la stabilité des prix pourrait attirer davantage d'investisseurs institutionnels.",
-      "contextLink": "Cette news se connecte au contexte actuel en offrant une perspective positive sur l'évolution des marchés prédictifs, ce qui pourrait contrebalancer la peur extrême actuelle.",
-      "importance": 4,
+      "summary": "Prediction markets should pivot from short-term betting and move toward becoming price stability instruments for consumers, Buterin argued.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 22:16:34 +0000"
     },
     {
-      "title": "X lance le trading en app",
+      "title": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
       "titleOriginal": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-      "summary": "X va lancer le trading en application dans quelques semaines",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait augmenter l'adoption et l'utilisation de la plateforme X, attirant ainsi plus d'investisseurs et d'utilisateurs, ce qui pourrait avoir un effet positif sur le marché dans son ensemble. Dans le contexte actuel, cela pourrait être un catalyseur pour un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel en offrant une perspective d'adoption accrue des technologies crypto, contrebalançant ainsi la peur extrême et les positions short des hedge funds.",
-      "importance": 4,
+      "summary": "An announcement in January teased the potential in-app trading feature, fueling online speculation about X's upcoming Smart Cashtags.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 21:00:30 +0000"
     },
     {
-      "title": "Avantages sociaux sur la blockchain",
+      "title": "All social program benefits can be distributed onchain: Compliance exec",
       "titleOriginal": "All social program benefits can be distributed onchain: Compliance exec",
-      "summary": "Certains pays explorent la distribution d'avantages sociaux sur la blockchain",
-      "impact": "bullish",
-      "priceEffect": "Cela pourrait démontrer l'utilité pratique de la technologie blockchain au-delà des transactions financières, renforçant ainsi la confiance dans l'adoption à long terme des cryptomonnaies. Dans le contexte actuel, cela soutient la tendance d'accumulation forte.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant l'intérêt croissant des institutions pour les applications pratiques de la blockchain, aligné avec la tendance bullish des institutions.",
-      "importance": 4,
+      "summary": "Hong Kong, Thailand, and the Marshall Islands are exploring tokenized debt instruments and administering social benefit programs onchain.",
+      "impact": "neutre",
+      "priceEffect": "",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 18:20:21 +0000"
     },
     {
-      "title": "Figure Technology victime d'une faille",
+      "title": "Figure Technology suffers data breach, exposing personal customer details",
       "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
-      "summary": "Figure Technology a subi une faille de sécurité, exposant des données personnelles",
-      "impact": "bearish",
-      "priceEffect": "Cela pourrait renforcer les inquiétudes concernant la sécurité des données dans le secteur crypto, mais dans le contexte actuel de peur extrême, l'impact pourrait être déjà pris en compte dans les prix. Les investisseurs pourraient être plus sensibles aux news positives pour contrebalancer cette faille.",
-      "contextLink": "Cette news se connecte au contexte actuel en soulignant les risques de sécurité, mais son impact pourrait être limité par la peur extrême déjà présente sur le marché.",
+      "summary": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
+      "impact": "neutre",
+      "priceEffect": "",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 12:57:59 +0000"
-    },
-    {
-      "title": "ARK Invest réinvestit dans Coinbase",
-      "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-      "summary": "ARK Invest a acheté des actions Coinbase pour 15 millions de dollars",
-      "impact": "bullish",
-      "priceEffect": "Cela indique une confiance accrue dans le potentiel à long terme de Coinbase et, par extension, dans le marché crypto. Dans le contexte actuel, cela pourrait être un signal fort pour les investisseurs, potentiellement contribuant à un rebond.",
-      "contextLink": "Cette news se connecte au contexte actuel en montrant que les investisseurs institutionnels comme ARK Invest sont bullish sur le marché, ce qui soutient la tendance d'accumulation forte et pourrait contrebalancer les positions short.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 10:19:56 +0000"
     }
   ]
 }

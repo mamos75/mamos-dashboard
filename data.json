@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-02-14T23:45:03.452Z",
+  "updatedAt": "2026-02-15T00:00:05.617Z",
   "fearGreed": {
-    "current": 9,
+    "current": 8,
     "label": "Extreme Fear",
-    "change24h": 0,
-    "change7d": 2,
-    "change30d": -40,
-    "trend": "improving",
+    "change24h": -1,
+    "change7d": -6,
+    "change30d": -42,
+    "trend": "worsening",
     "history7d": [
+      8,
       9,
       9,
       5,
       11,
       9,
-      14,
-      7
+      14
     ]
   },
   "longShort": {
     "topTraders": {
-      "long": "55.0",
-      "short": "45.0",
-      "ratio": "1.22"
+      "long": "55.1",
+      "short": "44.9",
+      "ratio": "1.23"
     },
     "accounts": {
       "long": "62.5",
       "short": "37.5"
     },
-    "takerBuySellRatio": "1.69",
+    "takerBuySellRatio": "0.87",
     "trend": "more_long",
-    "signal": "neutral"
+    "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,734",
+    "btc": "77,776",
     "usd": "5.43B",
     "change24h": -0.1,
     "trend": "stable",
@@ -40,10 +40,10 @@
   },
   "funding": {
     "btc": {
-      "current": "-0.0152",
-      "avg24h": "-0.0028"
+      "current": "-0.0083",
+      "avg24h": "-0.0022"
     },
-    "eth": "-0.0019",
+    "eth": "-0.0064",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,19 +61,20 @@
     "signal": "bearish"
   },
   "priceData": {
-    "current": 69822,
+    "current": 69812,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.41",
-    "weekHigh": 72271,
+    "change24h": "1.39",
+    "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
       68700,
+      65900,
       65100
     ],
     "resistances": [
       70600,
-      72300
+      71500
     ],
     "bias": "bullish",
     "pricePosition": "in_range"
@@ -132,13 +133,13 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 9,
-      "bear": 4,
-      "net": 5
+      "bull": 8,
+      "bear": 6,
+      "net": 2
     },
     "signals": [
       {
@@ -172,23 +173,23 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,822",
+      "currentPrice": "$69,812",
       "entryZone": "$68,700 - $70,200",
-      "invalidation": "$65,100",
+      "invalidation": "$65,900",
       "target1": "$70,600",
-      "target2": "$72,300"
+      "target2": "$71,500"
     },
     "factors": [
       {
         "level": "PRINCIPAL",
-        "text": "Fear & Greed extrême (9) - historiquement zone d'achat"
+        "text": "Fear & Greed extrême (8) - historiquement zone d'achat"
       },
       {
         "level": "CONFIRMANT",
@@ -199,15 +200,15 @@
         "text": "ETF outflows semaine: $-580M - pression vendeuse"
       }
     ],
-    "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
+    "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $68,700 - $70,200. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne nouvelle pour les acheteurs. Les gros investisseurs institutionnels sont optimistes, ce qui contraste avec les hedge funds qui misent sur une baisse. Les gens continuent d'investir de l'argent dans les cryptos, ce qui montre une confiance croissante. C'est le moment idéal pour accumuler, car le marché est prêt à rebondir !"
+  "story": "Le marché est actuellement plongé dans la peur, avec une note de 8/100, ce qui signifie que les gens sont vraiment nerveux ! Les fonds spéculatifs misent même contre le marché à hauteur de 68,9%, mais les institutions restent confiantes. Malgré tout, on voit de l'argent qui rentre dans les ETF, ce qui pourrait être un signe de renversement. C'est une zone d'accumulation, il faut rester calme et voir comment les choses évoluent !"
 }
