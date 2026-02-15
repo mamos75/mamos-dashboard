@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T12:30:20.679Z",
+  "updatedAt": "2026-02-15T12:45:18.762Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.4",
-      "short": "43.6",
-      "ratio": "1.29"
+      "long": "56.0",
+      "short": "44.0",
+      "ratio": "1.27"
     },
     "accounts": {
-      "long": "62.1",
+      "long": "62.0",
       "short": "38.0"
     },
-    "takerBuySellRatio": "0.53",
+    "takerBuySellRatio": "2.18",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,276",
-    "usd": "5.51B",
-    "change24h": -0.8,
+    "btc": "78,201",
+    "usd": "5.49B",
+    "change24h": -0.9,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70370,
+    "current": 70256,
     "high24h": 70983,
     "low24h": 69065,
-    "change24h": "0.02",
+    "change24h": "0.23",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -160,9 +160,9 @@
     "label": "PATIENCE",
     "emoji": "⏳",
     "score": {
-      "bull": 3,
-      "bear": 4,
-      "net": -1
+      "bull": 4,
+      "bear": 3,
+      "net": 1
     },
     "signals": [
       {
@@ -181,9 +181,9 @@
         "reason": "Retail très long - risque de dump"
       },
       {
-        "type": "bearish",
+        "type": "bullish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.53)"
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
@@ -198,7 +198,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,370",
+      "currentPrice": "$70,256",
       "entryZone": "$69,100 - $70,600",
       "invalidation": "$65,900",
       "target1": "$71,000",
