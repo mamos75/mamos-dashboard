@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T14:00:21.007Z",
+  "updatedAt": "2026-02-15T14:15:19.436Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.25"
     },
     "accounts": {
-      "long": "61.7",
-      "short": "38.3"
+      "long": "61.6",
+      "short": "38.4"
     },
-    "takerBuySellRatio": "1.47",
+    "takerBuySellRatio": "0.75",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,569",
+    "btc": "77,546",
     "usd": "5.35B",
-    "change24h": -0.4,
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 68941,
+    "current": 69000,
     "high24h": 70983,
     "low24h": 68772,
-    "change24h": "-0.73",
+    "change24h": "-0.67",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -160,9 +160,9 @@
     "label": "PATIENCE",
     "emoji": "⏳",
     "score": {
-      "bull": 4,
-      "bear": 3,
-      "net": 1
+      "bull": 3,
+      "bear": 4,
+      "net": -1
     },
     "signals": [
       {
@@ -181,9 +181,9 @@
         "reason": "Retail très long - risque de dump"
       },
       {
-        "type": "bullish",
+        "type": "bearish",
         "weight": 1,
-        "reason": "Plus d'acheteurs que de vendeurs"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.75)"
       }
     ]
   },
@@ -198,7 +198,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,941",
+      "currentPrice": "$69,000",
       "entryZone": "$68,800 - $70,300",
       "invalidation": "$65,900",
       "target1": "$71,000",
@@ -224,5 +224,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\nF&G et Signal sont des indicateurs qui analysent les marchés crypto, et ils donnent un avertissement : il faut être patient (PATIENCE). \nCela signifie que la situation actuelle n'est pas idéale pour investir ou vendre, il est préférable de attendre un peu avant de prendre une décision.\nDe plus, il y a une forte tendance positive (+15.1M) dans certains ETF (fonds d'investissement), ce qui peut être un signe encourageant pour les investisseurs."
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
 }
