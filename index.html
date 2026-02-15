@@ -1273,38 +1273,91 @@
                     bearsBar.style.background = hfBullish ? 'var(--green)' : 'var(--red)';
                     document.getElementById('bears-pct').textContent = (hfBullish ? '+' : '') + (hfNet/1000).toFixed(1) + 'K';
                     
-                    // Generate dynamic insight based on 4 scenarios
+                    // Generate dynamic insight - ULTRA NOOB FRIENDLY
                     let insight = '';
-                    const instAbs = Math.abs(instNet).toLocaleString();
-                    const hfAbs = Math.abs(hfNet).toLocaleString();
+                    
+                    // Helper: format big numbers nicely
+                    const formatNum = (n) => Math.abs(n).toLocaleString();
                     
                     if (instBullish && hfBullish) {
-                        // BOTH BULLISH - Consensus haussier
-                        insight = `<strong>🚀 Consensus Haussier</strong><br>
-                            <span style="color:var(--green)">🐋 Institutions : +${instAbs} contrats LONG</span><br>
-                            <span style="color:var(--green)">🦈 Hedge Funds : +${hfAbs} contrats LONG</span><br>
-                            <em>→ Tout le monde est acheteur. Le marché a un biais haussier clair, mais attention à l'excès d'optimisme si le prix est déjà haut.</em>`;
+                        // BOTH BULLISH
+                        insight = `
+                            <div style="margin-bottom:12px">
+                                <strong style="font-size:18px">🚀 Tout le monde est acheteur</strong>
+                            </div>
+                            <div style="margin-bottom:8px">
+                                <span style="color:var(--green)">🐋 Les Institutions</span> (BlackRock, Fidelity, les fonds de pension...)<br>
+                                <strong>Ils ACHÈTENT</strong> — Position : +${formatNum(instNet)} contrats
+                            </div>
+                            <div style="margin-bottom:12px">
+                                <span style="color:var(--green)">🦈 Les Hedge Funds</span> (traders pros, spéculateurs)<br>
+                                <strong>Ils ACHÈTENT aussi</strong> — Position : +${formatNum(hfNet)} contrats
+                            </div>
+                            <div style="background:rgba(34,197,94,0.1); padding:12px; border-radius:8px; border-left:3px solid var(--green)">
+                                <strong>👉 Ce que ça veut dire :</strong><br>
+                                Les gros poissons ET les requins pensent que Bitcoin va monter.<br><br>
+                                <strong>⚠️ Attention :</strong> Quand TOUT le monde est d'accord, on est souvent proche d'un sommet. L'euphorie précède parfois la chute.
+                            </div>`;
                     } 
                     else if (!instBullish && !hfBullish) {
-                        // BOTH BEARISH - Consensus baissier
-                        insight = `<strong>🔴 Consensus Baissier</strong><br>
-                            <span style="color:var(--red)">🐋 Institutions : -${instAbs} contrats SHORT</span><br>
-                            <span style="color:var(--red)">🦈 Hedge Funds : -${hfAbs} contrats SHORT</span><br>
-                            <em>→ Les deux camps parient sur la baisse. Prudence maximale. Mais quand TOUT le monde est bearish... c'est parfois le bottom.</em>`;
+                        // BOTH BEARISH
+                        insight = `
+                            <div style="margin-bottom:12px">
+                                <strong style="font-size:18px">🔴 Tout le monde parie sur la baisse</strong>
+                            </div>
+                            <div style="margin-bottom:8px">
+                                <span style="color:var(--red)">🐋 Les Institutions</span> (BlackRock, Fidelity...)<br>
+                                <strong>Ils VENDENT</strong> — Position : -${formatNum(instNet)} contrats
+                            </div>
+                            <div style="margin-bottom:12px">
+                                <span style="color:var(--red)">🦈 Les Hedge Funds</span> (traders pros)<br>
+                                <strong>Ils VENDENT aussi</strong> — Position : -${formatNum(hfNet)} contrats
+                            </div>
+                            <div style="background:rgba(239,68,68,0.1); padding:12px; border-radius:8px; border-left:3px solid var(--red)">
+                                <strong>👉 Ce que ça veut dire :</strong><br>
+                                Les pros pensent que Bitcoin va baisser. Prudence maximale !<br><br>
+                                <strong>🤔 Mais...</strong> Quand TOUT le monde est pessimiste, c'est parfois le meilleur moment pour acheter (signal contrarien). Les bottoms se forment dans la peur.
+                            </div>`;
                     }
                     else if (!instBullish && hfBullish) {
-                        // INSTITUTIONS SHORT, HF LONG - Smart money sells
-                        insight = `<strong>⚠️ Smart Money Vend !</strong><br>
-                            <span style="color:var(--red)">🐋 Institutions : -${instAbs} contrats SHORT</span><br>
-                            <span style="color:var(--green)">🦈 Hedge Funds : +${hfAbs} contrats LONG</span><br>
-                            <em>→ Les institutionnels (BlackRock, Fidelity...) réduisent leur exposition pendant que les spéculateurs achètent. Signal d'alerte : les "smart money" savent souvent quelque chose.</em>`;
+                        // INSTITUTIONS SELL, HF BUY - Smart money exits
+                        insight = `
+                            <div style="margin-bottom:12px">
+                                <strong style="font-size:18px">⚠️ Les gros poissons quittent le navire</strong>
+                            </div>
+                            <div style="margin-bottom:8px">
+                                <span style="color:var(--red)">🐋 Les Institutions</span> (BlackRock, Fidelity...)<br>
+                                <strong>Ils VENDENT !</strong> — Position : -${formatNum(instNet)} contrats
+                            </div>
+                            <div style="margin-bottom:12px">
+                                <span style="color:var(--green)">🦈 Les Hedge Funds</span> (spéculateurs)<br>
+                                <strong>Ils achètent</strong> — Position : +${formatNum(hfNet)} contrats
+                            </div>
+                            <div style="background:rgba(245,158,11,0.1); padding:12px; border-radius:8px; border-left:3px solid var(--orange)">
+                                <strong>👉 Ce que ça veut dire :</strong><br>
+                                Les institutionnels = l'argent "intelligent". Quand ils vendent pendant que les spéculateurs achètent, c'est souvent un <strong>signal d'alerte</strong>.<br><br>
+                                <strong>🚨 Traduction :</strong> Les pros prennent leurs profits. Les retardataires achètent. Historiquement, ça finit souvent mal pour les retardataires.
+                            </div>`;
                     }
                     else {
-                        // INSTITUTIONS LONG, HF SHORT - Squeeze setup
-                        insight = `<strong>🔥 Setup de Short Squeeze !</strong><br>
-                            <span style="color:var(--green)">🐋 Institutions : +${instAbs} contrats LONG</span><br>
-                            <span style="color:var(--red)">🦈 Hedge Funds : -${hfAbs} contrats SHORT</span><br>
-                            <em>→ Les institutionnels accumulent pendant que les HF parient contre. Si le prix monte, les HF devront racheter en urgence = explosion potentielle.</em>`;
+                        // INSTITUTIONS BUY, HF SELL - Squeeze setup
+                        insight = `
+                            <div style="margin-bottom:12px">
+                                <strong style="font-size:18px">🔥 Configuration explosive !</strong>
+                            </div>
+                            <div style="margin-bottom:8px">
+                                <span style="color:var(--green)">🐋 Les Institutions</span> (BlackRock, Fidelity...)<br>
+                                <strong>Ils ACHÈTENT</strong> — Position : +${formatNum(instNet)} contrats
+                            </div>
+                            <div style="margin-bottom:12px">
+                                <span style="color:var(--red)">🦈 Les Hedge Funds</span> (spéculateurs)<br>
+                                <strong>Ils parient sur la BAISSE</strong> — Position : -${formatNum(hfNet)} contrats
+                            </div>
+                            <div style="background:rgba(34,197,94,0.1); padding:12px; border-radius:8px; border-left:3px solid var(--green)">
+                                <strong>👉 Ce que ça veut dire :</strong><br>
+                                C'est le setup idéal pour un <strong>"short squeeze"</strong> !<br><br>
+                                <strong>Explication simple :</strong> Les HF ont parié que Bitcoin allait baisser (ils ont "shorté"). Mais les institutions achètent, ce qui pousse le prix vers le haut. Si ça continue, les HF seront OBLIGÉS de racheter pour limiter leurs pertes → ce qui pousse le prix encore plus haut → effet boule de neige = 🚀
+                            </div>`;
                     }
                     
                     document.getElementById('battle-insight').innerHTML = insight;
