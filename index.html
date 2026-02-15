@@ -435,6 +435,25 @@
             font-size: 15px;
         }
         
+        .takeaway-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 15px;
+            transition: color 0.2s;
+        }
+        
+        .takeaway-link:hover {
+            color: #818cf8;
+            text-decoration: underline;
+        }
+        
+        .takeaway-link::after {
+            content: ' ↗';
+            font-size: 0.75em;
+            opacity: 0.5;
+        }
+        
         .takeaway-summary {
             color: var(--text-secondary);
             font-size: 14px;
@@ -1452,11 +1471,14 @@
                         .map(n => {
                             const icon = n.impact === 'bullish' ? '🟢' : n.impact === 'bearish' ? '🔴' : '⚪';
                             const impactLabel = n.impact === 'bullish' ? 'Bullish' : n.impact === 'bearish' ? 'Bearish' : 'Neutre';
+                            const titleHtml = n.link 
+                                ? `<a href="${n.link}" target="_blank" rel="noopener" class="takeaway-link">${n.title || n.titleFr}</a>`
+                                : `<strong>${n.title || n.titleFr}</strong>`;
                             return `
                                 <div class="takeaway-item">
                                     <span class="takeaway-icon">${icon}</span>
                                     <div class="takeaway-text">
-                                        <strong>${n.title || n.titleFr}</strong>
+                                        ${titleHtml}
                                         <div class="takeaway-summary">${n.summary}</div>
                                         <div class="takeaway-impact"><span class="impact-badge ${n.impact}">${impactLabel}</span> ${n.priceEffect || ''}</div>
                                     </div>
