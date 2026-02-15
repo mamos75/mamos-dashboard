@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T12:15:19.074Z",
+  "updatedAt": "2026-02-15T12:30:20.679Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.7",
-      "short": "43.3",
-      "ratio": "1.31"
+      "long": "56.4",
+      "short": "43.6",
+      "ratio": "1.29"
     },
     "accounts": {
-      "long": "62.2",
-      "short": "37.8"
+      "long": "62.1",
+      "short": "38.0"
     },
-    "takerBuySellRatio": "0.45",
+    "takerBuySellRatio": "0.53",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,989",
-    "usd": "5.55B",
-    "change24h": 0.1,
+    "btc": "78,276",
+    "usd": "5.51B",
+    "change24h": -0.8,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70233,
+    "current": 70370,
     "high24h": 70983,
     "low24h": 69065,
-    "change24h": "-0.33",
+    "change24h": "0.02",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -183,7 +183,7 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.45)"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.53)"
       }
     ]
   },
@@ -198,7 +198,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,233",
+      "currentPrice": "$70,370",
       "entryZone": "$69,100 - $70,600",
       "invalidation": "$65,900",
       "target1": "$71,000",
