@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T16:00:23.416Z",
+  "updatedAt": "2026-02-15T17:00:04.011Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.5",
-      "short": "44.5",
-      "ratio": "1.25"
+      "long": "55.3",
+      "short": "44.7",
+      "ratio": "1.24"
     },
     "accounts": {
-      "long": "61.1",
-      "short": "38.9"
+      "long": "61.2",
+      "short": "38.8"
     },
-    "takerBuySellRatio": "0.54",
-    "trend": "more_long",
+    "takerBuySellRatio": "0.97",
+    "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "77,085",
+    "btc": "77,171",
     "usd": "5.33B",
-    "change24h": -0.6,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -52,23 +52,23 @@
     "current": "1039",
     "unit": "EH/s",
     "trend": "falling",
-    "peak": "1107",
-    "change24h": 9.9,
-    "change7d": -2.4,
-    "changeFromPeak": -6.2,
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
     "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
     "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69093,
+    "current": 69032,
     "high24h": 70983,
-    "low24h": 68772,
-    "change24h": "-0.98",
+    "low24h": 68658,
+    "change24h": "-1.01",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
-      68800,
+      68700,
       65900,
       65100
     ],
@@ -81,7 +81,7 @@
   },
   "cot": {
     "asOf": "2026-02-10",
-    "nextUpdate": "2026-02-19",
+    "nextUpdate": "2026-02-20",
     "openInterest": 24157,
     "categories": {
       "dealers": {
@@ -161,8 +161,8 @@
     "emoji": "⚠️",
     "score": {
       "bull": 3,
-      "bear": 7,
-      "net": -4
+      "bear": 6,
+      "net": -3
     },
     "signals": [
       {
@@ -184,11 +184,6 @@
         "type": "bearish",
         "weight": 1,
         "reason": "Retail très long - risque de dump"
-      },
-      {
-        "type": "bearish",
-        "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.54)"
       }
     ]
   },
@@ -203,8 +198,8 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,093",
-      "entryZone": "$68,800 - $70,300",
+      "currentPrice": "$69,032",
+      "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$71,000",
       "target2": "$71,500"
@@ -229,5 +224,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "F&G est à 8, ce qui signifie que le prix de l'actif est à 8, peut-être un peu bas ou élevé. Le signal \"ZONE DE PRUDENCE\" indique que les experts recommandent de prendre soin et d'être prudent avec les investissements. L'ETF (un type d'instrument financier) a gagné 15.1 millions, ce qui est une bonne nouvelle pour les investisseurs."
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. <strong>La prudence est de mise dans ce contexte.</strong>"
 }
