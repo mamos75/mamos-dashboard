@@ -1698,3 +1698,15 @@
     </script>
 </body>
 </html>
+
+<!-- Click Tracking -->
+<script>
+document.addEventListener('click', function(e) {
+    const link = e.target.closest('a[href]');
+    if (link && link.href && !link.href.includes('dashboard.mamoscrypto.com')) {
+        // Track external link clicks
+        const url = encodeURIComponent(link.href);
+        navigator.sendBeacon('/track.php?l=' + url);
+    }
+});
+</script>
