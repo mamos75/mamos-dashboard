@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:34:36.881Z",
+  "updatedAt": "2026-02-15T02:45:02.828Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,13 +27,13 @@
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "0.61",
+    "takerBuySellRatio": "0.77",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,110",
-    "usd": "5.42B",
+    "btc": "78,145",
+    "usd": "5.43B",
     "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
@@ -49,17 +49,22 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1000",
+    "current": "1039",
     "unit": "EH/s",
-    "trend": "unknown",
-    "interpretation": "⚪ Données hashrate indisponibles",
+    "trend": "falling",
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
+    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
+    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69404,
+    "current": 69511,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.71",
+    "change24h": "0.84",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -77,15 +82,14 @@
   "cot": {
     "asOf": "2026-02-10",
     "nextUpdate": "2026-02-20",
-    "openInterest": 24157,
     "categories": {
       "dealers": {
         "name": "Dealers",
         "icon": "🏦",
         "long": 5746,
-        "longPct": 47.7,
+        "longPct": 27.3,
         "short": 2470,
-        "shortPct": 10.1,
+        "shortPct": 9.7,
         "net": 3276,
         "signal": "bullish"
       },
@@ -93,9 +97,9 @@
         "name": "Institutions",
         "icon": "🐋",
         "long": 946,
-        "longPct": 7.9,
+        "longPct": 4.5,
         "short": 7476,
-        "shortPct": 30.5,
+        "shortPct": 29.4,
         "net": -6530,
         "signal": "bearish"
       },
@@ -103,9 +107,9 @@
         "name": "Hedge Funds",
         "icon": "🦈",
         "long": 972,
-        "longPct": 8.1,
+        "longPct": 4.6,
         "short": 697,
-        "shortPct": 2.8,
+        "shortPct": 2.7,
         "net": 275,
         "signal": "neutral"
       },
@@ -113,11 +117,11 @@
         "name": "Other",
         "icon": "🦐",
         "long": 4372,
-        "longPct": 0,
+        "longPct": 20.8,
         "short": 13871,
-        "shortPct": 0,
+        "shortPct": 54.6,
         "net": -9499,
-        "signal": "neutral"
+        "signal": "bearish"
       }
     }
   },
@@ -153,7 +157,7 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.61)"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.77)"
       }
     ]
   },
@@ -168,7 +172,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,404",
+      "currentPrice": "$69,511",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -194,5 +198,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Bien sûr, je vais t'expliquer ce qui se passe sur le marché crypto en 3 phrases simples.\n\nLe marché crypto est actuellement en baisse (F&G: 8) et on attend que les prix s'arrêtent avant de recommencer à monter (Signal: PATIENCE). Cela signifie que les investisseurs devraient être patients et ne pas prendre de décisions précipitées, car le marché est actuellement en mode descendant (-48M pour l'ETF)."
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
 }
