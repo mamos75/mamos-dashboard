@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T01:00:50.563Z",
+  "updatedAt": "2026-02-15T01:15:03.811Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "55.0",
-      "short": "45.0",
+      "long": "54.9",
+      "short": "45.1",
       "ratio": "1.22"
     },
     "accounts": {
-      "long": "62.5",
-      "short": "37.5"
+      "long": "62.9",
+      "short": "37.1"
     },
-    "takerBuySellRatio": "1.42",
+    "takerBuySellRatio": "1.23",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
     "btc": "78,004",
-    "usd": "5.44B",
-    "change24h": 0.3,
+    "usd": "5.45B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
@@ -49,17 +49,22 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1000",
+    "current": "1039",
     "unit": "EH/s",
-    "trend": "unknown",
-    "interpretation": "⚪ Données hashrate indisponibles",
+    "trend": "falling",
+    "peak": "1098",
+    "change24h": 9.8,
+    "change7d": -1.5,
+    "changeFromPeak": -5.4,
+    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
+    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69778,
+    "current": 69892,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.04",
+    "change24h": "1.20",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -175,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,778",
+      "currentPrice": "$69,892",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -205,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'arriver dans les ETF, ce qui montre qu'il y a encore de l'espoir. C'est le moment parfait pour accumuler, les prix sont bas et les gros joueurs sont prêts à frapper !"
+  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne opportunité d'acheter. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont très négatifs, ce qui crée une tension intéressante. Il y a beaucoup d'argent qui entre dans les fonds liés aux crypto, ce qui pourrait signifier que les choses sont sur le point de changer. C'est le moment de faire son shopping, car le marché est en train de s'accumuler fortement !"
 }
