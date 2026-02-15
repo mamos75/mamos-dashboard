@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T03:30:02.817Z",
+  "updatedAt": "2026-02-15T03:45:03.822Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "0.79",
+    "takerBuySellRatio": "1.73",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,147",
-    "usd": "5.43B",
-    "change24h": 0,
+    "btc": "78,009",
+    "usd": "5.41B",
+    "change24h": -0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69446,
+    "current": 69372,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.74",
+    "change24h": "0.63",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -155,13 +155,13 @@
     "source": "farside"
   },
   "analysis": {
-    "signal": "neutral",
-    "label": "PATIENCE",
-    "emoji": "⏳",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 3,
-      "bear": 3,
-      "net": 0
+      "bull": 4,
+      "bear": 2,
+      "net": 2
     },
     "signals": [
       {
@@ -175,24 +175,24 @@
         "reason": "ETF outflows sur la semaine ($-360M)"
       },
       {
-        "type": "bearish",
+        "type": "bullish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.79)"
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
   "tradingPlan": {
     "bias": {
-      "direction": "NEUTRE",
-      "emoji": "⚪",
-      "strength": "Attente"
+      "direction": "ACHAT",
+      "emoji": "🟢",
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,446",
+      "currentPrice": "$69,372",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,13 +210,13 @@
     ],
     "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Attendre",
-      "detail": "Pas de signal clair. Rester en cash ou position réduite."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
+  "story": "Voici une explication simple du marché crypto :\n\n- F&G (Fondamental et Graphique) : Cela signifie que la situation financière et la tendance graphique (le graphique du prix) indiquent que les crypto-monnaies sont en train de se stabiliser et de s'améliorer.\n- Zone d'accumulation : Cela signifie que les investisseurs sont en train d'acheter les crypto-monnaies à un prix bas, ce qui pourrait les faire monter dans les prochaines semaines.\n- +15.1M : Cela indique que le volume d'échanges (le nombre de transactions) a augmenté de 15,1 millions, ce"
 }
