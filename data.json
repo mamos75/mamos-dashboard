@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:19:44.251Z",
+  "updatedAt": "2026-02-15T02:24:54.689Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,21 +19,21 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
-      "ratio": "1.19"
+      "long": "54.5",
+      "short": "45.5",
+      "ratio": "1.20"
     },
     "accounts": {
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "0.40",
+    "takerBuySellRatio": "2.41",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,073",
-    "usd": "5.43B",
+    "btc": "78,068",
+    "usd": "5.42B",
     "change24h": 0,
     "trend": "stable",
     "signal": "normal"
@@ -56,10 +56,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69590,
+    "current": 69420,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.90",
+    "change24h": "0.78",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -75,47 +75,48 @@
     "pricePosition": "in_range"
   },
   "cot": {
-    "asOf": "2026-02-03",
-    "nextUpdate": "2026-02-14",
+    "asOf": "2026-02-10",
+    "nextUpdate": "2026-02-20",
+    "openInterest": 24157,
     "categories": {
       "dealers": {
         "name": "Dealers",
         "icon": "🏦",
-        "long": 6302,
-        "longPct": 27.3,
-        "short": 2224,
-        "shortPct": 9.7,
-        "net": 4078,
+        "long": 5746,
+        "longPct": 47.7,
+        "short": 2470,
+        "shortPct": 10.1,
+        "net": 3276,
         "signal": "bullish"
       },
       "assetManagers": {
         "name": "Institutions",
         "icon": "🐋",
-        "long": 7193,
-        "longPct": 31.2,
-        "short": 891,
-        "shortPct": 3.9,
-        "net": 6302,
-        "signal": "bullish"
+        "long": 946,
+        "longPct": 7.9,
+        "short": 7476,
+        "shortPct": 30.5,
+        "net": -6530,
+        "signal": "bearish"
       },
       "leveragedFunds": {
         "name": "Hedge Funds",
         "icon": "🦈",
-        "long": 4450,
-        "longPct": 19.3,
-        "short": 15875,
-        "shortPct": 68.9,
-        "net": -11425,
-        "signal": "bearish"
+        "long": 972,
+        "longPct": 8.1,
+        "short": 697,
+        "shortPct": 2.8,
+        "net": 275,
+        "signal": "neutral"
       },
       "retail": {
-        "name": "Retail",
+        "name": "Other",
         "icon": "🦐",
-        "long": 1151,
-        "longPct": 5,
-        "short": 1191,
-        "shortPct": 5.2,
-        "net": -40,
+        "long": 4372,
+        "longPct": 0,
+        "short": 13871,
+        "shortPct": 0,
+        "net": -9499,
         "signal": "neutral"
       }
     }
@@ -128,29 +129,19 @@
     "trend": "positive_daily"
   },
   "analysis": {
-    "signal": "strong_accumulation",
-    "label": "ACCUMULATION FORTE",
-    "emoji": "🚀",
+    "signal": "accumulation",
+    "label": "ZONE D'ACCUMULATION",
+    "emoji": "🎯",
     "score": {
-      "bull": 8,
-      "bear": 3,
-      "net": 5
+      "bull": 5,
+      "bear": 2,
+      "net": 3
     },
     "signals": [
       {
         "type": "bullish",
         "weight": 3,
         "reason": "Extreme Fear historique - zone d'achat"
-      },
-      {
-        "type": "bullish",
-        "weight": 2,
-        "reason": "Hedge Funds très short - squeeze possible"
-      },
-      {
-        "type": "bullish",
-        "weight": 2,
-        "reason": "Institutions accumulent"
       },
       {
         "type": "bullish",
@@ -161,6 +152,11 @@
         "type": "bearish",
         "weight": 2,
         "reason": "ETF outflows sur la semaine ($-580M)"
+      },
+      {
+        "type": "bullish",
+        "weight": 1,
+        "reason": "Plus d'acheteurs que de vendeurs"
       }
     ]
   },
@@ -168,14 +164,14 @@
     "bias": {
       "direction": "ACHAT",
       "emoji": "🟢",
-      "strength": "Fort"
+      "strength": "Modéré"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,590",
+      "currentPrice": "$69,420",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -187,23 +183,19 @@
         "text": "Fear & Greed extrême (8) - historiquement zone d'achat"
       },
       {
-        "level": "CONFIRMANT",
-        "text": "Hedge Funds 68.9% short - squeeze possible"
-      },
-      {
         "level": "ATTENTION",
         "text": "ETF outflows semaine: $-580M - pression vendeuse"
       }
     ],
     "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Accumulation progressive",
-      "detail": "DCA sur la zone $68,700 - $70,200. Ne pas FOMO sur les pumps."
+      "recommendation": "Observer pour entrée",
+      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
     },
     "risk": {
-      "maxPosition": "3-5%",
+      "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
+  "story": "Le marché est actuellement très peur, c'est ce qu'on appelle la \"peur extrême\". Les gros investisseurs sont même prêts à parier contre le marché, ce qui montre à quel point ils sont négatifs. Mais malgré tout, il y a des signes qui montrent que les choses pourraient bientôt s'améliorer, comme les flux d'argent qui entrent dans les fonds. C'est comme si le marché était en train de se ressourcer pour un éventuel rebond."
 }

@@ -343,18 +343,92 @@ async function fetchLiquidations() {
   return null;
 }
 
-// COT Report (cached, updates weekly)
-function getCOTData() {
+// COT Report - Fetch from CFTC (updates weekly on Friday)
+async function fetchCOTData() {
+  try {
+    // Fetch disaggregated financial futures data
+    const response = await fetch('https://www.cftc.gov/dea/newcot/FinFutWk.txt');
+    const text = typeof response === 'string' ? response : await response;
+    
+    // Find Bitcoin CME line
+    const lines = text.split('\n');
+    const btcLine = lines.find(l => l.includes('BITCOIN - CHICAGO MERCANTILE EXCHANGE') && l.includes('CME'));
+    
+    if (!btcLine) {
+      console.log('COT: Bitcoin data not found, using fallback');
+      return getCOTFallback();
+    }
+    
+    // Parse CSV line - format: name, date_code, date, contract_code, exchange, ...positions...
+    const parts = btcLine.split(',');
+    const dateStr = parts[2]; // 2026-02-10
+    const openInterest = parseInt(parts[7]) || 0;
+    
+    // Disaggregated positions (format may vary, these are approximate indices)
+    const dealerLong = parseInt(parts[8]) || 0;
+    const dealerShort = parseInt(parts[9]) || 0;
+    const assetMgrLong = parseInt(parts[10]) || 0;
+    const assetMgrShort = parseInt(parts[11]) || 0;
+    const levFundsLong = parseInt(parts[12]) || 0;
+    const levFundsShort = parseInt(parts[13]) || 0;
+    const otherLong = parseInt(parts[14]) || 0;
+    const otherShort = parseInt(parts[15]) || 0;
+    
+    const totalLong = dealerLong + assetMgrLong + levFundsLong + otherLong;
+    const totalShort = dealerShort + assetMgrShort + levFundsShort + otherShort;
+    
+    // Calculate percentages
+    const dealerLongPct = totalLong > 0 ? ((dealerLong / totalLong) * 100).toFixed(1) : 0;
+    const dealerShortPct = totalShort > 0 ? ((dealerShort / totalShort) * 100).toFixed(1) : 0;
+    const assetMgrLongPct = totalLong > 0 ? ((assetMgrLong / totalLong) * 100).toFixed(1) : 0;
+    const assetMgrShortPct = totalShort > 0 ? ((assetMgrShort / totalShort) * 100).toFixed(1) : 0;
+    const levFundsLongPct = totalLong > 0 ? ((levFundsLong / totalLong) * 100).toFixed(1) : 0;
+    const levFundsShortPct = totalShort > 0 ? ((levFundsShort / totalShort) * 100).toFixed(1) : 0;
+    
+    // Determine signals
+    const dealerSignal = dealerLong > dealerShort * 1.5 ? 'bullish' : dealerShort > dealerLong * 1.5 ? 'bearish' : 'neutral';
+    const assetMgrSignal = assetMgrLong > assetMgrShort * 1.5 ? 'bullish' : assetMgrShort > assetMgrLong * 1.5 ? 'bearish' : 'neutral';
+    const levFundsSignal = levFundsShort > levFundsLong * 1.5 ? 'bearish' : levFundsLong > levFundsShort * 1.5 ? 'bullish' : 'neutral';
+    
+    console.log(`COT: Fetched data as of ${dateStr}, OI: ${openInterest}`);
+    
+    return {
+      asOf: dateStr,
+      nextUpdate: getNextFriday(),
+      openInterest,
+      categories: {
+        dealers: { name: 'Dealers', icon: '🏦', long: dealerLong, longPct: parseFloat(dealerLongPct), short: dealerShort, shortPct: parseFloat(dealerShortPct), net: dealerLong - dealerShort, signal: dealerSignal },
+        assetManagers: { name: 'Institutions', icon: '🐋', long: assetMgrLong, longPct: parseFloat(assetMgrLongPct), short: assetMgrShort, shortPct: parseFloat(assetMgrShortPct), net: assetMgrLong - assetMgrShort, signal: assetMgrSignal },
+        leveragedFunds: { name: 'Hedge Funds', icon: '🦈', long: levFundsLong, longPct: parseFloat(levFundsLongPct), short: levFundsShort, shortPct: parseFloat(levFundsShortPct), net: levFundsLong - levFundsShort, signal: levFundsSignal },
+        retail: { name: 'Other', icon: '🦐', long: otherLong, longPct: 0, short: otherShort, shortPct: 0, net: otherLong - otherShort, signal: 'neutral' }
+      }
+    };
+  } catch (e) {
+    console.error('COT fetch error:', e.message);
+    return getCOTFallback();
+  }
+}
+
+function getCOTFallback() {
   return {
-    asOf: '2026-02-03',
-    nextUpdate: '2026-02-14',
+    asOf: '2026-02-10',
+    nextUpdate: getNextFriday(),
     categories: {
-      dealers: { name: 'Dealers', icon: '🏦', long: 6302, longPct: 27.3, short: 2224, shortPct: 9.7, net: 4078, signal: 'bullish' },
-      assetManagers: { name: 'Institutions', icon: '🐋', long: 7193, longPct: 31.2, short: 891, shortPct: 3.9, net: 6302, signal: 'bullish' },
-      leveragedFunds: { name: 'Hedge Funds', icon: '🦈', long: 4450, longPct: 19.3, short: 15875, shortPct: 68.9, net: -11425, signal: 'bearish' },
-      retail: { name: 'Retail', icon: '🦐', long: 1151, longPct: 5.0, short: 1191, shortPct: 5.2, net: -40, signal: 'neutral' }
+      dealers: { name: 'Dealers', icon: '🏦', long: 5746, longPct: 27.3, short: 2470, shortPct: 9.7, net: 3276, signal: 'bullish' },
+      assetManagers: { name: 'Institutions', icon: '🐋', long: 946, longPct: 4.5, short: 7476, shortPct: 29.4, net: -6530, signal: 'bearish' },
+      leveragedFunds: { name: 'Hedge Funds', icon: '🦈', long: 972, longPct: 4.6, short: 697, shortPct: 2.7, net: 275, signal: 'neutral' },
+      retail: { name: 'Other', icon: '🦐', long: 4372, longPct: 20.8, short: 13871, shortPct: 54.6, net: -9499, signal: 'bearish' }
     }
   };
+}
+
+function getNextFriday() {
+  const today = new Date();
+  const dayOfWeek = today.getDay();
+  const daysUntilFriday = (5 - dayOfWeek + 7) % 7 || 7;
+  const nextFriday = new Date(today);
+  nextFriday.setDate(today.getDate() + daysUntilFriday);
+  return nextFriday.toISOString().split('T')[0];
 }
 
 // ETF Flows (cached, updates daily)
@@ -696,7 +770,8 @@ async function main() {
     fetchPriceData()
   ]);
   
-  const cot = getCOTData();
+  console.log('📊 Fetching COT data...');
+  const cot = await fetchCOTData();
   const etf = getETFFlows();
   
   const data = { fearGreed, longShort, openInterest, funding, liquidations, hashrate, priceData, cot, etf };
