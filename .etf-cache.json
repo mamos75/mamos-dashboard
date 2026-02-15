@@ -1,12 +1,33 @@
 {
-  "fetchDate": "2026-02-14",
+  "fetchDate": "2026-02-15",
+  "fetchTime": "2026-02-15T02:41:51.701Z",
   "data": {
-    "date": "2026-02-14",
-    "daily": -48,
-    "weekly": -651,
-    "total": 39500,
-    "trend": "negative_daily",
-    "source": "manual",
-    "note": "Source: farside.co.uk - MàJ manuelle quotidienne"
+    "date": "13 Feb 2026",
+    "daily": 15.1,
+    "weekly": -360,
+    "dailyHistory": [
+      {
+        "date": "09 Feb 2026",
+        "flow": 144.9
+      },
+      {
+        "date": "10 Feb 2026",
+        "flow": 166.5
+      },
+      {
+        "date": "11 Feb 2026",
+        "flow": -276.3
+      },
+      {
+        "date": "12 Feb 2026",
+        "flow": -410.2
+      },
+      {
+        "date": "13 Feb 2026",
+        "flow": 15.1
+      }
+    ],
+    "trend": "positive_daily",
+    "source": "farside"
   }
 }
