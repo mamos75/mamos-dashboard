@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T01:00:03.582Z",
+  "updatedAt": "2026-02-15T01:00:50.563Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69772,
+    "current": 69778,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.02",
+    "change24h": "1.04",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -180,7 +175,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,772",
+      "currentPrice": "$69,778",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +205,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement très nerveux, avec une peur extrême qui domine les esprits. Les grandes institutions, elles, restent optimistes et investissent massivement, avec plus de 145 millions de dollars injectés ces derniers temps. Les fonds spéculatifs, par contre, misent sur une baisse, mais les signaux sont clairs : c'est le moment d'acheter et d'accumuler. L'ambiance est électrique, et je sens que quelque chose de gros se prépare !"
+  "story": "Le marché est super nerveux en ce moment, les gens ont vraiment peur ! Les gros investisseurs institutionnels, eux, sont plutôt optimistes, ce qui est intéressant. Les hedge funds, par contre, misent sur une baisse, mais l'argent continue d'arriver dans les ETF, ce qui montre qu'il y a encore de l'espoir. C'est le moment parfait pour accumuler, les prix sont bas et les gros joueurs sont prêts à frapper !"
 }
