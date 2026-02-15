@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T01:15:03.811Z",
+  "updatedAt": "2026-02-15T01:15:17.146Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69892,
+    "current": 69883,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "1.20",
+    "change24h": "1.18",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -180,7 +175,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,892",
+      "currentPrice": "$69,883",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +205,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est actuellement dans un état de peur extrême, ce qui peut être une bonne opportunité d'acheter. Les gros investisseurs institutionnels sont optimistes, mais les hedge funds sont très négatifs, ce qui crée une tension intéressante. Il y a beaucoup d'argent qui entre dans les fonds liés aux crypto, ce qui pourrait signifier que les choses sont sur le point de changer. C'est le moment de faire son shopping, car le marché est en train de s'accumuler fortement !"
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
 }
