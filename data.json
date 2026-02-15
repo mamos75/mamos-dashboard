@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T03:00:04.248Z",
+  "updatedAt": "2026-02-15T03:00:50.459Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -32,7 +32,7 @@
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,159",
+    "btc": "78,160",
     "usd": "5.43B",
     "change24h": 0.1,
     "trend": "stable",
@@ -49,22 +49,17 @@
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1000",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
+    "trend": "unknown",
+    "interpretation": "⚪ Données hashrate indisponibles",
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69480,
+    "current": 69512,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.88",
+    "change24h": "0.92",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -82,14 +77,15 @@
   "cot": {
     "asOf": "2026-02-10",
     "nextUpdate": "2026-02-20",
+    "openInterest": 24157,
     "categories": {
       "dealers": {
         "name": "Dealers",
         "icon": "🏦",
         "long": 5746,
-        "longPct": 27.3,
+        "longPct": 47.7,
         "short": 2470,
-        "shortPct": 9.7,
+        "shortPct": 10.1,
         "net": 3276,
         "signal": "bullish"
       },
@@ -97,9 +93,9 @@
         "name": "Institutions",
         "icon": "🐋",
         "long": 946,
-        "longPct": 4.5,
+        "longPct": 7.9,
         "short": 7476,
-        "shortPct": 29.4,
+        "shortPct": 30.5,
         "net": -6530,
         "signal": "bearish"
       },
@@ -107,9 +103,9 @@
         "name": "Hedge Funds",
         "icon": "🦈",
         "long": 972,
-        "longPct": 4.6,
+        "longPct": 8.1,
         "short": 697,
-        "shortPct": 2.7,
+        "shortPct": 2.8,
         "net": 275,
         "signal": "neutral"
       },
@@ -117,11 +113,11 @@
         "name": "Other",
         "icon": "🦐",
         "long": 4372,
-        "longPct": 20.8,
+        "longPct": 0,
         "short": 13871,
-        "shortPct": 54.6,
+        "shortPct": 0,
         "net": -9499,
-        "signal": "bearish"
+        "signal": "neutral"
       }
     }
   },
@@ -192,7 +188,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,480",
+      "currentPrice": "$69,512",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -218,5 +214,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- F&G (Fond et Gestion) fait référence à une entreprise qui gère des fonds d'investissement, il est à 8, ce qui signifie qu'il a baissé.\n- Signal : Zone d'accumulation, c'est un terme qui désigne une période où le prix d'une cryptoactif ou d'un actif financier reste stable ou augmente lentement, car les acheteurs sont plus nombreux que les vendeurs.\n- ETF (Exchange-Traded Fund) est un type de fonds qui permet de s'assurer contre des pertes, il a gagné 15,1 millions de dollars."
+  "story": "Voici une explication en 3 phrases simples :\n\nF&G (Fonds et Gestion) a une valeur de 8, ce qui signifie qu'il est relativement bas. Signal indique qu'on est dans une zone d'accumulation, c'est-à-dire que les prix sont bas et que les investisseurs achètent pour préparer une hausse future. L'ETF (un type de fonds) a gagné 15,1 millions d'euros, ce qui est un signe positif."
 }
