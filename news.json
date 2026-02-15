@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:00:04.990Z",
+  "updatedAt": "2026-02-15T02:15:08.067Z",
   "context": {
     "fearGreed": 8,
     "hedgeFundsShort": 68.9,
@@ -8,59 +8,64 @@
   "narrative": null,
   "news": [
     {
-      "title": "Here’s what happened in crypto today",
-      "titleOriginal": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 a",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 22:31:39 +0000"
-    },
-    {
-      "title": "Prediction markets should become hedging platforms, says Buterin",
+      "title": "Buterin défend la stabilité",
       "titleOriginal": "Prediction markets should become hedging platforms, says Buterin",
-      "summary": "Prediction markets should pivot from short-term betting and move toward becoming price stability instruments for consumers, Buterin argued.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "Buterin veut que les marchés de prévisions deviennent des instruments de stabilité",
+      "impact": "bullish",
+      "priceEffect": "Cette idée pourrait renforcer la confiance dans les marchés de prévisions et, à terme, soutenir les prix. Dans le contexte actuel, cela pourrait contribuer à un rebond potentiel.",
+      "contextLink": "Les institutions sont bullish, et cette idée pourrait les renforcer dans leur conviction, contribuant ainsi à une accumulation forte.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 22:16:34 +0000"
     },
     {
-      "title": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
+      "title": "X lance le trading",
       "titleOriginal": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-      "summary": "An announcement in January teased the potential in-app trading feature, fueling online speculation about X's upcoming Smart Cashtags.",
-      "impact": "neutre",
-      "priceEffect": "",
-      "importance": 3,
+      "summary": "X va lancer le trading en application dans quelques semaines",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait attirer de nouveaux utilisateurs et augmenter l'activité sur la plateforme, soutenant ainsi les prix. Le contexte actuel de fear extrême pourrait rendre ce lancement encore plus significatif pour un rebond potentiel.",
+      "contextLink": "Les hedge funds sont majoritairement short, mais l'arrivée de nouvelles fonctionnalités pourrait inverser cette tendance.",
+      "importance": 4,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 21:00:30 +0000"
     },
     {
-      "title": "All social program benefits can be distributed onchain: Compliance exec",
+      "title": "Avantages sociaux en blockchain",
       "titleOriginal": "All social program benefits can be distributed onchain: Compliance exec",
-      "summary": "Hong Kong, Thailand, and the Marshall Islands are exploring tokenized debt instruments and administering social benefit programs onchain.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "summary": "Certains pays étudient la distribution d'avantages sociaux via la blockchain",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait ouvrir de nouvelles opportunités pour l'adoption de la technologie blockchain, renforçant ainsi la confiance et les prix. Le contexte actuel d'accumulation forte pourrait être renforcé par de telles annonces.",
+      "contextLink": "Les institutions sont déjà bullish, et de telles initiatives pourraient les conforter dans leur vision à long terme.",
       "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sat, 14 Feb 2026 18:20:21 +0000"
     },
     {
-      "title": "Figure Technology suffers data breach, exposing personal customer details",
-      "titleOriginal": "Figure Technology suffers data breach, exposing personal customer details",
-      "summary": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
-      "impact": "neutre",
-      "priceEffect": "",
+      "title": "ARK Invest achète Coinbase",
+      "titleOriginal": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
+      "summary": "ARK Invest a acheté des actions de Coinbase pour 15 millions de dollars",
+      "impact": "bullish",
+      "priceEffect": "Cet achat significatif pourrait indiquer une confiance renouvelée dans Coinbase et le marché crypto, soutenant ainsi les prix. Dans le contexte actuel, cela pourrait être un signal fort pour un rebond.",
+      "contextLink": "Les institutions sont bullish, et cet achat d'ARK Invest renforce cette tendance, contribuant à l'accumulation forte.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-15m-after-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 10:19:56 +0000"
+    },
+    {
+      "title": "Nouveaux ETF crypto",
+      "titleOriginal": "Trump Media files for two new crypto ETFs tied to Bitcoin, Ether, Cronos",
+      "summary": "Trump Media dépose des demandes pour deux nouveaux ETF liés aux crypto",
+      "impact": "bullish",
+      "priceEffect": "De nouveaux ETF pourraient attirer plus d'investisseurs institutionnels, augmentant ainsi la demande et soutenant les prix. Cependant, le contexte actuel de sorties d'ETF pourrait tempérer cet effet.",
+      "contextLink": "Les flux d'ETF sont actuellement positifs, et de nouveaux ETF pourraient renforcer cette tendance, malgré les sorties récentes.",
       "importance": 3,
       "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 12:57:59 +0000"
+      "link": "https://cointelegraph.com/news/trump-media-files-crypto-etfs-bitcoin-ether-cronos-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sat, 14 Feb 2026 07:47:53 +0000"
     }
   ]
 }
