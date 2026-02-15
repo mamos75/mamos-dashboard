@@ -99,12 +99,37 @@ async function fetchPriceData() {
 
 // Fetch Bitcoin Hashrate with proper trend analysis
 async function fetchHashrate() {
+  let hashrates = [];
+  let source = 'unknown';
+  
+  // Try mempool.space first
   try {
-    // Use mempool.space for accurate historical data
     const data = await fetch('https://mempool.space/api/v1/mining/hashrate/1w');
-    
     if (data?.hashrates && data.hashrates.length > 0) {
-      const hashrates = data.hashrates.map(h => h.avgHashrate / 1e18); // Convert to EH/s
+      hashrates = data.hashrates.map(h => h.avgHashrate / 1e18); // Convert to EH/s
+      source = 'mempool';
+    }
+  } catch (e) {
+    console.log('Mempool hashrate failed, trying blockchain.info...');
+  }
+  
+  // Fallback to blockchain.info
+  if (hashrates.length === 0) {
+    try {
+      const data = await fetch('https://api.blockchain.info/charts/hash-rate?timespan=1week&format=json');
+      if (data?.values && data.values.length > 0) {
+        // blockchain.info returns TH/s, convert to EH/s (divide by 1e6)
+        hashrates = data.values.map(v => v.y / 1e6);
+        source = 'blockchain.info';
+        console.log('Using blockchain.info for hashrate');
+      }
+    } catch (e) {
+      console.log('Blockchain.info hashrate also failed:', e.message);
+    }
+  }
+  
+  try {
+    if (hashrates.length > 0) {
       const current = hashrates[hashrates.length - 1];
       const yesterday = hashrates[hashrates.length - 2] || current;
       const weekAgo = hashrates[0];
