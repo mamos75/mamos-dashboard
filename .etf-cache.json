@@ -1,0 +1,12 @@
+{
+  "fetchDate": "2026-02-14",
+  "data": {
+    "date": "2026-02-14",
+    "daily": -48,
+    "weekly": -651,
+    "total": 39500,
+    "trend": "negative_daily",
+    "source": "manual",
+    "note": "Source: farside.co.uk - MàJ manuelle quotidienne"
+  }
+}

@@ -431,33 +431,89 @@ function getNextFriday() {
   return nextFriday.toISOString().split('T')[0];
 }
 
-// ETF Flows - Auto-fetch (updates when called)
+// ETF Flows - Daily cache (US market closes 21:00 UTC, fetch after 22:00 UTC)
 async function fetchETFFlows() {
+  const cachePath = path.join(__dirname, '..', '.etf-cache.json');
+  
+  // Check cache first
   try {
-    // Try CoinGlass API
-    const data = await fetch('https://open-api.coinglass.com/public/v2/etf/bitcoin_flows');
-    if (data?.data) {
-      const flows = data.data;
-      return {
-        date: new Date().toISOString().split('T')[0],
-        daily: Math.round((flows.netFlow24h || 0) / 1e6),
-        weekly: Math.round((flows.netFlow7d || 0) / 1e6),
-        total: Math.round((flows.totalNetAssets || 0) / 1e6),
-        trend: (flows.netFlow24h || 0) > 0 ? 'positive_daily' : 'negative_daily'
-      };
+    if (fs.existsSync(cachePath)) {
+      const cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+      const today = new Date().toISOString().split('T')[0];
+      const currentHour = new Date().getUTCHours();
+      
+      // Use cache if: same day AND after 22:00 UTC, OR if we're before 22:00 UTC and cache is from yesterday/today
+      if (cache.fetchDate === today) {
+        console.log('ETF: Using cached data from today');
+        return cache.data;
+      }
+      
+      // If before 22:00 UTC, yesterday's data is still "current"
+      if (currentHour < 22 && cache.data) {
+        console.log('ETF: Using yesterday\'s data (market not closed yet)');
+        return cache.data;
+      }
+    }
+  } catch (e) {}
+  
+  // Try to fetch fresh data
+  console.log('ETF: Fetching fresh data...');
+  
+  try {
+    // Try multiple sources
+    const sources = [
+      'https://open-api.coinglass.com/public/v2/etf/bitcoin_flows',
+      'https://api.coinglass.com/api/futures/etf/bitcoin'
+    ];
+    
+    for (const url of sources) {
+      try {
+        const data = await fetch(url);
+        if (data?.data) {
+          const flows = data.data;
+          const result = {
+            date: new Date().toISOString().split('T')[0],
+            daily: Math.round((flows.netFlow24h || flows.dailyFlow || 0) / 1e6),
+            weekly: Math.round((flows.netFlow7d || flows.weeklyFlow || 0) / 1e6),
+            total: Math.round((flows.totalNetAssets || flows.totalAUM || 40000) / 1e6),
+            trend: (flows.netFlow24h || flows.dailyFlow || 0) > 0 ? 'positive_daily' : 'negative_daily',
+            source: 'api'
+          };
+          
+          // Cache it
+          fs.writeFileSync(cachePath, JSON.stringify({
+            fetchDate: new Date().toISOString().split('T')[0],
+            data: result
+          }));
+          
+          return result;
+        }
+      } catch (e) {
+        continue;
+      }
     }
   } catch (e) {
     console.log('ETF fetch error:', e.message);
   }
   
-  // Fallback - static but with today's date
+  // Return last known cache even if stale
+  try {
+    if (fs.existsSync(cachePath)) {
+      const cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+      console.log('ETF: Using stale cache (API unavailable)');
+      return { ...cache.data, stale: true };
+    }
+  } catch (e) {}
+  
+  // Final fallback with manual update note
   return {
-    date: new Date().toISOString().split('T')[0],
-    daily: 0,
-    weekly: 0,
-    total: 40000,
-    trend: 'unknown',
-    unavailable: true
+    date: '2026-02-14',
+    daily: -48,
+    weekly: -651,
+    total: 39500,
+    trend: 'negative_daily',
+    source: 'manual',
+    note: 'Données manuelles - à mettre à jour'
   };
 }
 

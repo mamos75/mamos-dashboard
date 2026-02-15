@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T02:32:44.774Z",
+  "updatedAt": "2026-02-15T02:34:36.881Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,12 +27,12 @@
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "2.35",
+    "takerBuySellRatio": "0.61",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,113",
+    "btc": "78,110",
     "usd": "5.42B",
     "change24h": 0.1,
     "trend": "stable",
@@ -56,10 +56,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69448,
+    "current": 69404,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.80",
+    "change24h": "0.71",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -122,21 +122,22 @@
     }
   },
   "etf": {
-    "date": "2026-02-15",
-    "daily": 0,
-    "weekly": 0,
-    "total": 40000,
-    "trend": "unknown",
-    "unavailable": true
+    "date": "2026-02-14",
+    "daily": -48,
+    "weekly": -651,
+    "total": 39500,
+    "trend": "negative_daily",
+    "source": "manual",
+    "note": "Source: farside.co.uk - MàJ manuelle quotidienne"
   },
   "analysis": {
-    "signal": "accumulation",
-    "label": "ZONE D'ACCUMULATION",
-    "emoji": "🎯",
+    "signal": "neutral",
+    "label": "PATIENCE",
+    "emoji": "⏳",
     "score": {
-      "bull": 4,
-      "bear": 0,
-      "net": 4
+      "bull": 3,
+      "bear": 3,
+      "net": 0
     },
     "signals": [
       {
@@ -145,24 +146,29 @@
         "reason": "Extreme Fear historique - zone d'achat"
       },
       {
-        "type": "bullish",
+        "type": "bearish",
+        "weight": 2,
+        "reason": "ETF outflows sur la semaine ($-651M)"
+      },
+      {
+        "type": "bearish",
         "weight": 1,
-        "reason": "Plus d'acheteurs que de vendeurs"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.61)"
       }
     ]
   },
   "tradingPlan": {
     "bias": {
-      "direction": "ACHAT",
-      "emoji": "🟢",
-      "strength": "Modéré"
+      "direction": "NEUTRE",
+      "emoji": "⚪",
+      "strength": "Attente"
     },
     "horizon": {
       "timeframe": "24-72h",
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,448",
+      "currentPrice": "$69,404",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -172,17 +178,21 @@
       {
         "level": "PRINCIPAL",
         "text": "Fear & Greed extrême (8) - historiquement zone d'achat"
+      },
+      {
+        "level": "ATTENTION",
+        "text": "ETF outflows semaine: $-651M - pression vendeuse"
       }
     ],
     "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
     "action": {
-      "recommendation": "Observer pour entrée",
-      "detail": "Attendre un repli vers $68,700 - $70,200 pour position."
+      "recommendation": "Attendre",
+      "detail": "Pas de signal clair. Rester en cash ou position réduite."
     },
     "risk": {
       "maxPosition": "1-2%",
       "note": "du capital par trade"
     }
   },
-  "story": "D'accord, je vais essayer de t'expliquer ce qui se passe sur le marché crypto en 3 phrases simples :\n\n- Le marché semble être en stand-by, car la tendance (F&G) est neutre et la signalisation (Signal) indique qu'il est en phase de récupération.\n- Les investisseurs attendent probablement une stabilité avant de reprendre leurs investissements, car la zone d'accumulation (ZONE D'ACCUMULATION) est souvent un moment où les prix sont bas et où les investisseurs achètent à des prix bas, espérant une reprise.\n- En attendant, les prix restent stables, comme le montre l"
+  "story": "Bien sûr, je vais t'expliquer ce qui se passe sur le marché crypto en 3 phrases simples.\n\nLe marché crypto est actuellement en baisse (F&G: 8) et on attend que les prix s'arrêtent avant de recommencer à monter (Signal: PATIENCE). Cela signifie que les investisseurs devraient être patients et ne pas prendre de décisions précipitées, car le marché est actuellement en mode descendant (-48M pour l'ETF)."
 }
