@@ -957,9 +957,9 @@
         <div class="section-title">Le Signal Smart Money</div>
         <div class="signal-box accumulation" id="signal-box">
             <div class="signal-icon" id="signal-icon">🎯</div>
-            <div class="signal-label" id="signal-label">ACCUMULATION</div>
+            <div class="signal-label" id="signal-label">CHARGEMENT...</div>
             <div class="signal-explanation" id="signal-explanation">
-                Quand tout le monde a peur et que les institutions achètent, c'est souvent le moment où les fortunes se construisent.
+                Analyse en cours...
             </div>
         </div>
     </section>
@@ -1468,30 +1468,9 @@
                 updateStory(data);
                 updateSignals(data);
                 
-                // Update signal box with analysis
-                if (data.analysis) {
-                    const a = data.analysis;
-                    const box = document.getElementById('signal-box');
-                    
-                    if (a.signal.includes('accumulation')) {
-                        box.className = 'signal-box accumulation';
-                        document.getElementById('signal-icon').textContent = a.emoji || '🎯';
-                        document.getElementById('signal-label').textContent = a.label;
-                    } else if (a.signal.includes('distribution')) {
-                        box.className = 'signal-box distribution';
-                        document.getElementById('signal-icon').textContent = a.emoji || '⚠️';
-                        document.getElementById('signal-label').textContent = a.label;
-                    } else {
-                        box.className = 'signal-box neutral';
-                        document.getElementById('signal-icon').textContent = a.emoji || '⏳';
-                        document.getElementById('signal-label').textContent = a.label;
-                    }
-                    
-                    // Update explanation with score
-                    const scoreText = `Score: ${a.score.bull} bullish / ${a.score.bear} bearish`;
-                    document.getElementById('signal-explanation').innerHTML = 
-                        `${scoreText}<br><br>` + document.getElementById('signal-explanation').textContent;
-                }
+                // NOTE: Signal box is now calculated from COT data above (lines ~1367)
+                // This ensures consistency between "La Bataille" and "Signal Smart Money"
+                // The old data.analysis code was removed to prevent conflicting signals
                 
                 // Long/Short display
                 if (data.longShort?.topTraders) {
