@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T05:30:19.650Z",
+  "updatedAt": "2026-02-15T05:45:19.944Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -24,17 +24,17 @@
       "ratio": "1.19"
     },
     "accounts": {
-      "long": "62.4",
-      "short": "37.6"
+      "long": "62.3",
+      "short": "37.7"
     },
-    "takerBuySellRatio": "0.61",
+    "takerBuySellRatio": "0.43",
     "trend": "more_short",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "78,803",
+    "btc": "78,716",
     "usd": "5.54B",
-    "change24h": 0.4,
+    "change24h": 0.2,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70337,
+    "current": 70357,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "2.12",
+    "change24h": "2.24",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -178,7 +178,7 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.61)"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.43)"
       }
     ]
   },
@@ -193,7 +193,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,337",
+      "currentPrice": "$70,357",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
