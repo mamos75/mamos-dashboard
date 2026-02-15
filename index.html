@@ -1243,15 +1243,71 @@
                 const res = await fetch('data.json?t=' + Date.now());
                 const data = await res.json();
                 
-                // Battle bars
+                // Battle bars + Dynamic COT Insight
                 if (data.cot?.categories) {
-                    const bulls = data.cot.categories.assetManagers.longPct;
-                    const bears = data.cot.categories.leveragedFunds.shortPct;
+                    const cot = data.cot.categories;
+                    const instNet = cot.assetManagers.net || 0;  // + = bullish, - = bearish
+                    const hfNet = cot.leveragedFunds.net || 0;   // + = bullish, - = bearish
                     
-                    document.getElementById('bulls-bar').style.width = bulls + '%';
-                    document.getElementById('bulls-pct').textContent = bulls + '%';
-                    document.getElementById('bears-bar').style.width = bears + '%';
-                    document.getElementById('bears-pct').textContent = bears + '%';
+                    // Calculate bar widths based on relative strength
+                    // Use absolute values to show conviction level
+                    const totalConviction = Math.abs(instNet) + Math.abs(hfNet);
+                    const instPower = totalConviction > 0 ? (Math.abs(instNet) / totalConviction * 100) : 50;
+                    const hfPower = totalConviction > 0 ? (Math.abs(hfNet) / totalConviction * 100) : 50;
+                    
+                    // Determine who's bullish/bearish
+                    const instBullish = instNet > 0;
+                    const hfBullish = hfNet > 0;
+                    
+                    // Update bars - green = bullish conviction, red = bearish conviction
+                    const bullsBar = document.getElementById('bulls-bar');
+                    const bearsBar = document.getElementById('bears-bar');
+                    
+                    // Institutions bar (left)
+                    bullsBar.style.width = instPower.toFixed(0) + '%';
+                    bullsBar.style.background = instBullish ? 'var(--green)' : 'var(--red)';
+                    document.getElementById('bulls-pct').textContent = (instBullish ? '+' : '') + (instNet/1000).toFixed(1) + 'K';
+                    
+                    // Hedge Funds bar (right)  
+                    bearsBar.style.width = hfPower.toFixed(0) + '%';
+                    bearsBar.style.background = hfBullish ? 'var(--green)' : 'var(--red)';
+                    document.getElementById('bears-pct').textContent = (hfBullish ? '+' : '') + (hfNet/1000).toFixed(1) + 'K';
+                    
+                    // Generate dynamic insight based on 4 scenarios
+                    let insight = '';
+                    const instAbs = Math.abs(instNet).toLocaleString();
+                    const hfAbs = Math.abs(hfNet).toLocaleString();
+                    
+                    if (instBullish && hfBullish) {
+                        // BOTH BULLISH - Consensus haussier
+                        insight = `<strong>🚀 Consensus Haussier</strong><br>
+                            <span style="color:var(--green)">🐋 Institutions : +${instAbs} contrats LONG</span><br>
+                            <span style="color:var(--green)">🦈 Hedge Funds : +${hfAbs} contrats LONG</span><br>
+                            <em>→ Tout le monde est acheteur. Le marché a un biais haussier clair, mais attention à l'excès d'optimisme si le prix est déjà haut.</em>`;
+                    } 
+                    else if (!instBullish && !hfBullish) {
+                        // BOTH BEARISH - Consensus baissier
+                        insight = `<strong>🔴 Consensus Baissier</strong><br>
+                            <span style="color:var(--red)">🐋 Institutions : -${instAbs} contrats SHORT</span><br>
+                            <span style="color:var(--red)">🦈 Hedge Funds : -${hfAbs} contrats SHORT</span><br>
+                            <em>→ Les deux camps parient sur la baisse. Prudence maximale. Mais quand TOUT le monde est bearish... c'est parfois le bottom.</em>`;
+                    }
+                    else if (!instBullish && hfBullish) {
+                        // INSTITUTIONS SHORT, HF LONG - Smart money sells
+                        insight = `<strong>⚠️ Smart Money Vend !</strong><br>
+                            <span style="color:var(--red)">🐋 Institutions : -${instAbs} contrats SHORT</span><br>
+                            <span style="color:var(--green)">🦈 Hedge Funds : +${hfAbs} contrats LONG</span><br>
+                            <em>→ Les institutionnels (BlackRock, Fidelity...) réduisent leur exposition pendant que les spéculateurs achètent. Signal d'alerte : les "smart money" savent souvent quelque chose.</em>`;
+                    }
+                    else {
+                        // INSTITUTIONS LONG, HF SHORT - Squeeze setup
+                        insight = `<strong>🔥 Setup de Short Squeeze !</strong><br>
+                            <span style="color:var(--green)">🐋 Institutions : +${instAbs} contrats LONG</span><br>
+                            <span style="color:var(--red)">🦈 Hedge Funds : -${hfAbs} contrats SHORT</span><br>
+                            <em>→ Les institutionnels accumulent pendant que les HF parient contre. Si le prix monte, les HF devront racheter en urgence = explosion potentielle.</em>`;
+                    }
+                    
+                    document.getElementById('battle-insight').innerHTML = insight;
                 }
                 
                 // Signal
