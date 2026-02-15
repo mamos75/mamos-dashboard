@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-02-15T04:45:27.128Z",
+  "updatedAt": "2026-02-15T12:00:31.980Z",
   "context": {
     "fearGreed": 8,
     "hedgeFundsShort": 2.8,
     "signal": "PATIENCE"
   },
-  "narrative": "Avec un Fear & Greed à 8/100, il est clair que les investisseurs sont apeurés et qu'il y a une grande incertitude sur le marché. La dernière news du jour est importante : X annonce la mise en place de trading en-ligne, ce qui pourrait améliorer l'expérience utilisateur et potentiellement attirer de nouveaux investisseurs. Cela pourrait aider à stabiliser le marché, mais pour l'instant, il est important d'être prudent. Le signal de la Smart Money est de l'attendre, et avec les ETF Flows positifs, cela signifie qu'il est peut-être prudent d'accumuler plutôt que de prendre des risques. Alors pour l'instant, je conseillerais d'attendre et de garder une position neutre, car la situation est encore incertaine.",
+  "narrative": "Le marché est très volatil actuellement, avec un Fear & Greed à seulement 8% et des hedge funds qui sont courts sur Bitcoin. Cependant, les flux d'ETF sont positifs, ce qui pourrait indiquer que les investisseurs ont encore de la confiance dans l'industrie crypto. Les news du jour, comme l'acquisition de Korbit par Mirae Asset et les menaces de renvoi des investisseurs institutionnels si les risques quantiques ne sont pas résolus, ont un impact potentiel sur le prix de Bitcoin. Dans ce contexte, il est préférable d'attendre et de surveiller les évolutions avant de prendre une décision d'investissement. C'est une période idéale pour accumuler des actifs en cas de baisse, mais il est essentiel d'exercer la prudence et de ne pas prendre de décision précipitée.",
   "news": [
     {
-      "title": "ETF élection : investir dans le perdant peut être coûteux",
-      "titleOriginal": "Roundhill’s election event contract ETFs ‘potentially groundbreaking'",
-      "summary": "Un ETF lié à l'élection présidentielle aux États-Unis peut faire perdre presque tout le capital investi si le candidat perd.",
-      "impact": "bearish",
-      "priceEffect": "Cette news peut renforcer la peur des investisseurs et maintenir la pression baissière sur le marché, mais l'ETF Flows positif de 24h ($15.1M) suggère que les investisseurs sont encore optimistes.",
-      "contextLink": "Cette news se connecte au contexte actuel car elle renforce la peur des investisseurs, qui est déjà très forte (Fear & Greed : 8/100)",
+      "title": "Mirae Asset rachète Korbit pour 93 millions",
+      "titleOriginal": "Mirae Asset agrees to buy 92% stake in Korean exchange Korbit for $93M",
+      "summary": "Mirae Asset a acquis une participation majoritaire dans l'échange sud-coréen Korbit",
+      "impact": "bullish",
+      "priceEffect": "Cela pourrait être un signe de confiance dans l'écosystème crypto sud-coréen, potentiellement stimulant la demande de Bitcoin. Cependant, dans un marché en fear extrême, l'impact sur le prix pourrait être limité.",
+      "contextLink": "Cela se connecte au contexte actuel en montrant que des investisseurs institutionnels sont toujours intéressés par l'écosystème crypto.",
       "importance": 4,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/mirae-asset-buy-92-percent-korbit-korea-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sun, 15 Feb 2026 10:04:27 +0000"
+    },
+    {
+      "title": "Sénateurs demandent enquête sur investissement UAE dans crypto",
+      "titleOriginal": "Senators ask Bessent to probe $500M UAE stake in Trump-linked WLFI",
+      "summary": "Des sénateurs américains demandent une enquête sur un investissement de 500 millions de dollars d'origine uae dans une entreprise crypto liée à Trump",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait créer des inquiétudes sur la réglementation future et potentiellement affecter la confiance des investisseurs. Dans un marché déjà en fear extrême, cela pourrait aggraver la situation.",
+      "contextLink": "Cela se connecte au contexte actuel en montrant que les inquiétudes sur la réglementation et la sécurité sont toujours présentes.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/senators-urge-cfius-probe-uae-stake-trump-linked-wlfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sun, 15 Feb 2026 07:15:57 +0000"
+    },
+    {
+      "title": "Institutions menacent de renvoyer les devs Bitcoin si ils ne résolvent pas les risques quantiques",
+      "titleOriginal": "Institutions may get 'fed up' and fire Bitcoin devs over quantum: VC",
+      "summary": "Des investisseurs institutionnels menacent de se retirer de Bitcoin si les développeurs ne résolvent pas les risques quantiques",
+      "impact": "bearish",
+      "priceEffect": "Cela pourrait créer des inquiétudes sur la sécurité de Bitcoin et potentiellement affecter la confiance des investisseurs. Dans un marché en fear extrême, cela pourrait aggraver la situation.",
+      "contextLink": "Cela se connecte au contexte actuel en montrant que les inquiétudes sur la sécurité sont toujours présentes.",
+      "importance": 5,
+      "source": "CoinTelegraph",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-computing-risk-institutions-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Sun, 15 Feb 2026 06:17:48 +0000"
+    },
+    {
+      "title": "ETF de prédiction électorale pourrait être 'révolutionnaire'",
+      "titleOriginal": "Roundhill’s election prediction ETFs are ‘potentially groundbreaking': Analyst",
+      "summary": "Un analyste qualifie les ETF de prédiction électorale de 'potentiellement révolutionnaires'",
+      "impact": "neutre",
+      "priceEffect": "Cela n'a pas d'impact direct sur le prix de Bitcoin, mais pourrait attirer l'attention sur les produits dérivés liés à l'économie politique.",
+      "contextLink": "Cela se connecte au contexte actuel en montrant que les produits dérivés liés à l'économie politique sont toujours en développement.",
+      "importance": 3,
       "source": "CoinTelegraph",
       "link": "https://cointelegraph.com/news/roundhill-investments-event-contracts-prediction-markets-etf-united-states-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Sun, 15 Feb 2026 03:04:18 +0000"
-    },
-    {
-      "title": "Buterin : les marchés de prédiction devraient devenir des plateformes de couverture",
-      "titleOriginal": "Prediction markets should become hedging platforms, says Buterin",
-      "summary": "Buterin suggère que les marchés de prédiction devraient devenir des instruments de stabilité des prix pour les consommateurs.",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut indiquer que les marchés crypto sont en train de se développer et de devenir plus stables, ce qui pourrait entraîner une hausse du prix. Cependant, le marché est actuellement en peur extrême, ce qui pourrait limiter l'impact de cette news.",
-      "contextLink": "Cette news se connecte au contexte actuel car elle suggère que les marchés crypto sont en train de se développer et de devenir plus stables, ce qui pourrait aider à atténuer la peur des investisseurs.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/prediction-markets-hedging-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 22:16:34 +0000"
-    },
-    {
-      "title": "X annonce la mise en place de trading en-ligne dans quelques semaines",
-      "titleOriginal": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-      "summary": "X annonce la mise en place de trading en-ligne dans quelques semaines, ce qui pourrait améliorer l'expérience utilisateur.",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut indiquer que X est en train de se développer et de devenir plus accessible, ce qui pourrait entraîner une hausse du prix. Cependant, le marché est actuellement en peur extrême, ce qui pourrait limiter l'impact de cette news.",
-      "contextLink": "Cette news se connecte au contexte actuel car elle suggère que X est en train de se développer et de devenir plus accessible, ce qui pourrait aider à atténuer la peur des investisseurs.",
-      "importance": 4,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/x-nikita-bier-in-app-trading-couple-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 21:00:30 +0000"
-    },
-    {
-      "title": "Les avantages sociaux peuvent être distribués en ligne",
-      "titleOriginal": "All social program benefits can be distributed onchain: Compliance exec",
-      "summary": "Certaines nations explorent la possibilité de distribuer les avantages sociaux en ligne à l'aide de tokens.",
-      "impact": "bullish",
-      "priceEffect": "Cette news peut indiquer que les applications de la blockchain sont en train de s'étendre à de nouveaux domaines, ce qui pourrait entraîner une hausse du prix. Cependant, le marché est actuellement en peur extrême, ce qui pourrait limiter l'impact de cette news.",
-      "contextLink": "Cette news se connecte au contexte actuel car elle suggère que les applications de la blockchain sont en train de s'étendre à de nouveaux domaines, ce qui pourrait aider à atténuer la peur des investisseurs.",
-      "importance": 5,
-      "source": "CoinTelegraph",
-      "link": "https://cointelegraph.com/news/all-social-benefit-programs-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "date": "Sat, 14 Feb 2026 18:20:21 +0000"
     }
   ]
 }

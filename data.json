@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T06:30:20.810Z",
+  "updatedAt": "2026-02-15T12:00:23.999Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,31 +19,31 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "54.3",
-      "short": "45.7",
-      "ratio": "1.19"
+      "long": "56.8",
+      "short": "43.2",
+      "ratio": "1.31"
     },
     "accounts": {
-      "long": "62.2",
-      "short": "37.8"
+      "long": "62.3",
+      "short": "37.7"
     },
-    "takerBuySellRatio": "0.71",
-    "trend": "more_short",
-    "signal": "neutral"
+    "takerBuySellRatio": "0.81",
+    "trend": "more_long",
+    "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,678",
-    "usd": "5.54B",
-    "change24h": 0,
+    "btc": "78,943",
+    "usd": "5.55B",
+    "change24h": 0.7,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "-0.0083",
-      "avg24h": "-0.0022"
+      "current": "-0.0029",
+      "avg24h": "-0.0017"
     },
-    "eth": "-0.0064",
+    "eth": "0.0062",
     "sentiment": "neutral",
     "signal": "normal"
   },
@@ -61,19 +61,19 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70381,
-    "high24h": 70560,
-    "low24h": 68853,
-    "change24h": "2.15",
+    "current": 70300,
+    "high24h": 70983,
+    "low24h": 69065,
+    "change24h": "-0.33",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
-      68900,
+      69100,
       65900,
       65100
     ],
     "resistances": [
-      70600,
+      71000,
       71500
     ],
     "bias": "bullish",
@@ -161,8 +161,8 @@
     "emoji": "⏳",
     "score": {
       "bull": 3,
-      "bear": 3,
-      "net": 0
+      "bear": 4,
+      "net": -1
     },
     "signals": [
       {
@@ -178,7 +178,12 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.71)"
+        "reason": "Retail très long - risque de dump"
+      },
+      {
+        "type": "bearish",
+        "weight": 1,
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.81)"
       }
     ]
   },
@@ -193,10 +198,10 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,381",
-      "entryZone": "$68,900 - $70,400",
+      "currentPrice": "$70,300",
+      "entryZone": "$69,100 - $70,600",
       "invalidation": "$65,900",
-      "target1": "$70,600",
+      "target1": "$71,000",
       "target2": "$71,500"
     },
     "factors": [
@@ -219,5 +224,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
+  "story": "Voici une explication simple :\n\n- \"F&G\" fait référence à deux indicateurs qui analysent les mouvements du marché.\n- \"Signal\" donne un avertissement ou une recommandation au trader, en l'occurrence \"PATIENCE\" qui signifie qu'il faut attendre avant d'agir.\n- \"ETF\" (+15.1M) fait référence à un produit financier qui suit le marché, avec une augmentation de 15,1 millions de dollars."
 }
