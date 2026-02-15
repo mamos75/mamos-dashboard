@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T12:00:23.999Z",
+  "updatedAt": "2026-02-15T12:15:19.074Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -19,22 +19,22 @@
   },
   "longShort": {
     "topTraders": {
-      "long": "56.8",
-      "short": "43.2",
+      "long": "56.7",
+      "short": "43.3",
       "ratio": "1.31"
     },
     "accounts": {
-      "long": "62.3",
-      "short": "37.7"
+      "long": "62.2",
+      "short": "37.8"
     },
-    "takerBuySellRatio": "0.81",
+    "takerBuySellRatio": "0.45",
     "trend": "more_long",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "78,943",
+    "btc": "78,989",
     "usd": "5.55B",
-    "change24h": 0.7,
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,7 +61,7 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 70300,
+    "current": 70233,
     "high24h": 70983,
     "low24h": 69065,
     "change24h": "-0.33",
@@ -183,7 +183,7 @@
       {
         "type": "bearish",
         "weight": 1,
-        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.81)"
+        "reason": "Plus de vendeurs que d'acheteurs (ratio 0.45)"
       }
     ]
   },
@@ -198,7 +198,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$70,300",
+      "currentPrice": "$70,233",
       "entryZone": "$69,100 - $70,600",
       "invalidation": "$65,900",
       "target1": "$71,000",
@@ -224,5 +224,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Voici une explication simple :\n\n- \"F&G\" fait référence à deux indicateurs qui analysent les mouvements du marché.\n- \"Signal\" donne un avertissement ou une recommandation au trader, en l'occurrence \"PATIENCE\" qui signifie qu'il faut attendre avant d'agir.\n- \"ETF\" (+15.1M) fait référence à un produit financier qui suit le marché, avec une augmentation de 15,1 millions de dollars."
+  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. "
 }
