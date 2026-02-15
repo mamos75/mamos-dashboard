@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T01:45:17.479Z",
+  "updatedAt": "2026-02-15T02:00:04.593Z",
   "fearGreed": {
     "current": 8,
     "label": "Extreme Fear",
@@ -27,14 +27,14 @@
       "long": "62.8",
       "short": "37.2"
     },
-    "takerBuySellRatio": "0.47",
+    "takerBuySellRatio": "1.88",
     "trend": "more_long",
     "signal": "neutral"
   },
   "openInterest": {
-    "btc": "77,969",
-    "usd": "5.41B",
-    "change24h": 0,
+    "btc": "78,059",
+    "usd": "5.44B",
+    "change24h": 0.1,
     "trend": "stable",
     "signal": "normal"
   },
@@ -61,10 +61,10 @@
     "signal": "neutral"
   },
   "priceData": {
-    "current": 69421,
+    "current": 69712,
     "high24h": 70560,
     "low24h": 68730,
-    "change24h": "0.61",
+    "change24h": "1.11",
     "weekHigh": 71454,
     "weekLow": 65118,
     "supports": [
@@ -137,9 +137,9 @@
     "label": "ACCUMULATION FORTE",
     "emoji": "🚀",
     "score": {
-      "bull": 8,
-      "bear": 3,
-      "net": 5
+      "bull": 9,
+      "bear": 2,
+      "net": 7
     },
     "signals": [
       {
@@ -180,7 +180,7 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$69,421",
+      "currentPrice": "$69,712",
       "entryZone": "$68,700 - $70,200",
       "invalidation": "$65,900",
       "target1": "$70,600",
@@ -210,5 +210,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. <strong>68.9% des hedge funds</strong> parient contre Bitcoin - ils pourraient se faire piéger. Les ETF ont attiré <span class=\"highlight-green\">+$145M</span> - les institutions accumulent. <strong>C'est souvent dans ces moments que les opportunités se créent.</strong>"
+  "story": "Le marché est actuellement dans un état de peur extrême, c'est comme si tout le monde avait peur de perdre. Les gros investisseurs institutionnels, eux, sont plutôt optimistes et achètent des cryptos, ce qui est un bon signe. Les hedge funds, par contre, misent sur une baisse, mais l'argent qui rentre dans les ETF cryptos montre que les gens ont confiance. C'est le moment idéal pour acheter, car tout le monde est trop pessimiste !"
 }
