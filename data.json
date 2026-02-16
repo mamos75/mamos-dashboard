@@ -1,87 +1,85 @@
 {
-  "updatedAt": "2026-02-15T23:00:04.846Z",
+  "updatedAt": "2026-02-16T05:00:05.353Z",
   "fearGreed": {
-    "current": 8,
+    "current": 12,
     "label": "Extreme Fear",
-    "change24h": -1,
-    "change7d": -6,
-    "change30d": -42,
-    "trend": "worsening",
+    "change24h": 4,
+    "change7d": 3,
+    "change30d": -37,
+    "trend": "improving",
     "history7d": [
+      12,
       8,
       9,
       9,
       5,
       11,
-      9,
-      14
+      9
     ]
   },
   "longShort": {
     "topTraders": {
-      "long": "55.7",
-      "short": "44.3",
-      "ratio": "1.26"
+      "long": "55.6",
+      "short": "44.4",
+      "ratio": "1.25"
     },
     "accounts": {
-      "long": "63.2",
-      "short": "36.8"
+      "long": "65.0",
+      "short": "35.0"
     },
-    "takerBuySellRatio": "1.32",
+    "takerBuySellRatio": "0.66",
     "trend": "more_short",
     "signal": "dump_possible"
   },
   "openInterest": {
-    "btc": "76,850",
-    "usd": "5.30B",
-    "change24h": -0.2,
+    "btc": "77,472",
+    "usd": "5.34B",
+    "change24h": 0,
     "trend": "stable",
     "signal": "normal"
   },
   "funding": {
     "btc": {
-      "current": "-0.0034",
-      "avg24h": "-0.0017"
+      "current": "-0.0035",
+      "avg24h": "-0.0014"
     },
-    "eth": "-0.0076",
+    "eth": "-0.0053",
     "sentiment": "neutral",
     "signal": "normal"
   },
   "liquidations": null,
   "hashrate": {
-    "current": "1039",
+    "current": "1242",
     "unit": "EH/s",
-    "trend": "falling",
-    "peak": "1098",
-    "change24h": 9.8,
-    "change7d": -1.5,
-    "changeFromPeak": -5.4,
-    "interpretation": "🟡 Hashrate en légère baisse. Pression sur certains mineurs.",
-    "priceImpact": "👀 <strong>À surveiller :</strong> Baisse légère = ajustement normal. Si ça continue → surveiller une possible capitulation.",
-    "signal": "neutral"
+    "trend": "rising",
+    "peak": "1242",
+    "change24h": 19.6,
+    "change7d": 20.9,
+    "changeFromPeak": 0,
+    "interpretation": "🟢 Hashrate en hausse (+19.6% 24h). Mineurs confiants.",
+    "priceImpact": "✅ <strong>Signal positif :</strong> Les mineurs investissent dans du matériel → ils croient que le BTC vaudra plus cher à l'avenir. Réseau plus sécurisé = fondamentaux solides.",
+    "signal": "bullish"
   },
   "priceData": {
-    "current": 68966,
+    "current": 68890,
     "high24h": 70983,
     "low24h": 68000,
-    "change24h": "-1.41",
-    "weekHigh": 71454,
+    "change24h": "-1.84",
+    "weekHigh": 70983,
     "weekLow": 65118,
     "supports": [
       68000,
-      65900,
       65100
     ],
     "resistances": [
-      71000,
-      71500
+      71000
     ],
     "bias": "bullish",
     "pricePosition": "in_range"
   },
   "cot": {
     "asOf": "2026-02-10",
-    "nextUpdate": "2026-02-19",
+    "nextUpdate": "2026-02-20",
     "openInterest": 24157,
     "categories": {
       "dealers": {
@@ -157,35 +155,35 @@
   },
   "hyperliquid": {
     "btc": {
-      "openInterest": 18231,
+      "openInterest": 18246,
       "openInterestUSD": "1.26B",
-      "funding": "0.0013",
-      "volume24h": "1.44B",
-      "markPrice": "68942"
+      "funding": "0.0006",
+      "volume24h": "1.37B",
+      "markPrice": "68857"
     },
     "eth": {
-      "openInterest": 488021,
-      "funding": "0.0013"
+      "openInterest": 503451,
+      "funding": "0.0005"
     },
     "signal": "neutral",
     "interpretation": "✅ Funding neutre (0.001%) - Marché équilibré."
   },
   "whales": {
-    "longPct": "66.5",
-    "shortPct": "33.5",
-    "ratio": "1.98",
+    "longPct": "65.6",
+    "shortPct": "34.4",
+    "ratio": "1.91",
     "trend": "more_short",
-    "cvd": "0.6",
+    "cvd": "-3.9",
     "cvdSignal": "balanced",
     "signal": "extreme_long",
     "interpretation": "⚠️ 66% des top traders sont LONG - Euphorie ? Attention au dump."
   },
   "mvrv": {
-    "value": "1.27",
+    "value": "1.25",
     "signal": "undervalued",
-    "interpretation": "🟢 MVRV 1.27 - Sous-évalué. Zone d'accumulation.",
+    "interpretation": "🟢 MVRV 1.25 - Sous-évalué. Zone d'accumulation.",
     "zones": {
-      "current": "1.27",
+      "current": "1.25",
       "buyZone": "< 1.5",
       "sellZone": "> 3.0",
       "extremeSell": "> 3.5"
@@ -197,8 +195,8 @@
     "emoji": "⚠️",
     "score": {
       "bull": 4,
-      "bear": 6,
-      "net": -2
+      "bear": 7,
+      "net": -3
     },
     "signals": [
       {
@@ -224,7 +222,7 @@
       {
         "type": "bullish",
         "weight": 1,
-        "reason": "Plus d'acheteurs que de vendeurs"
+        "reason": "Hashrate en hausse - mineurs confiants"
       }
     ]
   },
@@ -239,23 +237,23 @@
       "detail": "Extrême Fear/Greed = retournement rapide possible"
     },
     "levels": {
-      "currentPrice": "$68,966",
+      "currentPrice": "$68,890",
       "entryZone": "$68,000 - $69,500",
-      "invalidation": "$65,900",
+      "invalidation": "$65,100",
       "target1": "$71,000",
-      "target2": "$71,500"
+      "target2": null
     },
     "factors": [
       {
         "level": "PRINCIPAL",
-        "text": "Fear & Greed extrême (8) - historiquement zone d'achat"
+        "text": "Fear & Greed extrême (12) - historiquement zone d'achat"
       },
       {
         "level": "ATTENTION",
         "text": "ETF outflows semaine: $-360M - pression vendeuse"
       }
     ],
-    "invalidationText": "Clôture daily sous $65,900 = scénario bullish invalidé",
+    "invalidationText": "Clôture daily sous $65,100 = scénario bullish invalidé",
     "action": {
       "recommendation": "Éviter les achats",
       "detail": "Les institutions vendent pendant que les spéculateurs achètent. Historiquement, mauvais timing pour entrer. Attendre un retournement du COT."
@@ -265,5 +263,5 @@
       "note": "du capital par trade"
     }
   },
-  "story": "Le marché est en <strong>panique totale</strong>. Le Fear & Greed à 8 montre que tout le monde a peur. <strong>La prudence est de mise dans ce contexte.</strong>"
+  "story": "Voici une explication simple :\n\nF&G (c'est probablement un marché ou un secteur spécifique) est en baisse : -12%. \nLe signal est de rester prudent, car les marchés sont instables.\nMais il y a une bonne nouvelle pour les investissements en ETF (un type de fonds commun) qui ont augmenté de 15,1 millions."
 }
